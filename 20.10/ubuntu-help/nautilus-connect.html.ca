@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang=ca>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Navegar per fitxers en un servidor o en una xarxa compartida</title>
+<link rel="stylesheet" type="text/css" href="ca.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="files.html.ca" title="Fitxers, carpetes i cerca">Fitxers</a> › <a class="trail" href="files.html.ca#more-file-tasks" title="Més tasques relacionades amb fitxers">Més tasques relacionades amb fitxers</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxes, web i correu electrònic</a> » <a class="trail" href="sharing.html.ca" title="Compartició">Compartició</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Navegar per fitxers en un servidor o en una xarxa compartida</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Podeu connectar-vos a un servidor o compartir xarxa per explorar i visualitzar fitxers en aquest servidor, exactament com si estiguessin al vostre propi ordinador. Aquesta és una manera pràctica de descarregar o carregar fitxers a Internet o compartir fitxers amb altres persones a la vostra xarxa local.</p>
+<p class="p">Per explorar els fitxers a través de la xarxa, obriu l'aplicació <span class="app">Fitxers</span> des d'<span class="gui">Activitats</span>, i feu clic a <span class="gui">Altres ubicacions</span> a la barra lateral. El gestor de fitxers trobarà qualsevol ordinador a la vostra xarxa local que publiqui la seva capacitat de servir fitxers. Si voleu connectar-vos a un servidor d'Internet o si no veieu l'equip que esteu cercant, podeu connectar-vos-hi manualment escrivint la seva adreça d'internet / xarxa.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Connecta a un servidor de fitxers</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Al gestor de fitxers, feu clic <span class="gui">Altres ubicacions</span> a la barra lateral.</p></li>
+<li class="steps">
+<p class="p">A <span class="gui">Connecta a un Servidor</span>, introduïu l'adreça del servidor, en forma d'<span class="link"><a href="#urls" title="Escriure les URLs">URL</a></span>. Els detalls dels URL admesos s'<span class="link"><a href="#types" title="Tipus de servidor">enumeren a continuació</a></span>.</p>
+<div class="note" title="Nota">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si us heu connectat al servidor prèviament, podeu seleccionar-lo a la llista de <span class="gui">Servidors recents</span>.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Connecta</span>. Es mostraran els fitxers del servidor. Podeu navegar pels fitxers com si estiguéssiu al propi ordinador. El servidor s'afegirà a la barra lateral perquè pugui accedir-hi ràpidament en el futur.</p></li>
+</ol></div>
+</div></div>
+</div>
+<section id="urls"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Escriure les URLs</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Un <span class="em">URL</span>, o <span class="em">Uniform Resource Locator</span>, és una forma d'adreça que fa referència a una ubicació o fitxer en una xarxa. L'adreça està formada com a:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com/folder</span></p></div></div></div></div>
+<p class="p">L'<span class="em">esquema (protocol)</span> especifica el protocol o tipus de servidor. La porció d'adreça <span class="em">example.com</span> s'anomena <span class="em">nom del domini</span>. Si es requereix un nom d'usuari, s'insereix abans del nom del servidor:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://username@servername.example.com/folder</span></p></div></div></div></div>
+<p class="p">Alguns esquemes (protocols) requereixen que s'especifiqui el número de port. Inseriu-lo després del nom del domini:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com:port/folder</span></p></div></div></div></div>
+<p class="p">A continuació es mostren exemples específics per als diferents tipus de servidor admesos.</p>
+</div></div>
+</div></section><section id="types"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Tipus de servidor</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Podeu connectar-vos a diferents tipus de servidors. Alguns servidors són públics i permeten que tothom connecti. Altres servidors requereixen que inicieu sessió amb un nom d'usuari i contrasenya.</p>
+<p class="p">Podeu no tenir permisos per realitzar certes accions sobre fitxers en un servidor. Per exemple, en llocs FTP públics, probablement no podreu esborrar fitxers.</p>
+<p class="p">L'URL que introduïu depèn del protocol que el servidor utilitzi per exportar les seves accions sobre fitxers.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">SSH</dt>
+<dd class="terms">
+<p class="p">Si teniu un compte <span class="em">SSH</span> a un servidor, podeu connectar-vos mitjançant aquest mètode. Molts proveïdors d'allotjament web proporcionen comptes SSH als membres perquè pugin fitxers de manera segura. Els servidors SSH sempre requereixen un inici de sessió.</p>
+<p class="p">Un URL SSH normalment es mostra com:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
+<p class="p">Quan utilitzeu SSH, totes les dades que envieu (inclosa la vostra contrasenya) es xifren perquè els altres usuaris de la vostra xarxa no puguin veure-la.</p>
+</dd>
+<dt class="terms">FTP (amb usuari)</dt>
+<dd class="terms">
+<p class="p">FTP és una popular forma d'intercanviar fitxers a Internet. Com que les dades no es xifren sobre FTP, molts servidors proporcionen accés a través de SSH. Alguns servidors, tanmateix, encara permeten o requereixen que utilitzeu FTP per carregar o descarregar fitxers. Els llocs FTP amb inici de sessió normalment permeten eliminar i carregar fitxers.</p>
+<p class="p">Un URL FTP es mostra com:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://username@ftp.example.com/path/</span></p></div></div></div></div>
+</dd>
+<dt class="terms">FTP públic</dt>
+<dd class="terms">
+<p class="p">Els llocs que permeten descarregar fitxers a vegades ofereixen accés FTP públic o anònim. Aquests servidors no requereixen un nom d'usuari ni una contrasenya, i normalment no permeten que esborreu o carregueu fitxers.</p>
+<p class="p">Un URL d'un FTP anònim es mostra com:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.example.com/path/</span></p></div></div></div></div>
+<p class="p">Alguns llocs FTP anònims requereixen que inicieu sessió amb un nom d'usuari públic i contrasenya, o amb un nom d'usuari públic utilitzant la vostra adreça de correu electrònic com a contrasenya. Per a aquests servidors, utilitzeu el mètode <span class="gui">FTP (amb autentificació)</span>, i utilitzeu les credencials especificades pel lloc FTP.</p>
+</dd>
+<dt class="terms">Compartir finestra</dt>
+<dd class="terms">
+<p class="p">Els ordinadors Windows utilitzen un protocol propietari per compartir fitxers a través d'una xarxa d'àrea local. En algunes ocasions, els ordinadors d'una xarxa de Windows es troben agrupades en un <span class="em">domini</span> per a l'organització i per a controlar millor l'accés. Si teniu els permisos adequats a l'equip remot, podeu connectar-vos a un recurs de Windows des del gestor de fitxers.</p>
+<p class="p">Un URL típic per compartir de Windows es mostra així:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://servername/Share</span></p></div></div></div></div>
+</dd>
+<dt class="terms">WebDAV i WebDAV Segur</dt>
+<dd class="terms">
+<p class="p">Basat en el protocol HTTP utilitzat a la web, de vegades WebDAV s'utilitza per compartir fitxers en una xarxa local i per emmagatzemar fitxers a Internet. Si el servidor al qual us esteu connectant admet connexions segures, heu de triar aquesta opció. WebDAV segur, utilitza xifrat SSL fort, de manera que els altres usuaris no poden veure la vostra contrasenya.</p>
+<p class="p">Un URL WebDAV es mostra com:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
+</dd>
+<dt class="terms">Compartir NFS</dt>
+<dd class="terms">
+<p class="p">Els ordinadors UNIX tradicionalment utilitzen el protocol del sistema de fitxers de xarxa (NFS) per compartir fitxers a través d'una xarxa local. Amb NFS, la seguretat es basa en el UID de l'usuari que accedeix al recurs compartit, de manera que no es necessiten credencials d'autenticació quan es connecta.</p>
+<p class="p">Un URL típic de NFS per compartir és mostra com:</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://servername/path</span></p></div></div></div></div>
+</dd>
+</dl></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Més informació</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="sharing.html.ca" title="Compartició">Compartició</a><span class="desc"> — <span class="link"><a href="sharing-desktop.html.ca" title="Compartir l'escriptori">Compartir Escriptori</a></span>, <span class="link"><a href="files-share.html.ca" title="Compartir els fitxers per correu electrònic">Compartir fitxers per correu electrònic</a></span>, <span class="link"><a href="sharing-media.html.ca" title="Compartir la vostra música, fotografies i vídeos">Compartir fitxers multimèdia</a></span>…</span>
+</li>
+<li class="links "><a href="files.html.ca#more-file-tasks" title="Més tasques relacionades amb fitxers">Més tasques relacionades amb fitxers</a></li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vegeu també</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-share.html.ca" title="Compartir els fitxers per correu electrònic">Compartir els fitxers per correu electrònic</a><span class="desc"> — Transferiu fitxers fàcilment als vostres contactes de correu electrònic des del gestor de fitxers.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

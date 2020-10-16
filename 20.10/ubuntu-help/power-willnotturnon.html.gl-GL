@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang=gl-GL>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>O meu computador non arrinca</title>
+<link rel="stylesheet" type="text/css" href="gl.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="power.html.gl-GL#problems" title="Problemas">Problemas de enerxía</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.gl-GL" title="Guia do escritorio Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Axuda"></span></span> Guía do Escritorio do Ubuntu</a> » <a class="trail" href="hardware.html.gl-GL" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.gl-GL#problems" title="Problemas comúns">Problemas</a> » <a class="trail" href="hardware-problems-graphics.html.gl-GL" title="Problemas de pantalla">Problemas de pantalla</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">O meu computador non arrinca</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><p class="p">Hai varias raźons polas que o seu computador non se acenderá. Este tema da unha breve descrición dalgunhas das posíbeis razóns.</p></div>
+<section id="nopower"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Equipo non enchufado, batería sen carga ou cable solto</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Asegúrese que os cables de enerxía do seu computador están enchufados firmemente e as tomas de enerxía están activadas. Asegúrese que o monitor está conectado e acendido. Se ten un portátil, conecte o cable do cargador (no caso de que teña pouca batería). Tamén pode comprobar se a batería está axustada correctamente no lugar (comprobe a outra parte do seu portátil) se é remprazábel.</p></div></div>
+</div></section><section id="hardwareproblem"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Problema con un hardware do computador</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Un compoñente do seu computador pode estar danado ou ser defectuoso. Se este é o caso, terá que conseguir reparar o seu computador. Os fallos máis comuúns son unha fonte de alimentación rota, compoñenentes instalados incorrectamente (por exemplo a memoria/RAM) e unha placa nai defectuosa.</p></div></div>
+</div></section><section id="beeps"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">O computador pita e logo apágase</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Se o seu computador pita varias veces cando o acende e logo apágase (ou falla no inicio), pode indicar que detectou un problema. Estes pitidos coñécense normalmente como <span class="em">beep codes</span>, e o patrón dos pitidos están pensados para darlle información do problema que ten o computador. Os distintos fabricantes usan diferentes códigos de pitidos, polo que terá que consultar o manual da súa placa base, ou levar a reparar o seu computador.</p></div></div>
+</div></section><section id="fans"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Os ventiladores do computador xiran pero non aparece nada na pantalla</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">O primeiro que verificar é que o seu monitor estea conectado e acendido.</p>
+<p class="p">Pode que este problem se deba a un fallo de hardware. Os ventiladores poden acenderse ao presionar o botón de acendido, pero pode que outras partes esenciais do sistema non se acendan correctamente. Neste caso leve o seu computador ao servicio técnico.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Máis información</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="power.html.gl-GL#problems" title="Problemas">Problemas de enerxía</a><span class="desc"> — Resolución de problemas coa enerxía e baterías.</span>
+</li>
+<li class="links ">
+<a href="hardware-problems-graphics.html.gl-GL" title="Problemas de pantalla">Problemas de pantalla</a><span class="desc"> — Resolución de problemas de pantalla e gráficos.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang=pt>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Solucionador de problemas de rede sem fios</title>
+<link rel="stylesheet" type="text/css" href="pt.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="hardware.html.pt" title="Hardware e controladores">Hardware</a> › <a class="trail" href="hardware.html.pt#problems" title="Problemas comuns">Problemas</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="net.html.pt" title="Rede, weby e-mail">Rede, weby e-mail</a> » <a class="trail" href="net-wireless.html.pt" title="Wireless networking">Wireless networking</a> » <a class="trail" href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<nav class="prevnext pagewide"><div class="inner">
+<a href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Anterior</a><a href="net-wireless-troubleshooting-hardware-info.html.pt" title="Solucionador de problemas de rede sem fios">Seguinte</a>
+</div></nav><div class="hgroup pagewide">
+<h1 class="title"><span class="title">Solucionador de problemas de rede sem fios</span></h1>
+<h2 class="subtitle"><span class="subtitle">Realizar uma verificação inicial da conexão</span></h2>
+</div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">In this step you will check some basic information about your wireless
+  network connection. This is to make sure that your networking problem isn’t
+  caused by a relatively simple issue, like the wireless connection being
+  turned off, and to prepare for the next few troubleshooting steps.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Assegure-se que seu portátil não está ligado a uma conexão de Internet <span class="em">instalada</span>-</p></li>
+<li class="steps"><p class="p">Se tem um adaptador sem fios externo (como um adaptador sem fios USB ou um cartão PCMCIA ligada em seu portátil), se assegure de que está inserta na ranhura correta na computador.</p></li>
+<li class="steps"><p class="p">Se seu cartão sem fios está <span class="em">dentro</span> da sua computador, assegure-se que do interruptor do adaptador sem fios está aceso (se tem um). Os portáteis frequentemente têm interruptores que pode usar clicando uma combinação de teclas.</p></li>
+<li class="steps"><p class="p">Open the
+      <span class="gui"><a href="shell-introduction.html.pt#systemmenu" title="System menu">system menu</a></span> from the right
+      side of the top bar and select the Wi-Fi network, then select <span class="gui">Wi-Fi
+      Settings</span>. Make sure that the <span class="gui">Wi-Fi</span> switch is set to on.
+      You should also check that <span class="link"><a href="net-wireless-airplane.html.pt" title="Apagar o modo sem fios (modo avião)">Airplane
+      Mode</a></span> is <span class="em">not</span> switched on.</p></li>
+<li class="steps">
+<p class="p">Abra o terminal, introduza <span class="cmd">nmcli dispositivo</span> e carregue <span class="key"><kbd>Enter</kbd></span>.</p>
+<p class="p">Isto mostrará informação sobre susinterfaces de rede e o estado da conexão. Consulte na lista de informação se há uma seção relacionada com o adaptador de rede sem fios. Se o estado é <span class="code">conetado</span> na seção de seu adaptador sem fios, significa que está a funcionar e conetado a seu router sem fios.</p>
+</li>
+</ol></div></div></div>
+<p class="p">Se está ligado a seu router sem fios, mas segue sem poder aceder a Internet, a sua router pode estar mau configurado ou seu provedor de serviços de Internet (ISP) pode ter problemas técnicos. Reveja seu router e as guias de configuração da sua ISP, ou contate com o suporte de seu ISP.</p>
+<p class="p">Se a informação desde <span class="cmd">nmcli dispositivo</span> não indica que esteja conetado à rede, carregue <span class="gui">Seguinte</span> para continuar com a seguinte parte da guia de resolução de problemas.</p>
+</div>
+<nav class="prevnext pagewide"><div class="inner">
+<a href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Anterior</a><a href="net-wireless-troubleshooting-hardware-info.html.pt" title="Solucionador de problemas de rede sem fios">Seguinte</a>
+</div></nav><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informação</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-troubleshooting.html.pt" title="Solucionador de problemas de rede sem fios">Solucionador de problemas de rede sem fios</a><span class="desc"> — Identificar e arranjar problemas com conexões sem fios.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

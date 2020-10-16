@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Contas de usuários</title>
+<link rel="stylesheet" type="text/css" href="pt-BR.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Configurações</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Contas de usuários</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><p class="p">Cada pessoa que usa o computador deveria ter uma conta de usuário diferente. Isso permite que eles mantenham seus arquivos separados dos seus e que escolham suas próprias configurações. É também mais seguro. Você só pode acessar uma conta de usuário diferente se souber a senha.</p></div>
+<section id="manage"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Gerenciando contas de usuários</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="user-add.html.pt-BR" title="Adicionando uma nova conta de usuário"><span class="title">Adicionando uma nova conta de usuário</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione novos usuários para que outros possam iniciar sessão no computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-changepicture.html.pt-BR" title="Alterando a sua foto da tela de autenticação"><span class="title">Alterando a sua foto da tela de autenticação</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione sua foto à tela de usuário e de autenticação.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="user-delete.html.pt-BR" title="Excluindo uma conta de usuário"><span class="title">Excluindo uma conta de usuário</span><span class="linkdiv-dash"> — </span><span class="desc">Remova os usuários que não usam mais seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-autologin.html.pt-BR" title="Iniciando automaticamente a sessão"><span class="title">Iniciando automaticamente a sessão</span><span class="linkdiv-dash"> — </span><span class="desc">Configure o início automático de sessão para quando você ligar seu computador.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="passwords"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Senhas</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="user-changepassword.html.pt-BR" title="Alterando a sua senha"><span class="title">Alterando a sua senha</span><span class="linkdiv-dash"> — </span><span class="desc">Mantenha sua conta segura alterando sua senha frequentemente nas configurações da sua conta.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="user-goodpassword.html.pt-BR" title="Escolhendo uma senha segura"><span class="title">Escolhendo uma senha segura</span><span class="linkdiv-dash"> — </span><span class="desc">Use senhas mais longas e mais complicadas.</span></a></div></div>
+</div></div></div></div></div></div>
+</div></section><section id="privileges"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Privilégios de usuário</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="user-admin-change.html.pt-BR" title="Alterando quem tem privilégios administrativos"><span class="title">Alterando quem tem privilégios administrativos</span><span class="linkdiv-dash"> — </span><span class="desc">Você pode permitir que usuários façam alterações no sistema, dando-lhes privilégios administrativos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?"><span class="title">Como funcionam os privilégios administrativos?</span><span class="linkdiv-dash"> — </span><span class="desc">Você precisa de privilégios administrativos para alterar partes importantes do seu sistema.</span></a></div>
+</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="user-admin-problems.html.pt-BR" title="Problemas causados por restrições administrativas"><span class="title">Problemas causados por restrições administrativas</span><span class="linkdiv-dash"> — </span><span class="desc">Você só pode fazer algumas coisas, como instalar aplicativos, apenas se tiver privilégios administrativos.</span></a></div></div>
+</div></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informações</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="prefs.html.pt-BR" title="Usuário &amp; configurações do sistema">Usuário &amp; configurações do sistema</a><span class="desc"> — <span class="link"><a href="keyboard.html.pt-BR" title="Teclado">Teclado</a></span>, <span class="link"><a href="mouse.html.pt-BR" title="Mouse, touchpad &amp; touchscreen">mouse &amp; touchpad</a></span>, <span class="link"><a href="prefs-display.html.pt-BR" title="Monitor &amp; tela">monitor</a></span>, <span class="link"><a href="prefs-language.html.pt-BR" title="Região &amp; idioma">idiomas</a></span>, <span class="link"><a href="user-accounts.html.pt-BR" title="Contas de usuários">contas de usuários</a></span>…</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

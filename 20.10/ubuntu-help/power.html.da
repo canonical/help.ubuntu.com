@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang=da>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Strøm &amp; batteri</title>
+<link rel="stylesheet" type="text/css" href="da.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Strøm &amp; batteri</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.da" title="Tjek batteriets status"><span class="title">Tjek batteriets status</span><span class="linkdiv-dash"> — </span><span class="desc">Display the status of the battery and connected devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.da" title="Brug mindre strøm og forbedr batteriets levetid"><span class="title">Brug mindre strøm og forbedr batteriets levetid</span><span class="linkdiv-dash"> — </span><span class="desc">Tips til at reducere din computers strømforbrug.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.da" title="Få mest ud af batteriet i din bærbare"><span class="title">Få mest ud af batteriet i din bærbare</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.da" title="Hvad sker der når jeg sætter min computer i hviletilstand?"><span class="title">Hvad sker der når jeg sætter min computer i hviletilstand?</span><span class="linkdiv-dash"> — </span><span class="desc">Hviletilstand får din computer til at sove, så den bruger mindre strøm.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.da" title="Hvorfor slukker min computer når jeg lukker låget?"><span class="title">Hvorfor slukker min computer når jeg lukker låget?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptops go to sleep when you close the lid, in order to save
+    power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.da" title="Log ud, sluk eller skift bruger"><span class="title">Log ud, sluk eller skift bruger</span><span class="linkdiv-dash"> — </span><span class="desc">Læs om at forlade din brugerkonto ved at logge ud, skifte bruger osv.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.da" title="Sluk for trådløse teknologier der ikke bruges"><span class="title">Sluk for trådløse teknologier der ikke bruges</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+</div>
+</div></div></div></div></div>
+<section id="saving"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Power saving settings</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.da" title="Aktivér automatisk lysstyrke"><span class="title">Aktivér automatisk lysstyrke</span><span class="linkdiv-dash"> — </span><span class="desc">Automatically control screen brightness to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.da" title="Hvorfor nedtones min skærm efter noget tid?"><span class="title">Hvorfor nedtones min skærm efter noget tid?</span><span class="linkdiv-dash"> — </span><span class="desc">The screen will dim when the computer is idle in order to save power.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.da" title="Indstil tiden for sort skærm"><span class="title">Indstil tiden for sort skærm</span><span class="linkdiv-dash"> — </span><span class="desc">Change the screen blanking time to save power.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.da" title="Opsæt automatisk hviletilstand"><span class="title">Opsæt automatisk hviletilstand</span><span class="linkdiv-dash"> — </span><span class="desc">Konfigurer din computer, så den automatisk går i hviletilstand.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="faq"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Spørgsmål</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.da" title="Den anslåede levetid for batteriet er forkert"><span class="title">Den anslåede levetid for batteriet er forkert</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.da" title="Hvorfor er min bærbare langsom når den bruger batteri?"><span class="title">Hvorfor er min bærbare langsom når den bruger batteri?</span><span class="linkdiv-dash"> — </span><span class="desc">Some laptops intentionally slow down when they are running on battery.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.da" title="Hvorfor har jeg mindre batterilevetid end da jeg brugte Windows/Mac OS?"><span class="title">Hvorfor har jeg mindre batterilevetid end da jeg brugte Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks from the manufacturer and differing battery life estimates may
+    be the cause of this problem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.da" title="Hvorfor slukkede min computer da batteriet var på 10 %?"><span class="title">Hvorfor slukkede min computer da batteriet var på 10 %?</span><span class="linkdiv-dash"> — </span><span class="desc">Allowing the battery to completely discharge is bad for it.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="problems"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Problemer</span></h2></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.da" title="Blæseren i den bærbare kører altid"><span class="title">Blæseren i den bærbare kører altid</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
+    running hot.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.da" title="Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?"><span class="title">Hvorfor tænder min computer ikke efter jeg har sat den i hviletilstand?</span><span class="linkdiv-dash"> — </span><span class="desc">Some computer hardware causes problems with suspend.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.da" title="Jeg har ikke noget trådløst netværk når jeg vækker computeren"><span class="title">Jeg har ikke noget trådløst netværk når jeg vækker computeren</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
+    suspended and does not resume properly.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.da" title="Min computer bliver meget varm"><span class="title">Min computer bliver meget varm</span><span class="linkdiv-dash"> — </span><span class="desc">Computers usually get warm, but if they get too hot they can overheat, which can be damaging.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.da" title="Min computer tænder ikke"><span class="title">Min computer tænder ikke</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.da" title="Virker min computer med en strømforsyning fra et andet land?"><span class="title">Virker min computer med en strømforsyning fra et andet land?</span><span class="linkdiv-dash"> — </span><span class="desc">Your computer will work, but you might need a different power cable or
+    a travel adapter.</span></a></div>
+</div>
+</div></div></div></div></div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h3><span class="title">Flere oplysninger</span></h3></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Bruger- &amp; systemindstillinger</a><span class="desc"> — <span class="link"><a href="keyboard.html.da" title="Tastatur">Tastatur</a></span>, <span class="link"><a href="mouse.html.da" title="Mouse, Touchpad &amp; Touchscreen">mus &amp; pegeplade</a></span>, <span class="link"><a href="prefs-display.html.da" title="Visning &amp; skærm">skærm</a></span>, <span class="link"><a href="prefs-language.html.da" title="Region &amp; sprog">sprog</a></span>, <span class="link"><a href="user-accounts.html.da" title="Brugerkonti">brugerkonti</a></span> …</span>
+</li>
+<li class="links ">
+<a href="hardware.html.da" title="Hardware &amp; drivere">Hardware &amp; drivere</a><span class="desc"> — <span class="link"><a href="hardware.html.da#problems" title="Almindelige problemer">Hardwareproblemer</a></span>, <span class="link"><a href="printing.html.da" title="Udskrivning">printere</a></span>, <span class="link"><a href="power.html.da" title="Strøm &amp; batteri">strømindstillinger</a></span>, <span class="link"><a href="color.html.da" title="Farvestyring">farvestyring</a></span>, <span class="link"><a href="bluetooth.html.da" title="Bluetooth">Bluetooth</a></span>, <span class="link"><a href="disk.html.da" title="Diske &amp; lager">diske</a></span> …</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang=ca>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Per què el meu ordinador s'apaga quan tanco la tapa?</title>
+<link rel="stylesheet" type="text/css" href="ca.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="prefs.html.ca" title="Usuari i configuració del sistema">Configuració</a> » <a class="trail" href="power.html.ca" title="Energia i bateria">Energia i bateria</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 20.10</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="hardware.html.ca" title="Maquinari i controladors">Maquinari</a> » <a class="trail" href="power.html.ca" title="Energia i bateria">Energia i bateria</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Per què el meu ordinador s'apaga quan tanco la tapa?</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Quan tanqueu la tapa del portàtil, l'ordinador ho entrarà en <span class="link"><a href="power-suspend.html.ca" title="Què passa quan es suspèn el meu ordinador?"><span class="em">suspensió</span></a></span> per a estalviar energia. Això significa que l'ordinador no està desactivat. Acaba d'adormir-se. Podeu recuperar-lo obrint la tapa. Si no es recupera, feu clic al ratolí o premeu una tecla. Si això encara no és suficient, premeu el botó d'engegada.</p>
+<p class="p">Alguns ordinadors no poden entrar en suspensió correctament, normalment perquè el seu maquinari no està totalment suportat pel seu sistema operatiu (per exemple, els controladors de Linux estan incomplets). En aquest cas, us podeu trobar que no podeu recuperar l'ordinador després d'haver tancat la tapa. Podeu intentar <span class="link"><a href="power-suspendfail.html.ca" title="Per què el meu equip no es torna a activar després d'haver-lo suspès?">solucionar el problema amb la suspensió</a></span>, o pot evitar que l'ordinador intenti suspendre's quan tanqui la tapa.</p>
+</div>
+<section id="nosuspend"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Fer que l'ordinador no entri en suspensió quan es tanqui la tapa</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="note note-important" title="Important">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Aquestes instruccions només funcionaran si esteu utilitzant <span class="app">systemd</span>. Contacteu amb la vostra distribució per a obtenir més informació.</p></div></div></div>
+</div>
+<div class="note note-important" title="Important">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
+</svg><div class="inner"><div class="region"><div class="contents">
+<p class="p">Heu de tenir instal·lat <span class="app">Ajustaments</span> a l'ordinador per a canviar aquesta configuració.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-tweaks" title="apt:gnome-tweaks">Instal·la <span class="app">Ajustaments</span></a></span></p>
+</div></div></div>
+</div>
+<p class="p">Si no voleu que l'ordinador entri en suspensió quan es tanqui la tapa, podeu canviar la configuració.</p>
+<div class="note note-warning" title="Atenció">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Tingueu molta cura si canvieu aquesta configuració. Alguns ordinadors portàtils poden sobreescalfar-se si es deixen corrent amb la tapa tancada, especialment si estan en un lloc tancat com una motxilla.</p></div></div></div>
+</div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a escriure <span class="gui">Ajustaments</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Ajustaments</span> per a obrir l'aplicació.</p></li>
+<li class="steps"><p class="p">Seleccioneu la pestanya <span class="gui">General</span>.</p></li>
+<li class="steps"><p class="p">Canvieu <span class="gui">Suspendre quan es tanqui la tapa del portàtil</span> a <span class="gui">OFF</span>.</p></li>
+<li class="steps"><p class="p">Tanqueu la finestra <span class="gui">Ajustaments</span>.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Més informació</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="power.html.ca" title="Energia i bateria">Energia i bateria</a><span class="desc"> — <span class="link"><a href="power-status.html.ca" title="Comprovar l'estat de la bateria">Estat de la bateria</a></span>, <span class="link"><a href="power-suspend.html.ca" title="Què passa quan es suspèn el meu ordinador?">en suspensió</a></span>, <span class="link"><a href="power-whydim.html.ca" title="Per què s'enfosqueix la pantalla després d'una estona?">atenuació de la pantalla</a></span>…</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vegeu també</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="power-suspendfail.html.ca" title="Per què el meu equip no es torna a activar després d'haver-lo suspès?">Per què el meu equip no es torna a activar després d'haver-lo suspès?</a><span class="desc"> — Alguns maquinari de l'ordinador provoquen problemes amb la suspensió.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.ca" title="Què passa quan es suspèn el meu ordinador?">Què passa quan es suspèn el meu ordinador?</a><span class="desc"> — La suspensió envia el vostre ordinador a dormir el que fa servir menys energia.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

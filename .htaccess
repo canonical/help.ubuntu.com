@@ -46,7 +46,6 @@ RedirectMatch permanent ^/(stable|lts|\d+\.\d+)/?(index\.html)?$ https://help.ub
 RedirectMatch permanent ^/18\.04/(serverguide/.+\.html)\..* /$1/$2
 
 # Redirects for installer pages
-Redirect /rst https://discourse.ubuntu.com/t/ubuntu-installation-on-computers-with-intel-r-rst-enabled/15347
 Redirect /bitlocker https://discourse.ubuntu.com/t/ubuntu-installation-on-computers-running-windows-and-bitlocker-turned-on/15338
 Redirect /activedirectory https://ubuntu.com/server/docs/service-sssd
 

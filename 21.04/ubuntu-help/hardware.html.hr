@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang=hr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Hardver i upravljački programi</title>
+<link rel="stylesheet" type="text/css" href="hr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu vodič radne površine"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoć"></span></span> Ubuntu vodič radne površine</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Hardver i upravljački programi</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="links-grid-container">
+<div class="links-grid ">
+<div class="links-grid-link"><a href="bluetooth.html.hr" title="Bluetooth">Bluetooth</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="bluetooth-connect-device.html.hr" title="Connect your computer to a Bluetooth device">Connect</a></span>,
+      <span class="link"><a href="bluetooth-send-file.html.hr" title="Send files to a Bluetooth device">send files</a></span>,
+      <span class="link"><a href="bluetooth-turn-on-off.html.hr" title="Turn Bluetooth on or off">turn on and off</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="color.html.hr" title="Color management">Color management</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="color-whyimportant.html.hr" title="Why is color management important?">Why is this important</a></span>,
+      <span class="link"><a href="color.html.hr#profiles" title="Color profiles">Color profiles</a></span>,
+      <span class="link"><a href="color.html.hr#calibration" title="Kalibracija">How to calibrate a device</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="disk.html.hr" title="Disks &amp; storage">Disks &amp; storage</a></div>
+<div class="desc"><span class="desc">
+    <span class="link"><a href="disk-capacity.html.hr" title="Check how much disk space is left">Disk space</a></span>,
+    <span class="link"><a href="disk-benchmark.html.hr" title="Test the performance of your hard disk">performance</a></span>,
+    <span class="link"><a href="disk-check.html.hr" title="Check your hard disk for problems">problems</a></span>,
+    <span class="link"><a href="disk-partitions.html.hr" title="Manage volumes and partitions">volumes and partitions</a></span>…
+  </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="hardware-auth.html.hr" title="Fingerprints &amp; smart cards">Fingerprints &amp; smart cards</a></div>
+<div class="desc"><span class="desc">
+    <span class="link"><a href="session-fingerprint.html.hr" title="Log in with a fingerprint">Fingerprint readers</a></span>,
+
+    smart cards…
+  </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="printing.html.hr" title="Ispisivanje">Ispisivanje</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="printing-setup.html.hr" title="Set up a local printer">Local setup</a></span>,
+      
+      <span class="link"><a href="printing-order.html.hr" title="Make pages print in a different order">order and collate</a></span>,
+      <span class="link"><a href="printing-2sided.html.hr" title="Print two-sided and multi-page layouts">two-sided and multi-page</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="mouse.html.hr" title="Mouse, Touchpad &amp; Touchscreen">Mouse, Touchpad &amp; Touchscreen</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="mouse-lefthanded.html.hr" title="Use your mouse left-handed">Left-handed</a></span>,
+      <span class="link"><a href="mouse-sensitivity.html.hr" title="Adjust the speed of the mouse and touchpad">speed and sensitivity</a></span>,
+      <span class="link"><a href="mouse-touchpad-click.html.hr" title="Click, drag, or scroll with the touchpad">touchpad clicking and scrolling</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="power.html.hr" title="Power &amp; battery">Power &amp; battery</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="power-status.html.hr" title="Check the battery status">Battery status</a></span>,
+      <span class="link"><a href="power-suspend.html.hr" title="What happens when I suspend my computer?">suspend</a></span>,
+      <span class="link"><a href="power-whydim.html.hr" title="Why does my screen go dim after a while?">screen dimming</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="keyboard.html.hr" title="Tipkovnica">Tipkovnica</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="keyboard-layouts.html.hr" title="Korištenje alternativnih rasporeda tipkovnice">Keyboard layouts</a></span>,
+      <span class="link"><a href="keyboard-cursor-blink.html.hr" title="Make the keyboard cursor blink">cursor blinking</a></span>,
+      <span class="link"><a href="a11y.html.hr#mobility" title="Mobility impairments">keyboard accessibility</a></span>…
+    </span></div>
+</div>
+<div class="links-grid ">
+<div class="links-grid-link"><a href="wacom.html.hr" title="Wacom grafički tablet">Wacom grafički tablet</a></div>
+<div class="desc"><span class="desc">
+      <span class="link"><a href="wacom-multi-monitor.html.hr" title="Choose a monitor">Map a monitor</a></span>,
+      <span class="link"><a href="wacom-stylus.html.hr" title="Configure the stylus">configure the stylus</a></span>,
+      <span class="link"><a href="wacom-left-handed.html.hr" title="Use the tablet left-handed">use the tablet left handed</a></span>…
+  </span></div>
+</div>
+<div class="links-grid"></div>
+<div class="links-grid"></div>
+</div></div></div></div>
+<div class="links topiclinks"><div class="inner">
+<div class="title title-links"><h2><span class="title">Više tema</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="hardware-driver.html.hr" title="What is a driver?">What is a driver?</a><span class="desc"> — A hardware/device driver allows your computer to use devices that are
+    attached to it.</span>
+</li></ul></div>
+</div></div>
+</div>
+<section id="problems"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Common problems</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="bluetooth.html.hr#problems" title="Problems">Bluetooth problems</a></li>
+<li class="links ">
+<a href="hardware-cardreader.html.hr" title="Media card reader problems">Media card reader problems</a><span class="desc"> — Troubleshoot media card readers.</span>
+</li>
+<li class="links ">
+<a href="power.html.hr#problems" title="Problems">Power problems</a><span class="desc"> — Troubleshoot problems with power and batteries.</span>
+</li>
+<li class="links ">
+<a href="printing.html.hr#problems" title="Printer problems">Printer problems</a><span class="desc"> — Undetected printers, paper jams, print-outs that look wrong…</span>
+</li>
+<li class="links ">
+<a href="hardware-problems-graphics.html.hr" title="Screen problems">Screen problems</a><span class="desc"> — 
+      Troubleshoot screen and graphics problems.
+    </span>
+</li>
+<li class="links ">
+<a href="sound-broken.html.hr" title="Sound problems">Sound problems</a><span class="desc"> — Troubleshoot problems like having no sound or having poor sound
+    quality.</span>
+</li>
+<li class="links ">
+<a href="net-wireless-troubleshooting.html.hr" title="Wireless network troubleshooter">Wireless network troubleshooter</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+</li>
+</ul></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Više informacija</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.hr" title="Ubuntu vodič radne površine">Ubuntu vodič radne površine</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

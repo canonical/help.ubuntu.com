@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.ta" title="கோப்புகள், கோப்புறைகள் மற்றும் தேடல்">கோப்புகள்</a> › <a class="trail" href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">மற்ற பயன்பாடுகளைக் கொண்டு கோப்புகளைத் திறக்கவும்</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">When you double-click (or middle-click) a file in the file manager, it
+  will be opened with the default application for that file type. You can open
+  it in a different application, search online for applications, or set the
+  default application for all files of the same type.</p>
+<p class="p">To open a file with an application other than the default, right-click
+  the file and select the application you want from the top of the menu. If
+  you do not see the application you want, select <span class="gui">Open With Other
+  Application</span>. By default, the file manager only shows applications that
+  are known to handle the file. To look through all the applications on your
+  computer, click <span class="gui">View All Applications</span>.</p>
+<p class="p">If you still cannot find the application you want, you can search for
+more applications by clicking <span class="gui">Find New Applications</span>. The
+file manager will search online for packages containing applications
+that are known to handle files of that type.</p>
+</div>
+<section id="default"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">முன்னிருப்பு பயன்பாட்டை மாற்றுதல்</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">ஒரு குறிப்பிட்ட வகை கோப்புகளைத் திறக்க பயன்படும் முன்னிருப்பு பயன்பாட்டை நீங்கள் மாற்ற முடியும். இதன் மூலம் நீங்கள் ஒரு கோப்பை திறக்க இரு சொடுக்கும் போது நீங்கள் விரும்பும் பயன்பாட்டால் அது திறக்கப்படும். உதாரணமாக, நீங்கள் ஒரு MP3 கோப்பை இரு சொடுக்கும் போது உங்கள் பிடித்தமான இசை பிளேயரே அதைத் திறக்க வேண்டும் என நீங்கள் அமைக்க விரும்பலாம்.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">நீங்கள் முன்னிருப்பு பயன்பாட்டை மாற்ற விரும்பும் வகை கொண்ட ஒரு கோப்பை தேர்ந்தெடுக்கவும். உதாரணமாக, MP3 கோப்புகளைத் திறக்க பயன்படுத்தப்படும் பயன்பாட்டை மாற்ற ஒரு <span class="file">.mp3</span> கோப்பைபத் தேர்ந்தெடுக்கவும்.</p></li>
+<li class="steps"><p class="p">கோப்பை வலது சொடுக்கம் செய்து, <span class="gui">பண்புகள்</span> -ஐத் தேர்ந்தெடுக்கவும்.</p></li>
+<li class="steps"><p class="p"><span class="gui">இதைக் கொண்டு திற</span> தாவலைத் தேர்ந்தெடுக்கவும்.</p></li>
+<li class="steps">
+<p class="p">Select the application you want and click
+    <span class="gui">Set as default</span>.</p>
+<p class="p">If <span class="gui">Other Applications</span> contains an application you sometimes
+    want to use, but do not want to make the default, select that application
+    and click <span class="gui">Add</span>. This will add it to <span class="gui">Recommended
+    Applications</span>. You will then be able to use this application by
+    right-clicking the file and selecting it from the list.</p>
+</li>
+</ol></div></div></div>
+<p class="p">இப்படி செய்வதால், தேர்ந்தெடுக்கப்பட்ட கோப்புக்கான முன்னிருப்பு பயன்பாடு மட்டுமல்லாமல் அந்த வகை கோப்புகள் அனைத்துக்குமான முன்னிருப்பு பயன்பாடும் மாற்றப்படுகிறது.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.ta#more-file-tasks" title="More file-related tasks">More file-related tasks</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

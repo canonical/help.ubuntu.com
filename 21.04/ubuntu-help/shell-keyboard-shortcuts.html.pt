@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html lang=pt>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Atalhos de teclado úteis</title>
+<link rel="stylesheet" type="text/css" href="pt.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="shell-overview.html.pt" title="Seu ambiente">Área de trabalho</a> › <a class="trail" href="shell-overview.html.pt#apps" title="Aplicativos e janelas">Aplicativos e janelas</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="prefs.html.pt" title="Usuário &amp; configurações do sistema">Configurações</a> » <a class="trail" href="keyboard.html.pt" title="Teclado">Teclado</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="tips.html.pt" title="Dicas &amp; truques">Dicas &amp; truques</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.pt" title="Guia do Ambiente de Trabalho Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia do ambiente de trabalho Ubuntu</a> » <a class="trail" href="hardware.html.pt" title="Hardwares &amp; drivers">Hardware</a> » <a class="trail" href="keyboard.html.pt" title="Teclado">Teclado</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Atalhos de teclado úteis</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Essa página fornece uma visão geral dos atalhos que podem lhe ajudar a usar seu ambiente e aplicativos de forma mais eficiente. Se você não conseguir usar um mouse ou dispositivo de apontamento, veja <span class="link"><a href="keyboard-nav.html.pt" title="Navegação do teclado">Navegação do teclado</a></span> para mais informações sobre navegação em interfaces de usuário com apenas o teclado.</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Conhecendo o ambiente</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> ou a</p>
+<p class="p">tecla <span class="key"><a href="keyboard-key-super.html.pt" title="O que é a tecla Super?"><kbd>Super</kbd></a></span></p>
+</td>
+<td><p class="p">Alterna entre o panorama de <span class="gui">Atividades</span> e a área de trabalho. No panorama, comece a digitar para pesquisar instantaneamente seus aplicativos, contatos e documentos.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Faz surgir a janela de comando (para executar rapidamente comandos).</p>
+<p class="p">Usa as teclas de setas para acessar rapidamente comandos executados previamente.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.pt" title="Alternando entre janelas">Alterna rapidamente entre janelas</a></span>. Mantenha o <span class="key"><kbd>Shift</kbd></span> pressionado para uma ordem reversa de alternância.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Alterna entre janelas do mesmo aplicativo ou do aplicativo selecionado depois após <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
+<p class="p">Este atalho usa <span class="key"><kbd>`</kbd></span> em teclados americanos, sendo que a tecla <span class="key"><kbd>`</kbd></span> está sobre o <span class="key"><kbd>Tab</kbd></span>. Em todos os outros teclados, o atalho é <span class="key"><kbd>Super</kbd></span> mais a tecla que estiver sobre o <span class="key"><kbd>Tab</kbd></span>.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Alterna rapidamente entre janelas no espaço de trabalho atual. Mantenha o <span class="key"><kbd>Shift</kbd></span> pressionado para uma ordem reversa.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Dá ao teclado o foco na barra superior. No panorama de <span class="gui">Atividades</span>, alterna o foco do teclado entre a barra superior, o dash, o panorama de janelas, a lista de aplicativos e o campo de pesquisa. Use as teclas de setas para navegar.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Mostra a lista de aplicativos.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">e</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.pt" title="Alternando entre espaços de trabalho">Alterna entre espaços de trabalho</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">e</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.pt" title="Movendo uma janela para um espaço de trabalho diferente">Move a janela atual para um espaço de trabalho diferente</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Move a janela atual um monitor à esquerda.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Move a janela atual um monitor à esquerda.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.pt#logout" title="Encerrar sessão ou alternar usuários">Mostra o diálogo de desligar / reiniciar</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.pt#lock-screen" title="Bloquear a tela">Bloqueia o ecrã.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Mostra <span class="link"><a href="shell-notifications.html.pt#notificationlist" title="A lista de notificação">a lista de notificação</a></span>. Pressione <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> novamente ou <span class="key"><kbd>Esc</kbd></span> para fechar.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Atalhos comuns para edição</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td><p class="p">Seleciona todo o texto ou todos os itens em uma lista.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Recorta (remove) o texto selecionado ou os itens e coloca-os na área de transferência.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Copia o texto selecionado ou os itens para a área de transferência.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Cola o conteúdo da área de transferência.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Desfaz a última ação.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Capturando a tela</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>Prnt Scrn</kbd></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.pt#screenshot" title="Capturar uma imagem da tela">Faz uma captura de tela.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.pt#screenshot" title="Capturar uma imagem da tela">Faz uma captura de uma janela.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Prnt Scrn</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.pt#screenshot" title="Capturar uma imagem da tela">Faça uma captura de uma área da tela.</a></span> O ponteiro torna-se uma mira. Clique e arraste para selecionar uma área.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.pt#screencast" title="Realizar uma gravação de tela">Inicia e finaliza uma gravação de tela.</a></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informação</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="shell-overview.html.pt#apps" title="Aplicativos e janelas">Aplicativos e janelas</a></li>
+<li class="links ">
+<a href="tips.html.pt" title="Dicas &amp; truques">Dicas &amp; truques</a><span class="desc"> — <span class="link"><a href="tips-specialchars.html.pt" title="Inserindo caracteres especiais">Caracteres especiais</a></span>, <span class="link"><a href="mouse-middleclick.html.pt" title="Clique com o botão do meio">atalhos com clique do meio</a></span>…</span>
+</li>
+<li class="links ">
+<a href="keyboard.html.pt" title="Teclado">Teclado</a><span class="desc"> — <span class="link"><a href="keyboard-layouts.html.pt" title="Usando disposições alternativas de teclado">Disposições de teclado</a></span>, <span class="link"><a href="keyboard-cursor-blink.html.pt" title="Fazendo o cursor de teclado piscar">cursor intermitente</a></span>, <span class="link"><a href="a11y.html.pt#mobility" title="Deficiências motoras">acessibilidade no teclado</a></span>…</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Consulte também</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-shortcuts-set.html.pt" title="Configurando atalhos de teclado">Configurando atalhos de teclado</a><span class="desc"> — Defina e altere atalhos de teclado nas configurações de <span class="gui">Teclado</span>.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html.pt" title="Navegação do teclado">Navegação do teclado</a><span class="desc"> — Use aplicativos e a área de trabalho sem um mouse.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-menu.html.pt" title="O que é a tecla Menu?">O que é a tecla <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — A tecla <span class="key"><kbd>Menu</kbd></span> chama um menu de contexto com o teclado em vez de um com clique no botão direito do mouse.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-super.html.pt" title="O que é a tecla Super?">O que é a tecla <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — A tecla <span class="key"><kbd>Super</kbd></span> abre o panorama de <span class="gui">Atividades</span>. Ela normalmente fica próxima à tecla <span class="key"><kbd>Alt</kbd></span> do seu teclado.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

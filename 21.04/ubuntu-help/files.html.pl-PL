@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang=pl-PL>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Pliki, katalogi i wyszukiwanie</title>
+<link rel="stylesheet" type="text/css" href="pl.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pomoc"></span></span> Podręcznik pulpitu Ubuntu</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Pliki, katalogi i wyszukiwanie</span></h1></div>
+<div class="region">
+<div class="contents pagewide"></div>
+<section id="common-file-tasks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Często wykonywane zadania</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.pl-PL" title="Kopiowanie i przenoszenie plików i katalogów"><span class="title">Kopiowanie i przenoszenie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Kopiowanie i przenoszenie elementów do nowego katalogu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.pl-PL" title="Podgląd plików i katalogów"><span class="title">Podgląd plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Szybkie wyświetlanie i ukrywanie podglądu dokumentów, obrazów, filmów i nie tylko.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.pl-PL" title="Porządkowanie plików i katalogów"><span class="title">Porządkowanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Porządkowanie plików według nazw, rozmiaru, typu i daty modyfikacji.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.pl-PL" title="Przeglądanie plików i katalogów"><span class="title">Przeglądanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Zarządzanie i organizowanie plików za pomocą menedżera plików.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów"><span class="title">Usuwanie plików i katalogów</span><span class="linkdiv-dash"> — </span><span class="desc">Usuwanie niepotrzebnych plików i katalogów.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.pl-PL" title="Wyszukiwanie plików"><span class="title">Wyszukiwanie plików</span><span class="linkdiv-dash"> — </span><span class="desc">Wyszukiwanie plików na podstawie ich nazw i typów.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.pl-PL" title="Zmiana nazwy pliku lub katalogu"><span class="title">Zmiana nazwy pliku lub katalogu</span><span class="linkdiv-dash"> — </span><span class="desc">Zmiana nazwy pliku lub katalogu.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="more-file-tasks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Inne zadania związane z plikami</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.pl-PL" title="Otwieranie plików w innych programach"><span class="title">Otwieranie plików w innych programach</span><span class="linkdiv-dash"> — </span><span class="desc">Otwieranie plików za pomocą programu, który nie jest domyślny dla tego typu. Można także zmienić domyślny program.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.pl-PL" title="Preferencje menedżera plików"><span class="title">Preferencje menedżera plików</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie i ustawianie preferencji menedżera plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.pl-PL" title="Przeglądanie plików na serwerze lub udziale sieciowym"><span class="title">Przeglądanie plików na serwerze lub udziale sieciowym</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie i modyfikowanie plików na innym komputerze przez FTP, SSH, zasoby Windows lub WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza"><span class="title">Przywracanie pliku z Kosza</span><span class="linkdiv-dash"> — </span><span class="desc">Usunięte pliki są zwykle wysyłane do Kosza, ale można je odzyskać.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.pl-PL" title="Usuwanie plików w koszu i plików tymczasowych"><span class="title">Usuwanie plików w koszu i plików tymczasowych</span><span class="linkdiv-dash"> — </span><span class="desc">Ustawianie, jak często pliki w koszu i pliki tymczasowe są usuwane z komputera.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.pl-PL" title="Wysyłanie plików pocztą"><span class="title">Wysyłanie plików pocztą</span><span class="linkdiv-dash"> — </span><span class="desc">Łatwe przesyłanie plików do kontaktów e-mail z menedżera plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.pl-PL" title="Wyszukiwanie zgubionego pliku"><span class="title">Wyszukiwanie zgubionego pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Wskazówki co robić, jeśli nie można odnaleźć utworzonego lub pobranego pliku.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.pl-PL" title="Wyłączanie lub ograniczanie śledzenia historii plików"><span class="title">Wyłączanie lub ograniczanie śledzenia historii plików</span><span class="linkdiv-dash"> — </span><span class="desc">Zatrzymywanie lub ograniczanie śledzenia ostatnio używanych plików przez komputer.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.pl-PL" title="Właściwości pliku"><span class="title">Właściwości pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Wyświetlanie podstawowych informacji o pliku, ustawianie uprawnień i wybieranie domyślnych programów.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.pl-PL" title="Zapisywanie plików na płycie CD lub DVD"><span class="title">Zapisywanie plików na płycie CD lub DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Umieszczanie plików i dokumentów na pustej płycie CD lub DVD za pomocą nagrywarki.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="removable"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Nośniki wymienne i dyski zewnętrzne</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.pl-PL" title="Bezpieczne usuwanie zewnętrznego dysku"><span class="title">Bezpieczne usuwanie zewnętrznego dysku</span><span class="linkdiv-dash"> — </span><span class="desc">Wysuwanie lub odmontowywanie dysku USB, płyty CD i DVD lub innego urządzenia.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pl-PL" title="Otwieranie programów dla urządzeń i płyt"><span class="title">Otwieranie programów dla urządzeń i płyt</span><span class="linkdiv-dash"> — </span><span class="desc">Automatyczne uruchamianie programów dla płyt CD/DVD, aparatów, odtwarzaczy muzyki i innych urządzeń i nośników.</span></a></div></div>
+</div></div></div></div></div></div>
+</div></section><section id="backup"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Kopie zapasowe</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.pl-PL" title="Częstość kopii zapasowych"><span class="title">Częstość kopii zapasowych</span><span class="linkdiv-dash"> — </span><span class="desc">Jak często wykonywać kopię zapasową ważnych plików, aby zapewnić ich bezpieczeństwo.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.pl-PL" title="Gdzie mogę znaleźć pliki do zachowania w kopii zapasowej?"><span class="title">Gdzie mogę znaleźć pliki do zachowania w kopii zapasowej?</span><span class="linkdiv-dash"> — </span><span class="desc">Lista katalogów, w których można odnaleźć dokumenty, pliki i ustawienia warte zachowania.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.pl-PL" title="Przywracanie kopii zapasowej"><span class="title">Przywracanie kopii zapasowej</span><span class="linkdiv-dash"> — </span><span class="desc">Przywracanie plików z kopii zapasowej.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.pl-PL" title="Sprawdzanie kopii zapasowej"><span class="title">Sprawdzanie kopii zapasowej</span><span class="linkdiv-dash"> — </span><span class="desc">Sprawdzanie poprawności kopii zapasowej.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.pl-PL" title="Tworzenie kopii zapasowych ważnych plików"><span class="title">Tworzenie kopii zapasowych ważnych plików</span><span class="linkdiv-dash"> — </span><span class="desc">Dlaczego, co, gdzie i jak robić kopie zapasowe.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="faq"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Wskazówki i pytania</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.pl-PL" title="Czym są pliki ze znakiem ~ na końcu ich nazw?"><span class="title">Czym są pliki ze znakiem <span class="file">~</span> na końcu ich nazw?</span><span class="linkdiv-dash"> — </span><span class="desc">To pliki zapasowe. Są domyślnie ukryte.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.pl-PL" title="Modyfikowanie zakładek"><span class="title">Modyfikowanie zakładek</span><span class="linkdiv-dash"> — </span><span class="desc">Dodawanie, usuwanie i zmienianie nazw zakładek w menedżerze plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.pl-PL" title="Szablony często używanych typów dokumentów"><span class="title">Szablony często używanych typów dokumentów</span><span class="linkdiv-dash"> — </span><span class="desc">Szybkie tworzenie nowych dokumentów z szablonów.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.pl-PL" title="Ukrywanie pliku"><span class="title">Ukrywanie pliku</span><span class="linkdiv-dash"> — </span><span class="desc">Ustawianie pliku jako niewidoczny w menedżerze plików.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików"><span class="title">Ustawianie uprawnień plików</span><span class="linkdiv-dash"> — </span><span class="desc">Kontrola, kto może wyświetlać i modyfikować pliki i katalogi użytkownika.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.pl-PL" title="Zaznaczanie plików według wzorów"><span class="title">Zaznaczanie plików według wzorów</span><span class="linkdiv-dash"> — </span><span class="desc">Naciśnij klawisze <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span>, aby zaznaczyć wiele plików z podobnymi nazwami.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.pl-PL" title="Podręcznik pulpitu Ubuntu">Podręcznik pulpitu Ubuntu</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

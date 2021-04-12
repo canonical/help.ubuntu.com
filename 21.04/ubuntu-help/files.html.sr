@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang=sr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Датотеке, фасцикле и претрага</title>
+<link rel="stylesheet" type="text/css" href="sr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Датотеке, фасцикле и претрага</span></h1></div>
+<div class="region">
+<div class="contents pagewide"></div>
+<section id="common-file-tasks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Уобичајени послови</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.sr" title="Погледајте датотеке и фасцикле"><span class="title">Погледајте датотеке и фасцикле</span><span class="linkdiv-dash"> — </span><span class="desc">На брзину прикажите и сакријте прегледе докумената, слика, видео записа, и осталог.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.sr" title="Поређајте датотеке и фасцикле"><span class="title">Поређајте датотеке и фасцикле</span><span class="linkdiv-dash"> — </span><span class="desc">Поређајте датотеке према називу, величини, врсти, или према времену измене.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.sr" title="Прегледајте датотеке и фасцикле"><span class="title">Прегледајте датотеке и фасцикле</span><span class="linkdiv-dash"> — </span><span class="desc">Управљајте и организујте датотеке са управником датотека.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.sr" title="Преименујте датотеку или фасциклу"><span class="title">Преименујте датотеку или фасциклу</span><span class="linkdiv-dash"> — </span><span class="desc">Измените назив датотеке или фасцикле.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.sr" title="Тражите датотеке"><span class="title">Тражите датотеке</span><span class="linkdiv-dash"> — </span><span class="desc">Пронађите датотеке на основу назива и врсте.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.sr" title="Уклоните датотеке и фасцикле"><span class="title">Уклоните датотеке и фасцикле</span><span class="linkdiv-dash"> — </span><span class="desc">Уклоните датотеке и фасцикле које вам више не требају.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.sr" title="Умножите или преместите датотеке и фасцикле"><span class="title">Умножите или преместите датотеке и фасцикле</span><span class="linkdiv-dash"> — </span><span class="desc">Умножите или преместите ставке у нови директоријум.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="more-file-tasks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Задаци више окренути датотекама</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.sr" title="Вратите датотеку из смећа"><span class="title">Вратите датотеку из смећа</span><span class="linkdiv-dash"> — </span><span class="desc">Обрисане датотеке бивају послате у смеће, али могу бити повраћене.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.sr" title="Делите датотеке е-поштом"><span class="title">Делите датотеке е-поштом</span><span class="linkdiv-dash"> — </span><span class="desc">С лакоћом пренесите датотеке до ваших контакта е-поште из управника датотека.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.sr" title="Запишите датотеке на ЦД или ДВД"><span class="title">Запишите датотеке на ЦД или ДВД</span><span class="linkdiv-dash"> — </span><span class="desc">Набаците датотеке и документа на празан ЦД или ДВД користећи програм за резање ЦД/ДВД дискова.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.sr" title="Искључите или ограничите праћење историјата датотека"><span class="title">Искључите или ограничите праћење историјата датотека</span><span class="linkdiv-dash"> — </span><span class="desc">Зауставите или ограничите рачунар у праћењу ваших недавно коришћених датотека.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.sr" title="Отворите датотеке другим програмима"><span class="title">Отворите датотеке другим програмима</span><span class="linkdiv-dash"> — </span><span class="desc">Отворите датотеке користећи програм који није основни за ту врсту датотеке. Можете да измените и подразумевани.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.sr" title="Очистите смеће и привремене датотеке"><span class="title">Очистите смеће и привремене датотеке</span><span class="linkdiv-dash"> — </span><span class="desc">Подесите колико често ће ваше привремене и датотеке из смећа бити очишћене са вашег рачунара.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.sr" title="Поставке управника датотека"><span class="title">Поставке управника датотека</span><span class="linkdiv-dash"> — </span><span class="desc">Прегледајте и подесите поставке разгледача датотека.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.sr" title="Претражујте датотеке на серверу или мрежном дељењу"><span class="title">Претражујте датотеке на серверу или мрежном дељењу</span><span class="linkdiv-dash"> — </span><span class="desc">Прегледајте и уређујте датотеке на другом рачунару преко ФТП-а, безбедне шкољке, Виндоуз дељења, или ВебДАВ-а.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.sr" title="Пронађите изгубљену датотеку"><span class="title">Пронађите изгубљену датотеку</span><span class="linkdiv-dash"> — </span><span class="desc">Пратите ова упутства ако не можете да пронађете датотеке које сте направили или преузели.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.sr" title="Својства датотеке"><span class="title">Својства датотеке</span><span class="linkdiv-dash"> — </span><span class="desc">Погледајте основне податке о датотеци, подесите овлашћења, и изаберите основне програме.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="removable"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Преносиви уређаји и спољни дискови</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.sr" title="Безбедно уклоните спољни уређај"><span class="title">Безбедно уклоните спољни уређај</span><span class="linkdiv-dash"> — </span><span class="desc">Избаците или демонтирајте УСБ флеш диск, ЦД, ДВД или други уређај.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.sr" title="Отворите програме за уређаје или дискове"><span class="title">Отворите програме за уређаје или дискове</span><span class="linkdiv-dash"> — </span><span class="desc">Самостално покрените програме за ЦД и ДВД дискове, фото-апарате, музичке уређаје, и остале уређаје и медије.</span></a></div></div>
+</div></div></div></div></div></div>
+</div></section><section id="backup"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Прављење резерви</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.sr" title="Вратите резерву"><span class="title">Вратите резерву</span><span class="linkdiv-dash"> — </span><span class="desc">Довуците ваше датотеке из резерве.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.sr" title="Где могу да пронађем датотеке за које желим да направим резерву?"><span class="title">Где могу да пронађем датотеке за које желим да направим резерву?</span><span class="linkdiv-dash"> — </span><span class="desc">Списак фасцикли у којима можете да пронађете документа, датотеке и подешавања која ћете желети да причувате у резерви.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.sr" title="Направите резерве ваших важних датотека"><span class="title">Направите резерве ваших важних датотека</span><span class="linkdiv-dash"> — </span><span class="desc">Зашто, шта, где и како о резервама.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.sr" title="Проверите вашу резерву"><span class="title">Проверите вашу резерву</span><span class="linkdiv-dash"> — </span><span class="desc">Провера ваше резерве је била успешна.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.sr" title="Учестаност прављења резерве"><span class="title">Учестаност прављења резерве</span><span class="linkdiv-dash"> — </span><span class="desc">Сазнајте колико често треба да правите резерву ваших важних датотека да бисте били сигурни да су безбедни.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="faq"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Савети и питања</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.sr" title="Изаберите датотеке према обрасцу"><span class="title">Изаберите датотеке према обрасцу</span><span class="linkdiv-dash"> — </span><span class="desc">Притисните <span class="keyseq"><span class="key"><kbd>Ктрл</kbd></span>+<span class="key"><kbd>С</kbd></span></span> да изаберете неколик датотека које имају сличне називе.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.sr" title="Подесите овлашћења над датотеком"><span class="title">Подесите овлашћења над датотеком</span><span class="linkdiv-dash"> — </span><span class="desc">Одредите ко може да прегледа и уређује ваше датотеке и фасцикле.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.sr" title="Сакријте датотеку"><span class="title">Сакријте датотеку</span><span class="linkdiv-dash"> — </span><span class="desc">Учините датотеку невидљивом, тако да нећете моћи да је видите у управнику датотека.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.sr" title="Уредите обележиваче фасцикле"><span class="title">Уредите обележиваче фасцикле</span><span class="linkdiv-dash"> — </span><span class="desc">Додајте, обришите, и преименујте обележиваче у управнику датотека.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.sr" title="Шаблони за опште коришћене врсте докумената"><span class="title">Шаблони за опште коришћене врсте докумената</span><span class="linkdiv-dash"> — </span><span class="desc">Брзо направите нове документе из произвољног шаблона датотеке.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.sr" title="Шта је датотека која има ~ на крају њеног назива?"><span class="title">Шта је датотека која има <span class="file">~</span> на крају њеног назива?</span><span class="linkdiv-dash"> — </span><span class="desc">То су датотеке резерве. Оне су скривене по основи.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Још података</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.sr" title="Убунтуов водич за радну површ">Убунтуов водич за радну површ</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

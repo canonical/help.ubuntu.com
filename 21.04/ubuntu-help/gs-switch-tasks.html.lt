@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang=lt>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Perjungti veikiančias programas</title>
+<link rel="stylesheet" type="text/css" href="lt.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 21.04</span> » <a class="trail" href="index.html.lt" title="Ubuntu darbalaukio vadovas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Pagalba"></span></span> Ubuntu darbalaukio vadovas</a> » <a class="trail" href="getting-started.html.lt" title="Pradėkite naudotis">Naudojimosi GNOME aplinka pradžia</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<nav class="prevnext pagewide"><div class="inner">
+<a href="gs-launch-applications.html.lt" title="Paleisti programas">Ankstesnis</a><a href="gs-use-windows-workspaces.html.lt" title="Darbas su langais ir darbo sritimis">Kitas</a>
+</div></nav><div class="hgroup pagewide"><h1 class="title"><span class="title">Perjungti veikiančias programas</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><div class="links-tile">
+<a href="figures/gnome-task-switching.webm" class="ui-overlay"><span class="links-tile-img"><img src="gs-thumb-task-switching.svg" width="812"></span></a><div class="ui-overlay"><div class="inner">
+<a href="#" class="ui-overlay-close" title="Užverti">⨯</a><div class="contents"><div class="media media-video"><div class="inner">
+<video src="figures/gnome-task-switching.webm" preload="auto" class="media media-block" height="394" width="700"></video><div class="media-controls media-controls-video media-controls-ttml">
+<button class="media-play" data-play-label="Groti" data-pause-label="Pristabdyti" value="Groti"><svg width="20" height="20" class="media-play"><polygon points="5,4 5,16 15,10" class="yelp-svg-fill"></polygon></svg><svg width="20" height="20" class="media-pause"><rect x="4" y="4" width="4" height="12" class="yelp-svg-fill"></rect><rect x="12" y="4" width="4" height="12" class="yelp-svg-fill"></rect></svg></button><input type="range" class="media-range" value="0"><span class="media-time"><span class="media-current">0:00</span><span class="media-duration">-:--</span></span>
+</div>
+<div class="media-ttml">
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="1" data-ttml-end="5"><div class="media-ttml-node media-ttml-p" data-ttml-begin="1" data-ttml-end="5">Kaip persijungti iš vienos programos į kitą</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="5" data-ttml-end="8"><div class="media-ttml-node media-ttml-p" data-ttml-begin="5" data-ttml-end="8">Perkelkite pelės žymiklį ant užrašo <span class="gui">Apžvalga</span> viršutiniame kairiajame ekrano kampe.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="9" data-ttml-end="12"><div class="media-ttml-node media-ttml-p" data-ttml-begin="9" data-ttml-end="12">Spustelėkite ant lango norėdami pereiti į tą programą.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="12" data-ttml-end="14"><div class="media-ttml-node media-ttml-p" data-ttml-begin="12" data-ttml-end="14">Langą išdidinti kairėje ekrano pusėje galima paspaudus ant antraštės juostos ir nutempus jį į kairę pusę.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="14" data-ttml-end="16"><div class="media-ttml-node media-ttml-p" data-ttml-begin="14" data-ttml-end="16">Kai ekrano pusė „apsišviečia“, atleiskite pelės klavišą.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="16" data-ttml-end="0"><div class="media-ttml-node media-ttml-p" data-ttml-begin="16" data-ttml-end="0">Langą išdidinti dešinėje ekrano pusėje galima paspaudus ant antraštės juostos ir nutempus į dešinę pusę.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="18" data-ttml-end="20"><div class="media-ttml-node media-ttml-p" data-ttml-begin="18" data-ttml-end="20">Kai ekrano pusė „apsišviečia“, atleiskite pelės klavišą.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="23" data-ttml-end="27"><div class="media-ttml-node media-ttml-p" data-ttml-begin="23" data-ttml-end="27">
+<span class="gui">Langų perjungiklį</span> pamatysite paspaudę <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super(Windows)</kbd></a></span>+<span class="key"><kbd> Tab</kbd></span></span> klavišus.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="27" data-ttml-end="29"><div class="media-ttml-node media-ttml-p" data-ttml-begin="27" data-ttml-end="29">Atleiskite <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super(Windows)</kbd></a></span> klavišą norėdami perjungti kitą pasirinktą langą.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="29" data-ttml-end="32"><div class="media-ttml-node media-ttml-p" data-ttml-begin="29" data-ttml-end="32">Norėdami slinkti per atidarytų langų sąrašą, neatleisdami <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super(Windows)</kbd></a></span> klavišo spaudinėkite <span class="key"><kbd>Tab</kbd></span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="35" data-ttml-end="37"><div class="media-ttml-node media-ttml-p" data-ttml-begin="35" data-ttml-end="37">Paspaudę <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super(Windows)</kbd></a></span> klavišą pamatysite <span class="gui">Veiklų Apžvalgą</span>.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="37" data-ttml-end="40"><div class="media-ttml-node media-ttml-p" data-ttml-begin="37" data-ttml-end="40">Pradėkite rašyti pavadinimą programos, į kurią norite pereiti.</div></div>
+<div class="media-ttml-node media-ttml-div" data-ttml-begin="40" data-ttml-end="43"><div class="media-ttml-node media-ttml-p" data-ttml-begin="40" data-ttml-end="43">Kai norima programa atsiras pradžioje, paspauskite <span class="key"><kbd> Enter</kbd></span> klavišą, kad persijungtumėte į ją.</div></div>
+</div>
+</div></div></div>
+</div></div>
+</div></div>
+<section id="switch-tasks-overview"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Perjungti veikiančias programas</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Spustelėję viršutiniame kairiajame ekrano kampe ant <span class="gui">Apžvalga</span> įjungsite <span class="gui">Veiklų Apžvalga</span> sąrašą, kur mažuose langeliuose pamatysite šiuo metu veikiančias programas.</p></li>
+<li class="steps"><p class="p">Spustelėkite ant lango norėdami pereiti į tą programą.</p></li>
+</ol></div></div></div></div></div>
+</div></section><section id="switching-tasks-tiling"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Išdėstyti langus</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Langui išdidinti ekrano pakraštyje, paspauskite lango pavadinimo juostą ir tempkite ją į reikiamą ekrano pusę.</p></li>
+<li class="steps"><p class="p">Kai ekrano pusė bus apšviesta, paleiskite langą ir jį išdidinsite toje ekrano pusėje.</p></li>
+<li class="steps"><p class="p">Norėdami išdidinti 2 langus vieną šalia kito, paėmę už antrojo lango tempkite jį į priešingą ekrano pusę.</p></li>
+<li class="steps"><p class="p">Kai ekrano pusė bus apšviesta, paleiskite langą ir jį išdidinsite kitoje ekrano pusėje.</p></li>
+</ol></div></div></div></div></div>
+</div></section><section id="switch-tasks-windows"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Persijungti tarp langų</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Spauskite <span class="keyseq"><span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super </kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span> ir pamatysite <span class="gui">langų sąrašą</span> su visais atvertais langais.</p></li>
+<li class="steps"><p class="p">Atleiskite <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> ir pasirinksite paryškintą langą <span class="gui">langų sąraše</span>.</p></li>
+<li class="steps"><p class="p">Norėdami slinkti per atidarytų langų sąrašą, neatleisdami <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super(Windows)</kbd></a></span> klavišo spaudinėkite <span class="key"><kbd>Tab</kbd></span>.</p></li>
+</ol></div></div></div></div></div>
+</div></section><section id="switch-tasks-search"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Naudokite paiešką persijungimui tarp programų</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Paspauskite <span class="key"><a href="help:gnome-help/keyboard-key-super" title="help:gnome-help/keyboard-key-super"><kbd>Super</kbd></a></span> klavišą norėdami pamatyti <span class="gui">Veiklų apžvalgą</span>.</p></li>
+<li class="steps"><p class="p">Tiesiog rašykite programos, į kurią norite persijungti, pavadinimą. Jums rašant bus rodomos atitinkamos programos.</p></li>
+<li class="steps"><p class="p">Kai norima programa bus rodoma kaip pirmas rezultatas, spauskite <span class="key"><kbd>Enter</kbd></span> ir persijungsite į ją.</p></li>
+</ol></div></div></div></div></div>
+</div></section><nav class="prevnext pagewide"><div class="inner">
+<a href="gs-launch-applications.html.lt" title="Paleisti programas">Ankstesnis</a><a href="gs-use-windows-workspaces.html.lt" title="Darbas su langais ir darbo sritimis">Kitas</a>
+</div></nav><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Daugiau informacijos</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="getting-started.html.lt" title="Pradėkite naudotis">Naudojimosi GNOME aplinka pradžia</a><span class="desc"> — Nežinote GNOME darbalaukio sąsajos? Išmokite naudotis dabar.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Taip pat žr.</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-windows-switching.html.lt" title="Switch between windows">Switch between windows</a><span class="desc"> — Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

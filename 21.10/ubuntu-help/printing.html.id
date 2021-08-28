@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang=id>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Pencetakan</title>
+<link rel="stylesheet" type="text/css" href="id.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Pencetakan</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="printing-inklevel.html.id" title="Bagaimana saya bisa memeriksa tingkat toner/tinta pencetak saya?"><span class="title">Bagaimana saya bisa memeriksa tingkat toner/tinta pencetak saya?</span><span class="linkdiv-dash"> — </span><span class="desc">Periksalah banyaknya tinta atau toner yang tersisa dalam cartridge pencetak.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-to-file.html.id" title="Cetak ke berkas"><span class="title">Cetak ke berkas</span><span class="linkdiv-dash"> — </span><span class="desc">Simpan dokumen sebagai berkas PDF, PostScript, atau SVG daripada mengirimnya ke pencetak.</span></a></div>
+</div></div></div></div></div>
+<section id="setup"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Menyiapkan pencetak</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="printing-setup.html.id" title="Mempersiapkan pencetak lokal"><span class="title">Mempersiapkan pencetak lokal</span><span class="linkdiv-dash"> — </span><span class="desc">Menyiapkan pencetak yang terhubung ke komputer Anda, atau jaringan lokal Anda.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-setup-default-printer.html.id" title="Atur pencetak baku"><span class="title">Atur pencetak baku</span><span class="linkdiv-dash"> — </span><span class="desc">Pilih pencetak yang paling sering Anda gunakan.</span></a></div>
+</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="printing-name-location.html.id" title="Mengubah nama atau lokasi dari suatu pencetak"><span class="title">Mengubah nama atau lokasi dari suatu pencetak</span><span class="linkdiv-dash"> — </span><span class="desc">Sesuaikan pengaturan halaman dengan pencetak saat ini.</span></a></div></div>
+</div></div></div></div></div></div>
+</div></section><section id="paper"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Tata letak dan ukuran kertas yang berbeda</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="printing-select.html.id" title="Hanya mencetak halaman tertentu"><span class="title">Hanya mencetak halaman tertentu</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak hanya halaman tertentu, atau hanya suatu jangkauan halaman.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-order.html.id" title="Membuat halaman mencetak dalam urutan yang berbeda"><span class="title">Membuat halaman mencetak dalam urutan yang berbeda</span><span class="linkdiv-dash"> — </span><span class="desc">Menyusun dan membalikkan urutan cetak.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-envelopes.html.id" title="Mencetak amplop"><span class="title">Mencetak amplop</span><span class="linkdiv-dash"> — </span><span class="desc">Pastikan bahwa amplop telah diposisikan dengan benar, dan telah memilih ukuran kertas yang benar.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="printing-booklet.html.id" title="Mencetak booklet"><span class="title">Mencetak booklet</span><span class="linkdiv-dash"> — </span><span class="desc">Cara mencetak buklet multi-halaman, terlipat dengan kertas berukuran A4 atau Letter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-2sided.html.id" title="Mencetak dua sisi dan tata letak multi halaman"><span class="title">Mencetak dua sisi dan tata letak multi halaman</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak di kedua sisi kertas, atau beberapa halaman per lembar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-differentsize.html.id" title="Mengubah ukuran kertas ketika mencetak"><span class="title">Mengubah ukuran kertas ketika mencetak</span><span class="linkdiv-dash"> — </span><span class="desc">Mencetak dokumen pada kertas dengan ukuran atau orientasi yang berbeda.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="problems"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Masalah pencetak</span></h2></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="printing-cancel-job.html.id" title="Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan"><span class="title">Membatalkan, mengistirahakan, atau melepas suatu tugas pencetakan</span><span class="linkdiv-dash"> — </span><span class="desc">Membatalkan suatu tugas pencetakan yang tertunda dan menghapusnya dari antrian.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="printing-paperjam.html.id" title="Membersihkan kertas yang macet"><span class="title">Membersihkan kertas yang macet</span><span class="linkdiv-dash"> — </span><span class="desc">Bagaimana Anda membersihkan kertas menyangkut akan tergantung pada buatan dan model pencetak yang Anda miliki.</span></a></div>
+</div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="printing-streaks.html.id" title="Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?"><span class="title">Mengapa ada coretan, garis, atau warna yang salah pada hasil cetakan saya?</span><span class="linkdiv-dash"> — </span><span class="desc">Jika cetakan bergaris-garis, memudar, atau kehilangan warna, periksa tingkat tinta atau bersihkan kepala cetak.</span></a></div></div>
+</div></div></div></div></div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h3><span class="title">Informasi Lanjut</span></h3></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.id#problems" title="Masalah umum">Masalah-masalah perangkat keras</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras &amp; penggerak</a><span class="desc"> — Configure hardware and diagnose problems, including printers,
+    displays, disks, and more.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

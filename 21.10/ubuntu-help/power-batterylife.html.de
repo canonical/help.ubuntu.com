@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Energie sparen und die Lebensdauer von Akkus verlängern</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="power.html.de" title="Energie und Akkus">Energie</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="hardware.html.de" title="Hardware und Treiber">Hardware</a> » <a class="trail" href="power.html.de" title="Energie und Akkus">Energie</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Energie sparen und die Lebensdauer von Akkus verlängern</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><p class="p">Rechner können eine Menge an Energie verbrauchen. Mit einfachen Strategien zum Energiesparen können Sie Ihre Stromrechnung reduzieren und etwas für die Umwelt tun.</p></div>
+<section id="general"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Allgemeine Tipps</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.de#suspend" title="Bereitschaft">Versetzen Sie Ihren Rechner in Bereitschaft</a></span>, wenn Sie ihn nicht verwenden. Dies reduziert den Energieverbrauch deutlich und der Rechner kann trotzdem schnell wieder in Betrieb genommen werden.</p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.de#shutdown" title="Ausschalten oder neu starten">Schalten Sie den Rechner aus</a></span>, wenn Sie ihn für längere Zeit nicht verwenden. Einige Leute meinen, dass der Rechner durch häufiges Ausschalten schneller kaputtgeht, aber das ist nicht der Fall.</p></li>
+<li class="list"><p class="p">Verwenden Sie die Einstellung <span class="gui">Leistung</span> in den <span class="app">Einstellungen</span>, um Ihre Energieeinstellungen anzupassen. Es stehen einige Möglichkeiten zur Verfügung, mit denen Sie Energie sparen können: Sie können den Bildschirm nach einer bestimmten Zeit <span class="link"><a href="display-blank.html.de" title="Die Zeit bis zum Abschalten des Bildschirms einstellen">automatisch abdunkeln</a></span> lassen, die <span class="link"><a href="display-brightness.html.de" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit</a></span> reduzieren und den Rechner <span class="link"><a href="power-autosuspend.html.de" title="Automatische Bereitschaft einrichten">automatisch in Bereitschaft versetzen</a></span>, wenn Sie ihn für eine bestimmte Zeit nicht verwendet haben.</p></li>
+<li class="list"><p class="p">Schalten Sie jegliche externe Geräte ab (wie Drucker und Scanner), wenn Sie sie nicht benötigen.</p></li>
+</ul></div></div></div></div></div>
+</div></section><section id="laptop"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Laptops, Netbooks und andere Geräte mit Akkus</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p">Verringern Sie die <span class="link"><a href="display-brightness.html.de" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit</a></span>. Die Stromversorgung des Bildschirms macht einen beachtlichen Teil des Stromverbrauchs eines Laptops aus.</p>
+<p class="p">Die meisten Laptops verfügen über Tasten auf der Tastatur (oder Tastenkombinationen), über die Sie die Helligkeit verringern können.</p>
+</li>
+<li class="list">
+<p class="p">Wenn Sie für einige Zeit keine Internetverbindung benötigen, schalten Sie die Funknetzwerk- und Bluetooth-Karten ab. Diese Geräte senden Funkwellen, was viel Energie benötigt.</p>
+<p class="p">Einige Rechner besitzen einen physischen Schalter, der zum Ausschalten verwendet werden kann, während andere dafür eine Tastenkombination bereithalten. Sie können die Karte wieder einschalten, wenn Sie diese benötigen.</p>
+</li>
+</ul></div></div></div></div></div>
+</div></section><section id="advanced"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Fortgeschrittene Tipps</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list">
+<p class="p">Reduzieren Sie die Anzahl der Aufgaben, die im Hintergrund ausgeführt werden. Rechner verbrauchen mehr Energie, wenn sie mehr Arbeit zu verrichten haben.</p>
+<p class="p">Die meisten ausgeführten Anwendungen tun wenig, wenn Sie diese nicht aktiv verwenden. Anwendungen, die jedoch regelmäßig Daten aus dem Internet holen, Musik oder Filme abspielen können den Stromverbrauch beeinflussen.</p>
+</li></ul></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="power.html.de" title="Energie und Akkus">Energie und Akkus</a><span class="desc"> — Zeigen Sie den Ladezustand Ihres Akkus an und ändern Sie Einstellungen zur Energieeinsparung.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Siehe auch</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="power-status.html.de" title="Akkustatus überprüfen">Akkustatus überprüfen</a><span class="desc"> — Den Status des Akkus und angeschlossener Geräte anzeigen.</span>
+</li>
+<li class="links "><a href="shell-exit.html.de#shutdown" title="Ausschalten oder neu starten">Ausschalten oder neu starten</a></li>
+<li class="links "><a href="shell-exit.html.de#suspend" title="Bereitschaft">Bereitschaft</a></li>
+<li class="links ">
+<a href="display-brightness.html.de" title="Bildschirmhelligkeit einstellen">Bildschirmhelligkeit einstellen</a><span class="desc"> — Die Bildschirmhelligkeit anpassen, um das Lesen in hellem Umgebungslicht zu verbessern.</span>
+</li>
+<li class="links ">
+<a href="power-wireless.html.de" title="Nicht verwendete Funkelektronik abschalten">Nicht verwendete Funkelektronik abschalten</a><span class="desc"> — Bluetooth, WLAN und mobile Breitbandverbindung können ausgeschaltet werden, um Energie zu sparen.</span>
+</li>
+<li class="links ">
+<a href="power-batterywindows.html.de" title="Warum hält mein Akku nicht so lange wie unter Windows/Mac OS?">Warum hält mein Akku nicht so lange wie unter Windows/Mac OS?</a><span class="desc"> — Optimierungen des Herstellers und abweichende Schätzungen der Akkulaufzeit können dieses Problem verursachen.</span>
+</li>
+<li class="links ">
+<a href="power-whydim.html.de" title="Warum wird mein Bildschirm nach einer Weile dunkler?">Warum wird mein Bildschirm nach einer Weile dunkler?</a><span class="desc"> — Der Bildschirm wird bei Untätigkeit abgedunkelt, um Energie zu sparen.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.de" title="Was passiert, wenn ich den Rechner in Bereitschaft versetze?">Was passiert, wenn ich den Rechner in Bereitschaft versetze?</a><span class="desc"> — Bereitschaft versetzt Ihren Rechner in einen Energiesparmodus, so dass er weniger Strom verbraucht.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

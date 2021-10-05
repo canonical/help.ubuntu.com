@@ -78,17 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a><span class="desc"> — Terhubung ke perangkat melalui Bluetooth untuk mentransfer berkas atau menggunakan audio nirkabel.</span>
 </li>
 <li class="links ">
 <a href="power.html.id" title="Daya &amp; baterai">Daya &amp; baterai</a><span class="desc"> — View your battery status and change power saving settings.</span>
 </li>
 <li class="links ">
-<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
+<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — Periksa ruang disk dan mengendalikan bagaimana ruang disk dialokasikan dan digunakan.</span>
 </li>
 <li class="links ">
-<a href="color.html.id" title="Manajemen warna">Manajemen warna</a><span class="desc"> — Calibrate color profiles on monitors, printers, and other devices.</span>
+<a href="color.html.id" title="Manajemen warna">Manajemen warna</a><span class="desc"> — Kalibrasi profil warna pada monitor, pencetak, dan perangkat lainnya.</span>
 </li>
 <li class="links ">
 <a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — Select international keyboard layouts and use keyboard

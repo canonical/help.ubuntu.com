@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Definindo o modo de rastreamento do tablet Wacom</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">O <span class="gui">Modo de rastreamento</span> determina como o ponteiro é mapeado para a tela.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Tablet Wacom</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Tablet Wacom</span> para abrir o painel.</p></li>
@@ -101,7 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">No modo <span class="em">absoluto</span>, cada ponto no tablet mapeia para um ponto na tela. O canto superior esquerdo da tela, por exemplo, sempre corresponde ao mesmo ponto no tablet.</p>
-<p class="p">No modo <span class="em">relativo</span>, se você afastar o ponteiro do tablet e colocá-lo de volta em uma outra posição, o cursor na tela não vai mover. Essa é a forma como um mouse opera.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div>
 </div>
 </div>

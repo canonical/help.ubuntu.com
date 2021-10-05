@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Параметри показу у програмі для керування файлами</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Ви можете керувати тим, як програма для керування файлами показує підписи під піктограмами. Натисніть кнопку меню у верхньому правому куті вікна і виберіть у контекстному меню пункт <span class="gui">Параметри</span>, потім перейдіть на вкладку <span class="gui">Перегляд</span>.</p></div>
+<div class="contents pagewide"><p class="p">Ви можете керувати тим, як програма для керування файлами показує підписи під піктограмами. Натисніть кнопку меню у верхньому правому куті вікна, виберіть у контекстному меню пункт <span class="gui">Параметри</span>, і перейдіть до розділу <span class="gui">Перегляд підписів піктограм</span>.</p></div>
 <section id="icon-captions"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Підписи до піктограм</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 </div></section><section id="list-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Перегляд списком</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">При перегляді файлів у режимі списку, ви можете <span class="gui">Дозволити текам розгортатись</span>. У відповідь програма покаже кнопку розгортання для кожного з каталогів у списку файлів, щоб можна було переглядати вміст декількох тек одразу. Це корисно у теках, де структура тек відповідає вмісту, наприклад у фонотеці, де композиції упорядковано за теками виконавців, у яких файли розподілено за підтеками альбомів.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">При перегляді файлів у режимі списку, ви можете наказати програмі показувати <span class="gui">Придатні до розгортання теки у перегляді списком</span>. У відповідь програма покаже кнопку розгортання для кожного з каталогів у списку файлів, щоб можна було переглядати вміст декількох тек одразу. Це корисно у теках, де структура тек відповідає вмісту, наприклад у фонотеці, де композиції упорядковано за теками виконавців, у яких файли розподілено за підтеками альбомів.</p></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

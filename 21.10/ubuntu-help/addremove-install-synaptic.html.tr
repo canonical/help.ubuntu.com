@@ -83,10 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Yazılımı Synaptic ile kurun</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-          Open <span class="app">Synaptic</span> via the <span class="em">Activities</span> search bar. You 
-          will need to enter your password in the <span class="gui">Authenticate</span> window.
-        </p></li>
+<li class="steps"><p class="p"><span class="em">Etkinlikler</span> arama çubuğu aracılığıyla <span class="app">Synaptic</span>'i açın. <span class="gui">Kimlik Doğrula</span> penceresine parolanızı girmeniz gerekecek.</p></li>
 <li class="steps"><p class="p">Bir uygulamayı aramak için <span class="gui">Ara</span>'ya tıklayın ya da bulmak için <span class="gui">Bölümler</span>'e tıklayıp kategorileri gözden geçirin.</p></li>
 <li class="steps"><p class="p">Kurmak istediğiniz uygulamaya sağ tıklayın ve <span class="gui">Kurulum için İşaretle</span>'yi seçin.</p></li>
 <li class="steps"><p class="p">Ek değişiklikleri işaretlemeniz istenirse <span class="gui">İşaretle</span>yi tıklayın.</p></li>
@@ -101,8 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Daha Çok Bilgi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Uygulamaları ve diğer yazılımları ekleyin ve kaldırın. Ek yazılım depolarını yönetin.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

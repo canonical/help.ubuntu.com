@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Excluindo arquivos e pastas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you do not want a file or folder any more, you can delete it. When you
-  delete an item it is moved to the <span class="gui">Trash</span>, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html.pt-BR" title="Restaurando um arquivo da lixeira">restore
-  items</a></span> in the <span class="gui">Trash</span> to their original location if you
-  decide you need them, or if they were accidentally deleted.</p>
+<p class="p">Se você não mais quiser um arquivo ou pasta, você pode excluí-lo(a). Quando você exclui um item, ele é movido para a <span class="gui">Lixeira</span>, onde ele fica armazenado até que você a esvazie. Você pode <span class="link"><a href="files-recover.html.pt-BR" title="Restaurando um arquivo da lixeira">restaurar os itens</a></span> da <span class="gui">Lixeira</span> para sua localização original se você resolver que precisa deles, ou eles se foram excluídos acidentalmente.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Para enviar um arquivo para a lixeira:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -119,12 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.pt-BR#trash" title="Lixeira">Preferências da lixeira do gerenciador de arquivos</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.pt-BR" title="Restaurando um arquivo da lixeira">Restaurando um arquivo da lixeira</a><span class="desc"> — Arquivos excluídos são normalmente enviados para a lixeira, mas podem ser restaurados.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

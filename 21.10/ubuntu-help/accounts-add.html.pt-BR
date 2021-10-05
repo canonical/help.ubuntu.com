@@ -76,18 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Adicionando uma conta</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Adding an account will help link your online accounts with your
-desktop. Thus, your email client, calendar and other related
-  applications will be set up for you.</p>
+<p class="p">Adicionar uma conta vai ajudá-lo a vincular suas contas on-line a seu ambiente. Dessa forma, seu cliente de e-mail, de agenda e outros aplicativos relacionados serão configurados por você.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Contas on-line</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Contas on-line</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Selecione uma conta na lista à direita.</p></li>
-<li class="steps"><p class="p">Select the type of account you want to add.</p></li>
-<li class="steps"><p class="p">A small website window or dialog will open where you can enter your
-      online account credentials. For example, if you are setting up a Google
-      account, enter your email address and password. Some providers allow
-      you to create a new account from the login dialog.</p></li>
+<li class="steps"><p class="p">Selecione o tipo de conta que você deseja adicionar.</p></li>
+<li class="steps"><p class="p">Um diálogo ou uma pequena janela de site será aberta, na qual você pode inserir as credenciais da sua conta on-line. Por exemplo, se você está configurando uma conta Google, digite seu endereço de e-mail e senha. Alguns provedores permitem que você crie uma nova conta no próprio diálogo de autenticação.</p></li>
 <li class="steps"><p class="p">Se você digitou suas credenciais corretamente, você será solicitado a permitir acesso do GNOME a sua conta on-line. Autorize acesso para continuar.</p></li>
 <li class="steps"><p class="p">Todos os serviços que são oferecidos por um provedor de conta serão habilitados por padrão. <span class="link"><a href="accounts-disable-service.html.pt-BR" title="Controlando quais serviços on-line uma conta pode ser usada para acessar">Alterne</a></span> serviços individuais para desligado para desabilitá-los.</p></li>
 </ol></div></div></div>

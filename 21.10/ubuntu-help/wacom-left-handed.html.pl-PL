@@ -2,7 +2,7 @@
 <html lang=pl-PL>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Używanie leworęcznego tabletu</title>
+<title>Używanie tabletu za pomocą lewej lub prawej ręki</title>
 <link rel="stylesheet" type="text/css" href="pl.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,10 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Używanie leworęcznego tabletu</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Używanie tabletu za pomocą lewej lub prawej ręki</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Część tabletów ma sprzętowe przyciski po jednej stronie. Tablet może zostać obrócony o 180 stopni, aby ułożyć te przyciski dla osób leworęcznych:</p>
+<p class="p">Część tabletów ma sprzętowe przyciski po jednej stronie. Tablet może zostać obrócony o 180 stopni, aby odpowiednio ułożyć te przyciski. Domyślnie używana jest orientacja dla osób praworęcznych. Aby zmienić ją na leworęczną:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Tablet firmy Wacom</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Tablet firmy Wacom</span>, aby otworzyć panel.</p></li>

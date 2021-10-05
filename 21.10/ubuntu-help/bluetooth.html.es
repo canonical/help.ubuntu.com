@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Bluetooth is a wireless protocol that allows you to connect many different
-types of devices to your computer. Bluetooth is commonly used for headsets
-and other devices like mice and keyboards. You can also use Bluetooth to
-<span class="link"><a href="bluetooth-send-file.html.es" title="Enviar archivos a un dispositivo Bluetooth">send files between devices</a></span>, such as
-from your computer to your cell phone.</p>
+<p class="p">Bluetooth es un protocolo inalámbrico que le permite conectar muchos tipos de dispositivos a su equipo. Bluetooth se usa habitualmente para auriculares y otros dispositivos como ratones y teclados. También puede usar Bluetooth para <span class="link"><a href="bluetooth-send-file.html.es" title="Enviar archivos a un dispositivo Bluetooth">enviar archivos entre dispositivos</a></span>, por ejemplo desde su equipo a su teléfono móvil.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.es" title="Encender o apagar el Bluetooth"><span class="title">Encender o apagar el Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Activar o desactivar el dispositivo Bluetooth de su equipo.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.es" title="Conectar su equipo a un dispositivo Bluetooth"><span class="title">Conectar su equipo a un dispositivo Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">emparejar dispositivos Bluetooth.</span></a></div>

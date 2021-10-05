@@ -2,7 +2,7 @@
 <html lang=sv>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Använd plattan med vänster hand</title>
+<title>Använd plattan med din vänstra eller högra hand</title>
 <link rel="stylesheet" type="text/css" href="sv.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,10 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Använd plattan med vänster hand</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Använd plattan med din vänstra eller högra hand</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Vissa plattor har hårdvaruknappar på en sida. Plattan kan roteras 180 grader för att positionera dessa knappar för vänsterhänta. För att växla till orientering för vänsterhänta:</p>
+<p class="p">Vissa plattor har hårdvaruknappar på en sida. Plattan kan roteras 180 grader för att positionera dessa knappar. Som standard är orienteringen för högerhänta. För att växla till orientering för vänsterhänta:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Wacom-platta</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Wacom-ritplatta</span> för att öppna panelen.</p></li>

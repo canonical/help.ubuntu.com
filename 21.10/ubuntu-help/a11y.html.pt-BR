@@ -124,10 +124,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-links"><h3><span class="title">Movimento do mouse</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="mouse-sensitivity.html.pt-BR" title="Ajustando a velocidade do mouse e do touchpad">Ajustando a velocidade do mouse e do touchpad</a><span class="desc"> — Altere a velocidade de movimento do ponteiro quando você usa o mouse ou o touchpad.</span>
+<a href="mouse-sensitivity.html.pt-BR" title="Ajustando a velocidade do mouse e do touchpad">Ajustando a velocidade do mouse e do touchpad</a><span class="desc"> — Altere a velocidade de movimento do cursor quando você usa o mouse ou o touchpad.</span>
 </li>
 <li class="links ">
-<a href="mouse-mousekeys.html.pt-BR" title="Clicando e movendo o ponteiro do mouse usando o teclado">Clicando e movendo o ponteiro do mouse usando o teclado</a><span class="desc"> — Habilite teclas do mouse para controlar o mouse com o teclado numérico.</span>
+<a href="mouse-mousekeys.html.pt-BR" title="Clicando e movendo o cursor do mouse usando o teclado">Clicando e movendo o cursor do mouse usando o teclado</a><span class="desc"> — Habilite teclas do mouse para controlar o mouse com o teclado numérico.</span>
 </li>
 </ul></div>
 </div></div>

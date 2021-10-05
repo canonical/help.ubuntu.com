@@ -85,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="touchscreen-gestures.html.fi" title="Use gestures on touchpads and touchscreens">Touchpad gestures</a></span> are
-    covered separately.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="link"><a href="touchscreen-gestures.html.fi" title="Käytä eleitä kosketuslevyillä ja kosketunäytöillä">Kosketuslevyn eleet</a></span> kuvataan erikseen.</p></div></div></div>
 </div>
 </div>
 <section id="tap"><div class="inner">
@@ -148,7 +147,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Kahden sormen vieritys ei välttämättä toimi kaikilla kosketuslevyillä.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Enable Two-finger Scrolling</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Ota kahden sormen vieritys käyttöön</span></h3></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Hiiri ja kosketuslevy</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Mouse &amp; Touchpad</span> to open the panel.</p></li>

@@ -80,11 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tampilan</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Layar</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Night Light</span> in the top bar to open the settings.</p></li>
-<li class="steps"><p class="p">Ensure the <span class="gui">Night Light</span> switch is set to on.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">Schedule</span>, select <span class="gui">Sunset to Sunrise</span> to
-      make the screen color follow the sunset and sunrise times for your location.
-      Select <span class="gui">Manual Schedule</span> to set the <span class="gui">Times</span> to a custom schedule.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Cahaya Malam</span> di bilah puncak untuk membuka pengaturan.</p></li>
+<li class="steps"><p class="p">Pastikan sakelar <span class="gui">Cahaya Malam</span> disetel ke menyala.</p></li>
+<li class="steps"><p class="p">Di bawah <span class="gui">Jadwal</span>, pilih <span class="gui">Matahari Terbenam sampai Matahari Terbit</span> untuk membuat warna layar mengikuti waktu matahari terbenam dan matahari terbit untuk lokasi Anda. Pilih <span class="gui">Jadwal Manual</span> untuk mengatur <span class="gui">Waktu</span> ke jadwal ubahan.</p></li>
 <li class="steps"><p class="p">Memakai penggeser untuk menyesuaikan <span class="gui">Suhu Warna</span> menjadi lebih hangat atau kurang hangat.</p></li>
 </ol></div></div></div>
 <div class="note" title="Catatan">

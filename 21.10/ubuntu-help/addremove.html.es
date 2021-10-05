@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Instalar y eliminar software</title>
+<title>Instalar y desinstalar programas</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Instalar y eliminar software</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Instalar y desinstalar programas</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">

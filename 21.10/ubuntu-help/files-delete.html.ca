@@ -115,12 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Vegeu també</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.ca#trash" title="Paperera">Preferències de paperera de l'administrador de fitxers</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.ca" title="Recuperar un fitxer de la paperera">Recuperar un fitxer de la paperera</a><span class="desc"> — Els fitxers esborrats normalment s'envien a la paperera, però es poden recuperar.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

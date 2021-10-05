@@ -2,7 +2,7 @@
 <html lang=pt-BR>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Show the battery status as a percentage</title>
+<title>Mostrando o status da bateria como uma porcentagem</title>
 <link rel="stylesheet" type="text/css" href="pt-BR.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -79,20 +79,16 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Show the battery status as a percentage</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Mostrando o status da bateria como uma porcentagem</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="link"><a href="status-icons.html.pt-BR#batteryicons" title="Ícones de bateria">status icon</a></span> in the top
-    bar shows the charge level of the main internal battery, and whether it is
-    currently charging or not. It can also display the charge as a
-    <span class="link"><a href="power-percentage.html.pt-BR" title="Show the battery status as a percentage">percentage</a></span>.</p>
+<p class="p">O <span class="link"><a href="status-icons.html.pt-BR#batteryicons" title="Ícones de bateria">ícone de status</a></span> na barra superior mostra o nível de carga da bateria interna principal e se ela está carregando ou não. Ele também pode exibir a carga como uma <span class="link"><a href="power-percentage.html.pt-BR" title="Mostrando o status da bateria como uma porcentagem">porcentagem</a></span>.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Display the battery percentage in the top bar</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Exiba a porcentagem da bateria na barra superior</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Energia</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Suspend &amp; Power Button</span> section, set <span class="gui">Show
-      Battery Percentage</span> to on.</p></li>
+<li class="steps"><p class="p">Na seção <span class="gui">Botão de suspender &amp; desligar</span>, ative <span class="gui">Mostrar porcentagem da bateria</span>.</p></li>
 </ol></div>
 </div></div>
 </div>

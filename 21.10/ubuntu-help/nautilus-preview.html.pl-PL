@@ -76,14 +76,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferencje podglądu menedżera plików</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Menedżer plików tworzy miniatury, aby móc wyświetlać podgląd obrazów, filmów i plików tekstowych. Tworzenie miniatur może być wolne w przypadku dużych plików lub przez sieć, więc można zmienić, kiedy są tworzone. Kliknij przycisk menu w górnym prawym rogu okna, wybierz <span class="gui">Preferencje</span> i kartę <span class="gui">Wyszukiwanie i podgląd</span>.</p>
+<p class="p">The file manager creates thumbnails to preview image, video, and text
+files. Thumbnail previews can be slow for large files or over networks, so
+you can control when previews are made. Click the menu button in the top-right
+of the window, select <span class="gui">Preferences</span>, then go to the
+<span class="gui">Performance</span> section.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Pliki</span></dt>
-<dd class="terms">
-<p class="p">Domyślnie wszystkie miniatury są tworzone tylko dla plików na tym komputerze i podłączonych dyskach zewnętrznych. Można ustawić tę funkcję na <span class="gui">Dla wszystkich plików</span> lub <span class="gui">Wyłączone</span>. Menedżer plików może <span class="link"><a href="nautilus-connect.html.pl-PL" title="Przeglądanie plików na serwerze lub udziale sieciowym">przeglądać pliki na innych komputerach</a></span> przez sieć lokalną lub Internet. Jeśli często przeglądane są pliki w sieci lokalnej lub sieć ma dużą wydajność, to można ustawić tworzenie miniatur na opcję <span class="gui">Dla wszystkich plików</span>.</p>
-<p class="p">Oprócz tego można użyć ustawienia <span class="gui">Tylko dla plików mniejszych niż</span>, aby ograniczyć rozmiar plików, dla których tworzone są miniatury.</p>
-</dd>
-<dt class="terms"><span class="gui">Liczba plików</span></dt>
+<dt class="terms"><span class="gui">Show Thumbnails</span></dt>
+<dd class="terms"><p class="p">By default, all previews are done for
+    <span class="gui">On this computer only</span>, those on your computer or connected
+    external drives. You can set this feature to <span class="gui">All files</span> or
+    <span class="gui">Never</span>. The file manager can
+    <span class="link"><a href="nautilus-connect.html.pl-PL" title="Przeglądanie plików na serwerze lub udziale sieciowym">browse files on other computers</a></span> over
+    a local area network or the internet. If you often browse files over a local
+    area network, and the network has high bandwidth, you may want to set the
+    preview option to <span class="gui">All files</span>.</p></dd>
+<dt class="terms"><span class="gui">Count Number of Files in Folders</span></dt>
 <dd class="terms">
 <p class="p">Jeśli wyświetlane są rozmiary plików w <span class="link"><a href="nautilus-list.html.pl-PL" title="Preferencje kolumn listy plików">kolumnach widoku listy</a></span> lub <span class="link"><a href="nautilus-display.html.pl-PL#icon-captions" title="Podpisy ikon">podpisach ikon</a></span>, to katalogi będą wyświetlane z liczbą plików i katalogów w nich zawartych. Obliczanie liczby elementów w katalogu może być wolne, zwłaszcza w przypadku bardzo dużych katalogów lub przez sieć.</p>
 <p class="p">Można włączyć lub wyłączyć tę funkcję, albo włączyć ją tylko dla plików na komputerze i lokalnych dyskach zewnętrznych.</p>

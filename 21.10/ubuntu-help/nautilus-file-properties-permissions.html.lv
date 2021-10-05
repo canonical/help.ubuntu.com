@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Jūs varat iestatīt atļaujas datnes īpašniekam, īpašnieku grupai vai citiem sistēmas lietotājiem. Savām datnēm jūs varat iestatīt tikai lasāmas datnes vai lasāmas un rediģējamas datnes atļauju. Iestatot datnei tikai lasāmas datnes atļauju, jūs nevarēsiet nejauši tajā veikt izmaiņās.</p>
 <p class="p">Katrs jūsu datora lietotājs pieder kādai grupai. Mājas datoros bieži vien katram lietotājam ir sava grupa un grupu atļaujas netiek bieži lietotas.  Korporatīvajā vidē dažreiz grupas tiek izmantotas nodaļās vai projektos. Līdzīgi kā katra datne pieder īpašniekam, tā pieder arī grupai. Jūs varat iestatīt datnēm grupas un kontroles atļaujas visiem grupas lietotājiem. Jūs varat iestatīt datņu grupas tikai grupām, kurām piederat.</p>
 <p class="p">Jūs varat arī iestatīt atļaujas citiem lietotājiem datņu grupā.</p>
-<p class="p">Ja datne ir programma, piemēram, skripts, jums jāizvēlas <span class="gui">Ļaut izpildīt datni kā programmu</span>, lai to palaistu. Pat ja šī opcija ir izvēlēta, datņu pārvaldnieks var joprojām atvērt to lietotnē vai prasīt jums, kas jādara. Skatiet <span class="link"><a href="nautilus-behavior.html.lv#executable" title="Izpildāmās teksta datnes">Izpildāmās teksta datnes</a></span>, lai uzzinātu vairāk.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.lv#executable" title="Izpildāmās teksta datnes">Izpildāmās teksta datnes</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mapes</span></h2></div>

@@ -123,12 +123,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">亦见</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.zh-CN#trash" title="回收站">文件管理器回收站首选项</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.zh-CN" title="还原您删除的文件">还原您删除的文件</a><span class="desc"> — 当您删除文件时，它们一般会被移动到回收站。您可以将它们从回收站取回。</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

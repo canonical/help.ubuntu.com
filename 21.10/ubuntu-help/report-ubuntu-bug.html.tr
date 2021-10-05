@@ -85,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If using <span class="cmd">ubuntu-bug</span> does not work for some reason, <span class="link"><a href="https://help.ubuntu.com/community/ReportingBugs#Filing_bugs_manually_at_Launchpad.net" title="https://help.ubuntu.com/community/ReportingBugs#Filing_bugs_manually_at_Launchpad.net">
-    file a bug manually</a></span> and jump to step 4 in this instruction.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Herhangi bir nedenle <span class="cmd">ubuntu-bug</span> kullanmak işe yaramazsa, <span class="link"><a href="https://help.ubuntu.com/community/ReportingBugs#Filing_bugs_manually_at_Launchpad.net" title="https://help.ubuntu.com/community/ReportingBugs#Filing_bugs_manually_at_Launchpad.net"> elle bir hata bildirin</a></span> ve bu talimatta 4. adıma atlayın.</p></div></div></div>
 </div>
 </li>
 <li class="steps"><p class="p">Yukarıdaki komutlardan birini çalıştırdıktan sonra Ubuntu hata hakkında bilgi toplayacaktır. Bu işlem birkaç dakika sürebilir. İsterseniz toplanan bilgiyi gözden geçirebilirsiniz. Devam etmek için <span class="gui">Gönder</span>'e tıklayın.</p></li>
@@ -117,8 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Daha Çok Bilgi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.tr" title="Daha fazla yardım al">Daha fazla yardım al</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.tr" title="Daha fazla yardım al">Daha fazla yardım al</a><span class="desc"> — Bu kılavuzu kullanmayla ilgili ipuçları alın ve daha fazla yardım için toplulukla bağlantı kurun.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

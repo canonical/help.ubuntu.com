@@ -82,22 +82,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Sistemde yapılandırılmış varsayılan başlatma uygulamalarına ek olarak, oturum açıldığında hangi uygulamaların başlatılması gerektiğini yapılandırabilirsiniz.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open <span class="gui">Startup Applications</span> via the <span class="gui"><a href="shell-introduction.html.tr#activities" title="Activities overview">Activities</a></span> overview.
-      Alternatively you can press
-      <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and run the
-      <span class="cmd">gnome-session-properties</span> command.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Add</span> and enter the command to be executed at login
-      (name and comment are optional). For example, to make Firefox start
-      automatically, it's sufficient to type <span class="cmd">firefox</span> in the
-      <span class="gui">Command</span> field and confirm with <span class="gui">Add</span>.</p></li>
+<li class="steps"><p class="p"><span class="gui"><a href="shell-introduction.html.tr#activities" title="Activities overview">Etkinlikler</a></span> genel görünümü <span class="gui">Başlangıç ​​Uygulamaları</span>'nı açın. Alternatif olarak, <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> tuşlarına basabilir ve <span class="cmd">gnome-session-properties</span> komutunu çalıştırabilirsiniz.</p></li>
+<li class="steps"><p class="p"><span class="gui">Ekle</span>'yi tıklayın ve oturum açma sırasında yürütülecek komutu girin (ad ve yorum isteğe bağlıdır). Örneğin, Firefox'u otomatik olarak başlatmak için <span class="gui">Komut</span> alanına <span class="cmd">firefox</span> yazıp <span class="gui">Ekle</span> ile onaylamanız yeterlidir.</p></li>
 </ol></div></div></div>
 <div class="note" title="Not">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">You can either type the command, or click the <span class="gui">Browse...</span>
-    button and select a command. Applications to autostart are typically
-    located in the <span class="code">/usr/bin</span> folder.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Komutu yazabilir veya <span class="gui">Gözat...</span> düğmesini tıklayıp bir komut seçebilirsiniz. Otomatik başlatma uygulamaları genellikle <span class="code">/usr/bin</span> klasöründe bulunur.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">

@@ -82,10 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd class="terms"><p class="p">Tato zařízení používají „párování přes kabel“. Zasuňte ovladač do USB a přitom mějte otevřená <span class="gui">Nastavení Bluetooth</span> a Bluetooth zapnuté. Po zmáčknutí tlačítka „PS“ se objeví dotaz, zda ovladač nastavit. Odpojte jej a zmáčkněte tlačítko „PS“, aby se začal používat přes Bluetooth.</p></dd>
 <dt class="terms">Ovladač PlayStation 4</dt>
 <dd class="terms">
-<p class="p">Those devices use “cable-pairing” as well. Plug the joypads in via USB with the
-      <span class="gui">Bluetooth Settings</span> opened, and Bluetooth turned on. You will get asked whether
-      to set those joypads up without needing to press the “PS” button. Unplug them and press the
-      “PS” button to use them over Bluetooth.</p>
+<p class="p">I tato zařízení používají „párování přes kabel“. Zasuňte ovladač do USB a přitom mějte otevřená <span class="gui">Nastavení Bluetooth</span> a Bluetooth zapnuté. Dotaz, zda ovladač nastavit, se objeví sám bez potřeby mačkat tlačítko „PS“. Odpojte jej a nyní tlačítko „PS“ zmáčkněte, aby se začal používat přes Bluetooth.</p>
 <p class="p">Pokud nemáte po ruce kabel USB, dá se u těchto zařízení použít ke zviditelnění a spárování přes Bluetooth také kombinace tlačítek „PS“ a „Share“.</p>
 </dd>
 <dt class="terms">Ovladač PlayStation 3 BD</dt>
@@ -93,10 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dt class="terms">Ovladače Nintendo Wii and Wii U</dt>
 <dd class="terms"><p class="p">Ke spuštění párování použijte červené tlačítko „Sync“ ukryté v prostoru pro baterie. Jiné kombinace tlačítek informaci o spárování neuchovávají, takže byste párování museli stále znovu opakovat. Také pozor na to, že některý software chce k ovladači přímý přístup, a v takovém případě byste jej neměli nastavovat v systémovém panelu Bluetooth. Na instrukce se podívejte do příručky k dané aplikaci.</p></dd>
 <dt class="terms">ION iCade</dt>
-<dd class="terms"><p class="p">Hold down the bottom 4 buttons and the top white button to start the pairing
-      process. When the pairing instructions appear, make sure to use only the cardinal
-      directions to input the code, followed by any of the 2 white buttons to the far
-      right of the arcade stick to confirm.</p></dd>
+<dd class="terms"><p class="p">Proces párování spustíte přidržením zmáčknutých čtyř spodních tlačítek a horního bílého tlačítka. Až se objeví instrukce k párování, zadejte vstupní kód výhradně pomocí ovládání směru a následně jej potvrďte jedním ze dvou bílých tlačítek úplně vpravo od ovládání směru.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

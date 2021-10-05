@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Establecer el modo de seguimiento de la tableta Wacom</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">El <span class="gui">Modo de seguimiento</span> determina cómo se corresponde el puntero con la pantalla.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Tableta Wacom</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Tableta Wacom</span> para abrir el panel.</p></li>
@@ -101,7 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">En el modo <span class="em">absoluto</span> cada punto de la tableta se corresponde con un punto de la pantalla. La esquina superior izquierda de la pantalla, por ejemplo, siempre corresponde con el mismo punto de la tableta.</p>
-<p class="p">En el modo <span class="em">relativo</span> si deja el puntero fuera de la tableta, y lo pone en un lugar diferente, el cursor de la pantalla no se mueve. Así es como funciona un ratón.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div>
 </div>
 </div>

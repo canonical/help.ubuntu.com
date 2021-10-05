@@ -85,12 +85,8 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">This requires you to use your calendar from <span class="app">Evolution</span> or
-    the <span class="app">Calendar</span>, or for you to have an online account set up
-    which <span class="gui">Calendar</span> supports.</p>
-<p class="p">Most distributions come with at least one of these programs installed
-    by default. If yours does not, you may need to install it using your
-    distribution’s package manager.</p>
+<p class="p">Tämä vaatii, että käytät <span class="app">Evolution</span>-kalenteria tai sovellusta nimeltä <span class="app">Kalenteri</span>, tai että käytät verkkotiliä, jota <span class="gui">Kalenteri</span> tukee.</p>
+<p class="p">Useimmat jakelut sisältävät toisen näistä oletusarvoisesti asennettuna. Jos jakelussasi ei ole kumpaakaan asennettuna, tulee sinun asentaa toinen näistä sovelluksista käyttäen jakelun pakettihallintaa.</p>
 </div></div></div>
 </div>
 <p class="p">Nähdäksesi tapaamisesi:</p>
@@ -104,9 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Tapahtumia sisältävien päivien alla näytetään piste.</p></div></div></div>
 </div>
-<p class="p">Existing appointments will be displayed to the left of the calendar.
-      As appointments are added to your <span class="app">Evolution</span> calendar or to
-      <span class="app">Calendar</span>, they will appear in the clock’s appointment list.</p>
+<p class="p">Olemassa olevat tapahtumat näytetään kalenterin vasemmalla puolen. Kun tapahtumia lisätään <span class="app">Evolution</span>-kalenteriin tai <span class="app">Kalenteri</span>-sovellukseen, ne ilmaantuvat kellon tapahtumaluetteloon.</p>
 </li>
 </ol></div></div></div>
 <div class="media media-image"><div class="inner"><img src="figures/shell-appts.png" width="500" class="media media-block" alt="Kello, kalenteri ja tapaamiset"></div></div>

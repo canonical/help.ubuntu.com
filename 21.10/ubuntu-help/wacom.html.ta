@@ -81,8 +81,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.ta" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">டேப்ளட்டை டேப்ளட் பயன்முறைக்கும் சொடுக்கி பயன்முறைக்குமாக மாற்றுதல்.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.ta" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.ta" title="ஒரு மானிட்டரைத் தேர்வு செய்தல்"><span class="title">ஒரு மானிட்டரைத் தேர்வு செய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">Wacom டேப்ளட்டை ஒரு குறிப்பிட்ட மானிட்டருக்கு மேப் செய்தல்.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.ta" title="டேப்ளட்டை இடதுகைப் பழக்கத்திற்கேற்ப பயன்படுத்துதல்"><span class="title">டேப்ளட்டை இடதுகைப் பழக்கத்திற்கேற்ப பயன்படுத்துதல்</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.ta" title="ஸ்டைலஸை அமைவாக்கம் செய்தல்"><span class="title">ஸ்டைலஸை அமைவாக்கம் செய்தல்</span><span class="linkdiv-dash"> — </span><span class="desc">பொத்தான் செயல்பாடுகளையும் Wacom ஸ்டைலஸின் அழுத்த உணர்வையும் வரையறுக்கவும்.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">

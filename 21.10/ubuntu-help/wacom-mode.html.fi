@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Aseta Wacom-piirtopöydän seurantatila</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Tracking Mode</span> determines how the pointer is mapped to the screen.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Wacom-piirtopöydät</span>.</p></li>
 <li class="steps"><p class="p">Click on <span class="gui">Wacom Tablet</span> to open the panel.</p></li>
@@ -106,8 +106,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">In <span class="em">absolute</span> mode, each point on the tablet maps
  to a point on the screen. The top left corner of the screen, for instance,
  always corresponds to the same point on the tablet.</p>
-<p class="p">In <span class="em">relative</span> mode, if you lift the pointer off the tablet and put it
- down in a different position, the cursor on the screen doesn’t move. This is
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
     the way a mouse operates.</p>
 </div></div></div>
 </div>

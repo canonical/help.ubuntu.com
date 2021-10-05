@@ -101,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="disk.html.hr" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
 </li>
 <li class="links ">
-<a href="addremove.html.hr" title="Instaliraj i ukloni softver">Instaliraj i ukloni softver</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.hr" title="Instaliraj i ukloni softver">Instaliraj i ukloni softver</a><span class="desc"> — Instalirajte i uklonite aplikacije i ostali softver. Upravljate dodatnim repozitorijima softvera.</span>
 </li>
 </ul></div>
 </div></div></div>

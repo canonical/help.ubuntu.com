@@ -79,10 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Když chcete někomu z <span class="app">Kontaktů</span> poslat e-mail, diskutovat s ním nebo mu zavolat:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vyberte kontakt v seznamu kontaktů.</p></li>
-<li class="steps"><p class="p">Press the button corresponding to the <span class="em">detail</span> that you want to use.
-      For example, to email your contact, press the 
-      <span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="mail"></span></span> button next to the contact’s 
-      email address.</p></li>
+<li class="steps"><p class="p">Zmáčkněte tlačítko u <span class="em">údaje</span>, který chcete použít. Například, když chcete poslat kontaktu e-mail, zmáčkněte tlačítko <span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="E-mail"></span></span> vedle e-mailové adresy kontaktu.</p></li>
 <li class="steps"><p class="p">Spustí se příslušná aplikace a použije údaj z kontaktu.</p></li>
 </ol></div></div></div>
 <div class="note" title="Upozornění">

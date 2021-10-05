@@ -79,11 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Které přístroje pro měření barev jsou podporovány?</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">
-    The system relies on the Argyll color management system to support
-    color instruments. A list of supported measuring instruments can be found
-    at <span class="link"><a href="https://www.argyllcms.com/doc/instruments.html" title="https://www.argyllcms.com/doc/instruments.html">https://www.argyllcms.com/doc/instruments.html</a></span>.
-  </p></div>
+<div class="contents pagewide"><p class="p">Systém se ohledně podpory přístrojů pro měření barev spoléhá na nástroje správy barev Argyll. Seznam podprovaných měřicích přístrojů můžete najít na <span class="link"><a href="https://www.argyllcms.com/doc/instruments.html" title="https://www.argyllcms.com/doc/instruments.html">https://www.argyllcms.com/doc/instruments.html</a></span> (odkazovaný dokument je v angličtině).</p></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

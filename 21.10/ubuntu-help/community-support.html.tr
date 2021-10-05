@@ -76,13 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Topluluk desteği</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can find support from a variety of sources which are mentioned and
-  linked to at <span class="link"><a href="https://www.ubuntu.com/support/community-support" title="https://www.ubuntu.com/support/community-support">
-  Community support</a></span>.</p>
-<p class="p">Every page at <span class="link"><a href="https://help.ubuntu.com" title="https://help.ubuntu.com">help.ubuntu.com</a></span>
-  has a search feature at the top right. It lets you do a custom Google search
-  on Ubuntu documentation and support resources on the web, to easier find out
-  if your question has already been answered.</p>
+<p class="p"><span class="link"><a href="https://www.ubuntu.com/support/community-support" title="https://www.ubuntu.com/support/community-support">Topluluk desteği</a></span>nde bahsedilen ve bağlantısı verilen çeşitli kaynaklardan destek bulabilirsiniz.</p>
+<p class="p"><span class="link"><a href="https://help.ubuntu.com" title="https://help.ubuntu.com">help.ubuntu.com</a></span> adresindeki her sayfanın sağ üstte bir arama özelliği vardır. Sorunuzun daha önce cevaplanmış olup olmadığını daha kolay bulmak için Ubuntu belgeleri ve web'deki destek kaynakları üzerinde özel bir Google araması yapmanızı sağlar.</p>
 <p class="p">Kendi dilinizdeki destek belki <span class="link"><a href="http://loco.ubuntu.com/teams/" title="http://loco.ubuntu.com/teams/">Yerel Topluluk Ekibi</a></span>niz tarafında sağlanıyordur.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -90,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Daha Çok Bilgi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.tr" title="Daha fazla yardım al">Daha fazla yardım al</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.tr" title="Daha fazla yardım al">Daha fazla yardım al</a><span class="desc"> — Bu kılavuzu kullanmayla ilgili ipuçları alın ve daha fazla yardım için toplulukla bağlantı kurun.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Show the battery status as a percentage</title>
+<title>Näytä akun tila prosentteina</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -79,15 +79,15 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Show the battery status as a percentage</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Näytä akun tila prosentteina</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="link"><a href="status-icons.html.fi#batteryicons" title="Battery icons">status icon</a></span> in the top
+<p class="p">The <span class="link"><a href="status-icons.html.fi#batteryicons" title="Akkukuvakkeet">status icon</a></span> in the top
     bar shows the charge level of the main internal battery, and whether it is
     currently charging or not. It can also display the charge as a
-    <span class="link"><a href="power-percentage.html.fi" title="Show the battery status as a percentage">percentage</a></span>.</p>
+    <span class="link"><a href="power-percentage.html.fi" title="Näytä akun tila prosentteina">percentage</a></span>.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Display the battery percentage in the top bar</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Näytä akun varaus prosentteina yläpalkissa</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Virransäästö</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Virranhallinta</span> avataksesi paneelin.</p></li>

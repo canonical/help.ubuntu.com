@@ -106,8 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — Conectar a dispositivos por Bluetooth para transferir archivos o usar audio inalámbrico.</span>
 </li>
 <li class="links ">
 <a href="sharing.html.es" title="Compartir">Compartir</a><span class="desc"> — Compartir su escritorio, archivos o medios.</span>

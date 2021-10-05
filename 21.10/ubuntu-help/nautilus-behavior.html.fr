@@ -75,25 +75,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Préférences du gestionnaire de fichiers</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Il est possible de choisir d’ouvrir les fichiers d’un simple ou d’un double-clic, la manière d’exécuter les fichiers texte et le comportement de la corbeille. Cliquez sur le bouton de menu situé dans le coin supérieur droit de la fenêtre, choisissez <span class="gui">Préférences</span> et sélectionnez l’onglet <span class="gui">Comportement</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
+executable text files are handled, and the trash behavior. Click the menu
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Comportement</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Simple clic pour ouvrir les éléments</span></dt>
-<dt class="terms"><span class="gui">Double-clic pour ouvrir les éléments</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Par défaut, un simple clic sélectionne les fichiers et un double-clic les ouvre. Il est possible de décider d’ouvrir fichiers et dossiers d’un simple clic. Dans ce mode, il est possible de sélectionner un ou plusieurs fichiers en maintenant la touche <span class="key"><kbd>Ctrl</kbd></span> enfoncée.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Fichiers texte exécutables</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Un fichier texte exécutable est un fichier qui contient un programme que vous pouvez lancer (exécuter). Les <span class="link"><a href="nautilus-file-properties-permissions.html.fr" title="Définition des permissions d’accès">permissions du fichier</a></span> doivent aussi autoriser l’exécution de ce fichier. Les fichiers les plus courants sont les scripts <span class="sys">Shell</span>, <span class="sys">Python</span> et <span class="sys">Perl</span>. Ils se terminent respectivement par les extensions <span class="file">.sh</span>, <span class="file">.py</span> et <span class="file">.pl</span>.</p>
-<p class="p">Lorsque vous ouvrez un fichier texte exécutable, vous avez le choix entre :</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Lancer les fichiers texte exécutables lorsqu’ils sont ouverts</span></p></li>
-<li class="list"><p class="p"><span class="gui">Afficher les fichiers texte exécutables lorsqu’ils sont ouverts</span></p></li>
-<li class="list"><p class="p"><span class="gui">Demander quoi faire</span></p></li>
-</ul></div></div></div>
-<p class="p">Si vous avez choisi <span class="gui">Demander quoi faire</span>, une boîte de dialogue s’ouvre pour vous demander si vous souhaitez lancer ou afficher le fichier sélectionné.</p>
 <p class="p">Les fichiers texte exécutables sont aussi appelés des <span class="em">scripts</span>. Tous les scripts contenus dans le dossier <span class="file">~/.local/share/nautilus/scripts</span> s’affichent dans le menu contextuel du fichier concerné et dans le sous-menu <span class="gui">Scripts</span>. Lorsqu’un script est lancé depuis un dossier local, tous les fichiers sélectionnés sont collés au script en tant que paramètres. Pour lancer un script sur un fichier :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Naviguez vers le dossier désiré.</p></li>
@@ -106,23 +101,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Un script ne recevra aucun paramètre s’il est exécuté depuis un dossier distant tel qu’un dossier affichant un contenu Web ou <span class="sys">ftp</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Corbeille</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Demander avant de vider la corbeille</span></dt>
-<dd class="terms"><p class="p">C’est l’option définie par défaut. Quand la corbeille est vidée, un message s’affiche demandant de confirmer la suppression définitive des fichiers.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Voir aussi</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.fr" title="Suppression de fichiers et de dossiers">Suppression de fichiers et de dossiers</a><span class="desc"> — Supprimer des fichiers ou dossiers dont vous n’avez plus besoin.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

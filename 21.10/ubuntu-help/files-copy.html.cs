@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Soubory a složky můžete kopírovat nebo přesouvat na nové místo pomocí tažení a upuštění myší, použitím příkazů kopírovat a vložit nebo pomocí klávesových zkratek.</p>
-<p class="p">Například můžete chtít zkopírovat prezentaci na flashdisk, když si ji potřebujete vzít na pracovní cestu. Nebo můžete chtít udělat kopii dokumentu, než v něm provedete nějaké změny (a původní kopii pak použít, když se změny ukážou nesprávné).</p>
+<p class="p">Například můžete chtít zkopírovat prezentaci na flešdisk, když si ji potřebujete vzít na pracovní cestu. Nebo můžete chtít udělat kopii dokumentu, než v něm provedete nějaké změny (a původní kopii pak použít, když se změny ukážou nesprávné).</p>
 <p class="p">Stejný postup se používá pro soubory i složky. Soubory i složky se kopírují a přesouvají tím samým způsobem.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Klikněte na <span class="gui">Soubory</span> na horní liště a vyberte <span class="gui">Nové okno</span> (nebo zmáčkněte <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span>), aby se otevřelo druhé okno. V novém okně přejděte do složky, do které chcete soubor přesunout nebo zkopírovat.</p></li>
 <li class="steps">
 <p class="p">Klikněte na soubor a přetáhněte jej do jiného okna. Pokud je cílová složka na <span class="em">stejném</span> zařízení, soubor se <span class="em">přesune</span>, pokud je na <span class="em">jiném</span> zařízení, soubor se <span class="em">zkopíruje</span>.</p>
-<p class="p">Například, když přetáhnete soubor z flashdisku do své domovské složky, soubor se zkopíruje, protože se jedná o dvě různá zařízení.</p>
+<p class="p">Například, když přetáhnete soubor z flešdisku do své domovské složky, soubor se zkopíruje, protože se jedná o dvě různá zařízení.</p>
 <p class="p">Během přetahování můžete vynutit, aby byl soubor zkopírován, pomocí držení klávesy <span class="key"><kbd>Ctrl</kbd></span>, nebo aby byl přesunut, pomocí držení klávesy <span class="key"><kbd>Shift</kbd></span>.</p>
 </li>
 </ol></div>

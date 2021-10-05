@@ -76,12 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mikä perinteinen Gnome on?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="em">GNOME Classic</span> is a feature for users who prefer a more traditional
-  desktop experience. While <span class="em">GNOME Classic</span> is based on modern GNOME
-  technologies, it provides a number of changes to the user interface, such as
-  the <span class="gui">Applications</span> and
-  <span class="gui">Places</span> menus on the top bar, and a window
-  list at the bottom of the screen.</p>
+<p class="p"><span class="em">Perinteinen Gnome</span> on ominaisuus käyttäjille, jotka suosivat perinteistä työpöytäkokemusta. Vaikka <span class="em">Perinteinen Gnome</span> pohjautuu nykyaikaisiin Gnome-teknologioihin, se tarjoaa useita muutoksia käyttöliittymään, kuten <span class="gui">Sovellukset</span>- ja <span class="gui">Sijainnit</span>-valikot yläpalkissa ja ikkunaluettelon näytön alaosassa.</p>
 <p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
  applications.</p>
 </div>

@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Zmáčkněte tlačítko <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Zobrazit více"></span></span> v pravém horním rohu v záhlavní liště.</p></li>
 <li class="steps"><p class="p">Zmáčknutím volby <span class="gui">Smazat</span> kontakt odstraníte.</p></li>
 </ol></div></div></div>
-<p class="p">To remove one or more contacts, check the boxes next to the contacts you want to delete and press <span class="gui">Remove</span>.</p>
+<p class="p">Když chcete odstranit jeden, nebo více kontaktů, zaškrtněte políčka vedle nich a zmáčkněte tlačítko <span class="gui">Odstranit</span></p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

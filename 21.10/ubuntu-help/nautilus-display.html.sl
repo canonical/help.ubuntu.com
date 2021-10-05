@@ -76,8 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Možnosti prikaza upravljalnika datotek</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><p class="p">You can control how the file manager displays captions under icons. Click
-the menu button in the top-right corner of the window and select
-<span class="gui">Preferences</span>, then select the <span class="gui">Views</span> tab.</p></div>
+the menu button in the top-right corner of the window, select
+<span class="gui">Preferences</span>, then go to the <span class="gui">Icon View Captions</span> section.</p></div>
 <section id="icon-captions"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Naslovi ikon</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -93,8 +93,8 @@ the menu button in the top-right corner of the window and select
 </div></div>
 </div></section><section id="list-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">List View</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">When viewing files as a list, you can <span class="gui">Allow folders to be
-  expanded</span>. This shows expanders on each directory in the file list, so
+<div class="region"><div class="contents pagewide"><p class="p">When viewing files as a list, you can display <span class="gui">Expandable Folders in
+  List View</span>. This shows expanders on each directory in the file list, so
   that the contents of several folders can be shown at once. This is useful if
   the folder structure is relevant, such as if your music files are organized
   with a folder per artist, and a subfolder per album.</p></div></div>

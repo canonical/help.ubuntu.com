@@ -119,12 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.id" title="Memulihkan berkas dari Tong Sampah">Memulihkan berkas dari Tong Sampah</a><span class="desc"> — Berkas yang dihapus biasanya dikirim ke Tong Sampah, tapi dapat dipulihkan.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.id#trash" title="Tong Sampah">Preferensi tong sampah pengelola berkas</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

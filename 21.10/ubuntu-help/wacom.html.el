@@ -81,9 +81,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.el" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Αλλάξτε το tablet μεταξύ λειτουργίας tablet και λειτουργίας ποντικιού.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.el" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.el" title="Επιλέξτε μια οθόνη"><span class="title">Επιλέξτε μια οθόνη</span><span class="linkdiv-dash"> — </span><span class="desc">Απεικονίστε το tablet Wacom σε μια συγκεκριμένη οθόνη.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.el" title="Ρύθμιση της γραφίδας"><span class="title">Ρύθμιση της γραφίδας</span><span class="linkdiv-dash"> — </span><span class="desc">Ορίστε τις λειτουργίες κουμπιών και αίσθησης πίεσης της γραφίδας Wacom.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.el" title="Χρησιμοποιήστε το αριστερόχειρο tablet"><span class="title">Χρησιμοποιήστε το αριστερόχειρο tablet</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

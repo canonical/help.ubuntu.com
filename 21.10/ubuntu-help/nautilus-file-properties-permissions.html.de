@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Sie können Zugriffsrechte für den Dateibesitzer, die Gruppe und alle anderen Benutzer des Systems festlegen. Bei Ihren eigenen Dateien sind Sie der Besitzer und Sie können sich selbst nur Leserechte oder Lese- und Schreibrechte geben. Setzen Sie die Rechte einer Datei auf »nur lesen«, wenn Sie verhindern wollen, dass Sie sie versehentlich verändern.</p>
 <p class="p">Jeder Benutzer auf Ihrem Rechner gehört zu einer Gruppe. Auf Privatrechnern ist es üblich, dass jeder Benutzer seine eigene Gruppe hat, somit werden Gruppenrechte selten verwendet. In Unternehmen werden Gruppen manchmal für Abteilungen oder Projekte verwendet. Jede Datei hat einen Besitzer, sie gehört aber auch einer Gruppe. Sie können sowohl die Gruppe der Datei bestimmen als auch die Zugriffsrechte für alle Benutzer dieser Gruppe. Sie können einer Datei nur eine Gruppe zuweisen, der Sie selbst angehören.</p>
 <p class="p">Sie können auch die Zugriffsrechte für andere Benutzer als den Besitzer und die Gruppenmitglieder festlegen.</p>
-<p class="p">Wenn die Datei ein Programm ist, wie etwa ein Skript, müssen Sie <span class="gui">Datei als Programm ausführen</span> auswählen, um es auszuführen. Selbst wenn diese Option aktiv ist, kann die Dateiverwaltung die Datei mit einer Anwendung öffnen oder Sie danach fragen, was sie damit tun soll. Siehe <span class="link"><a href="nautilus-behavior.html.de#executable" title="Ausführbare Textdateien">Ausführbare Textdateien</a></span> für weitere Informationen.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.de#executable" title="Ausführbare Textdateien">Ausführbare Textdateien</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ordner</span></h2></div>

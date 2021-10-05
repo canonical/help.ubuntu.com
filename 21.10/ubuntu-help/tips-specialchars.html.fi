@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Näppäimistö</span> sivupalkista avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Type Special Characters</span> section, click <span class="gui">Compose Key</span>.</p></li>
 <li class="steps"><p class="p">Turn the switch on for the <span class="gui">Compose Key</span>.</p></li>
 <li class="steps"><p class="p">Tick the checkbox of the key that you want to set as the Compose

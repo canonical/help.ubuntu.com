@@ -89,9 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </p>
 <p class="p">Depo eklemek için:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p"><span class="app">Yazılım ve Güncellemeler</span> uygulamasını <span class="em">Etkinlikler</span> arama çubuğu aracılığıyla açın.</p></li>
 <li class="steps"><p class="p"><span class="gui">Diğer Yazılımlar</span> sekmesine geçin.</p></li>
 <li class="steps">
 <p class="p"><span class="gui">Ekle</span>'ye tıklayın ve deponun APT satırını girin. Bu, deponun sayfasında mevcut olmalı ve şuna benzemeli:</p>
@@ -114,20 +112,11 @@ document.addEventListener('DOMContentLoaded', function() {
       repository will appear in <span class="app">Ubuntu Software</span> search results
       but won't be installable until this repository is enabled.
     </p>
-<p class="p">
-      To enable the repository, follow the steps above to open the <span class="gui">Other 
-      Software</span> tab in <span class="app">Software &amp; Updates</span>. If you see the 
-      <span class="gui">Canonical Partners</span> repository in the list, make sure it is 
-      checked then close the <span class="app">Software &amp; Updates</span> window. If you don't see it, click 
-      <span class="gui">Add</span> and enter:
-    </p>
+<p class="p">Depoyu etkinleştirmek için, yukarıdaki adımlara uyarak <span class="app">Yazılım ve Güncellemeler</span> uygulamasındaki <span class="gui">Diğer Yazılımlar</span> sekmesini açın. Listede <span class="gui">Canonical Ortakları</span> deposunu görürseniz, işaretlendiğinden emin olun ve ardından <span class="app">Yazılım ve Güncellemeler</span> penceresini kapatın. Göremiyorsanız <span class="gui">Ekle</span> düğmesine tıklayın ve şunu yazın:</p>
 <p class="p">
       <span class="code">deb http://archive.canonical.com/ubuntu impish partner</span>
     </p>
-<p class="p">
-      Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 
-      moment for <span class="app">Ubuntu Software</span> to download the repository information.
-    </p>
+<p class="p"><span class="gui">Kaynak Ekle</span>ye tıklayın ve ardından <span class="app">Yazılım ve Güncellemeler</span> penceresini kapatın. <span class="app">Ubuntu Software </span>'in depo bilgilerini indirmesine müsaade edin.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -135,8 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Daha Çok Bilgi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Uygulamaları ve diğer yazılımları ekleyin ve kaldırın. Ek yazılım depolarını yönetin.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

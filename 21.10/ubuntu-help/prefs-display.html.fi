@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="display-night-light.html.fi" title="Määritä näytön värilämpötila"><span class="title">Määritä näytön värilämpötila</span><span class="linkdiv-dash"> — </span><span class="desc">Yövalo muuttaa näytön värejä vuorokaudenajan mukaan.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fi" title="Näyttö lukitsee itsensä liian nopeasti"><span class="title">Näyttö lukitsee itsensä liian nopeasti</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön lukitsemisen aikarajaa <span class="gui">Näytön lukitus</span> -asetuksista.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-resolution.html.fi" title="Vaihda näytön tarkkuutta tai suuntausta"><span class="title">Vaihda näytön tarkkuutta tai suuntausta</span><span class="linkdiv-dash"> — </span><span class="desc">Vaihda näytön tarkuutta ja suuntaa (kiertoa).</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="look-background.html.fi" title="Vaihda työpöydän taustakuva"><span class="title">Vaihda työpöydän taustakuva</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image as your desktop background.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.fi" title="Vaihda työpöydän taustakuva"><span class="title">Vaihda työpöydän taustakuva</span><span class="linkdiv-dash"> — </span><span class="desc">Aseta kuva työpöydän taustakuvaksi.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

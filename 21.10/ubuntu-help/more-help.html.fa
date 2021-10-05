@@ -81,11 +81,11 @@ document.addEventListener('DOMContentLoaded', function() {
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="community-support.html.fa" title="Community support"><span class="title">Community support</span><span class="linkdiv-dash"> — </span><span class="desc">Get help from the community</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html.fa" title="Participate to improve this guide"><span class="title">Participate to improve this guide</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to report problems with these help topics.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.fa" title="دربارهٔ این راهنما"><span class="title">دربارهٔ این راهنما</span><span class="linkdiv-dash"> — </span><span class="desc">چند نکته دربارهٔ استفاده از راهنمای میزکار اوبونتو.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="get-involved.html.fa" title="مشارکت در بهبود این راهنما"><span class="title">مشارکت در بهبود این راهنما</span><span class="linkdiv-dash"> — </span><span class="desc">مشکلات این راهنما را چگونه و کجا گزارش کنیم؟</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.fa" title="دربارهٔ این راهنما"><span class="title">دربارهٔ این راهنما</span><span class="linkdiv-dash"> — </span><span class="desc">چند نکته دربارهٔ استفاده از راهنمای میزکار اوبونتو.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="community-support.html.fa" title="پشتیبانی اجتماعی"><span class="title">پشتیبانی اجتماعی</span><span class="linkdiv-dash"> — </span><span class="desc">یار گرفتن از اجتماع</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.fa" title="گزارش یک مشکل در اوبونتو"><span class="title">گزارش یک مشکل در اوبونتو</span><span class="linkdiv-dash"> — </span><span class="desc">مشکلات اوبونتو را چگونه و کجا گزارش کنیم؟</span></a></div>
 </div>
 </div></div></div></div>

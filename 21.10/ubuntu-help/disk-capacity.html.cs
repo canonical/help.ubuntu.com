@@ -82,9 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Když chcete zjistit volné místo na disku a jeho kapacitu pomocí <span class="app">Analyzátoru využití disku</span>: </p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Z přehledu <span class="gui">Činnosti</span> otevřete <span class="app">Analyzátor využití disku</span>. Okno zobrazí seznam umístění souborů společně s použitým místem a celkovou kapacitou u každého.</p></li>
-<li class="list"><p class="p">Click one of the items in the list to view a detailed summary of the
-      usage for that item. Click the menu button, and then <span class="gui">Scan
-      Folder…</span> to scan a different location.</p></li>
+<li class="list"><p class="p">Kliknutím na položku v seznamu se zobrazí podrobný přehled využití pro tuto položku. Kliknutím na tlačítko nabídky a pak volbou <span class="gui">Projít složku…</span> můžete provést analýzu jiného umístění.</p></li>
 </ul></div></div></div>
 <p class="p">Informace jsou zobrazeny podle <span class="gui">Složky</span>, <span class="gui">Velikosti</span>, <span class="gui">Obsahu</span> a toho, kdy byla data naposledy <span class="gui">Změněna</span>. Podrobnější informace viz <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Analyzátor využití disku</span></a></span>.</p>
 </div></div>

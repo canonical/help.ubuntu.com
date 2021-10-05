@@ -80,10 +80,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tablet Grafis Wacom</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.id" title="Memakai tablet secara kidal"><span class="title">Memakai tablet secara kidal</span><span class="linkdiv-dash"> — </span><span class="desc">Alihkan tablet Wacom ke <span class="gui">Orientasi Kidal</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.id" title="Memilih monitor"><span class="title">Memilih monitor</span><span class="linkdiv-dash"> — </span><span class="desc">Petakan tablet Wacom ke monitor tertentu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.id" title="Menata mode pelacakan tablet Wacom"><span class="title">Menata mode pelacakan tablet Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Alih fungsi tablet antara mode table dan mode tetikus.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.id" title="Tata konfigurasi tylus"><span class="title">Tata konfigurasi tylus</span><span class="linkdiv-dash"> — </span><span class="desc">Mendefinisikan fungsi tombol dan rasa tekanan dari stylus Wacom.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.id" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -80,12 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">O que é a tecla <span class="key"><kbd>Menu</kbd></span>?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="key"><kbd>Menu</kbd></span> key, also known as the <span class="em">Application</span> key, is a
-  key found on some Windows-oriented keyboards. This key is usually on the
-  bottom-right of the keyboard, next to the <span class="key"><kbd>Ctrl</kbd></span> key, but it can be
-  placed in a different location by keyboard manufacturers. It is usually
-  depicted as a cursor hovering above a menu:
-  <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
+<p class="p">A tecla <span class="key"><kbd>Menu</kbd></span>, também conhecida como a tecla <span class="em">Aplicativo</span>, é uma tecla encontrada em alguns teclados feitos para a Windows. Esta tecla normalmente está no canto direito inferior do teclado, próximo à tecla <span class="key"><kbd>Ctrl</kbd></span>, mas ela pode estar localizada em uma localização diferente de acordo com o fabricante do teclado. Ela normalmente é representada com um cursor flutuando sobre um menu: <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
 <p class="p">A função primária desta tecla é chamar um menu de contexto com o teclado em vez de clicar no botão direito do mouse: isso é útil se o mouse ou um dispositivo similar não está disponível ou quanto o botão direito do mouse não está presente.</p>
 <p class="p">A tecla <span class="key"><kbd>Menu</kbd></span> é, em alguns casos, omitida em nome de espaço, particularmente em teclados portáteis e notebooks. Neste caso, alguns teclados incluem, uma tecla de função <span class="key"><kbd>Menu</kbd></span> que pode ser ativada em combinação com a tecla Function (<span class="key"><kbd class="key-Fn">Fn</kbd></span>).</p>
 <p class="p">O <span class="em">menu de contexto</span> é um menu que aparece quando você clicar com o botão direito. O menu que você vê, se você vir algum, é dependente do contexto e função de uma área que pode ser clicada com o botão direito. Quando você usar a tecla <span class="key"><kbd>Menu</kbd></span>, o menu de contexto é mostrado para a área da tela que seu cursor está sobre, quando a tecla é pressionada.</p>

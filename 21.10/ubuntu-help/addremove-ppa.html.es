@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="addremove.html.es" title="Instalar y eliminar software">Añadir/eliminar software</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.es" title="Guía del escritorio de Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ayuda"></span></span> Guía de escritorio de Ubuntu</a> » <a class="trail" href="addremove.html.es" title="Instalar y desinstalar programas">Añadir/eliminar software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Añadir un repositorio de paquetes personal (PPA)</span></h1></div>
@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.es" title="Instalar y eliminar software">Instalar y eliminar software</a><span class="desc"> — Add and remove applications and other software. Handle
+<a href="addremove.html.es" title="Instalar y desinstalar programas">Instalar y desinstalar programas</a><span class="desc"> — Add and remove applications and other software. Handle
     additional software repositories.</span>
 </li></ul></div>
 </div></div>

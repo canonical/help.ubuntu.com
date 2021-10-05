@@ -123,12 +123,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Poglejte tudi</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.sl#trash" title="Smeti">Možnosti smeti upravljalnika datotek</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.sl" title="Obnovitev datoteke iz Smeti">Obnovitev datoteke iz Smeti</a><span class="desc"> — Izbrisane datoteke so običajno poslane v Smeti. Datoteke lahko iz Smeti dobite nazaj.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

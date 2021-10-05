@@ -75,25 +75,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferències del gestor de fitxers</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Podeu controlar si feu un clic o feu doble clic a fitxers, com es gestionen els fitxers de text executables i el comportament de la paperera. Feu clic al botó de menú a la part superior dreta de la finestra i seleccioneu <span class="gui">Preferències</span> i seleccioneu la pestanya <span class="gui">Comportament</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
+executable text files are handled, and the trash behavior. Click the menu
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Comportament</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Clic simple per a obrir els elements</span></dt>
-<dt class="terms"><span class="gui">Clic doble per a obrir els elements</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Per defecte, fent un clic se selecciona un fitxer i fent un doble clic s'obre. En el seu lloc, podeu triar que els fitxers i les carpetes s'obrin quan feu un clic. Quan feu servir el mode d'un sol clic, podeu mantenir premut el botó <span class="key"><kbd>Ctrl</kbd></span> mentre feu clic per a seleccionar un o més fitxers.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Fitxer de text executable</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Un fitxer de text executable és un fitxer que conté un programa que podeu executar. Els <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Establir els permisos pel fitxer">permisos del fitxer</a></span> també han de permetre que el fitxer s'executi com a programa. Els més comuns són els scripts <span class="sys">Shell</span>, <span class="sys">Python</span> i <span class="sys">Perl</span>. Aquestes tenen extensions <span class="file">.sh</span>, <span class="file">.py</span> i <span class="file">.pl</span>, respectivament.</p>
-<p class="p">Quan obriu un fitxer de text executable, podeu seleccionar entre:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Executeu fitxers de text executables quan s'obrin</span></p></li>
-<li class="list"><p class="p"><span class="gui">Visualitzeu fitxers de text executables quan s'obrin</span></p></li>
-<li class="list"><p class="p"><span class="gui">Demana-ho cada vegada</span></p></li>
-</ul></div></div></div>
-<p class="p">Si està seleccionat <span class="gui">Demana-ho cada vegada</span>, es mostrarà un diàleg flotant preguntant-vos si el voleu executar o visualitzar.</p>
 <p class="p">Els fitxers de text executables també s'anomenen <span class="em">scripts</span>. Tots els scripts a la carpeta <span class="file">~/.local/share/nautilus/scripts</span> apareixerà al menú contextual per a un fitxer sota el <span class="gui">Script</span> submenú. Quan un script s'executa des d'una carpeta local, tots els fitxers seleccionats s'enganxaran al script com a paràmetres. Per a executar un script en un fitxer:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Navegar a la carpeta desitjada.</p></li>
@@ -106,23 +101,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Un script no passarà cap paràmetre quan s'executi des d'una carpeta remota, com ara una carpeta que mostra contingut web o <span class="sys">ftp</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Paperera</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Pregunta abans de buidar la paperera</span></dt>
-<dd class="terms"><p class="p">Aquesta opció se selecciona de manera predeterminada. Quan es buidi la paperera, es mostrarà un missatge per a confirmar que voleu buidar la paperera o eliminar els fitxers.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Vegeu també</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.ca" title="Eliminar fitxers i carpetes">Eliminar fitxers i carpetes</a><span class="desc"> — Eliminar els fitxers o carpetes que ja no necessitareu.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

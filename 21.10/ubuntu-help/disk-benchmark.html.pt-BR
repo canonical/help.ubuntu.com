@@ -83,10 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Clique no botão de menu e selecione <span class="gui">Avaliar desempenho do disco…</span>.</p></li>
 <li class="steps"><p class="p">Clique <span class="gui">Iniciar avaliação de desempenho…</span> e ajuste os parâmetros de <span class="gui">Taxa de transferência</span> e <span class="gui">Tempo de acesso</span> como desejar.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Start Benchmarking…</span> to test how fast data can be read
-      from the disk. <span class="link"><a href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?">Administrative
-      privileges</a></span> may be required. Enter your password, or the password
-      for the requested administrator account.</p>
+<p class="p">Clique em <span class="gui">Iniciar avaliação de desempenho…</span> para testar o quão rápido os dados podem ser lidos do disco. <span class="link"><a href="user-admin-explain.html.pt-BR" title="Como funcionam os privilégios administrativos?">Privilégios administrativos</a></span> podem ser necessários. Informe sua senha ou a senha para a conta de administrador que for requisitada.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>

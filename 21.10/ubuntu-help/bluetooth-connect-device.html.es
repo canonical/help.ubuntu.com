@@ -88,9 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">En la mayoría de los dispositivos, deberá introducirlo la entrada en menos de veinte segundos, o la conexión no se completará. Si pasara esto, vuelva a la lista de dispositivos y empiece de nuevo.</p>
 </li>
 <li class="steps"><p class="p">La entrada para el dispositivo en la lista de <span class="gui">Dispositivos</span> mostrará ahora el estado <span class="gui">Conectado</span>.</p></li>
-<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Devices</span> list. You
-      will see a panel specific to the device. It may display additional
-      options applicable to the type of device to which you are connecting.</p></li>
+<li class="steps"><p class="p">Para editar el dispositivo, pulse sobre él en la lista de <span class="gui">Dispositivos</span>. Verá un panel específico para el dispositivo. Puede mostrar opciones adicionales, aplicables al tipo de dispositivo al que se está conectando.</p></li>
 <li class="steps"><p class="p">Cierre el panel cuando haya cambiado la configuración.</p></li>
 </ol></div></div></div>
 <div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-symbolic.svg" class="media media-block" alt="El icono de Bluetooth en la barra superior"></div></div>
@@ -102,8 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — Conectar a dispositivos por Bluetooth para transferir archivos o usar audio inalámbrico.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

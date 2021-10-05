@@ -77,26 +77,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
 executable text files are handled, and the trash behavior. Click the menu
-button in the top-right corner of the window and select <span class="gui">Preferences</span>,
-and select the <span class="gui">Behavior</span> tab.</p></div>
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Συμπεριφορά</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Μονό κλικ για να ανοίξετε στοιχεία</span></dt>
-<dt class="terms"><span class="gui">Διπλό κλικ για να ανοίξετε στοιχεία</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Από προεπιλογή, το κλικ επιλέγει αρχεία και το διπλό κλικ τα ανοίγει. Μπορείτε να επιλέξετε να ανοίγετε αρχεία και φακέλους όταν τα πατάτε μια φορά. Όταν χρησιμοποιείτε λειτουργία μονού κλικ, μπορείτε να κρατήσετε πατημένο το πλήκτρο <span class="key"><kbd>Ctrl</kbd></span> ενώ κάνετε κλικ για να επιλέξετε ένα ή περισσότερα αρχεία.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Εκτελέσιμα αρχεία κειμένου</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Ένα εκτελέσιμο αρχείο κειμένου είναι ένα αρχείο που περιέχει ένα πρόγραμμα που μπορείτε να εκτελέσετε. Τα <span class="link"><a href="nautilus-file-properties-permissions.html.el" title="Ορισμός δικαιωμάτων αρχείου">δικαιώματα αρχείου</a></span> πρέπει επίσης να επιτρέπουν το αρχείο να εκτελεστεί ως πρόγραμμα. Οι πιο κοινές δέσμες ενεργειών είναι <span class="sys">κέλυφος</span>, <span class="sys">Python</span> και <span class="sys">Perl</span>. Αυτά έχουν επεκτάσεις <span class="file">.sh</span>, <span class="file">.py</span> και <span class="file">.pl</span>, αντίστοιχα.</p>
-<p class="p">Όταν ανοίγετε ένα εκτελέσιμο αρχείο κειμένου, μπορείτε να επιλέξτε από:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Εκτέλεση εκτελέσιμων αρχείων κειμένου όταν ανοιχτούν</span></p></li>
-<li class="list"><p class="p"><span class="gui">Προβολή εκτελέσιμων αρχείων κειμένου όταν ανοιχτούν</span></p></li>
-<li class="list"><p class="p"><span class="gui">Ερώτηση κάθε φορά</span></p></li>
-</ul></div></div></div>
-<p class="p">Εάν έχει επιλεγεί το <span class="gui">Ερώτηση κάθε φορά</span>, ένας διάλογος θα αναδυθεί ρωτώντας εάν επιθυμείτε να εκτελέσετε ή να προβάλετε το επιλεγμένο αρχείο κειμένου.</p>
 <p class="p">Τα εκτελέσιμα αρχεία κειμένου λέγονται επίσης <span class="em">δέσμες ενεργειών</span>. Όλες οι δέσμες ενεργειών στον φάκελο <span class="file">~/.local/share/nautilus/scripts</span> θα εμφανιστούν στο μενού περιεχομένων για ένα αρχείο του υπομενού <span class="gui">Δέσμες ενεργειών</span>. Όταν εκτελείται μια από έναν τοπικό φάκελο, όλα τα επιλεγμένα αρχεία θα επικολληθούν στην δέσμη ενεργειών ως παράμετροι. Για να εκτελέσετε μια δέσμη ενεργειών σε ένα αρχείο:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Περιηγηθείτε στον επιθυμητό φάκελο.</p></li>
@@ -109,23 +101,6 @@ and select the <span class="gui">Behavior</span> tab.</p></div>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Δεν θα περαστούν παράμετροι σε μια δέσμη ενεργειών όταν εκτελείται από έναν απομακρυσμένο φάκελο όπως έναν φάκελο που εμφανίζει περιεχόμενο ιστού ή <span class="sys">ftp</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Απορρίμματα</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
-<dd class="terms"><p class="p">Αυτή η επιλογή επιλέγεται από προεπιλογή. Όταν αδειάζετε τα απορρίμματα, ένα μήνυμα θα εμφανιστεί επιβεβαιώνοντας ότι θα θέλατε να αδειάσετε τα απορρίμματα ή να διαγράψετε τα αρχεία.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Δείτε επίσης</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.el" title="Διαγραφή αρχείων και φακέλων">Διαγραφή αρχείων και φακέλων</a><span class="desc"> — Αφαιρέστε αρχεία ή φακέλους που δεν χρειάζεστε πια.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

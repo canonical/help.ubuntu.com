@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Networking</a> » <a class="trail" href="contacts.html.id" title="Kontak">Kontak</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan</a> » <a class="trail" href="contacts.html.id" title="Kontak">Kontak</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tambah atau hapus pengguna</span></h1></div>
@@ -79,19 +79,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Untuk menambah kontak:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Klik tombol<span class="gui">+</span>.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">New contact</span> dialog, enter the contact name and their
-      information. Press the drop down box next to each field to choose the
-      type of detail.</p></li>
-<li class="steps"><p class="p">To add more details press the <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="View More"></span></span> option.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to save the contact.</p></li>
+<li class="steps"><p class="p">Dalam dialog <span class="gui">Kontak baru</span>, masukkan nama kontak dan informasi yang diinginkan. Klik pada kotak tarik turun ke tiap-tiap isian untuk memilih tipe detilnya.</p></li>
+<li class="steps"><p class="p">Untuk menambahkan lebih banyak detail tekan opsi <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Lihat Selengkapnya"></span></span>.</p></li>
+<li class="steps"><p class="p">Tekan <span class="gui">Tambah</span> untuk menyimpan perubahan.</p></li>
 </ol></div></div></div>
 <p class="p">Untuk menghapus kontak:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pilih kontak dari daftar kontak Anda.</p></li>
-<li class="steps"><p class="p">Press the <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="View More"></span></span> button in the header bar on the top-right corner.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Delete</span> option to remove contact.</p></li>
+<li class="steps"><p class="p">Klik tombol <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Lihat Selengkapnya"></span></span> dalam bilah kepala pada pojok kanan atas.</p></li>
+<li class="steps"><p class="p">Klik opsi <span class="gui">Hapus</span> untuk menghapus kontak.</p></li>
 </ol></div></div></div>
-<p class="p">To remove one or more contacts, check the boxes next to the contacts you want to delete and press <span class="gui">Remove</span>.</p>
+<p class="p">Untuk menghapus satu atau beberapa kontak, centang kotak di samping kontak yang ingin Anda hapus dan tekan <span class="gui">Hapus</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

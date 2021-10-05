@@ -2,7 +2,7 @@
 <html lang=pt-BR>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Onde posso achar os arquivos que quero fazer cópia de segurança?</title>
+<title>Onde posso achar os arquivos que quero fazer backup?</title>
 <link rel="stylesheet" type="text/css" href="pt-BR.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,22 +70,22 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Fazendo backup">Fazendo backup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Onde posso achar os arquivos que quero fazer cópia de segurança?</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Onde posso achar os arquivos que quero fazer backup?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Decidir quais arquivos serão guardados e localizá-los é o passo mais difícil quando se tenta realizar uma cópia de segurança. Estão listados abaixo os locais mais comuns de arquivos e configurações importantes que talvez você queira fazer cópia de segurança.</p>
+<p class="p">Decidir quais arquivos serão guardados e localizá-los é o passo mais difícil quando se tenta realizar um backup. Estão listados abaixo os locais mais comuns de arquivos e configurações importantes que talvez você queira fazer backup.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
 <p class="p">Arquivos pessoais (documentos, músicas, fotografias e vídeos)</p>
 <p class="p">Estes costumam estar armazenados em sua pasta pessoal (<span class="file">/home/seu_nome</span>). Eles podem estar em subpastas como <span class="file">Área de trabalho</span>, <span class="file">Documentos</span>, <span class="file">Imagens</span>, <span class="file">Música</span> e <span class="file">Vídeos</span>.</p>
-<p class="p">Se sua mídia de cópia de segurança tiver espaço o bastante (se for um disco rígido externo, por exemplo), pondere sobre fazer uma cópia de segurança de toda a pasta pessoal. Você pode descobrir quanto de espaço em disco sua pasta pessoal ocupa usando o <span class="app">Analisador de uso de disco</span>.</p>
+<p class="p">Se sua mídia de backup tiver espaço o bastante (se for um disco rígido externo, por exemplo), pondere sobre fazer um backup de toda a pasta pessoal. Você pode descobrir quanto de espaço em disco sua pasta pessoal ocupa usando o <span class="app">Analisador de uso de disco</span>.</p>
 </li>
 <li class="list">
 <p class="p">Arquivos ocultos</p>
-<p class="p">Qualquer arquivo ou pasta cujo nome comece com um ponto (.) é ocultado por padrão. Para ver arquivos escondidos, pressione o botão de menu no canto superior direito da janela de <span class="app">Arquivos</span> e pressione <span class="gui">Mostrar arquivos ocultos</span> ou pressione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Você pode copiar esses arquivos para um local de cópia de segurança como qualquer outro arquivo.</p>
+<p class="p">Qualquer arquivo ou pasta cujo nome comece com um ponto (.) é ocultado por padrão. Para ver arquivos escondidos, pressione o botão de menu no canto superior direito da janela de <span class="app">Arquivos</span> e pressione <span class="gui">Mostrar arquivos ocultos</span> ou pressione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Você pode copiar esses arquivos para um local de backup como qualquer outro arquivo.</p>
 </li>
 <li class="list">
 <p class="p">Configurações pessoais (preferências do ambiente, temas e configurações de programas)</p>
@@ -94,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="list">
 <p class="p">Configurações do sistema</p>
-<p class="p">As configurações de partes importantes do sistema não estão armazenadas na sua pasta pessoal. Existem vários locais onde possam estar armazenadas, mas a maioria se encontra na pasta <span class="file">/etc</span>. Em geral, você não precisa fazer cópia desses arquivos em um computador pessoal. Contudo, se estiver em um servidor, você deveria fazer cópia de segurança dos arquivos relacionados aos serviços que ele esteja executando.</p>
+<p class="p">As configurações de partes importantes do sistema não estão armazenadas na sua pasta pessoal. Existem vários locais onde possam estar armazenadas, mas a maioria se encontra na pasta <span class="file">/etc</span>. Em geral, você não precisa fazer cópia desses arquivos em um computador pessoal. Contudo, se estiver em um servidor, você deveria fazer backup dos arquivos relacionados aos serviços que ele esteja executando.</p>
 </li>
 </ul></div></div></div>
 </div>
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#backup" title="Fazendo backup">Fazendo backup</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

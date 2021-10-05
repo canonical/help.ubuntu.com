@@ -82,9 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Displeje</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Noční světlo</span> v horní liště otevřete nastavení.</p></li>
 <li class="steps"><p class="p">Ujistěte se, že je vypínač <span class="gui">Noční světlo</span> přepnutý do polohy zapnuto.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">Schedule</span>, select <span class="gui">Sunset to Sunrise</span> to
-      make the screen color follow the sunset and sunrise times for your location.
-      Select <span class="gui">Manual Schedule</span> to set the <span class="gui">Times</span> to a custom schedule.</p></li>
+<li class="steps"><p class="p">U položky <span class="gui">Plánování</span> vyberte <span class="gui">Od soumraku do úsvitu</span>, aby se barevný tón obrazovky řídil podle východu a západu slunce ve vašem místě. Pokud byste si chtěli nastavit vlastní <span class="gui">Čas</span>, vyberte <span class="gui">Ruční plánování</span>.</p></li>
 <li class="steps"><p class="p">Použijte táhlo k úpravě <span class="gui">Barevné teploty</span>, aby byla více, čí méně teplejší.</p></li>
 </ol></div></div></div>
 <div class="note" title="Upozornění">

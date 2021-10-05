@@ -78,14 +78,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">La manera más sencilla de hacer copias de seguridad de sus archivos y configuración es dejar a una aplicación de copia de seguridad que gestiones los procesos de respaldo. Hay un cierto número de aplicaciones de copia de seguridad, por ejemplo <span class="app">Déjà Dup</span>.</p>
 <p class="p">La ayuda para la aplicación de copia de respaldo elegida le guiará mientras establece sus preferencias de copia de respaldo, así como para restaurar sus datos.</p>
-<p class="p">An alternative option is to <span class="link"><a href="files-copy.html.es" title="Copiar o mover archivos y carpetas">copy your files</a></span>
- to a safe location, such as an external hard drive, an online storage service,
- or a USB drive. Your <span class="link"><a href="backup-thinkabout.html.es" title="¿Dónde puedo encontrar los archivos de los que quiero hacer copia de respaldo?">personal files</a></span>
- and settings are usually in your Home folder, so you can copy them from there.</p>
+<p class="p">Una opción alternativa consiste en <span class="link"><a href="files-copy.html.es" title="Copiar o mover archivos y carpetas">copiar sus archivos</a></span> a un lugar seguro, como un disco duro externo, un servicio de almacenamiento en línea o una unidad USB. Sus <span class="link"><a href="backup-thinkabout.html.es" title="¿Dónde puedo encontrar los archivos de los que quiero hacer copia de respaldo?">archivos personales</a></span> y preferencias suelen estar en su carpeta personal, por lo que puede copiarlos de ahí.</p>
 <p class="p">La cantidad de datos que puede respaldar está limitada por el tamaño del dispositivo de almacenamiento. Si tiene espacio suficiente en su dispositivo de respaldo, es mejor copiar la carpeta personal completa con las siguientes excepciones:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Files that are already backed up somewhere else, such as to a USB drive,
- or other removable media.</p></li>
+<li class="list"><p class="p">Archivos que ya están respaldados en otro sitio, como una unidad USB u otro medio extraíble.</p></li>
 <li class="list"><p class="p">Los archivos que puede volver a crear fácilmente. Por ejemplo, si es programador, no tiene que respaldar todos los archivos que ha generado al compilar sus programas. En su lugar, simplemente asegúrese de que respalda los archivos fuente originales.</p></li>
 <li class="list"><p class="p">Cualquier archivo en la carpeta Papelera. Puede encontrar su carpeta de Papelera en <span class="cmd">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>

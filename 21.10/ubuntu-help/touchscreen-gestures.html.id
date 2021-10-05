@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="mouse.html.id" title="Tetikus, Touchpad, &amp; Layar Sentuh">Tetikus</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-unfullscreen.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p"><span class="em">Exit from fullscreen</span></p>
+<p class="p"><span class="em">Keluar dari layar penuh</span></p>
 <p class="p">On a touchscreen, drag down from the top edge to exit from the fullscreen mode of any window.</p>
 </td>
 </tr>

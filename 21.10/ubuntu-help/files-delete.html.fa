@@ -132,13 +132,10 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">همچنین ببینید</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.fa" title="بازیابی یک پرونده از سطل زباله">بازیابی یک پرونده از سطل زباله</a><span class="desc"> — Deleted files are normally sent to the Trash, but can be
     recovered.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.fa#trash" title="زباله‌دان">ترجیحات زباله‌دان مدیر پرونده</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

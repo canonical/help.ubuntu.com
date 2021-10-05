@@ -188,10 +188,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Give keyboard focus to the top bar. In the <span class="gui">Activities</span>
-      overview, switch keyboard focus between the top bar, dash, windows
-      overview, applications list, and search field. Use the arrow keys to
-      navigate.</p></td>
+<td style="border-top-style: solid;"><p class="p">Aseta näppäimistön kohdistus yläpalkkiin. <span class="gui">Toiminnot</span>-yleisnäkymässä vaihda näppäimistön kohdistusta yläpalkin, telakan, ikkunanäkymän, sovellusluettelon ja hakukentän välillä. Käytä nuolinäppäimiä liikkuaksesi.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;">

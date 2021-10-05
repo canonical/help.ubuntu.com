@@ -95,7 +95,10 @@ document.addEventListener('DOMContentLoaded', function() {
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">Se o ficheiro é un programa, como un script, pode estabelecer <span class="gui">Permitir a execución do ficheiro como un programa</span> para executalo. Incluso se esta opción está seleccionada, o xestor de ficheiros pode continuar abrindo o ficheiro nunha aplicación ou preguntarlle que facer. Vexa <span class="link"><a href="nautilus-behavior.html.gl-GL#executable" title="Ficheiros de texto executábeis">Ficheiros de texto executábeis</a></span> para obter máis información.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.gl-GL#executable" title="Ficheiros de texto executábeis">Ficheiros de texto executábeis</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Cartafoles</span></h2></div>

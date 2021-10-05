@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.sl" title="Izberite zaslon"><span class="title">Izberite zaslon</span><span class="linkdiv-dash"> — </span><span class="desc">Preslikava tablice Wacom na določen zaslon.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.sl" title="Nadzor pisala"><span class="title">Nadzor pisala</span><span class="linkdiv-dash"> — </span><span class="desc">Določitev funkcij gumbov in občutek pritiska zaslonskega pisala Wacom.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.sl" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Preklopite tablico med načinom tablice in miške.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.sl" title="Uporaba tablice z levico"><span class="title">Uporaba tablice z levico</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.sl" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Energia</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Saving</span> section, click
-      <span class="gui">Automatic suspend</span>.</p></li>
+<li class="steps"><p class="p">Na seção <span class="gui">Economia de energia</span>, clique em <span class="gui">Suspensão automática</span>.</p></li>
 <li class="steps">
 <p class="p">Escolha <span class="gui">Energia da bateria</span> ou <span class="gui">Ligado na tomada</span>, defina o botão para ligado e selecione um <span class="gui">Atraso</span>. Ambas opções podem estar configuradas.</p>
 <div class="note note-tip" title="Dica">

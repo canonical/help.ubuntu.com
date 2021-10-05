@@ -88,9 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Você precisa completar a confirmação dentro de 20 segundos na maioria dos dispositivos, ou a conexão não se completará. Se isso acontecer, retorne à lista de dispositivos e comece outra vez.</p>
 </li>
 <li class="steps"><p class="p">A entrada para o dispositivo na lista de <span class="gui">Dispositivos</span> vai mostrar um status de <span class="gui">Conectado</span>.</p></li>
-<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Devices</span> list. You
-      will see a panel specific to the device. It may display additional
-      options applicable to the type of device to which you are connecting.</p></li>
+<li class="steps"><p class="p">Para editar o dispositivo, clique nele na lista <span class="gui">Dispositivos</span>. Você verá um painel específico para o dispositivo. Ele pode exibir opções adicionais aplicáveis ao tipo de dispositivo com o qual você está conectando.</p></li>
 <li class="steps"><p class="p">Feche o painel assim que tiver alterado as configurações.</p></li>
 </ol></div></div></div>
 <div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-symbolic.svg" class="media media-block" alt="O ícone Bluetooth na barra superior"></div></div>

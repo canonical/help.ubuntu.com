@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps">
 <p class="p">Run the command</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>
-<p class="p">and confirm in order to install <span class="em">libdvdcss2</span>.</p>
+<p class="p"><span class="em">libdvdcss2</span> のインストールを確認します。</p>
 </li>
 </ol></div></div></div>
 </div></div>

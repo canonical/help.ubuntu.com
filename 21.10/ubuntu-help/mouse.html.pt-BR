@@ -81,9 +81,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.pt-BR" title="Ajustando a velocidade do mouse e do touchpad"><span class="title">Ajustando a velocidade do mouse e do touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Altere a velocidade de movimento do ponteiro quando você usa o mouse ou o touchpad.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.pt-BR" title="Ajustando a velocidade do mouse e do touchpad"><span class="title">Ajustando a velocidade do mouse e do touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Altere a velocidade de movimento do cursor quando você usa o mouse ou o touchpad.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.pt-BR" title="Ajustando a velocidade do clique duplo"><span class="title">Ajustando a velocidade do clique duplo</span><span class="linkdiv-dash"> — </span><span class="desc">Controle quão rapidamente você tem que pressionar o botão do mouse uma segunda vez para efetuar um clique duplo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.pt-BR" title="Clicando e movendo o ponteiro do mouse usando o teclado"><span class="title">Clicando e movendo o ponteiro do mouse usando o teclado</span><span class="linkdiv-dash"> — </span><span class="desc">Habilite teclas do mouse para controlar o mouse com o teclado numérico.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.pt-BR" title="Clicando e movendo o cursor do mouse usando o teclado"><span class="title">Clicando e movendo o cursor do mouse usando o teclado</span><span class="linkdiv-dash"> — </span><span class="desc">Habilite teclas do mouse para controlar o mouse com o teclado numérico.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.pt-BR" title="Clicando, arrastando ou rolagem com o touchpad"><span class="title">Clicando, arrastando ou rolagem com o touchpad</span><span class="linkdiv-dash"> — </span><span class="desc">Clique, arraste ou role usando toques e gestos em seu touchpad.</span></a></div>
 </div>
 <div class="links-divs">
@@ -96,8 +96,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="problems"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Problemas comuns</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.pt-BR" title="O cursor do mouse não está movendo"><span class="title">O cursor do mouse não está movendo</span><span class="linkdiv-dash"> — </span><span class="desc">Como verificar por que o seu mouse não está funcionando.</span></a></div></div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.pt-BR" title="O mouse reage com um atraso antes que ele comece a funcionar"><span class="title">O mouse reage com um atraso antes que ele comece a funcionar</span><span class="linkdiv-dash"> — </span><span class="desc">Se você tiver que mexer ou clicar o mouse antes que ele responda.</span></a></div></div>
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.pt-BR" title="O ponteiro do mouse não está movendo"><span class="title">O ponteiro do mouse não está movendo</span><span class="linkdiv-dash"> — </span><span class="desc">Como verificar por que o seu mouse não está funcionando.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="tips"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Dicas</span></h2></div>

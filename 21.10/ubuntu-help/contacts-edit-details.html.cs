@@ -79,9 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Možnost kontakty upravovat vám pomůže udržovat informace v adresáři aktuální a úplné.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vyberte kontakt v seznamu kontaktů.</p></li>
-<li class="steps"><p class="p">Press the <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="view more"></span></span> 
-      button in the top-right corner of the window and
-      select <span class="gui">Edit</span>.</p></li>
+<li class="steps"><p class="p">Zmáčkněte tlačítko <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Zobrazit více"></span></span> v pravém horním rohu okna a vyberte <span class="gui">Upravit</span>.</p></li>
 <li class="steps">
 <p class="p">Upravte údaje kontaktu.</p>
 <p class="p">Pokud chcete přidat nějaký <span class="em">údaj</span>, třeba nové telefonní číslo nebo e-mailovou adresu, stačí vyplnit další volné pole u příslušného údaje (telefonní číslo, e-mail, atd.), který chcete doplnit.</p>
@@ -89,9 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Press the <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="view more"></span></span>
-        option at the bottom to expand available options,
-        revealing fields like <span class="gui">Website</span> and <span class="gui">Birthday</span>.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Zmáčknutím volby <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Zobrazit více"></span></span> úplně dole se rozbalí dostupné volby, které odhalí pole jako jsou <span class="gui">Webové stránky</span> nebo <span class="gui">Narozeniny</span>.</p></div></div></div>
 </div>
 </li>
 <li class="steps"><p class="p">Zmáčknutím <span class="gui">Hotovo</span> úpravy kontaktu dokončete.</p></li>

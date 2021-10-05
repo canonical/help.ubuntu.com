@@ -86,16 +86,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Exiba o status da bateria e dispositivos conectados</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel. The status of
-      <span class="gui">Batteries</span> and known <span class="gui">Devices</span> is displayed.</p></li>
+<li class="steps"><p class="p">Clique em <span class="gui">Energia</span> para abrir o painel. O status das <span class="gui">Baterias</span> e dos <span class="gui">Dispositivos</span> conhecidos são exibidos.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Se uma bateria interna for detectada, a seção <span class="gui">Bateria</span> exibe o status de uma ou mais baterias de notebook. A barra indicadora mostra a percentagem da carga, assim como o tempo até estar completamente carregada se estiver conectado, e o tempo restante quando se está usando a energia da bateria.</p>
 <p class="p">A seção <span class="gui">Dispositivos</span> exibe o status dos dispositivos conectados.</p>
-<p class="p">The <span class="link"><a href="status-icons.html.pt-BR#batteryicons" title="Ícones de bateria">status icon</a></span> in the top
-    bar shows the charge level of the main internal battery, and whether it is
-    currently charging or not. It can also display the charge as a
-    <span class="link"><a href="power-percentage.html.pt-BR" title="Show the battery status as a percentage">percentage</a></span>.</p>
+<p class="p">O <span class="link"><a href="status-icons.html.pt-BR#batteryicons" title="Ícones de bateria">ícone de status</a></span> na barra superior mostra o nível de carga da bateria interna principal e se ela está carregando ou não. Ele também pode exibir a carga como uma <span class="link"><a href="power-percentage.html.pt-BR" title="Mostrando o status da bateria como uma porcentagem">porcentagem</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -115,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Veja também</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-percentage.html.pt-BR" title="Show the battery status as a percentage">Show the battery status as a percentage</a><span class="desc"> — Display the battery percentage in the top bar.</span>
+<a href="power-percentage.html.pt-BR" title="Mostrando o status da bateria como uma porcentagem">Mostrando o status da bateria como uma porcentagem</a><span class="desc"> — Exibe a porcentagem da bateria na barra superior.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html.pt-BR" title="Usando menos energia e melhorando duração da bateria">Usando menos energia e melhorando duração da bateria</a><span class="desc"> — Dicas para reduzir o consumo de energia do seus computador.</span>

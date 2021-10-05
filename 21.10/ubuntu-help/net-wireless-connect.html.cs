@@ -83,9 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Klikněte na <span class="gui">Vybrat síť</span>.</p></li>
 <li class="steps">
 <p class="p">Klikněte na název sítě, ke které se chcete připojit, a pak klikněte na <span class="gui">Připojit</span>.</p>
-<p class="p">If the name of the network is not shown, scroll down the list. If you
-    still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">might be hidden</a></span>.</p>
+<p class="p">Pokud název sítě nevidíte zobrazen, zkuste se v seznamu posunout dolů. Pokud síť i přesto nevidíte, jste možná mimo její dosah nebo <span class="link"><a href="net-wireless-hidden.html.cs" title="Připojení ke skryté bezdrátové síti">může být skrytá</a></span>.</p>
 </li>
 <li class="steps">
 <p class="p">Pokud je síť chráněná heslem (<span class="link"><a href="net-wireless-wepwpa.html.cs" title="Co znamená WEP a WPA?">šifrovací klíč</a></span>), zadejte po vyzvání heslo a klikněte na <span class="gui">Připojit</span>.</p>

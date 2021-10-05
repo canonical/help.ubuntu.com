@@ -77,15 +77,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Při prvním spuštění <span class="app">Kontatků</span> se otevře okno <span class="gui">Výběr adresáře</span>.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html.cs" title="Účty on-line">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and press <span class="gui">Done</span>.</p>
-<p class="p">All new contacts you create will be saved to the address book you choose. 
-  You are also able to view, edit and delete contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, press
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, press <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Pokud máte nastaveny <span class="link"><a href="accounts.html.cs" title="Účty on-line">účty on-line</a></span>, jsou vypsány spolu s <span class="gui">Místním adresářem</span>. Vyberte některou položku v seznamu a zmáčkněte tlačítko <span class="gui">Hotovo</span>.</p>
+<p class="p">Všechny nové kontakty, které vytvoříte, se uloží do adresáře, který jste zvolili. Bude zároveň moci prohlížet, upravovat a mazat kontakty v ostatních adresářích.</p>
+<p class="p">Pokud účty on-line nemáte nastaveny, zmáčkněte tlačítko <span class="gui">Účty on-line</span>, aby se zahájilo jejich nastavení. Jestliže si nepřejete účty on-line nastavit v tuto chvíli, zmáčkněte tlačítko <span class="gui">Místní adresář</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

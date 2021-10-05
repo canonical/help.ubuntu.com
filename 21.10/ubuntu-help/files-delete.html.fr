@@ -119,12 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.fr#trash" title="Corbeille">Préférences de la corbeille du gestionnaire de fichiers</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.fr" title="Restauration d’un fichier à partir de la corbeille">Restauration d’un fichier à partir de la corbeille</a><span class="desc"> — Les fichiers supprimés sont généralement déplacés dans la corbeille, d’où ils peuvent être récupérés.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

@@ -116,16 +116,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.pt-BR" title="Removendo uma unidade externa com segurança"><span class="title">Removendo uma unidade externa com segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Ejete ou desmonte uma unidade removível USB, CD, DVD ou outro dispositivo.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="backup"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Cópia de segurança</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Fazendo backup</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes"><span class="title">Fazendo cópias de segurança dos seus arquivos importantes</span><span class="linkdiv-dash"> — </span><span class="desc">Por que, do que, onde e como fazer cópias de segurança.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.pt-BR" title="Frequência das cópias de segurança"><span class="title">Frequência das cópias de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda o quão frequente deveria se fazer cópias de segurança dos seus arquivos importantes para que estejam seguros.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.pt-BR" title="Onde posso achar os arquivos que quero fazer cópia de segurança?"><span class="title">Onde posso achar os arquivos que quero fazer cópia de segurança?</span><span class="linkdiv-dash"> — </span><span class="desc">Uma lista de pastas onde você pode achar documentos, arquivos e configurações que talvez queira fazer cópia de segurança.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.pt-BR" title="Fazendo backups dos seus arquivos importantes"><span class="title">Fazendo backups dos seus arquivos importantes</span><span class="linkdiv-dash"> — </span><span class="desc">Por que, do que, onde e como fazer backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.pt-BR" title="Frequência dos bakups"><span class="title">Frequência dos bakups</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda o quão frequente deve-se fazer backups dos seus arquivos importantes para que estejam seguros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.pt-BR" title="Onde posso achar os arquivos que quero fazer backup?"><span class="title">Onde posso achar os arquivos que quero fazer backup?</span><span class="linkdiv-dash"> — </span><span class="desc">Uma lista de pastas onde você pode achar documentos, arquivos e configurações que talvez queira fazer backup.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.pt-BR" title="Restaurando uma cópia de segurança"><span class="title">Restaurando uma cópia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Recupere seus arquivo de uma cópia de segurança.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-check.html.pt-BR" title="Verificando sua cópia de segurança"><span class="title">Verificando sua cópia de segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique se sua cópia de segurança foi bem sucedida.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.pt-BR" title="Restaurando um backup"><span class="title">Restaurando um backup</span><span class="linkdiv-dash"> — </span><span class="desc">Recupere seus arquivo de uma backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.pt-BR" title="Verificando seu backup"><span class="title">Verificando seu backup</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique se seu backup foi bem sucedido.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="faq"><div class="inner">

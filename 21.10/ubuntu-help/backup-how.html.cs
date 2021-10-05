@@ -78,14 +78,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Nejjednodušší způsob, jak zálohovat své soubory a nastavení, je ponechat správu zálohovacího procesu na zálohovací aplikaci. K dispozici je řada různých zálohovacích aplikací, například <span class="app">Déjà Dup</span>.</p>
 <p class="p">Nápověda k vaší zvolené zálohovací aplikaci by vás měla provést nastavením předvoleb zálohování a postupem obnovy dat.</p>
-<p class="p">An alternative option is to <span class="link"><a href="files-copy.html.cs" title="Kopírování a přesun souborů a složek">copy your files</a></span>
- to a safe location, such as an external hard drive, an online storage service,
- or a USB drive. Your <span class="link"><a href="backup-thinkabout.html.cs" title="Kde mohu najít soubory, které chci zálohovat?">personal files</a></span>
- and settings are usually in your Home folder, so you can copy them from there.</p>
+<p class="p">Jinou variantou je <span class="link"><a href="files-copy.html.cs" title="Kopírování a přesun souborů a složek">zkopírovat soubory</a></span> na bezpečné místo, jako je externí pevný disk, cloudové úložiště nebo flešdisk. Vaše <span class="link"><a href="backup-thinkabout.html.cs" title="Kde mohu najít soubory, které chci zálohovat?">osobní soubory</a></span> a nastavení se obvykle nachází v domovské složce, takže je můžete zkopírovat od tam.</p>
 <p class="p">Množství dat, která zálohujete, je omezeno velikostí úložného zařízení. Pokud máte na zálohovacím zařízení dostatek místa, je nejlepší zálohovat celou domovskou složku vyjma následujícího:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Files that are already backed up somewhere else, such as to a USB drive,
- or other removable media.</p></li>
+<li class="list"><p class="p">Souborů, které již máte zazálohovány někde jinde, třeba na flešdisku nebo jiném výměnném médiu.</p></li>
 <li class="list"><p class="p">Souborů, které snadno vytvoříte znovu. Například, když jste programátor, nemusíte zálohovat soubory, které generuje kompilátor. Zato se ujistěte, že zálohujete všechny své zdrojové kódy.</p></li>
 <li class="list"><p class="p">Všech souborů v koši. Svoji složku Koš najdete v <span class="file">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>

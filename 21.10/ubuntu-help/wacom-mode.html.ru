@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Set the Wacom tablet’s tracking mode</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Режим слежения</span> определяет, как курсор отображается на экране.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
     overview and start typing <span class="gui">Wacom Tablet</span>.</p></li>
@@ -104,8 +104,8 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">В <span class="em">абсолютном</span> режиме каждая точка на планшете соответствует точке на экране. Например, левый верхний угол экрана всегда соответствует тому же углу планшета.</p>
-<p class="p">In <span class="em">relative</span> mode, if you lift the pointer off the tablet and put it
- down in a different position, the cursor on the screen doesn’t move. This is
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
     the way a mouse operates.</p>
 </div></div></div>
 </div>

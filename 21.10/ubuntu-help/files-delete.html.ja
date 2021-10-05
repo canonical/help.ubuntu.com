@@ -123,12 +123,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.ja" title="ゴミ箱からファイルを元に戻す">ゴミ箱からファイルを元に戻す</a><span class="desc"> — 削除したファイルは通常ではゴミ箱に移動しますが、それを元に戻すことができます。</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.ja#trash" title="ゴミ箱">ファイルマネージャーのゴミ箱設定</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

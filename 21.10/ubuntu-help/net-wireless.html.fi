@@ -106,10 +106,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="status-icons.html.fi#networkicons" title="Networking icons">Networking icons</a></li>
 <li class="links ">
 <a href="net-general.html.fi" title="Verkkojen nimikkeet ja vinkit">Verkkojen nimikkeet ja vinkit</a><span class="desc"> — Lue lisää IP-osoitteista, internetvälityspalvelimista ja kuinka pysyä turvassa internetissä.</span>
 </li>
+<li class="links "><a href="status-icons.html.fi#networkicons" title="Verkkokuvakkeet">Verkkokuvakkeet</a></li>
 <li class="links ">
 <a href="net-problem.html.fi" title="Yhteysongelmat">Yhteysongelmat</a><span class="desc"> — Selvitä langattomiin ja langallisiin verkkoihin liittyviä yhteysongelmia.</span>
 </li>

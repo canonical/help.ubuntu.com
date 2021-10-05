@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » <a class="trail" href="status-icons.html.id" title="Apa arti ikon-ikon pada bilah puncak?">Apa arti ikon-ikon pada bilah puncak?</a> › <a class="trail" href="status-icons.html.id#batteryicons" title="Battery icons">Battery icons</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » <a class="trail" href="status-icons.html.id" title="Apa arti ikon-ikon pada bilah puncak?">Apa arti ikon-ikon pada bilah puncak?</a> › <a class="trail" href="status-icons.html.id#batteryicons" title="Ikon baterai">Ikon baterai</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="power.html.id" title="Daya &amp; baterai">Power</a> › <a class="trail" href="power.html.id#faq" title="Pertanyaan">Pertanyaan</a> » </div>
 <div class="trail">
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="status-icons.html.id#batteryicons" title="Battery icons">Battery icons</a></li>
+<li class="links "><a href="status-icons.html.id#batteryicons" title="Ikon baterai">Ikon baterai</a></li>
 <li class="links "><a href="power.html.id#faq" title="Pertanyaan">Pertanyaan</a></li>
 </ul></div>
 </div></div>

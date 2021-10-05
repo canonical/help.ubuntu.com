@@ -122,12 +122,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Δείτε επίσης</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.el" title="Επαναφορά αρχείων από τα απορρίμματα">Επαναφορά αρχείων από τα απορρίμματα</a><span class="desc"> — Τα διαγραμμένα αρχεία κανονικά στέλνονται στα απορρίμματα, αλλά μπορούν να ανακτηθούν.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.el#trash" title="Απορρίμματα">Προτιμήσεις απορριμμάτων του διαχειριστή αρχείων</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

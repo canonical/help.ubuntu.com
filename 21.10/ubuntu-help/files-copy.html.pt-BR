@@ -77,7 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Arquivos e pastas podem ser copiados ou movidos para um novo local arrastando e soltando com o mouse, usando os comandos copiar e colar, ou usando atalhos de teclado.</p>
-<p class="p">Por exemplo, você pode querer copiar uma apresentação para um pendrive, para poder levá-la ao trabalho com você. Ou você poderia fazer uma cópia de segurança de um documento antes de fazer alterações nele (e, assim, usar a cópia antiga se não gostar das suas mudanças).</p>
+<p class="p">Por exemplo, você pode querer copiar uma apresentação para um pendrive, para poder levá-la ao trabalho com você. Ou você poderia fazer um backup de um documento antes de fazer alterações nele (e, assim, usar a cópia antiga se não gostar das suas mudanças).</p>
 <p class="p">Estas instruções se aplicam tanto a arquivos como a pastas. Você copia e move arquivos e pastas exatamente da mesma forma.</p>
 <div class="steps ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>

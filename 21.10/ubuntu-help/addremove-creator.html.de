@@ -98,8 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Anwendungen installieren &amp; entfernen</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Anwendungen installieren &amp; entfernen</a><span class="desc"> — Hinzufügen und Entfernen von Anwendungen und anderer Software. Verwalten Sie zusätzliche Softwarequellen.</span>
 </li>
 <li class="links ">
 <a href="disk.html.de" title="Festplatten und Speicherung">Festplatten und Speicherung</a><span class="desc"> — Überprüfen Sie den Plattenplatz und steuern Sie, wie Plattenplatz zugewiesen und verwendet wird.</span>

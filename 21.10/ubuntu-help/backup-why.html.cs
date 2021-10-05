@@ -76,13 +76,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Záloha vašich důležitých souborů</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="em">Zálohování</span> vašich souborů zjednodušeně znamená vytvořit jejich kopii kvůli uchování v bezpečí. Provádí se to pro případy, kdy o původní soubory přijdete, ať už kvůli smazání nebo závadě. Kopie pak můžete v případě ztráty použít k obnovení původních dat. Měly by být uchovávány na jiném zařízení a nejlépe i jiném fyzickém místě, než původní soubory. Můžete použít například flashdisk USB, externí disk, CD/DVD nebo externí službu.</p>
+<p class="p"><span class="em">Zálohování</span> vašich souborů zjednodušeně znamená vytvořit jejich kopii kvůli uchování v bezpečí. Provádí se to pro případy, kdy o původní soubory přijdete, ať už kvůli smazání nebo závadě. Kopie pak můžete v případě ztráty použít k obnovení původních dat. Měly by být uchovávány na jiném zařízení a nejlépe i jiném fyzickém místě, než původní soubory. Můžete použít například flešdisk USB, externí disk, CD/DVD nebo externí službu.</p>
 <p class="p">Nejlepší způsob zálohování je pravidelné zálohování, uchovávající soubory na jiném místě a (případně) šifrované.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="backup-what.html.cs" title="Co zálohovat"><span class="title">Co zálohovat</span><span class="linkdiv-dash"> — </span><span class="desc">Zálohujte cokoliv, u čeho byste utrpěli ztrátu, když by se něco pokazilo.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html.cs" title="Jak zálohovat"><span class="title">Jak zálohovat</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (or another backup application) to make copies of
-    your valuable files and settings to protect against loss.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.cs" title="Jak zálohovat"><span class="title">Jak zálohovat</span><span class="linkdiv-dash"> — </span><span class="desc">Používejte Déjà Dup (nebo jinou zálohovací aplikaci) k vytvoření kopie cenných souborů a nastavení, abyste se ochránili před jejich ztrátou.</span></a></div>
 </div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.cs" title="Kde uchovávat zálohy"><span class="title">Kde uchovávat zálohy</span><span class="linkdiv-dash"> — </span><span class="desc">Rady, kde uchovávat zálohy a jaké typy úložišť používat.</span></a></div></div>
 </div></div></div></div>

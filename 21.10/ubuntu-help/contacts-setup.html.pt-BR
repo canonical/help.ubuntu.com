@@ -77,15 +77,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Quando você executar <span class="app">Contatos</span> pela primeira vez, a janela <span class="gui">Selecionar catálogo de endereços</span> abrirá.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html.pt-BR" title="Contas on-line">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and press <span class="gui">Done</span>.</p>
-<p class="p">All new contacts you create will be saved to the address book you choose. 
-  You are also able to view, edit and delete contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, press
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, press <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Se você tiver <span class="link"><a href="accounts.html.pt-BR" title="Contas on-line">contas on-line</a></span> configuradas, elas podem ser listada com o <span class="gui">Catálogo de endereços local</span>. Selecione um item da lista e pressione <span class="gui">Concluído</span>.</p>
+<p class="p">Todos os novos contatos que você criar serão salvos no catálogo de endereços escolhido. Você também pode ver e editar contatos em outros catálogos de endereços.</p>
+<p class="p">Se você não tem contas on-line configuradas, pressione <span class="gui">Contas on-line</span> para começar a configurar. Se você não deseja configurar contas on-line neste instante, pressione <span class="gui">Catálogo de endereços local</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

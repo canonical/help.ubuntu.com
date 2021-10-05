@@ -89,9 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </p>
 <p class="p">Untuk menambahkan repositori:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Buka <span class="app">Perangkat Lunak &amp; Pemutakhiran</span> melalui bilah pencarian <span class="em">Aktivitas</span>.</p></li>
 <li class="steps"><p class="p">Beralih ke tab <span class="gui">Perangkat Lunak Lain</span>.</p></li>
 <li class="steps">
 <p class="p">Klik <span class="gui">Tambah</span> dan masukkan baris APT untuk repositori. Ini mestinya tersedia dari situs web repositori, dan harus terlihat seperti:</p>

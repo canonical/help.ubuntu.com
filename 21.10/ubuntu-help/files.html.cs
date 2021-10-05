@@ -112,7 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="removable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Výměnná média a externí disky</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.cs" title="Bezpečné odebrání externího disku"><span class="title">Bezpečné odebrání externího disku</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vysunout nebo odpojit flashdisk, CD, DVD nebo jiné zařízení.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.cs" title="Bezpečné odebrání externího disku"><span class="title">Bezpečné odebrání externího disku</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vysunout nebo odpojit flešdisk, CD, DVD nebo jiné zařízení.</span></a></div></div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.cs" title="Otevření aplikace pro zařízení nebo disk"><span class="title">Otevření aplikace pro zařízení nebo disk</span><span class="linkdiv-dash"> — </span><span class="desc">Jak automaticky spouštět aplikace pro CD a DVD, fotoaparáty, hudební přehrávače a další média a zařízení.</span></a></div></div>
 </div></div></div></div></div></div>
 </div></section><section id="backup"><div class="inner">

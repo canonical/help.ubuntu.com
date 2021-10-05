@@ -82,21 +82,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd class="terms"><p class="p">Esses dispositivos usam “pareamento de cabos”. Conecte os controles via USB com as <span class="gui">Configurações do Bluetooth</span> abertas e o Bluetooth ativado. Depois de pressionar o botão “PS”, você será perguntado se deseja configurar esses controles. Desconecte-os e pressione o botão “PS” para usá-los através do Bluetooth.</p></dd>
 <dt class="terms">Controles de PlayStation 4</dt>
 <dd class="terms">
-<p class="p">Those devices use “cable-pairing” as well. Plug the joypads in via USB with the
-      <span class="gui">Bluetooth Settings</span> opened, and Bluetooth turned on. You will get asked whether
-      to set those joypads up without needing to press the “PS” button. Unplug them and press the
-      “PS” button to use them over Bluetooth.</p>
+<p class="p">Esses dispositivos usam “pareamento de cabos” também. Conecte os controles via USB com as <span class="gui">Configurações do Bluetooth</span> abertas e o Bluetooth ativado. Depois de pressionar o botão “PS”, você será perguntado se deseja configurar esses controles. Desconecte-os e pressione o botão “PS” para usá-los através do Bluetooth.</p>
 <p class="p">O uso da combinação de botões “PS” e “Compartilhar” para parear o controle também pode ser usado para torná-lo visível e pareá-lo como qualquer outro dispositivo Bluetooth, se você não tiver um cabo USB na mão.</p>
 </dd>
 <dt class="terms">Controle remoto de MD do PlayStation 3</dt>
 <dd class="terms"><p class="p">Mantenha pressionados os botões “Start” e “Enter” ao mesmo tempo por cerca de 5 segundos. Você pode selecionar o controle remoto na lista de dispositivos, como de costume.</p></dd>
 <dt class="terms">Controles remotos de Nintendo Wii e Wii U</dt>
 <dd class="terms"><p class="p">Use o botão vermelho “Sync” dentro do compartimento da bateria para iniciar o processo de pareamento. Outras combinações de botões não manterão as informações de pareamento, de forma que você precisará fazer tudo novamente em pouco tempo. Observe também que alguns softwares desejam acesso direto aos controles remotos e, nesses casos, você não deve configurá-los no painel Bluetooth. Consulte o manual do aplicativo para obter instruções.</p></dd>
-<dt class="terms">ION iCade</dt>
-<dd class="terms"><p class="p">Hold down the bottom 4 buttons and the top white button to start the pairing
-      process. When the pairing instructions appear, make sure to use only the cardinal
-      directions to input the code, followed by any of the 2 white buttons to the far
-      right of the arcade stick to confirm.</p></dd>
+<dt class="terms">iCade da ION</dt>
+<dd class="terms"><p class="p">Mantenha pressionados os 4 botões inferiores e o botão branco superior para iniciar o processo de pareamento. Quando as instruções de emparelhamento aparecerem, certifique-se de usar apenas as direções cardeais para inserir o código, seguidas por qualquer um dos 2 botões brancos na extrema direita do manche do fliperama para confirmar.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

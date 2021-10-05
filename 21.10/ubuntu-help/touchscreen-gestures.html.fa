@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
   and <span class="app">Image Viewer</span> allows you to zoom, rotate and pan.</p>
 </div>
 <section id="system"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">System-wide gestures</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">حرکت‌های سامانه‌ای</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="table"><div class="inner"><div class="region"><table class="table" style="border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-overview.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
@@ -121,7 +121,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 </table></div></div></div></div></div>
 </div></section><section id="apps"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Application gestures</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">حرکت‌های برنامه</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="table"><div class="inner"><div class="region"><table class="table" style="border-bottom-style: solid;">
 <tr>
 <td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-tap.svg" width="128" class="media media-inline" alt=""></span></span></p></td>

@@ -75,7 +75,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Préférences d’affichage du gestionnaire de fichiers</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Il est possible de contrôler la façon dont le gestionnaire de fichiers affiche les légendes sous les icônes. Cliquez sur le bouton de menu situé dans le coin supérieur droit de la fenêtre, et sélectionnez <span class="gui">Préférences</span>, puis l’onglet <span class="gui">Vues</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control how the file manager displays captions under icons. Click
+the menu button in the top-right corner of the window, select
+<span class="gui">Preferences</span>, then go to the <span class="gui">Icon View Captions</span> section.</p></div>
 <section id="icon-captions"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Libellés des icônes</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -86,7 +88,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 </div></section><section id="list-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Vue en liste</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Lorsque vous affichez des fichiers sous forme de liste, vous pouvez <span class="gui">Autoriser le dépliage des dossiers</span>. Cela affiche les icônes d’extension sur chaque répertoire dans la liste des fichiers, ce qui vous donne la possibilité d’afficher le contenu de plusieurs dossiers simultanément. Ceci est utile si la structure des dossiers est pertinente, par exemple si vos fichiers musicaux sont organisés avec un dossier par artiste, et un sous-dossier par album.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">When viewing files as a list, you can display <span class="gui">Expandable Folders in
+  List View</span>. This shows expanders on each directory in the file list, so
+  that the contents of several folders can be shown at once. This is useful if
+  the folder structure is relevant, such as if your music files are organized
+  with a folder per artist, and a subfolder per album.</p></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

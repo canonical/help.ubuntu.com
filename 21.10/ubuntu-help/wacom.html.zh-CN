@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.zh-CN" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">在手写模式和鼠标模式之间切换。</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.zh-CN" title="手写板左手使用习惯"><span class="title">手写板左手使用习惯</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.zh-CN" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.zh-CN" title="选择显示器"><span class="title">选择显示器</span><span class="linkdiv-dash"> — </span><span class="desc">将手写板映射到指定的显示器上。</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.zh-CN" title="配置写字笔"><span class="title">配置写字笔</span><span class="linkdiv-dash"> — </span><span class="desc">设置按钮功能和写字笔的压力感应。</span></a></div>
 </div></div></div></div></div>

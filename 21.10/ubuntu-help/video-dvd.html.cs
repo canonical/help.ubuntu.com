@@ -80,11 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Instalace správného kodeku pro přehrávání DVD</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Aby šla přehrávat DVD, potřebujete mít nainstalované <span class="em">kodeky</span>. Kodek je kus softwaru, který umožňuje aplikacím číst formáty zvuku a videa. Když váš přehrávač filmů nemůže najít správný kodek, může vám jeho instalaci nabídnout. Pokud tak neučiní, musíte jej nainstalovat ručně sami. Jak to udělat se poptejte na příklad v diskuzním fóru podpory vaší linuxové distribuce.</p>
-<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
-  prevents you from copying DVDs, but it also prevents you from playing them
-  unless you have extra software to handle the copy protection. This software
-  is available from a number of Linux distributions, but cannot be legally used
-  in all countries. Please contact your Linux distribution for more information.</p>
+<p class="p">Navíc mohou být DVD <span class="em">chráněna proti kopírování</span> systémem nazývaným CSS. Ten brání kopírování DVD, ale tím i jeho přehrávání, pokud k tomu nemáte správný software. Ten je dostupný pro řadu linuxových distribucí, ale protože ne ve všech zemích je jeho použití legální, nebývá často v hlavním repozitáři pro instalaci softwaru. Podrobnější informace hledejte prosím u své linuxové distribuce.</p>
 </div></div>
 </div></section><section id="region"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Kontrola regionu DVD</span></h2></div>

@@ -80,11 +80,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.ja" title="Check how much disk space is left"><span class="title">Check how much disk space is left</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="gui">Disk Usage Analyzer</span>, <span class="gui">System Monitor</span>, or
     <span class="gui">Usage</span> to check space and capacity.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html.ja" title="Check your hard disk for problems"><span class="title">Check your hard disk for problems</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.ja" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-partitions.html.ja" title="Manage volumes and partitions"><span class="title">Manage volumes and partitions</span><span class="linkdiv-dash"> — </span><span class="desc">Understand what volumes and partitions are and use the disk utility
     to manage them.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-repair.html.ja" title="Repair a damaged filesystem"><span class="title">Repair a damaged filesystem</span><span class="linkdiv-dash"> — </span><span class="desc">Check if a filesystem is damaged and bring it back into a usable
@@ -92,6 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.ja" title="Test the performance of your hard disk"><span class="title">Test the performance of your hard disk</span><span class="linkdiv-dash"> — </span><span class="desc">Run benchmarks on your hard disk to check how fast it is.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-format.html.ja" title="Wipe everything off a removable disk"><span class="title">Wipe everything off a removable disk</span><span class="linkdiv-dash"> — </span><span class="desc">Remove all of the files and folders from an external hard disk or USB
     flash drive by formatting it.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.ja" title="起動ディスクの作成"><span class="title">起動ディスクの作成</span><span class="linkdiv-dash"> — </span><span class="desc">USBフラッシュドライブをUbuntuの起動とインストールができるボリュームに変換します。</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

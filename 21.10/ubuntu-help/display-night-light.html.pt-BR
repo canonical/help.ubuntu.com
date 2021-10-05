@@ -82,9 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Clique em <span class="gui">Telas</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Luz noturna</span> na barra superior para abrir as configurações.</p></li>
 <li class="steps"><p class="p">Certifique-se de que a opção <span class="gui">Luz noturna</span> está em ligada.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">Schedule</span>, select <span class="gui">Sunset to Sunrise</span> to
-      make the screen color follow the sunset and sunrise times for your location.
-      Select <span class="gui">Manual Schedule</span> to set the <span class="gui">Times</span> to a custom schedule.</p></li>
+<li class="steps"><p class="p">Sob <span class="gui">Agendar</span>, selecione <span class="gui">Pôr do sol ao nascer do sol</span> para fazer a tela seguir os horários do pôr do sol e do nascer do sol para sua localização. Selecione <span class="gui">Agendamento manual</span> para definir os <span class="gui">Horários</span> para um agendamento personalizado.</p></li>
 <li class="steps"><p class="p">Use o controle deslizante para ajustar <span class="gui">Temperatura de cor</span> para ser mais ou menos quente.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota">

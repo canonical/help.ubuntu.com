@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Définition du mode de recherche de la tablette Wacom</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Le <span class="gui">mode de recherche</span> détermine la correspondance entre le pointeur et l’écran.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Tablette Wacom</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Tablette Wacom</span> pour ouvrir le panneau.</p></li>
@@ -101,7 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">Dans le mode <span class="em">absolu</span>, chaque point de la tablette correspond à un point de l’écran. Le coin supérieur gauche de l’écran, par exemple, correspond toujours au même point sur la tablette.</p>
-<p class="p">En mode <span class="em">relatif</span>, si vous éloignez le pointeur de la tablette et que vous le reposez à une position différente, le curseur de l’écran ne se déplace pas. Cela correspond au fonctionnement d’une souris.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div>
 </div>
 </div>

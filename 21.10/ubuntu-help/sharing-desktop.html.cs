@@ -86,9 +86,8 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m3 10v7.429l9 5.571 9-5.571v-7.429l-9 5z"></path>
  <path class="yelp-svg-fill" d="m3 7v2l9 5 9-5v-2l-9-5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">You must have the <span class="app">GNOME Remote Desktop</span> package installed for
-     <span class="gui">Screen Sharing</span> to be visible.</p>
-<p class="p"><span class="link-button link"><a href="apt:gnome-remote-desktop" title="apt:gnome-remote-desktop">Install GNOME Remote Desktop</a></span></p>
+<p class="p">Aby bylo viditelné <span class="app">Sdílení obrazovky</span>, musíte mít nainstalovanou aplikaci <span class="gui">Vzdálená plocha GNOME</span>.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-remote-desktop" title="apt:gnome-remote-desktop">Nainstalovat Vzdálenou plochu GNOME</a></span></p>
 </div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">

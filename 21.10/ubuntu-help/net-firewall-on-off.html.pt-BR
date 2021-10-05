@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Habilitando ou bloqueando acesso no firewall</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME does not come with a firewall, so for support beyond this document
-  check with your distribution’s support team or your organization’s IT department.
-  Your computer should be equipped with a <span class="em">firewall</span> that allows it to
-  block programs from being accessed by other people on the internet or your
-  network. This helps to keep your computer secure.</p>
+<p class="p">O GNOME não vem com um firewall, portanto, para obter suporte além deste documento, verifique com a equipe de suporte da distribuição ou com o departamento de TI da sua organização. Seu computador deve estar equipado com um <span class="em">firewall</span> que permite bloquear o acesso de programas por outras pessoas na Internet ou na sua rede. Isso ajuda a manter seu computador seguro.</p>
 <p class="p">Muitos aplicativos podem usar a sua conexão de rede. Por exemplo, você pode compartilhar arquivos ou deixa alguém ver a sua área de trabalho remotamente quando conectado a uma rede. Dependendo de como o seu computador está configurado, você pode precisar ajustar o firewall para permitir que esses serviços funcionem como desejado.</p>
 <p class="p">Cada programa que oferece serviços de rede usa uma <span class="em">porta de rede</span> específica. Para permitir que outros computadores na rede acessem um serviço, pode precisar “abrir” a porta atribuída no firewall:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">

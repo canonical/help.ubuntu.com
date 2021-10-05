@@ -80,8 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">La mejor manera de respaldar sus archivos es hacerlo regularmente y mantener las copias fuera del sitio y cifradas (si es posible).</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html.es" title="Cómo hacer copias de respaldo"><span class="title">Cómo hacer copias de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (or another backup application) to make copies of
-    your valuable files and settings to protect against loss.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.es" title="Cómo hacer copias de respaldo"><span class="title">Cómo hacer copias de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (u otra aplicación de copias de respaldo) para hacer copias de sus archivos valiosos y de su configuración y evitar pérdidas.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="backup-what.html.es" title="De qué hacer una copia de respaldo"><span class="title">De qué hacer una copia de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Respalde cualquier cosa de la que no pueda prescindir si algo va mal.</span></a></div>
 </div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.es" title="Dónde almacenar su copia de respaldo"><span class="title">Dónde almacenar su copia de respaldo</span><span class="linkdiv-dash"> — </span><span class="desc">Consejo sobre dónde almacenar las copias de respaldo y qué dispositivo de almacenamiento usar.</span></a></div></div>

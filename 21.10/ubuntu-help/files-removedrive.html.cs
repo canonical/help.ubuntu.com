@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Bezpečné odebrání externího disku</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Když používáte externí úložné zařízení, jako je flashdisk do USB, měli byste jej před fyzickým odpojením bezpečně odebrat. Kdybyste jej jen odpojili, riskujete, že jej odpojíte ve chvíli, kdy jej bude používat nějaká aplikace. To může způsobit, že o některé soubory přijdete nebo budou poškozené. Pokud používáte optické disky, jako je CD nebo DVD, můžete stejný postup použít k jejich vysunutí z počítač.</p>
+<p class="p">Když používáte externí úložné zařízení, jako je flešdisk do USB, měli byste jej před fyzickým odpojením bezpečně odebrat. Kdybyste jej jen odpojili, riskujete, že jej odpojíte ve chvíli, kdy jej bude používat nějaká aplikace. To může způsobit, že o některé soubory přijdete nebo budou poškozené. Pokud používáte optické disky, jako je CD nebo DVD, můžete stejný postup použít k jejich vysunutí z počítač.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Když chcete vysunout výměnné zařízení:</span></h2></div>
 <div class="region"><ol class="steps">

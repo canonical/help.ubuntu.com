@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Networking</a> » <a class="trail" href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Email</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan</a> » <a class="trail" href="net-email.html.id" title="Surel &amp; perangkat lunak surel">Surel</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengubah aplikasi surel mana yang dipakai untuk menulis surel</span></h1></div>
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Activities</a></span> overview and
       start typing <span class="gui">Default Applications</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Default Applications</span>.</p></li>
+<li class="steps"><p class="p">Klik tab <span class="gui">Aplikasi Baku</span>.</p></li>
 <li class="steps"><p class="p">Pilih klien surel mana yang ingin Anda gunakan secara baku dengan mengubah opsi <span class="gui">Surat</span> .</p></li>
 </ol></div></div></div>
 </div>

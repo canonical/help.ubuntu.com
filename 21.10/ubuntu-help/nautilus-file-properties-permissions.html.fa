@@ -99,9 +99,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">همچنین می توانید مجوزها را برای کاربران دیگری غیر از مالک و افراد گروه تنظیم کنید.</p>
 <p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
     executing file as program</span> to run it. Even with this option selected,
-    the file manager may still open the file in an application or ask you
-    what to do. See <span class="link"><a href="nautilus-behavior.html.fa#executable" title="پرونده‌های متنی قابل اجرا">پرونده‌های متنی قابل اجرا</a></span> for more
-    information.</p>
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.fa#executable" title="پرونده‌های متنی قابل اجرا">پرونده‌های متنی قابل اجرا</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">شاخه‌‌ها</span></h2></div>

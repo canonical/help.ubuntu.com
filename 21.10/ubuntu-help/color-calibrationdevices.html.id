@@ -71,19 +71,15 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Color</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Warna</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Color</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Warna</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Apa instrumen pengukuran warna yang didukung?</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">
-    The system relies on the Argyll color management system to support
-    color instruments. A list of supported measuring instruments can be found
-    at <span class="link"><a href="https://www.argyllcms.com/doc/instruments.html" title="https://www.argyllcms.com/doc/instruments.html">https://www.argyllcms.com/doc/instruments.html</a></span>.
-  </p></div>
+<div class="contents pagewide"><p class="p">Sistem bergantung kepada sistem manajemen warna Argyll untuk mendukung instrumen warna. Suatu daftar instrumen pengukuran tampilan yang didukung dapat ditemukan pada <span class="link"><a href="https://www.argyllcms.com/doc/instruments.html" title="https://www.argyllcms.com/doc/instruments.html">https://www.argyllcms.com/doc/instruments.html</a></span>.</p></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

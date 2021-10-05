@@ -76,8 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Proč můj typ účtu není v seznamu?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Support for your favorite online service needs someone to develop
-  it. Only the account types that are listed are currently supported.</p>
+<p class="p">Podporu pro vaše oblíbené služby on-line musí vývojáři nejdříve naprogramovat. V současnosti jsou podporovány jen typy účtů, které vidíte v seznamu.</p>
 <div class="note note-advanced" title="Pokročilé">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m5.4473 12.572c-2.039 0.957-3.4473 3.019-3.4473 5.428v4h20v-4c0-2.406-1.406-4.466-3.441-5.424a8 8 0 0 1-6.559 3.424 8 8 0 0 1-6.5527-3.428z"></path>

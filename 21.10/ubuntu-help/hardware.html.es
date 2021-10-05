@@ -78,8 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — Conectar a dispositivos por Bluetooth para transferir archivos o usar audio inalámbrico.</span>
 </li>
 <li class="links ">
 <a href="disk.html.es" title="Discos y almacenamiento">Discos y almacenamiento</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
@@ -88,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="power.html.es" title="Energía y batería">Energía y batería</a><span class="desc"> — View your battery status and change power saving settings.</span>
 </li>
 <li class="links ">
-<a href="color.html.es" title="Gestión del color">Gestión del color</a><span class="desc"> — Calibrate color profiles on monitors, printers, and other devices.</span>
+<a href="color.html.es" title="Gestión del color">Gestión del color</a><span class="desc"> — Calibrar los perfiles de color de monitores, impresoras y otros dispositivos.</span>
 </li>
 <li class="links ">
 <a href="hardware-auth.html.es" title="Huellas dactilares y tarjetas inteligentes">Huellas dactilares y tarjetas inteligentes</a><span class="desc"> — Use hardware devices to authenticate instead of passwords.</span>

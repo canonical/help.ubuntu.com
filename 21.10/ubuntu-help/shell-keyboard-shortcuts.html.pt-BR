@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Atalhos de teclado úteis</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Essa página fornece uma visão geral dos atalhos que podem lhe ajudar a usar seu ambiente e aplicativos de forma mais eficiente. Se você não conseguir usar um mouse ou dispositivo de apontamento, veja <span class="link"><a href="keyboard-nav.html.pt-BR" title="Navegação do teclado">Navegação do teclado</a></span> para mais informações sobre navegação em interfaces de usuário com apenas o teclado.</p>
+<p class="p">Essa página fornece uma visão geral dos atalhos que podem lhe ajudar a usar seu ambiente e aplicativos de forma mais eficiente. Se você não conseguir usar um mouse ou outro dispositivo de apontamento, veja <span class="link"><a href="keyboard-nav.html.pt-BR" title="Navegação do teclado">Navegação do teclado</a></span> para mais informações sobre navegação em interfaces de usuário com apenas o teclado.</p>
 <div class="table ui-expander">
 <div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
 <div class="inner">
@@ -209,7 +209,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.pt-BR#screenshot" title="Capturar uma imagem da tela">Faça uma captura de uma área da tela.</a></span> O ponteiro torna-se uma mira. Clique e arraste para selecionar uma área.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.pt-BR#screenshot" title="Capturar uma imagem da tela">Faça uma captura de uma área da tela.</a></span> O cursor torna-se uma mira. Clique e arraste para selecionar uma área.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>

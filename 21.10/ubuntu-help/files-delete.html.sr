@@ -115,12 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Погледајте и</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.sr" title="Вратите датотеку из смећа">Вратите датотеку из смећа</a><span class="desc"> — Обрисане датотеке бивају послате у смеће, али могу бити повраћене.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.sr#trash" title="Смеће">Поставке смећа управника датотека</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

@@ -115,12 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Дивіться також</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.uk" title="Відновлення файла зі «Смітника»">Відновлення файла зі «Смітника»</a><span class="desc"> — Вилучені файли, типово, опиняються у теці «Смітник», їх можна відновити.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.uk#trash" title="Смітник">Налаштування смітника у програмі для керування файлами</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

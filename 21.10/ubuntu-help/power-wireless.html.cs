@@ -84,9 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">The <span class="gui">Power Saving</span> section contains switches for
-      <span class="gui">Wi-Fi</span> and <span class="gui">Bluetooth</span>. Switch the unused services to
-      off. Re-enable when needed by switching to on.</p></li>
+<li class="steps"><p class="p">V části <span class="gui">Šetření energií</span> najdete vypínače pro <span class="gui">Wi-Fi</span>,  a <span class="gui">Bluetooth</span>. Nepoužívané věci vypněte. Když je budete později potřebovat, znovu je můžete zapnout.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

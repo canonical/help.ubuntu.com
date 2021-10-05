@@ -81,9 +81,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.ru" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Переключение между режимом планшета и режимом мыши.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.ru" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.ru" title="Выбор монитора"><span class="title">Выбор монитора</span><span class="linkdiv-dash"> — </span><span class="desc">Отображать планшет Wacom на конкретный монитор</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.ru" title="Настройка пера"><span class="title">Настройка пера</span><span class="linkdiv-dash"> — </span><span class="desc">Настройка функций кнопок и чувствительности нажатия для пера Wacom.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.ru" title="Управление графическим планшетом левой рукой"><span class="title">Управление графическим планшетом левой рукой</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

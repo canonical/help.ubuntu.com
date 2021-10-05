@@ -76,12 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">O que é GNOME Clássico?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="em">GNOME Classic</span> is a feature for users who prefer a more traditional
-  desktop experience. While <span class="em">GNOME Classic</span> is based on modern GNOME
-  technologies, it provides a number of changes to the user interface, such as
-  the <span class="gui">Applications</span> and
-  <span class="gui">Places</span> menus on the top bar, and a window
-  list at the bottom of the screen.</p>
+<p class="p">O <span class="em">GNOME Clássico</span> é um recurso para usuários que preferem uma experiência de ambiente mais tradicional. Enquanto o <span class="em">GNOME Clássico</span> é baseado nas tecnologias modernas do GNOME, ele fornece várias alterações na interface do usuário, tais como os menus <span class="gui">Aplicativos</span> e <span class="gui">Locais</span> na barra superior e uma lista de janelas na parte inferior da janela.</p>
 <p class="p">Você também pode usar o menu <span class="gui">Aplicativos</span> na barra superior para iniciar aplicativos.</p>
 </div>
 <section id="gnome-classic-window-list"><div class="inner">

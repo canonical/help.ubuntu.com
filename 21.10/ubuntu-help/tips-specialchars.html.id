@@ -104,7 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Papan Tik</span> di bilah sisi untuk membuka panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Type Special Characters</span> section, click <span class="gui">Compose Key</span>.</p></li>
 <li class="steps"><p class="p">Turn the switch on for the <span class="gui">Compose Key</span>.</p></li>
 <li class="steps"><p class="p">Centang kotak tombol yang ingin Anda setel sebagai tombol Susun.</p></li>

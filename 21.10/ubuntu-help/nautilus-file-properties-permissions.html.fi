@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Voit asettaa käyttöoikeuden tiedoston omistajalle, ryhmälle sekä järjestelmän kaikille muille käyttäjille. Olet omien tiedostojesi omistaja ja voit antaa itsellesi joko pelkät lukuoikeudet tai sekä luku- että kirjoitusoikeudet tiedostoihisi. Jos et halua vahingossa muuttaa tiedostoa, aseta se vain-luku -muotoon.</p>
 <p class="p">Jokainen tietokoneen käyttäjä kuuluu johonkin ryhmään. Kotikoneille on yleistä, että jokaisella käyttäjällä on oma ryhmä, eikä ryhmien käyttöoikeuksia käytetä kovin usein. Yritysjärjestelmissä ryhmiä voidaan käyttää eri osastojen tai projektien välillä. Jokainen tiedosto kuuluu jollekin ryhmälle sen lisäksi, että sillä on omistaja. Voit valita tiedostolle ryhmän ja hallita täten kaikkien kyseiseen ryhmään kuuluvien henkilöiden käyttöoikeutta kyseiseen tiedostoon. Voit asettaa tiedostolle ryhmäksi vain sellaisen ryhmän, johon itse kuulut.</p>
 <p class="p">Voit määrittää oikeudet myös muille käyttäjille kuin omistajalle sekä tiedoston ryhmässä oleville käyttäjille.</p>
-<p class="p">Jos tiedosto on ohjelma ja haluat suorittaa sen tiedostonhallinnasta, täytyy asetus <span class="gui">Salli tiedoston suorittaminen ohjelmana</span> olla käytössä. Tiedostohallinta voi kuitenkin yhä avata tiedoston jossakin ohjelmassa tai kysyä sinulta, mitä tehdä. Lue <span class="link"><a href="nautilus-behavior.html.fi#executable" title="Suoritettavat tekstitiedostot">Suoritettavat tekstitiedostot</a></span> saadaksesi lisätietoa.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.fi#executable" title="Suoritettavat tekstitiedostot">Suoritettavat tekstitiedostot</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Kansiot</span></h2></div>

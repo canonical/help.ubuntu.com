@@ -75,25 +75,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferencias do comportamento do xestor de ficheiros</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Pode controlar se abrir os cartafoles con un só clic ou con un dobre, como se xestionar os ficheiros de texto executábeis, ademais do comportamento do lixo. Prema o botón de menú na esquina superior da xanela e seleccione <span class="gui">Preferencias</span> e seleccione a lapela <span class="gui">Comportamento</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
+executable text files are handled, and the trash behavior. Click the menu
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Comportamento</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Un só clic para abrir elementos</span></dt>
-<dt class="terms"><span class="gui">Dobre clic para abrir elementos</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Por omisión, ao premer selecciónanse ficheiros e ao facer dobre clic sobre eles ábrense. Tamén pode escoller se quere que os ficheiros e cartafoles se abran con un só clic. Cando está no modo dun só clic, pode manter a tecla <span class="key"><kbd>Ctrl</kbd></span> mentres preme para seleccionar un ou máis ficheiros.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ficheiros de texto executábeis</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Un ficheiro de texto executábel é un ficheiro que contén un programa que pode iniciarse (executarse). Os <span class="link"><a href="nautilus-file-properties-permissions.html.gl-GL" title="Estabelecer os permisos dun ficheiro">permisos do ficheiro</a></span> deben tamén permitirlle facelo para executalo como un programa. O máis común son scripts de <span class="sys">Shell</span>, <span class="sys">Python</span> e <span class="sys">Perl</span>. Os cales teñen as extensións <span class="file">.sh</span>, <span class="file">.py</span> e <span class="file">.pl</span>, respectivamente.</p>
-<p class="p">Cando abra un ficheiro de texto executábel, pode seleccionar:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Executar os ficheiros de texto executábeis cando se abran</span></p></li>
-<li class="list"><p class="p"><span class="gui">Ver os ficheiros de texto executábeis cando se abran</span></p></li>
-<li class="list"><p class="p"><span class="gui">Preguntar cada vez</span></p></li>
-</ul></div></div></div>
-<p class="p">Se selecciona <span class="gui">Preguntar cada vez</span>, aparecerá un diálogo preguntándolle se desexa executar ou ver o ficheiro de texto seleccionado.</p>
 <p class="p">Os ficheiros de texto executábeis tamén chámanse <span class="em">scripts</span>. Todos os scripts no cartafol <span class="file">~/.local/share/nautilus/scripts</span> aparecerán no menú contextual para os ficheiros baixo o submenú <span class="gui">Scripts</span>. Cando se executa un script desde un cartafol local, todos os ficheiros seleccionados pegaranse ao script como parámetros. Para executar un script nun ficheiro:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Navegue ao cartafol desexado.</p></li>
@@ -106,23 +101,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Non se lle pasarán parámetros a un script cando se execute desde un cartafol remoto como un cartafol web ou contido <span class="sys">ftp</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Lixo</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Preguntar antes de baleirar o lixo</span></dt>
-<dd class="terms"><p class="p">Esta opción está seleccionada por omisión. Cando se vai a baleirar o lixo, aparece un mensaxe confirmando se quere baleirar o lixo ou eliminar os ficheiros.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Vexa tamén</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.gl-GL" title="Eliminar ficheiros e cartafoles">Eliminar ficheiros e cartafoles</a><span class="desc"> — Quitar ficheiros ou cartafois que non se necesitan.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

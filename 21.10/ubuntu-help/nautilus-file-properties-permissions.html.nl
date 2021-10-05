@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">U kunt rechten instellen voor de eigenaar van het bestand, de groep en alle andere gebruikers van het systeem. Van uw bestanden bent u de eigenaar en u kunt uzelf de rechten ‘Alleen lezen’ of ‘Lezen en schrijven’ geven. Stel een bestand in op ‘Alleen lezen’ als u niet wilt dat u het per ongeluk wijzigt.</p>
 <p class="p">Elke gebruiker op uw computer behoort tot een groep. Op computers thuis is het meestal zo dat elke gebruiker een eigen groep vormt, en groepsrechten worden niet vaak gebruikt. In bedrijfsomgevingen worden groepen soms gebruikt voor afdelingen of projecten. Behalve dat een bestand een eigenaar heeft, behoort het ook tot een groep. U kunt de groep voor het bestand instellen en de toegang beheren voor alle gebruikers in die groep. U kunt alleen de bestandsgroep instellen voor een groep waarvan u deel uitmaakt.</p>
 <p class="p">U kunt ook de toegang instellen voor andere gebruikers dan de eigenaar en degenen uit de bestandsgroep.</p>
-<p class="p">Als het bestand een programma is, zoals een script, dan moet u <span class="gui">Uitvoeren van bestand toestaan</span> aanvinken om het te draaien. Zelfs als deze optie aangevinkt is kan het nog steeds zo zijn dat bestandsbeheer het bestand in een toepassing opent of u vraagt wat er gedaan moet worden. Zie <span class="link"><a href="nautilus-behavior.html.nl#executable" title="Uitvoerbare tekstbestanden">Uitvoerbare tekstbestanden</a></span> voor meer informatie.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.nl#executable" title="Uitvoerbare tekstbestanden">Uitvoerbare tekstbestanden</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mappen</span></h2></div>

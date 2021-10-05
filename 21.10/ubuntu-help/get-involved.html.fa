@@ -2,7 +2,7 @@
 <html lang=fa>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Participate to improve this guide</title>
+<title>مشارکت در بهبود این راهنما</title>
 <link rel="stylesheet" type="text/css" href="fa.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,11 +73,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.fa" title="راهنمای میزکار اوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> راهنمای میزکار اوبونتو</a> » <a class="trail" href="more-help.html.fa" title="گرفتن کمک بیش‌تر">گرفتن کمک بیش‌تر</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Participate to improve this guide</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">مشارکت در بهبود این راهنما</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">This help system is created by a volunteer community. You are welcome to participate. If you notice a problem with these help pages (like typos, incorrect instructions or topics 
-that should be covered but aren't), you can file a <span class="em">bug report</span>.</p>
+<p class="p">این سامانهٔ راهنما به دست جامعه‌ای داوطلب ایجاد شده. شما تشویق به مشارکت می‌شوید. اگر مشکلی در این صفحه‌های راهنما دیدید (مانند اشتباه نوشتاری، دستورالعمل‌های نادرست یا موضوع‌هایی که باید پوشش داده شوند، ولی نشده‌اند)، می‌توانید یک  <span class="em">گزارش خطا</span> بفرستید.</p>
 <p class="p">برای گزارش یک مشکل، <span class="keyseq"><span class="key"><kbd>دگرساز</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> را فشرده و بنویسید <span class="input">ubuntu-bug ubuntu-docs</span>. برای شروع فرایند جمع‌آوری مشکل، <span class="gui">ورود</span> را بزنید.</p>
 <p class="p">برا ی اطّلاعات بیش‌تر دربارهٔ چگونگی گزارش مشکلتان، <span class="link"><a href="report-ubuntu-bug.html.fa" title="گزارش یک مشکل در اوبونتو">دستورالعمل گزارش مشکل اوبونتو</a></span> را ببینید.</p>
 <p class="p">ممنون که به بهتر شدن راهنمای اوبونتو کمک کردید!</p>

@@ -76,14 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Předvolby náhledů ve správci souborů</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Správce souborů vytváří miniatury s náhledy obrázků, videí a textových souborů. Miniatury s náhledy mohou být pomalé u velkých souborů nebo přes síť, takže máte možnost určit, kdy se mohou vytvářet. Klikněte na tlačítko nabídky v pravém horním rohu okna, zvolte <span class="gui">Předvolby</span> a vyberte kartu <span class="gui">Hledání a náhledy</span>.</p>
+<p class="p">Správce souborů vytváří miniatury s náhledy obrázků, videí a textových souborů. Miniatury s náhledy mohou být pomalé u velkých souborů nebo přes síť, takže máte možnost určit, kdy se mohou vytvářet. Klikněte na tlačítko nabídky v pravém horním rohu okna, zvolte <span class="gui">Předvolby</span> a přejděte do části <span class="gui">Výkon</span>.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Soubory</span></dt>
-<dd class="terms">
-<p class="p">Ve výchozím nastavení budou miniatury vytvořené <span class="gui">Jen pro soubory na tomto počítači</span>, které jsou na vašem počítači a připojených externích discích. Můžete tuto funkci nastavit také na <span class="gui">Pro všechny soubory</span> nebo <span class="gui">Nikdy</span>. Správce souborů může <span class="link"><a href="nautilus-connect.html.cs" title="Procházení souborů na serveru nebo síťovém sdílení">procházet soubory na jiných počítačích</a></span> přes místní síť nebo Internet. Pokud často procházíte soubory přes místní síť a ta má dostatečnou šířku pásma, můžete nastavit tvorbu miniatur na <span class="gui">Pro všechny soubory</span>.</p>
-<p class="p">Navíc můžete upravit nastavení <span class="gui">Jen pro soubory menší než</span>, abyste omezili velikost souborů, pro které se miniatury generují.</p>
-</dd>
-<dt class="terms"><span class="gui">Počítání souborů</span></dt>
+<dt class="terms"><span class="gui">Zobrazovat miniatury</span></dt>
+<dd class="terms"><p class="p">Ve výchozím nastavení budou miniatury vytvořené <span class="gui">Jen na tomto počítači</span>, tzn. na vašem počítači a připojených externích discích. Můžete tuto předvolbu nastavit také na <span class="gui">Pro všechny soubory</span> nebo <span class="gui">Nikdy</span>. Správce souborů může <span class="link"><a href="nautilus-connect.html.cs" title="Procházení souborů na serveru nebo síťovém sdílení">procházet soubory na jiných počítačích</a></span> přes místní síť nebo Internet. Pokud často procházíte soubory přes místní síť a ta má dostatečnou šířku pásma, můžete nastavit tvorbu miniatur na <span class="gui">Pro všechny soubory</span>.</p></dd>
+<dt class="terms"><span class="gui">Počítat soubory ve složkách</span></dt>
 <dd class="terms">
 <p class="p">Když máte mezi <span class="link"><a href="nautilus-list.html.cs" title="Předvolby sloupců v seznamu souborů">sloupci seznamového zobrazení</a></span> nebo v <span class="link"><a href="nautilus-display.html.cs#icon-captions" title="Popisy ikon">popisech ikon</a></span> zobrazeny velikosti souborů, bude se u složek zobrazovat počet souborů a složek, které obsahuje. Spočítání položek ve složce může být pomalé, hlavně u rozsáhlých složek nebo přes síť.</p>
 <p class="p">Tuto funkci můžete zapnout, vypnout, nebo zapnout jen pro soubory ve vašem počítači a místních externích discích.</p>

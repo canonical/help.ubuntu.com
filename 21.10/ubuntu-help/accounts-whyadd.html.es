@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — Connect to your accounts with various online services.</span>
+<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — Conectar a sus cuentas con varios servicios en línea</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

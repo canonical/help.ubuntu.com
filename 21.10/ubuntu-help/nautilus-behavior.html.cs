@@ -75,25 +75,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Předvolby chování ve správci souborů</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Můžete určit, jestli se má u souborů používat jednoduché nebo dvojité kliknutí, jak se mají obsluhovat spustitelné soubory a chování koše. Klikněte na tlačítko nabídky v pravém horním rohu okna, zvolte <span class="gui">Předvolby</span> a vyberte kartu <span class="gui">Chování</span>.</p></div>
+<div class="contents pagewide"><p class="p">Můžete určit, jestli se má u souborů používat jednoduché nebo dvojité kliknutí, jak se mají obsluhovat spustitelné soubory a chování koše. Klikněte na tlačítko nabídky v pravém horním rohu okna, zvolte <span class="gui">Předvolby</span> a přejděte do části <span class="gui">Obecné</span>.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Chování</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Aktivovat položky jediným kliknutím</span></dt>
-<dt class="terms"><span class="gui">Aktivovat položky dvojitým kliknutím</span></dt>
+<dt class="terms"><span class="gui">Činnost pro otevírání položek</span></dt>
 <dd class="terms"><p class="p">Ve výchozím stavu se soubory jednoduchým kliknutím vybírají a dvojitým otevírají. Můžete místo toho zvolit, aby se soubory a složky otevíraly po jednoduchém kliknutí. Když použijete tento režim, může vybírat soubory tak, že držíte zmáčknutou klávesu <span class="key"><kbd>Ctrl</kbd></span> a klikáte.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Spustitelné textové soubory</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Spustitelný textový soubor je soubor, který obsahuje programový skript, který můžete spustit (nechat provést). <span class="link"><a href="nautilus-file-properties-permissions.html.cs" title="Nastavení oprávnění souboru">Oprávnění k souboru</a></span> musí být nastavena tak, aby spuštění souboru povolovala. Mezi nejznámější skriptovací jazyky patří <span class="sys">Shell</span>, <span class="sys">Python</span> a <span class="sys">Perl</span>. Mají přípony <span class="file">.sh</span> respektive <span class="file">.py</span> respektive <span class="file">.pl</span>.</p>
-<p class="p">Jestli používáte otevírání spustitelných textových souborů, můžete si vybrat z:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Spouštět spustitelné textové soubory při otevření</span></p></li>
-<li class="list"><p class="p"><span class="gui">Zobrazit spustitelné textové soubory při otevření</span></p></li>
-<li class="list"><p class="p"><span class="gui">Vždy se ptát</span></p></li>
-</ul></div></div></div>
-<p class="p">Když je vybráno <span class="gui">Vždy se ptát</span>, objeví se při pokusu o spuštění dialogové okno, které se dotáže, jestli si vybraný textový soubor přejete spustit nebo zobrazit.</p>
 <p class="p">Spustitelné textové soubory bývají nazývány také <span class="em">skripty</span>. Všechny skripty uložené ve složce <span class="file">~/.local/share/nautilus/scripts</span> se objeví v kontextové nabídce pro soubor v podnabídce <span class="gui">Skripty</span>. Pokud je skript spuštěn z místní složky, jsou mu všechny vybrané soubory předány jako parametry. Když chcete spustit skript vůči souboru:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Přejděte do požadované složky.</p></li>
@@ -106,23 +98,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Skriptu, který je spouště ze vzdálené složky, jako je složka zobrazující web nebo obsah <span class="sys">ftp</span>, nejsou předány žádné parametry.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Koš</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Zeptat se před vyprázdněním koše</span></dt>
-<dd class="terms"><p class="p">Tato volba je ve výchozím stavu zapnutá. Když vyprazdňujete koš, zobrazí se zpráva žádající potvrzení, že opravdu chcete koš vyprázdnit a soubory smazat.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Viz také</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.cs" title="Mazání souborů a složek">Mazání souborů a složek</a><span class="desc"> — Jak odstranit soubory a složky, které nadále nepotřebujete.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

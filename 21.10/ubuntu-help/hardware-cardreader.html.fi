@@ -80,9 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Kortinlukijoiden ongelmat</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Many computers contain readers for SD, MMC, SM, MS, CF, and other storage media
-cards. These should be automatically detected and <span class="link"><a href="disk-partitions.html.fi" title="Hallitse levyjä ja osioita">mounted</a></span>. Here are some
-troubleshooting steps if they are not:</p>
+<p class="p">Monet tietokoneet sisältävät lukijan SD-, MMC-, SM-, MS-, CF- ja muille erilaisille tallennustilakorteille. Yleensä nämä havaitaan ja <span class="link"><a href="disk-partitions.html.fi" title="Hallitse levyjä ja osioita">liitetään</a></span> automaattisesti. Jos näin ei kuitenkaan tapahdu, tässä on apuja vianselvitykseen:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p"> Make sure that the card is put in correctly. Many cards look as though they are
 upside down when correctly inserted. Also make sure that the card is firmly seated

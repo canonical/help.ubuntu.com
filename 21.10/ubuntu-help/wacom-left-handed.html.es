@@ -2,7 +2,7 @@
 <html lang=es>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use su tableta para zurdos</title>
+<title>Use the tablet with your left or your right hand</title>
 <link rel="stylesheet" type="text/css" href="es.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Use su tableta para zurdos</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Use the tablet with your left or your right hand</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Algunas tabletas tienen botones hardware en un lateral. Se puede rotar 180º para que estos botones los pueda usar una persona zurda. Para cambiar la orientación para zurdos:</p>
+<p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
+   180 degrees to position these buttons. By default, the orientation is for
+   right-handed people. To switch the orientation to left-handed:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Tableta Wacom</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Tableta Wacom</span> para abrir el panel.</p></li>

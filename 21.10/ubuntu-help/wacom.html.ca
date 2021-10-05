@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.ca" title="Configurar el llapis"><span class="title">Configurar el llapis</span><span class="linkdiv-dash"> — </span><span class="desc">Definiu les funcions del botó i la sensació de pressió del llapis Wacom.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.ca" title="Estableix el mode de seguiment de la tauleta Wacom"><span class="title">Estableix el mode de seguiment de la tauleta Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Canvieu la tauleta entre el mode tauleta i el mode ratolí.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.ca" title="Triar un monitor"><span class="title">Triar un monitor</span><span class="linkdiv-dash"> — </span><span class="desc">Assigneu tauleta Wacom a un monitor específic.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.ca" title="Utilitzar la tauleta per a esquerrans"><span class="title">Utilitzar la tauleta per a esquerrans</span><span class="linkdiv-dash"> — </span><span class="desc">Canvieu la tauleta Wacom a <span class="gui">Orientació per a esquerrans</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.ca" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

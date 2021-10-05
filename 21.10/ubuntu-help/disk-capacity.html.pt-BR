@@ -82,9 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Para verificar o espaço livre e a capacidade do disco usando o <span class="app">Analisador de uso de disco</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Abra o <span class="app">Analisador de uso de disco</span> a partir do panorama de <span class="gui">Atividades</span>. A janela mostrará uma lista de localizações de arquivos junto ao uso e capacidade de cada um.</p></li>
-<li class="list"><p class="p">Click one of the items in the list to view a detailed summary of the
-      usage for that item. Click the menu button, and then <span class="gui">Scan
-      Folder…</span> to scan a different location.</p></li>
+<li class="list"><p class="p">Clique em um dos itens na lista para visualizar um resumo detalhado do use para aquele item. Clique no botão de menu e, então, <span class="gui">Varrer pasta…</span> para varrer uma localização diferente.</p></li>
 </ul></div></div></div>
 <p class="p">As informações são mostradas de acordo com a <span class="gui">Pasta</span>, <span class="gui">Tamanho</span>, <span class="gui">Conteúdo</span> e, quando o arquivo foi <span class="gui">Modificado</span> pela última vez. Veja mais detalhes em <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Analisador do uso do disco</span></a></span>.</p>
 </div></div>
@@ -118,7 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Se o disco estiver cheio demais, você deveria:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Excluir arquivos que não são importantes ou que não vá mais usar.</p></li>
-<li class="list"><p class="p">Fazer <span class="link"><a href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes">cópias de segurança</a></span> dos arquivos importantes que não vai precisar por um tempo e excluí-los do disco rígido.</p></li>
+<li class="list"><p class="p">Fazer <span class="link"><a href="backup-why.html.pt-BR" title="Fazendo backups dos seus arquivos importantes">backup</a></span> dos arquivos importantes que não vai precisar por um tempo e excluí-los do disco rígido.</p></li>
 </ul></div></div></div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

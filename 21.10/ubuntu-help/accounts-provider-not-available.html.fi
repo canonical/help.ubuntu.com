@@ -76,8 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Miksi tilityyppiäni ei ole listattu?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Support for your favorite online service needs someone to develop
-  it. Only the account types that are listed are currently supported.</p>
+<p class="p">Jotta voisit käyttää suosikkiverkkopalveluasi, jonkun tulee kehittää sille tuki. Vain listatut tilityypit ovat tällä hetkellä tuettuja.</p>
 <div class="note note-advanced" title="Edistyneet">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m5.4473 12.572c-2.039 0.957-3.4473 3.019-3.4473 5.428v4h20v-4c0-2.406-1.406-4.466-3.441-5.424a8 8 0 0 1-6.559 3.424 8 8 0 0 1-6.5527-3.428z"></path>
@@ -90,10 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m15.757 8.9281 1.9003 3.3146-1.4142 1.4142-3.1599-1.7457z"></path>
  <path class="yelp-svg-fill" d="m8.2435 7.0719-1.9004-3.3145 1.4143-1.4143 3.1596 1.7457z"></path>
  <path class="yelp-svg-fill" d="m11.072 11.757-3.3146 1.9-1.4143-1.414 1.7457-3.1602z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If you are interested in adding support for other services, contact the
-    developers on the
-    <span class="link"><a href="https://gitlab.gnome.org/GNOME/gnome-online-accounts/-/issues/new" title="https://gitlab.gnome.org/GNOME/gnome-online-accounts/-/issues/new">
-    issue tracker</a></span>.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Jos olet halukas kehittämään tuen muille palveluille, ota yhteys kehittäjiin tekemällä <span class="link"><a href="https://gitlab.gnome.org/GNOME/gnome-online-accounts/-/issues/new" title="https://gitlab.gnome.org/GNOME/gnome-online-accounts/-/issues/new">vikailmoitus</a></span>.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">

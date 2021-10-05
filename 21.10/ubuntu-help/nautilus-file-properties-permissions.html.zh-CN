@@ -95,7 +95,10 @@ document.addEventListener('DOMContentLoaded', function() {
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">如果是程序文件，比如脚本，您必须选中<span class="gui">允许以程序执行文件</span>才能运行它。甚至即使您选中了此项，文件管理器仍然会在一个程序中打开它，或者询问您如何操作。更多信息请参阅 <span class="link"><a href="nautilus-behavior.html.zh-CN#executable" title="可执行文本文件">可执行文本文件</a></span>。</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.zh-CN#executable" title="可执行文本文件">可执行文本文件</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">文件夹</span></h2></div>

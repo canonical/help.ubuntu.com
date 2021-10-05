@@ -81,9 +81,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.lv" title="Iestatīt Wacom planšetes izsekošanas režīmu"><span class="title">Iestatīt Wacom planšetes izsekošanas režīmu</span><span class="linkdiv-dash"> — </span><span class="desc">Pārslēdziet planšeti starp planšetes un peles režīmu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.lv" title="Izmantot tastatūru kā kreilim"><span class="title">Izmantot tastatūru kā kreilim</span><span class="linkdiv-dash"> — </span><span class="desc">Pārslēgt Wacom planšeti uz <span class="gui">Orientācija kreiļiem</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.lv" title="Izvēlieties monitoru"><span class="title">Izvēlieties monitoru</span><span class="linkdiv-dash"> — </span><span class="desc">Attēlot Wacom planšeti uz specifisku monitoru.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.lv" title="Konfigurēt irbuli"><span class="title">Konfigurēt irbuli</span><span class="linkdiv-dash"> — </span><span class="desc">Definējiet Wacom irbuļa pogu funkcijas un spiediena jušanu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.lv" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

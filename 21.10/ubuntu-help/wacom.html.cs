@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.cs" title="Nastavení režimu sledování stopy u grafického tabletu"><span class="title">Nastavení režimu sledování stopy u grafického tabletu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přepínat grafický tablet mezi režimem tabletu a myši.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.cs" title="Nastavení stylusu"><span class="title">Nastavení stylusu</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přiřadit funkce tlačítkům a jak určit pocit přítlaku u stylusu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.cs" title="Používání tabletu leváky"><span class="title">Používání tabletu leváky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přepnout grafický tablet pro <span class="gui">leváky</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.cs" title="Používání tabletu levou a pravou rukou"><span class="title">Používání tabletu levou a pravou rukou</span><span class="linkdiv-dash"> — </span><span class="desc">Jak přepínat grafický tablet pro leváky a praváky.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.cs" title="Výběr obrazovky"><span class="title">Výběr obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak namapovat grafický tablet na konkrétní obrazovku.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">

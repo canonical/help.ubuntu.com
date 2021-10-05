@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-note"><h2><span class="title">Possibilidade de perda de dados na correção</span></h2></div>
 <div class="region"><div class="contents">
 <p class="p">Se a estrutura do sistema de arquivos estiver danificada, ela pode afetar os arquivos armazenados nele. Em alguns casos, esses arquivos não podem ser trazidos novamente para uma forma válida e serão excluídos ou movidos para um diretório especial. Normalmente, é a pasta <span class="em">lost+found</span> no diretório de nível superior do sistema de arquivos onde essas partes de arquivos recuperadas podem ser encontradas.</p>
-<p class="p">Se os dados forem valiosos demais para serem perdidos durante este processo, é aconselhável fazer uma cópia de segurança salvando uma imagem do volume antes da correção.</p>
+<p class="p">Se os dados forem valiosos demais para serem perdidos durante este processo, é aconselhável fazer um backup salvando uma imagem do volume antes da correção.</p>
 <p class="p">Esta imagem pode então ser processada com ferramentas de análise forense, como <span class="app">sleuthkit</span> para recuperar arquivos e partes de dados perdidos que não foram restaurados durante a reparação, além de arquivos removidos anteriormente.</p>
 </div></div>
 </div>
@@ -115,7 +115,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="steps">
 <p class="p">Após a conclusão, você será notificado se o sistema de arquivos pode ser corrigido com sucesso. Em caso de sucesso, ele pode ser usado novamente de maneira normal.</p>
-<p class="p">Se o sistema de arquivos não puder ser corrigido, faça uma cópia de segurança salvando uma imagem do volume para poder recuperar arquivos importantes mais tarde. Isso pode ser feito montando a imagem somente leitura ou usando ferramentas de análise forense como <span class="app">sleuthkit</span>.</p>
+<p class="p">Se o sistema de arquivos não puder ser corrigido, faça um backup salvando uma imagem do volume para poder recuperar arquivos importantes mais tarde. Isso pode ser feito montando a imagem somente leitura ou usando ferramentas de análise forense como <span class="app">sleuthkit</span>.</p>
 <p class="p">Para usar o volume novamente, ele tem que ser <span class="link"><a href="disk-format.html.pt-BR" title="Limpando tudo de uma unidade removível">formatado</a></span> com um novo sistema de arquivos. Todos os dados serão descartados.</p>
 </li>
 </ol></div>

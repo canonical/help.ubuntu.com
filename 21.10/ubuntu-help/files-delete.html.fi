@@ -120,12 +120,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.fi" title="Palauta roskakoriin siirretty tiedosto">Palauta roskakoriin siirretty tiedosto</a><span class="desc"> — Kun poistat tiedoston, se siirretään yleensä roskakoriin. Voit palauttaa tiedostoja roskakorista.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.fi#trash" title="Roskakori">Tiedostonhallinnan roskakorin ominaisuudet</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

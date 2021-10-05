@@ -515,8 +515,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="custom"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Vlastní klávesové zkratky</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">To create your own application keyboard shortcut in the
-  <span class="gui">Keyboard</span> settings:</p>
+<p class="p">Když si chcete nadefinovat své vlastní klávesové zkratky v nastavení <span class="gui">Klávesové zkratky</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Vyberte <span class="gui">Vlastní zkratky</span>.</p></li>
 <li class="steps"><p class="p">Jestliže zatím neexistuje žádná vlastní klávesová zkratka, klikněte na tlačítko <span class="gui">Přidat klávesovou zkratku</span>, jinak klikněte na tlačítko <span class="gui">+</span>. Objeví se okno <span class="gui">Přidání vlastní klávesové zkratky</span>.</p></li>

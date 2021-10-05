@@ -80,12 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Co je klávesa <span class="key"><kbd>Menu</kbd></span>?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="key"><kbd>Menu</kbd></span> key, also known as the <span class="em">Application</span> key, is a
-  key found on some Windows-oriented keyboards. This key is usually on the
-  bottom-right of the keyboard, next to the <span class="key"><kbd>Ctrl</kbd></span> key, but it can be
-  placed in a different location by keyboard manufacturers. It is usually
-  depicted as a cursor hovering above a menu:
-  <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
+<p class="p">Klávesa <span class="key"><kbd>Menu</kbd></span>, někdy nazývaná také <span class="em">aplikační</span> klávesa, je klávesa nacházející se na klávesnicích určených pro Windows. Obvykle ji najdete v pravém dolním rohu vedle klávesy <span class="key"><kbd>Ctrl</kbd></span>, ale někteří výrobci ji umisťují i jinam. Nejčastěji na ni bývá vyobrazen kurzor v podobě šipky překrývající nabídku: <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span></p>
 <p class="p">Hlavní funkcí této klávesy je spustit kontextovou nabídku z klávesnice místo klikání pravým tlačítkem myši. To se hodí, když myš nebo jiné ukazovací zařízení není k dispozici, nebo když myš pravé tlačítko nemá.</p>
 <p class="p">Klávesa <span class="key"><kbd>Menu</kbd></span> bývá někdy kvůli místu vynechána, hlavně na přenosných a notebookových klávesnicích. V takových případech mají některé tyto klávesnice klávesu <span class="key"><kbd>Menu</kbd></span> spojenou s jinou klávesou a aktivuje se v kombinaci s funkční klávesou (<span class="key"><kbd class="key-Fn">Fn</kbd></span>).</p>
 <p class="p"><span class="em">Kontextová nabídka</span> (někdy také <span class="em">místní nabídka</span>) je nabídka, která se objeví po kliknutí pravým tlačítkem myši. Pokud se objeví, bude její obsah záviset na kontextu a určení místa, na které jste klikli. K vyvolání můžete použít i klávesu <span class="key"><kbd>Menu</kbd></span>, objeví se pak pro místo obrazovky, na kterém se nachází kurzor v okamžiku zmáčknutí klávesy.</p>

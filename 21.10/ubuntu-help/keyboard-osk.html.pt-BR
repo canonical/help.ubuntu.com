@@ -97,12 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol></div></div></div>
 <p class="p">Quando você tiver outra oportunidade de digitar, o teclado virtual vai abrir embaixo na tela.</p>
 <p class="p">Pressione o botão <span class="gui">123</span> para digitar números e símbolos. Mais símbolos ficam disponíveis se você, então, pressionar o botão <span class="gui">=/&lt;</span>. Para voltar ao teclado alfabético, pressione o botão <span class="gui">ABC</span>.</p>
-<p class="p">You can press the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="down"></span></span></span>
-  button to hide the keyboard temporarily. The keyboard will show again
-  automatically when you next press on something where you can use it.
-  On a touchscreen, you can also pull up the keyboard by
-  <span class="link"><a href="touchscreen-gestures.html.pt-BR" title="Usando gestos em touchpad e touchscreen">dragging up from the bottom edge</a></span>.</p>
+<p class="p">Você pode pressionar o botão <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="para baixo"></span></span></span> para ocultar o teclado temporariamente. O teclado será automaticamente mostrado novamente quando você pressionar em seguida algo no qual você possa usá-lo. Em um touchscreen, você pode se utilizar do teclado <span class="link"><a href="touchscreen-gestures.html.pt-BR" title="Usando gestos em touchpad e touchscreen">arrastando para cima a partir da parte inferior da tela</a></span>.</p>
 <p class="p">Pressione o botão <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="bandeira"></span></span></span> para alterar suas configurações para <span class="link"><a href="session-language.html.pt-BR" title="Alterando que idioma você usa">Idioma</a></span> ou <span class="link"><a href="keyboard-layouts.html.pt-BR" title="Usando disposições alternativas de teclado">Fontes de entrada</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

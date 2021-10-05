@@ -83,9 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Clique em <span class="gui">Selecione a rede</span>.</p></li>
 <li class="steps">
 <p class="p">Clique no nome da rede desejada e, então, clique em <span class="gui">Conectar</span>.</p>
-<p class="p">If the name of the network is not shown, scroll down the list. If you
-    still do not see the network, you may be out of range, or the network
-    <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">might be hidden</a></span>.</p>
+<p class="p">Se o nome da rede não é mostrado, role para baixo na lista. Se você ainda não vir a rede, você pode está fora de alcance dela ou a rede <span class="link"><a href="net-wireless-hidden.html.pt-BR" title="Conectando a um rede sem fio oculta">pode estar oculta</a></span>.</p>
 </li>
 <li class="steps">
 <p class="p">Se a rede está protegida por uma senha (<span class="link"><a href="net-wireless-wepwpa.html.pt-BR" title="O que WEP e WPA significam?">chave de criptografia</a></span>), digite a senha quando perguntada e clique <span class="gui">Conectar</span>.</p>

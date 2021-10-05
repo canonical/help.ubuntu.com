@@ -88,9 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Anda perlu menyelesaikan entri Anda dalam 20 detik pada kebanyakan perangkat, atau koneksi tak akan dilengkapi. Bila itu terjadi, kembalilah ke daftar perangkat dan mulai lagi.</p>
 </li>
 <li class="steps"><p class="p">Entri bagi perangkat dalam daftar <span class="gui">Perangkat</span> akan menampilkan suatu status <span class="gui">Tersambung</span>.</p></li>
-<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Devices</span> list. You
-      will see a panel specific to the device. It may display additional
-      options applicable to the type of device to which you are connecting.</p></li>
+<li class="steps"><p class="p">Untuk menyunting perangkat, klik padanya dalam daftar <span class="gui">Perangkat</span>. Anda akan melihat sebuah panel yang spesifik ke perangkat. Itu mungkin menampilkan opsi tambahan yang berlaku bagi tipe perangkat yang sedang tersambung.</p></li>
 <li class="steps"><p class="p">Tutup panel setelah Anda mengubah pengaturan.</p></li>
 </ol></div></div></div>
 <div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-symbolic.svg" class="media media-block" alt="Ikon Bluetooth pada bilah puncak"></div></div>
@@ -102,8 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a><span class="desc"> — Terhubung ke perangkat melalui Bluetooth untuk mentransfer berkas atau menggunakan audio nirkabel.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -515,8 +515,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="custom"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Atalhos personalizados</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">To create your own application keyboard shortcut in the
-  <span class="gui">Keyboard</span> settings:</p>
+<p class="p">Para criar seu próprio atalho de teclado para um aplicativo nas configurações de <span class="gui">Teclado</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Selecione <span class="gui">Personalizar atalhos</span>.</p></li>
 <li class="steps"><p class="p">Clique no botão <span class="gui">Adicionar atalho</span> se nenhum atalho personalizado estiver definido. Do contrário, clique no botão <span class="gui">+</span>. A janela de <span class="gui">Adicionar atalho personalizado</span> vai aparecer.</p></li>

@@ -101,11 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide">
 <p class="p">Ambil tangkapan layar desktop, jendela, atau area dengan cepat kapan saja menggunakan pintasan papan ketik global ini:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="key"><kbd>Print Screen</kbd></span> to take a screenshot of the desktop.</p></li>
-<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span> to take a
-        screenshot of a window.</p></li>
-<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span> to take a
-        screenshot of an area you select.</p></li>
+<li class="list"><p class="p"><span class="key"><kbd>Print Screen</kbd></span> untuk mengambil cuplikan layar desktop.</p></li>
+<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span> untuk mengambil cuplikan layar suatu jendela.</p></li>
+<li class="list"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span> untuk mengambil cuplikan layar dari area yang Anda pilih.</p></li>
 </ul></div></div></div>
 <p class="p">Ketika Anda menggunakan pintasan papan tik, gambar secara otomatis disimpan dalam folder <span class="file">Pictures</span> Anda di folder rumah Anda dengan nama berkas yang dimulai dengan <span class="file">Screenshot</span> dan menyertakan tanggal dan waktu itu diambil.</p>
 <div class="note" title="Catatan">

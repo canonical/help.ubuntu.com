@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">De volgmodus van het Wacom-tablet instellen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Volgmodus</span> bepaalt hoe de aanwijzer gekoppeld wordt aan het scherm.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Wacom-tablet</span> om het paneel te openen.</p></li>
@@ -101,7 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">In <span class="em">absolute</span> modus wordt elk punt op het tablet toegewezen aan een punt op het scherm. Zo komt bijvoorbeeld de linkerbovenhoek van het scherm altijd overeen met hetzelfde punt op het tablet.</p>
-<p class="p">Als u in <span class="em">relatieve</span> modus de aanwijzer van het tablet haalt en op een andere positie neerzet, wordt de cursor op het scherm niet verplaatst. Dat is de manier waarop een muis werkt.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div>
 </div>
 </div>

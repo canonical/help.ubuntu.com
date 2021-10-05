@@ -80,10 +80,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Wacom Grafiktablett</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.de" title="Das Tablet mit der linken Hand verwenden"><span class="title">Das Tablet mit der linken Hand verwenden</span><span class="linkdiv-dash"> — </span><span class="desc">Das Wacom-Tablett auf <span class="gui">Linkshändige Ausrichtung</span> umstellen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.de" title="Den Stylus einrichten"><span class="title">Den Stylus einrichten</span><span class="linkdiv-dash"> — </span><span class="desc">Die Knopffunktionen und das Druckverhalten für den Wacom Stylus festlegen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.de" title="Einen Bildschirm wählen"><span class="title">Einen Bildschirm wählen</span><span class="linkdiv-dash"> — </span><span class="desc">Ordnen Sie das Wacom-Tablett einem bestimmten Bildschirm zu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.de" title="Mausverfolgungsmodus des Wacom-Tabletts einstellen"><span class="title">Mausverfolgungsmodus des Wacom-Tabletts einstellen</span><span class="linkdiv-dash"> — </span><span class="desc">Wechseln Sie vom Tablett- zum Mausmodus.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.de" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

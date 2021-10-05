@@ -76,18 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Přidání účtu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Adding an account will help link your online accounts with your
-desktop. Thus, your email client, calendar and other related
-  applications will be set up for you.</p>
+<p class="p">Přidání účtu pomůže propojení účtů on-line s vaším uživatelským prostředím GNOME. Váš poštovní klient, kalendář a další související aplikace tak budou moci používat toto nastavení.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Účty on-line</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Účty on-line</span> otevřete příslušný panel.</p></li>
 <li class="steps"><p class="p">V seznamu napravo vyberte účet.</p></li>
-<li class="steps"><p class="p">Select the type of account you want to add.</p></li>
-<li class="steps"><p class="p">A small website window or dialog will open where you can enter your
-      online account credentials. For example, if you are setting up a Google
-      account, enter your email address and password. Some providers allow
-      you to create a new account from the login dialog.</p></li>
+<li class="steps"><p class="p">Vyberte typ účtu, který chcete přidat.</p></li>
+<li class="steps"><p class="p">Otevře se malé okno s webovou stránkou nebo dialogové okno, do kterých můžete zadat své přístupové údaje k účtu on-line. Například, když nastavujete účet Google, zadejte svoji e-mailovou adresu a heslo. Někteří poskytovatelé umožňují vytvořit nový účet v přihlašovacím dialogovém okně.</p></li>
 <li class="steps"><p class="p">Pokud zadáte své přístupové údaje správně, budete dotázání, jestli povolíte GNOME přístup k účtu on-line. Abyste mohli pokračovat, přístup potvrďte.</p></li>
 <li class="steps"><p class="p">Ve výchozím stavu budou povoleny všechny služby, které poskytovatel účtu nabízí. <span class="link"><a href="accounts-disable-service.html.cs" title="Řízení, který účet služby on-line může být použit k přístupu">Přepnutím vypínače</a></span> jednotlivých služeb do polohy vypnuto je můžete zakázat.</p></li>
 </ol></div></div></div>

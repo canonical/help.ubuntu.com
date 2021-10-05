@@ -77,26 +77,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
 executable text files are handled, and the trash behavior. Click the menu
-button in the top-right corner of the window and select <span class="gui">Preferences</span>,
-and select the <span class="gui">Behavior</span> tab.</p></div>
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Viselkedés</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Elemek megnyitása egy kattintással</span></dt>
-<dt class="terms"><span class="gui">Elemek megnyitása dupla kattintással</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Alapesetben egy kattintás kijelöli, és a dupla kattintás megnyitja a fájlokat. Ehelyett választhatja a fájlok és mappák megnyitását egy kattintással. Az egykattintásos mód használatakor tartsa lenyomva a <span class="key"><kbd>Ctrl</kbd></span> billentyűt több fájl kiválasztásához.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Végrehajtható szöveges fájlok</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">A végrehajtható szöveges fájl egy futtatható (végrehajtható) programot tartalmazó szövegfájl. A <span class="link"><a href="nautilus-file-properties-permissions.html.hu" title="Fájljogosultságok beállítása">fájl jogosultságainak</a></span> is lehetővé kell tenniük a fájl programként való futtatását. A leggyakoribbak a <span class="sys">Shell</span>, <span class="sys">Python</span> és <span class="sys">Perl</span> parancsfájlok. Ezek sorra a <span class="file">.sh</span>, <span class="file">.py</span> és <span class="file">.pl</span> kiterjesztéssel rendelkeznek.</p>
-<p class="p">Amikor végrehajtható szövegfájlt nyit meg, a következő lehetőségek közül választhat:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Végrehajtható szöveges fájlok futtatása megnyitáskor</span></p></li>
-<li class="list"><p class="p"><span class="gui">Végrehajtható szöveges fájlok futtatása megnyitáskor</span></p></li>
-<li class="list"><p class="p"><span class="gui">Kérdés minden alkalommal</span></p></li>
-</ul></div></div></div>
-<p class="p">Ha a <span class="gui">Kérdés minden alkalommal</span> lehetőséget választja, akkor egy ablak meg fogja kérdezni, hogy futtatni vagy megjeleníteni szeretné-e a kijelölt szövegfájlt.</p>
 <p class="p">A végrehajtható fájlokat <span class="em">parancsfájloknak</span> is nevezik. A <span class="file">~/.local/share/nautilus/scripts</span> mappában lévő összes parancsfájl megjelenik a fájlok helyi menüjének <span class="gui">Parancsfájlok</span> almenüjében. Amikor egy parancsfájlt végrehajt a helyi menüből, akkor az összes kijelölt fájl paraméterként átadásra kerül a parancsfájlnak. Egy parancsfájl végrehajtásához egy fájlon:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Lépjen be a kívánt mappába.</p></li>
@@ -109,23 +101,6 @@ and select the <span class="gui">Behavior</span> tab.</p></div>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">A parancsfájl nem kap paramétereket, ha távoli mappában kerül elindításra, például egy webes vagy <span class="sys">FTP</span> tartalmat megjelenítő mappa esetén.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Kuka</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Kérdés a Kuka ürítése előtt</span></dt>
-<dd class="terms"><p class="p">Ez a beállítás alapesetben be van jelölve. A Kuka ürítésekor egy üzenet jelenik meg, amely a Kuka ürítésének vagy a fájlok törlésének megerősítését kéri.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Lásd még</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.hu" title="Fájlok és mappák törlése">Fájlok és mappák törlése</a><span class="desc"> — Fölöslegessé vált fájlok vagy mappák eltávolítása.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

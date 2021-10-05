@@ -2,7 +2,7 @@
 <html lang=fi>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use gestures on touchpads and touchscreens</title>
+<title>Käytä eleitä kosketuslevyillä ja kosketunäytöillä</title>
 <link rel="stylesheet" type="text/css" href="fi.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,14 +77,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Use gestures on touchpads and touchscreens</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Käytä eleitä kosketuslevyillä ja kosketunäytöillä</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Multitouch gestures can be used on touchpads and touchscreens for system navigation,
-  as well as in applications.</p>
-<p class="p">A number of applications make use of gestures. In
-  <span class="app">Document Viewer</span>, documents can be zoomed and swiped with gestures,
-  and <span class="app">Image Viewer</span> allows you to zoom, rotate and pan.</p>
+<p class="p">Monikosketuseleitä on mahdollista käyttää kosketuslevyillä ja -näytöillä järjestelmässä ja sovelluksissa liikkumiseen.</p>
+<p class="p">Monet sovellukset mahdollistavat eleiden käytön. <span class="app">Asiakirjakatselin</span>-sovelluksessa asiakirjoja voi lähentää tai loitontaa ja sivuja kääntää eleillä, ja <span class="app">Kuvakatselin</span> mahdollistaa muun muassa kuvien suurentamisen ja kääntämisen.</p>
 </div>
 <section id="system"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Järjestelmänlaajuiset eleet</span></h2></div>
@@ -92,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <tr>
 <td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-overview.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td>
-<p class="p"><span class="em">Open the Activities Overview and Applications View</span></p>
+<p class="p"><span class="em">Avaa Toiminnot-yleisnäkymä ja sovellusnäkymä</span></p>
 <p class="p">Place three fingers on the touchpad or touchscreen and gesture upwards to open the Activities Overview.</p>
 <p class="p">To open the Applications View, place three fingers and gesture upwards again.</p>
 </td>
@@ -100,14 +97,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-workspaces.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p"><span class="em">Switch Workspace</span></p>
+<p class="p"><span class="em">Vaihda työtilaa</span></p>
 <p class="p">Place three fingers on the touchpad or touchscreen and gesture left or right.</p>
 </td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-unfullscreen.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p"><span class="em">Exit from fullscreen</span></p>
+<p class="p"><span class="em">Poistu koko näytön tilasta</span></p>
 <p class="p">On a touchscreen, drag down from the top edge to exit from the fullscreen mode of any window.</p>
 </td>
 </tr>
@@ -127,14 +124,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-tap.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td>
 <p class="p"><span class="em">Open an item, launch an application, play a song</span></p>
-<p class="p">Tap on an item.</p>
+<p class="p">Napauta kohdetta.</p>
 </td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-hold.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
 <p class="p"><span class="em">Valitse kohde ja listaa mahdolliset toiminnot</span></p>
-<p class="p">Press and hold for a second or two.</p>
+<p class="p">Paina ja pidä pohjassa sekunti tai kaksi.</p>
 </td>
 </tr>
 <tr>

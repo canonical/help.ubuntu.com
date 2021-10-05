@@ -91,9 +91,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Papan Tik</span> di bilah sisi untuk membuka panel.</p></li>
 <li class="steps"><p class="p">In the <span class="gui">Keyboard Shortcuts</span> section, select <span class="gui">Customize Shortcuts</span>.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">System</span> category.</p></li>
+<li class="steps"><p class="p">Pilih kategori <span class="gui">Sistem</span>.</p></li>
 <li class="steps"><p class="p">Click the row with <span class="gui">Show the activities overview</span>.</p></li>
 <li class="steps"><p class="p">Tekan dan tahan kombinasi tombol yang diinginkan.</p></li>
 </ol></div></div></div>

@@ -111,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="clock.html.es" title="Fecha y hora">Fecha y hora</a><span class="desc"> — Use clocks and timezones, and keep track of appointments.</span>
+<a href="clock.html.es" title="Fecha y hora">Fecha y hora</a><span class="desc"> — Usar relojes y zonas horarias, y hacer seguimiento de citas.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

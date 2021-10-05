@@ -84,9 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Energia</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">The <span class="gui">Power Saving</span> section contains switches for
-      <span class="gui">Wi-Fi</span> and <span class="gui">Bluetooth</span>. Switch the unused services to
-      off. Re-enable when needed by switching to on.</p></li>
+<li class="steps"><p class="p">A seção <span class="gui">Economia de energia</span> contém alternadores para <span class="gui">Wi-Fi</span> e <span class="gui">Bluetooth</span>. Alterne os serviços sem uso desligado. Habilite novamente quando necessário alternando para ligado.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

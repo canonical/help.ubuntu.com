@@ -115,12 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se även</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.sv#trash" title="Papperskorg">Papperskorgsinställningar för filhanterare</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.sv" title="Återskapa en fil från Papperskorgen">Återskapa en fil från Papperskorgen</a><span class="desc"> — Borttagna filer skickas normalt till Papperskorgen, men kan återställas.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

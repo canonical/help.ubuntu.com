@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.gl-GL" title="Configure o «stylus»"><span class="title">Configure o «stylus»</span><span class="linkdiv-dash"> — </span><span class="desc">Define as funcións de botón e sensación de presión para os «stylus» Wacom.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.gl-GL" title="Estabelece o modo de seguimento da tableta Wacom"><span class="title">Estabelece o modo de seguimento da tableta Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Cambia a tableta entre modo tableta e modo ratón.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.gl-GL" title="Seleccione unha pantalla"><span class="title">Seleccione unha pantalla</span><span class="linkdiv-dash"> — </span><span class="desc">Mapear a tableta Wacom a unha pantala específica.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.gl-GL" title="Usar a tableta para zurdos"><span class="title">Usar a tableta para zurdos</span><span class="linkdiv-dash"> — </span><span class="desc">Cambiar a tableta Wacom a <span class="gui">Orientación zurda</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.gl-GL" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

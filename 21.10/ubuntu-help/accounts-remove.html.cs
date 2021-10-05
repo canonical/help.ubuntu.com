@@ -76,17 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Odebrání účtu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can remove an online account which you no longer want to use.</p>
+<p class="p">Účet on-line, který již nadále nechcete používat, můžete z nastavení odebrat.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">Many online services provide an authorization token which your desktop stores
-    instead of your password. If you remove an account, you should also revoke
-    that certificate in the online service. This will ensure that no other
-    application or website can connect to that service using the authorization
-    for your desktop.</p>
+<p class="p">Řada služeb on-line poskytuje ověřovací tiket, který si vaše uživatelské prostředí uchovává namísto hesla. Když odeberete některý z účtů, měli byste rovněž odvolat tento certifikát. Tím se zajistí, že se žádná jiná aplikace nebo webová stránka nemohou připojit k této službě s pomocí ověření používaného pro vaše uživatelské prostředí.</p>
 <p class="p">Způsob, jak ověření odvolat záleží na poskytovateli služby. Podívejte se do svého nastavení na webu poskytovatele po něčem jako ověřené nebo připojené aplikace nebo počítače. Najděte aplikaci s názvem „GNOME“ a odeberte ji.</p>
 </div></div></div>
 </div>

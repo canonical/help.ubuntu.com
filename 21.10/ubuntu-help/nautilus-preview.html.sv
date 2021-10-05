@@ -76,14 +76,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Förhandsgranskningsinställningar för filhanterare</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Filhanteraren skapar miniatyrbilder för att förhandsgranska bild-, video- och textfiler. Att skapa miniatyrbilder kan ta lång tid för stora filer eller över nätverk, så du kan styra när förhandsgranskning görs. Klicka på menyknappen i övre högra hörnet i fönstret, välj <span class="gui">Inställningar</span> och välj sedan fliken <span class="gui">Sök &amp; förhandsgranska</span>.</p>
+<p class="p">Filhanteraren skapar miniatyrbilder för att förhandsgranska bild-, video- och textfiler. Att skapa miniatyrbilder kan ta lång tid för stora filer eller över nätverk, så du kan styra när förhandsgranskning görs. Klicka på menyknappen i fönstrets övre högra hörn, välj <span class="gui">Inställningar</span> och gå sedan till avsnittet <span class="gui">Prestanda</span>.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Filer</span></dt>
-<dd class="terms">
-<p class="p">Som standard görs förhandsgranskningar för <span class="gui">Endast filer på denna dator</span>, de på din dator eller anslutna externa hårddiskar. Du kan ställa in denna funktion på <span class="gui">Alla filer</span> eller <span class="gui">Aldrig</span>. Filhanteraren kan <span class="link"><a href="nautilus-connect.html.sv" title="Bläddra genom filer på en server eller nätverksutdelning">bläddra bland filer på andra datorer</a></span> över ett lokalt nätverk eller internet. Om du ofta bläddrar bland filer över ett lokalt nätverk och nätverket har en hög bandbredd kan det vara lämpligt att sätta förhandsgranskningsalternativet till <span class="gui">Alla filer</span>.</p>
-<p class="p">Dessutom kan du använda inställningen <span class="gui">Endast för filer mindre än</span> för att begränsa storleken för filer som förhandsgranskas.</p>
-</dd>
-<dt class="terms"><span class="gui">Filantal</span></dt>
+<dt class="terms"><span class="gui">Visa miniatyrbilder</span></dt>
+<dd class="terms"><p class="p">Som standard görs förhandsgranskningar för <span class="gui">Bara på denna dator</span>, de på din dator eller anslutna externa hårddiskar. Du kan ställa in denna funktion till <span class="gui">Alla filer</span> eller <span class="gui">Aldrig</span>. Filhanteraren kan <span class="link"><a href="nautilus-connect.html.sv" title="Bläddra genom filer på en server eller nätverksutdelning">bläddra bland filer på andra datorer</a></span> över ett lokalt nätverk eller internet. Om du ofta bläddrar bland filer över ett lokalt nätverk och nätverket har en hög bandbredd kan det vara lämpligt att sätta förhandsgranskningsalternativet till <span class="gui">Alla filer</span>.</p></dd>
+<dt class="terms"><span class="gui">Räkna antalet filer i mappar</span></dt>
 <dd class="terms">
 <p class="p">Om du visar filstorlekar i <span class="link"><a href="nautilus-list.html.sv" title="Kolumninställningar för listvy i Filer">listvykolumner</a></span> eller <span class="link"><a href="nautilus-display.html.sv#icon-captions" title="Ikonrubriker">ikonrubriker</a></span>, kommer mappar att visas tillsammans med antalet filer och mappar de innehåller. Att räkna antal objekt i en mapp kan gå långsamt, speciellt för väldigt stora mappar, eller över ett nätverk.</p>
 <p class="p">Du kan slå av eller på denna funktion, eller slå på den endast för filer på din dator och lokala externa enheter.</p>

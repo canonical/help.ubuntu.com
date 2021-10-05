@@ -119,12 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Lásd még</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.hu" title="Fájl visszaállítása a Kukából">Fájl visszaállítása a Kukából</a><span class="desc"> — A törölt fájlok normális esetben a Kukába kerülnek, de visszaállíthatók.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.hu#trash" title="Kuka">Fájlkezelő Kuka beállításai</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

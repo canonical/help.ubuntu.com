@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Подесите режим праћења Ваком таблице</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Режим праћења</span> одређује начин мапирања показивача на екрану.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Ваком таблица</span>.</p></li>
 <li class="steps"><p class="p">Кликните на <span class="gui">Ваком таблица</span> да отворите панел.</p></li>
@@ -101,7 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">У <span class="em">апсолутном</span> режиму, свака тачка на таблици се мапира на тачку на екрану. Горњи леви угао екрана, на пример, увек одговара истој тачки на таблици.</p>
-<p class="p">У <span class="em">релативном</span> режиму, ако подигнете показивач таблице и спустите га на друго место, курсор на екрану се не помера. Ово је начин на који ради миш.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div>
 </div>
 </div>

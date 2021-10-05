@@ -80,8 +80,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">رایانک گرافیکی وکوم</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.fa" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the tablet between tablet mode and mouse mode.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.fa" title="استفاده از رایانک به صورت چپ‌دست"><span class="title">استفاده از رایانک به صورت چپ‌دست</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.fa" title="استفاده از رایانک با دست راست یا چپتان"><span class="title">استفاده از رایانک با دست راست یا چپتان</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.fa" title="تنظیم حالت ردیابی رایانک وکوم"><span class="title">تنظیم حالت ردیابی رایانک وکوم</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the tablet between tablet mode and mouse mode.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.fa" title="پیکربندی قلم"><span class="title">پیکربندی قلم</span><span class="linkdiv-dash"> — </span><span class="desc">عملکرد و فشار فشار قلم وکوم را مشخص کنید.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.fa" title="گزینش یک نمایشگر"><span class="title">گزینش یک نمایشگر</span><span class="linkdiv-dash"> — </span><span class="desc">Map the Wacom tablet to a specific monitor.</span></a></div>
 </div></div></div></div></div>

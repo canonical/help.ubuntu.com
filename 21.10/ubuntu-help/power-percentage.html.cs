@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Show the battery status as a percentage</title>
+<title>Zobrazení procent baterie</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -79,20 +79,16 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Show the battery status as a percentage</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Zobrazení procent baterie</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="link"><a href="status-icons.html.cs#batteryicons" title="Ikony baterie">status icon</a></span> in the top
-    bar shows the charge level of the main internal battery, and whether it is
-    currently charging or not. It can also display the charge as a
-    <span class="link"><a href="power-percentage.html.cs" title="Show the battery status as a percentage">percentage</a></span>.</p>
+<p class="p"><span class="link"><a href="status-icons.html.cs#batteryicons" title="Ikony baterie">Stavová ikona</a></span> v horní liště zobrazuje úroveň nabití hlavní vnitřní baterie a zda se zrovna nabíjí, či ne. Je rovněž možné si nechat zobrazovat úroveň nabití v <span class="link"><a href="power-percentage.html.cs" title="Zobrazení procent baterie">procentech</a></span>.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Display the battery percentage in the top bar</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Zobrazení procent baterie v horní liště</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Suspend &amp; Power Button</span> section, set <span class="gui">Show
-      Battery Percentage</span> to on.</p></li>
+<li class="steps"><p class="p">V části <span class="gui">Uspávací a vypínací tlačítko</span> nastavte <span class="gui">Zobrazovat procenta baterie</span> na zapnuto.</p></li>
 </ol></div>
 </div></div>
 </div>

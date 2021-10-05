@@ -76,12 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Řízení, který účet služby on-line může být použit k přístupu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Some types of online account providers allow you to access several services
-  with the same user account. For example, Google accounts provide access to
-  calendar, email, and contacts. You may want to use your account for some
-  services, but not others. For example, you may want to use your Google account
-  for email but not calendar if you have a different online account that you use
-  for calendar.</p>
+<p class="p">Někteří poskytovatelé účtů on-line umožňují přístup k několika službám s tím samým uživatelským účtem. Například účet Google poskytuje přístup ke kalendáři, e-mailům a kontaktům. Možná ale budete chtít účet používat jen pro jednu službu a pro ostatní ne. Například můžete chtít používat svůj účet Google pro e-mail, ale ne pro kalendář, protože k tomu máte jiný účet jinde.</p>
 <p class="p">Můžete zakázat některé služby, které jednotlivé účty on-line poskytují:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Účty on-line</span>.</p></li>

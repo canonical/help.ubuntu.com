@@ -76,18 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tambahkan akun</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Adding an account will help link your online accounts with your
-desktop. Thus, your email client, calendar and other related
-  applications will be set up for you.</p>
+<p class="p">Menambahkan akun akan membantu menghubungkan akun daring Anda dengan desktop Anda. Jadi, klien surel, kalender, dan aplikasi terkait lain akan disiapkan untuk Anda.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Akun Daring</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Pilih akun yang ingin Anda ubah dari daftar di kanan.</p></li>
-<li class="steps"><p class="p">Select the type of account you want to add.</p></li>
-<li class="steps"><p class="p">A small website window or dialog will open where you can enter your
-      online account credentials. For example, if you are setting up a Google
-      account, enter your email address and password. Some providers allow
-      you to create a new account from the login dialog.</p></li>
+<li class="steps"><p class="p">Pilih tipe akun yang ingin Anda tambahkan.</p></li>
+<li class="steps"><p class="p">Suatu dialog atau jendela situs web kecil akan terbuka dimana Anda dapat memasukkan kredensial akun daring Anda. Sebagai contoh, bila Anda menyiapkan akun Google, masukkan alamat surel dan kata sandi Anda. Beberapa penyedia mengizinkan Anda membuat sebuah akun baru dari dialog log masuk.</p></li>
 <li class="steps"><p class="p">Bila Anda telah memasukkan kredensial dengan benar, Anda akan ditanya untuk mengijinkan GNOME mengakses akun daring Anda. Berikan otorisasi akses untuk melanjutkan.</p></li>
 <li class="steps"><p class="p">Semua layanan yang ditawarkan oleh penyedia akun akan difungsikan secara baku. <span class="link"><a href="accounts-disable-service.html.id" title="Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana">Matikan</a></span> layanan individu untuk menonaktifkan mereka.</p></li>
 </ol></div></div></div>
@@ -104,7 +99,7 @@ desktop. Thus, your email client, calendar and other related
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.id" title="Akun daring">Akun daring</a><span class="desc"> — Connect to your accounts with various online services.</span>
+<a href="accounts.html.id" title="Akun daring">Akun daring</a><span class="desc"> — Hubungkan ke akun Anda pada berbagai layanan daring.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

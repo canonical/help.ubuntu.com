@@ -94,9 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Saving</span> section, adjust the <span class="gui">Screen
-      brightness</span> slider to the value you want to use. The change should
-      take effect immediately.</p></li>
+<li class="steps"><p class="p">Dalam bagian <span class="gui">Penghematan Daya</span>, setel penggeser <span class="gui">Kecerahan layar</span> ke nilai yang ingin Anda gunakan. Efek perubahannya harusnya langsung terjadi.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Tip">
@@ -129,9 +127,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="a11y-contrast.html.id" title="Atur kontras">Atur kontras</a><span class="desc"> — Membuat jendela dan tombol pada layar lebih (atau kurang) tajam, sehingga lebih mudah dilihat.</span>
 </li>
 <li class="links ">
-<a href="power-profile.html.id" title="Choose a power profile">Choose a power profile</a><span class="desc"> — Balance performance and battery usage.</span>
-</li>
-<li class="links ">
 <a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
 </li>
 <li class="links ">
@@ -139,6 +134,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="links ">
 <a href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?">Mengapa layar saya meredup setelah beberapa saat?</a><span class="desc"> — Layar akan meredup ketika komputer menganggur untuk menghemat daya.</span>
+</li>
+<li class="links ">
+<a href="power-profile.html.id" title="Pilih suatu profil daya">Pilih suatu profil daya</a><span class="desc"> — Menyeimbangkan kinerja dan penggunaan baterai.</span>
 </li>
 </ul></div>
 </div></div>

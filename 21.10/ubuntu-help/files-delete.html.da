@@ -129,12 +129,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.da#trash" title="Papirkurv">Filhåndteringens præferencer for papirkurven</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.da" title="Gendan en fil fra papirkurven">Gendan en fil fra papirkurven</a><span class="desc"> — Slettede filer sendes normalt til papirkurven, men kan gendannes.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

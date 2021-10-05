@@ -82,12 +82,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Show the battery status as a percentage</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="link"><a href="status-icons.html.id#batteryicons" title="Battery icons">status icon</a></span> in the top
+<p class="p">The <span class="link"><a href="status-icons.html.id#batteryicons" title="Ikon baterai">status icon</a></span> in the top
     bar shows the charge level of the main internal battery, and whether it is
     currently charging or not. It can also display the charge as a
     <span class="link"><a href="power-percentage.html.id" title="Show the battery status as a percentage">percentage</a></span>.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Display the battery percentage in the top bar</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Menampilkan persentase baterai di bilah puncak</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Daya</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Daya</span> untuk membuka panel.</p></li>

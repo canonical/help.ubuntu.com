@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Można ustawiać uprawnienia dla właściciela pliku, właściciela grupy i wszystkich pozostałych użytkowników komputera. Użytkownik jest właścicielem swoich plików i może nadać sobie uprawnienia tylko do odczytu lub do odczytu i zapisu. Ustaw plik jako tylko do odczytu, aby przypadkiem go nie zmienić.</p>
 <p class="p">Każdy użytkownik komputera należy do jakiejś grupy. W przypadku komputerów domowych najczęściej każdy użytkownik ma swoją grupę, a uprawnienia grup są rzadko używane. W środowiskach firmowych grupa są czasem używane dla wydziałów lub projektów. Oprócz właściciela każdy plik ma także jakąś grupę. Można ustawić grupę pliku i kontrolować uprawnienia wszystkich użytkowników w tej grupie. Można ustawiać grupę pliku tylko na grupę, do której się należy.</p>
 <p class="p">Można także ustawiać uprawnienia dla użytkowników innych niż właściciel i tych w grupie pliku.</p>
-<p class="p">Jeśli plik jest programem, takim jak skrypt, to należy zaznaczyć opcję <span class="gui">Zezwolenie na wykonywanie pliku jako programu</span>, aby go uruchomić. Nawet jeśli to zrobiono, menedżer plików może nadal otwierać plik w programie lub pytać, co robić. <span class="link"><a href="nautilus-behavior.html.pl-PL#executable" title="Wykonywalne pliki tekstowe">Wykonywalne pliki tekstowe</a></span> zawiera więcej informacji.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.pl-PL#executable" title="Wykonywalne pliki tekstowe">Wykonywalne pliki tekstowe</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Katalogi</span></h2></div>

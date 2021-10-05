@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
   sound settings.</p>
 <p class="p">Jos käytössäsi on USB-kaiuttimet tai -kuulokkeet, tai analogiset kuulokkeet USB-äänikortiin yhdistettynä, liitä ne mihin tahansa USB-porttiin. USB-kaiuttimet tunnistautuvat erillisinä äänilaitteina, ja niiden valinta oletukseksi saattaa olla tarpeen.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Select a default audio output device</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Valitse oletuksena käytettävä äänen ulostulolaite</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Ääni</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Ääni</span> avataksesi paneelin.</p></li>

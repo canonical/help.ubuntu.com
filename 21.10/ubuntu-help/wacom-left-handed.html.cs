@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Používání tabletu leváky</title>
+<title>Používání tabletu levou a pravou rukou</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,10 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Používání tabletu leváky</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Používání tabletu levou a pravou rukou</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Některé tablety mají hardwarová tlačítka jen po jedné straně. Tablet je možné otočit o 180 stupňů, aby tlačítka byly na správném místě pro leváky. Abyste přepnuli tablet pro leváky:</p>
+<p class="p">Některé tablety mají hardwarová tlačítka jen u jednoho okraje. Tablet je možné otočit o 180 stupňů, aby tlačítka byly na požadované straně. Výchozí otočení je připravené pro praváky. Když chcete přepnout tablet pro leváky:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Grafický tablet</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na položku <span class="gui">Grafický tablet</span> otevřete příslušný panel.</p></li>

@@ -93,8 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Więcej informacji</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Instalowanie i usuwanie oprogramowania</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.pl-PL" title="Instalowanie i usuwanie oprogramowania">Instalowanie i usuwanie oprogramowania</a><span class="desc"> — Dodawanie i usuwanie programów i innego oprogramowania. Obsługa dodatkowych repozytoriów oprogramowania.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

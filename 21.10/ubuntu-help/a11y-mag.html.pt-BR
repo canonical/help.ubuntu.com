@@ -91,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Você pode ativar e desativar rapidamente o ampliador clicando no <span class="link"><a href="a11y-icon.html.pt-BR" title="Localizando o menu de acessibilidade">ícone de acessibilidade</a></span> na barra superior e selecionando <span class="gui">Ampliador</span>.</p></div></div></div>
 </div>
 <p class="p">Você pode alterar o fator de ampliação, a mira do mouse e a posição da visão ampliada na tela. Ajuste-as na aba <span class="gui">Ampliação</span> da janela <span class="gui">Opções de ampliação</span>.</p>
-<p class="p">Você pode ativar miras para ajudar você a achar o ponteiro do mouse ou touchpad. Ativa-as e ajuste seu comprimento, cor e espessura na aba <span class="gui">Mira</span> da janela de configurações de <span class="gui">Ampliação</span>.</p>
+<p class="p">Você pode ativar miras para ajudar você a achar o cursor do mouse ou touchpad. Ativa-as e ajuste seu comprimento, cor e espessura na aba <span class="gui">Mira</span> da janela de configurações de <span class="gui">Ampliação</span>.</p>
 <p class="p">Você pode ativar o vídeo invertido ou <span class="gui">Preto no branco</span> e ajustar opções de brilho, contraste e níveis de cinza para a ampliação. A combinação dessas opções é útil para pessoas com baixa visão, com algum grau de fotofobia ou apenas usando o computador sob condições de luminosidade adversa. Selecione a aba <span class="gui">Efeitos de cor</span> na janela de configurações de <span class="gui">Ampliação</span> para habilitar e alterar essas configurações.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

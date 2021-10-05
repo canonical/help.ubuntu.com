@@ -215,7 +215,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="list"><p class="p"><span class="link"><a href="net-wireless-connect.html.fa" title="Connect to a wireless network">درباره شبکه‌های بی‌سیم بیش‌تر بدانید.</a></span></p></li>
 </ul></div></div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h3><span class="title">Cellular networking (mobile broadband)</span></h3></div>
+<div class="title title-table"><h3><span class="title">شبکهٔ سلولی (پهن‌باند همراه)</span></h3></div>
 <div class="region"><table class="table">
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>

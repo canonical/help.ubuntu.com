@@ -83,10 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Klikněte na nabídkové tlačítko a v nabídce vyberte <span class="gui">Srovnávací test…</span></p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Spustit srovnávací test…</span> a upravte podle potřeby parametry <span class="gui">Přenosová rychlost</span> a <span class="gui">Přístupový čas</span>.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Start Benchmarking…</span> to test how fast data can be read
-      from the disk. <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">Administrative
-      privileges</a></span> may be required. Enter your password, or the password
-      for the requested administrator account.</p>
+<p class="p">Kliknutím na <span class="gui">Spustit srovnávací test…</span> se otestuje jak rychle mohou být z disku čtena data. Mohou k tomu být zapotřebí <span class="link"><a href="user-admin-explain.html.cs" title="Jak fungují oprávnění správce?">oprávnění správce</a></span>. Zadejte své heslo nebo heslo k požadovanému účtu správce.</p>
 <div class="note" title="Upozornění">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>

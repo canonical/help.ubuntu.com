@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Filhanterarens visningsinställningar</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Du kan styra hur filhanteraren visar text under ikoner. Klicka på menyknappen i övre högra hörnet i fönstret och välj <span class="gui">Inställningar</span> och välj sedan fliken <span class="gui">Vyer</span>.</p></div>
+<div class="contents pagewide"><p class="p">Du kan styra hur filhanteraren visar text under ikoner. Klicka på menyknappen i fönstrets övre högra hörn, välj <span class="gui">Inställningar</span> och gå sedan till avsnittet <span class="gui">Ikonvyrubriker</span>.</p></div>
 <section id="icon-captions"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ikonrubriker</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 </div></section><section id="list-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Listvy</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">När du tittar på filer som en lista finns alternativet <span class="gui">Tillåt mappar att expanderas</span>. Detta visar expanderare för varje katalog i fillistan så att innehållet för flera kataloger kan visas samtidigt. Detta är användbart om mappstrukturen är relevant, t.ex. om dina musikfiler är organiserade med en mapp per artist och en undermapp per album.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">När du tittar på filer som en lista kan du visa <span class="gui">Expanderbara mappar i listvy</span>. Detta visar expanderare för varje katalog i fillistan så att innehållet för flera kataloger kan visas samtidigt. Detta är användbart om mappstrukturen är relevant, t.ex. om dina musikfiler är organiserade med en mapp per artist och en undermapp per album.</p></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

@@ -101,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="disk.html.sv" title="Diskar och lagring">Diskar och lagring</a><span class="desc"> — Se diskutrymme och kontrollera hur mycket diskutrymme som allokerats och används.</span>
 </li>
 <li class="links ">
-<a href="addremove.html.sv" title="Installera &amp; ta bort mjukvara">Installera &amp; ta bort mjukvara</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.sv" title="Installera &amp; ta bort mjukvara">Installera &amp; ta bort mjukvara</a><span class="desc"> — Lägg till och ta bort applikationer och annan programvara. Hantera extra programvaruförråd.</span>
 </li>
 </ul></div>
 </div></div></div>

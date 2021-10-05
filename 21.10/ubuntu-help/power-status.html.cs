@@ -86,16 +86,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Zobrazení stavu baterie a připojených zařízení</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel. The status of
-      <span class="gui">Batteries</span> and known <span class="gui">Devices</span> is displayed.</p></li>
+<li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel. Zobrazí se stav <span class="gui">Baterií</span> a známých <span class="gui">Zařízení</span>.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Když je zjištěna přítomnost interní baterie, zobrazí se v části <span class="gui">Baterie</span> stav jedné či více baterií notebooku. Při připojení k elektrické síti ukazatel zobrazuje procentuální nabití a k tomu čas do úplného nabití, jinak zbývající čas běhu na baterii.</p>
 <p class="p">V části <span class="gui">Zařízení</span> jsou zobrazené stavy připojených zařízení.</p>
-<p class="p">The <span class="link"><a href="status-icons.html.cs#batteryicons" title="Ikony baterie">status icon</a></span> in the top
-    bar shows the charge level of the main internal battery, and whether it is
-    currently charging or not. It can also display the charge as a
-    <span class="link"><a href="power-percentage.html.cs" title="Show the battery status as a percentage">percentage</a></span>.</p>
+<p class="p"><span class="link"><a href="status-icons.html.cs#batteryicons" title="Ikony baterie">Stavová ikona</a></span> v horní liště zobrazuje úroveň nabití hlavní vnitřní baterie a zda se zrovna nabíjí, či ne. Je rovněž možné si nechat zobrazovat úroveň nabití v <span class="link"><a href="power-percentage.html.cs" title="Zobrazení procent baterie">procentech</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -115,10 +111,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-percentage.html.cs" title="Show the battery status as a percentage">Show the battery status as a percentage</a><span class="desc"> — Display the battery percentage in the top bar.</span>
+<a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
 </li>
 <li class="links ">
-<a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
+<a href="power-percentage.html.cs" title="Zobrazení procent baterie">Zobrazení procent baterie</a><span class="desc"> — Jak zobrazovat na horní liště stav baterie v procentech.</span>
 </li>
 </ul></div>
 </div></div>

@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mausverfolgungsmodus des Wacom-Tabletts einstellen</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Der <span class="gui">Mausverfolgungsmodus</span> legt fest, wie der Zeiger auf dem Bildschirm abgebildet wird.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Wacom-Tablett</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Wacom-Grafiktablett</span>, um das Panel zu öffnen.</p></li>
@@ -101,7 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">Im <span class="em">absoluten</span> Modus entspricht jeder Punkt auf dem Tablett einem Punkt auf dem Bildschirm. Beispielsweise ist die linke obere Ecke des Bildschirms auch stets die linke obere Ecke des Tabletts.</p>
-<p class="p">Im <span class="em">relativen</span> Modus bewegt sich der Zeiger auf dem Bildschirm nicht, wenn Sie den Eingabestift vom Tablett abheben und an einer anderen Stelle wieder aufsetzen. Dies entspricht der Art, wie eine Maus funktioniert.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div>
 </div>
 </div>

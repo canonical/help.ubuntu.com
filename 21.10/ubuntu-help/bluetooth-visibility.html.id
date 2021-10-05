@@ -93,8 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a><span class="desc"> — Terhubung ke perangkat melalui Bluetooth untuk mentransfer berkas atau menggunakan audio nirkabel.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html.id" title="Disk &amp; penyimpanan">Disks</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html.id" title="Disk &amp; penyimpanan">Diska</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Memperbaiki sistem berkas yang rusak</span></h1></div>
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
+<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — Periksa ruang disk dan mengendalikan bagaimana ruang disk dialokasikan dan digunakan.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

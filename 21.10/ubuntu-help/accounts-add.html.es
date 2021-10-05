@@ -76,18 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Añadir una cuenta</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Adding an account will help link your online accounts with your
-desktop. Thus, your email client, calendar and other related
-  applications will be set up for you.</p>
+<p class="p">Añadir una cuenta le ayudará a enlazar sus cuentas en línea con su escritorio. Por lo tanto, su programa de correo-e, calendario y otras aplicaciones relacionadas ser configurarán.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Cuentas en línea</span>.</p></li>
 <li class="steps"><p class="p">Pulse en <span class="gui">Cuentas en línea</span> para abrir el panel.</p></li>
 <li class="steps"><p class="p">Seleccione una cuenta de la lista de la derecha.</p></li>
-<li class="steps"><p class="p">Select the type of account you want to add.</p></li>
-<li class="steps"><p class="p">A small website window or dialog will open where you can enter your
-      online account credentials. For example, if you are setting up a Google
-      account, enter your email address and password. Some providers allow
-      you to create a new account from the login dialog.</p></li>
+<li class="steps"><p class="p">Seleccione el tipo de cuenta que quiere añadir.</p></li>
+<li class="steps"><p class="p">Se abrirá una pequeña ventana o diálogo donde podrá introducir las credenciales de la cuenta en línea. Si está configurando una cuenta de Google, introduzca su dirección de correo-e y su contraseña. Algunos proveedores le permiten crear una cuenta desde el diálogo de inicio de sesión.</p></li>
 <li class="steps"><p class="p">Si ha introducido sus credenciales correctamente, se le pedirá que permita a GNOME acceder a su cuenta en línea. Autorice el acceso para continuar.</p></li>
 <li class="steps"><p class="p">Todos los servicios ofrecidos por el proveedor de la cuenta estarán activados de manera predeterminada. Puede <span class="link"><a href="accounts-disable-service.html.es" title="Controlar qué servicios en línea puede usar una cuenta para acceder">desactivar</a></span> los servicios individualmente.</p></li>
 </ol></div></div></div>
@@ -104,7 +99,7 @@ desktop. Thus, your email client, calendar and other related
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — Connect to your accounts with various online services.</span>
+<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — Conectar a sus cuentas con varios servicios en línea</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

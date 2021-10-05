@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Podeu establir els permisos per al propietari del fitxer, el propietari del grup i tots els altres usuaris del sistema. Per als vostres fitxers, sou el propietari, i podeu donar-vos permís de només lectura o lectura i escriptura. Establiu un fitxer a només lectura si no voleu canviar-lo accidentalment.</p>
 <p class="p">Tot usuari de l'ordinador pertany a un grup. En els ordinadors domèstics és comú que cada usuari tingui el seu propi grup, i els permisos de grup no s'utilitzen sovint. En entorns corporatius, els grups s'utilitzen a vegades per a departaments o projectes. A més de tenir un propietari, cada fitxer pertany a un grup. Es pot configurar el grup del fitxer i controlar els permisos per a tots els usuaris d'aquest grup. Només es pot configurar el grup del fitxer a un grup al qual pertanyeu.</p>
 <p class="p">També podeu establir els permisos per als usuaris que no siguin el propietari i els del grup del fitxer.</p>
-<p class="p">Si el fitxer és un programa, com ara un script, heu de seleccionar <span class="gui">Permetre executar el fitxer com a programa</span> per a executar-lo. Fins i tot amb aquesta opció seleccionada, el gestor de fitxers encara pot obrir el fitxer en una aplicació o preguntar-vos què fer. Veure <span class="link"><a href="nautilus-behavior.html.ca#executable" title="Fitxer de text executable">Fitxer de text executable</a></span> per a obtenir més informació.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.ca#executable" title="Fitxer de text executable">Fitxer de text executable</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Carpetes</span></h2></div>

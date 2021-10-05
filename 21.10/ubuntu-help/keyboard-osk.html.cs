@@ -97,12 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol></div></div></div>
 <p class="p">Kdykoliv se od toho okamžiku naskytne možnosti psát, klávesnice na obrazovce se automaticky otevře ve spodní části obrazovky.</p>
 <p class="p">Po zmáčknutí tlačítka <span class="gui">?123</span> můžete zadávat číslice a symboly. Další symboly jsou dostupné pod tlačítkem <span class="gui">=/&lt;</span>. Pro návrat k alfanumerické klávesnici zmáčkněte tlačítko <span class="gui">ABC</span>.</p>
-<p class="p">You can press the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="down"></span></span></span>
-  button to hide the keyboard temporarily. The keyboard will show again
-  automatically when you next press on something where you can use it.
-  On a touchscreen, you can also pull up the keyboard by
-  <span class="link"><a href="touchscreen-gestures.html.cs" title="Používání gest na touchpadu a dotykové obrazovce">dragging up from the bottom edge</a></span>.</p>
+<p class="p">Klávesnici můžete dočasně skrýt zmáčknutím tlačítka <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="dolů"></span></span></span>. Automaticky se znovu objeví, když se zaměříte někam, kde ji lze použít. Na dotykové obrazovce ji můžete také vysunout <span class="link"><a href="touchscreen-gestures.html.cs" title="Používání gest na touchpadu a dotykové obrazovce">táhnutím od spodní hrany obrazovky</a></span>.</p>
 <p class="p">Po zmáčknutí tlačítka <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="vlajka"></span></span></span> můžete měnit nastavení <span class="link"><a href="session-language.html.cs" title="Změna jazyka, který používáte">Jazyka</a></span> a <span class="link"><a href="keyboard-layouts.html.cs" title="Používání alternativního rozložení klávesnice">Vstupních zdrojů</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">

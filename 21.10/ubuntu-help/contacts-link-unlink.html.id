@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Networking</a> » <a class="trail" href="contacts.html.id" title="Kontak">Kontak</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan</a> » <a class="trail" href="contacts.html.id" title="Kontak">Kontak</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Tautkan/lepas tautkan kontak</span></h1></div>
@@ -91,9 +91,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide">
 <p class="p">Anda mungkin ingin melepas kait kontak bila Anda tak sengaja mengait kontak yang mestinya tak terkait.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the contact you wish to unlink from your list of contacts.</p></li>
-<li class="steps"><p class="p">Press <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="view more"></span></span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
+<li class="steps"><p class="p">Pilih kontak yang ingin Anda lepas kaitkan dari daftar kontak Anda.</p></li>
+<li class="steps"><p class="p">Tekan <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="lihat lainnya"></span></span> di pojok kanan atas dari <span class="app">Kontak</span>.</p></li>
 <li class="steps"><p class="p">Tekan <span class="gui">Putuskan</span> untuk memutus taut entri dari kontak.</p></li>
 </ol></div></div></div>
 </div></div>

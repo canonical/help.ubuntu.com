@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ja" title="Install &amp; remove software">ソフトウェアの追加/削除</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ja" title="ソフトウェアのインストールと削除">ソフトウェアの追加/削除</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">個人用パッケージアーカイブ(PPA)の追加</span></h1></div>
@@ -114,16 +114,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.ja" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — Add and remove applications and other software. Handle
+<a href="addremove.html.ja" title="ソフトウェアのインストールと削除">ソフトウェアのインストールと削除</a><span class="desc"> — Add and remove applications and other software. Handle
     additional software repositories.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">関連項目</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html.ja" title="Add software repositories">
-    Add software repositories
-  </a><span class="desc"> — 
+<a href="addremove-sources.html.ja" title="ソフトウェアリポジトリの追加">ソフトウェアリポジトリの追加</a><span class="desc"> — 
       Add repositories to extend the software sources Ubuntu uses for 
       installation and upgrades.
     </span>

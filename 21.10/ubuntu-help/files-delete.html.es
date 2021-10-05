@@ -119,12 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte también</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.es#trash" title="Papelera">Preferencias de la papelera del gestor de archivos</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.es" title="Recuperar un archivo de la papelera">Recuperar un archivo de la papelera</a><span class="desc"> — Cuando elimina un archivo, normalmente se envía a la papelera, pero es posible recuperarlo.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

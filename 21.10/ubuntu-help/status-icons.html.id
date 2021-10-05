@@ -78,16 +78,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">This page explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html.id#universalicons" title="Accessibility icons">Accessibility icons</a></li>
-<li class="links "><a href="status-icons.html.id#audioicons" title="Audio icons">Audio icons</a></li>
-<li class="links "><a href="status-icons.html.id#batteryicons" title="Battery icons">Battery icons</a></li>
-<li class="links "><a href="status-icons.html.id#bluetoothicons" title="Bluetooth icons">Bluetooth icons</a></li>
+<li class="links "><a href="status-icons.html.id#universalicons" title="Ikon aksesibilitas">Ikon aksesibilitas</a></li>
+<li class="links "><a href="status-icons.html.id#audioicons" title="Ikon audio">Ikon audio</a></li>
+<li class="links "><a href="status-icons.html.id#batteryicons" title="Ikon baterai">Ikon baterai</a></li>
+<li class="links "><a href="status-icons.html.id#bluetoothicons" title="Ikon Bluetooth">Ikon Bluetooth</a></li>
 <li class="links "><a href="status-icons.html.id#networkicons" title="Networking icons">Networking icons</a></li>
 <li class="links "><a href="status-icons.html.id#othericons" title="Other icons">Other icons</a></li>
 </ul></div></div></div>
 </div>
 <section id="universalicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Accessibility icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Ikon aksesibilitas</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </ul></div></div></div>
 </div></div>
 </div></section><section id="audioicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Audio icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Ikon audio</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -128,7 +128,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="sound-volume.html.id" title="Mengubah volume suara">Learn more about sound volume.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></section><section id="batteryicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Battery icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Ikon baterai</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -155,7 +155,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="power-status.html.id" title="Periksa status baterai">Learn more about battery status.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></section><section id="bluetoothicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Bluetooth icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Ikon Bluetooth</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
@@ -187,7 +187,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-acquiring.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connecting to a wireless network.</p></td>
+<td><p class="p">Menyambung ke jaringan nirkabel.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wireless-strength.svg" class="media media-block" alt=""></div></div></td>
@@ -223,7 +223,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-acquiring.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connecting to a cellular network.</p></td>
+<td><p class="p">Tersambung ke jaringan seluler.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-cellular-signal.svg" class="media media-block" alt=""></div></div></td>

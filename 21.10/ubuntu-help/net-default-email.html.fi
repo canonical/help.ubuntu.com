@@ -84,7 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span> overview and
       start typing <span class="gui">Default Applications</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Default Applications</span>.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Oletussovellukset</span>.</p></li>
 <li class="steps"><p class="p">Vaihda oletusselainta valitsemalla suosikkisi <span class="gui">Sähköposti</span>-kohdasta.</p></li>
 </ol></div></div></div>
 </div>

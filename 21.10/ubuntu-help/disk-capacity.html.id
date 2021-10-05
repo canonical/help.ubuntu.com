@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html.id" title="Disk &amp; penyimpanan">Disks</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html.id" title="Disk &amp; penyimpanan">Diska</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Periksa seberapa banyak ruang disk yang tersisa</span></h1></div>
@@ -82,9 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Untuk memeriksa ruang disk bebas dan kapasitas disk memakai <span class="app">Penganalisa Penggunaan Disk</span>:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Buka <span class="app">Disk</span> dari ringkasan <span class="gui">Aktivitas</span>. Jendela akan menampilkan daftar lokasi berkas bersamaan dengan penggunan dan kapasitas masing-masing.</p></li>
-<li class="list"><p class="p">Click one of the items in the list to view a detailed summary of the
-      usage for that item. Click the menu button, and then <span class="gui">Scan
-      Folder…</span> to scan a different location.</p></li>
+<li class="list"><p class="p">Klik salah satu dari butir yang ada pada daftar untuk melihat rincian laporan dari penggunaan butir tersebut. Klik tombol menu, lalu <span class="gui">Pindai Folder…</span> untuk memindai pada lokasi yang berbeda.</p></li>
 </ul></div></div></div>
 <p class="p">Informasi ditampilkan menurut <span class="gui">Folder</span>, <span class="gui">Ukuran</span>, <span class="gui">Isi</span>, dan kapan data terakhir <span class="gui">Diubah</span>. Lihat lebih banyak rincian dalam <span class="link"><a href="https://help.gnome.org/users/baobab/stable/" title="https://help.gnome.org/users/baobab/stable/"><span class="app">Penganalisa Penggunaan Disk</span></a></span>.</p>
 </div></div>
@@ -126,7 +124,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
+<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — Periksa ruang disk dan mengendalikan bagaimana ruang disk dialokasikan dan digunakan.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

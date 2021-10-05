@@ -76,12 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">دیسک‌ها و ذخیره</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.fa" title="Create a startup disk"><span class="title">
-    Create a startup disk
-  </span><span class="linkdiv-dash"> — </span><span class="desc"> 
-    Convert a USB flash drive into a volume from which you can startup and install Ubuntu.
-    </span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-benchmark.html.fa" title="آزمون عملکرد دیسک سختتان"><span class="title">آزمون عملکرد دیسک سختتان</span><span class="linkdiv-dash"> — </span><span class="desc">Run benchmarks on your hard disk to check how fast it is.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.fa" title="ایجاد یک دیسک راه‌انداز"><span class="title">ایجاد یک دیسک راه‌انداز</span><span class="linkdiv-dash"> — </span><span class="desc">تبدیل یک فلش یو‌اس‌بی به حجمی که می‌توانید اوبونتو را از رویش راه‌اندازی و نصب کنید.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-check.html.fa" title="بررسی دیسکتان برای مشکلات"><span class="title">بررسی دیسکتان برای مشکلات</span><span class="linkdiv-dash"> — </span><span class="desc">Test your hard disk for problems to make sure that it’s healthy.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="disk-capacity.html.fa" title="بررسی فضای باقی‌ماندهٔ دیسک"><span class="title">بررسی فضای باقی‌ماندهٔ دیسک</span><span class="linkdiv-dash"> — </span><span class="desc">Use <span class="gui">Disk Usage Analyzer</span>, <span class="gui">System Monitor</span>, or
     <span class="gui">Usage</span> to check space and capacity.</span></a></div>

@@ -89,8 +89,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.fi" title="Miksi tietokoneeni sammuu, kun suljen kannen?"><span class="title">Miksi tietokoneeni sammuu, kun suljen kannen?</span><span class="linkdiv-dash"> — </span><span class="desc">Kannettavat siirtyvät valmiustilaan sulkiessasi kannen virran säästämiseksi.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.fi" title="Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?"><span class="title">Mitä tapahtuu, kun asetan tietokoneeni valmius- tai lepotilaan?</span><span class="linkdiv-dash"> — </span><span class="desc">Valmiustila asettaa tietokoneen virtaa säästävään tilaan.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.fi" title="Näytä akun tila prosentteina"><span class="title">Näytä akun tila prosentteina</span><span class="linkdiv-dash"> — </span><span class="desc">Näytä akun varaus prosentteina yläpalkissa.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.fi" title="Sammuta käytössä tarpeettomat teknologiat"><span class="title">Sammuta käytössä tarpeettomat teknologiat</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wifi ja mobiililaajakaista voidaan sammuttaa akun varauksen säästämiseksi.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.fi" title="Show the battery status as a percentage"><span class="title">Show the battery status as a percentage</span><span class="linkdiv-dash"> — </span><span class="desc">Display the battery percentage in the top bar.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section id="saving"><div class="inner">
@@ -99,11 +99,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.fi" title="Aseta automaattinen valmiustila"><span class="title">Aseta automaattinen valmiustila</span><span class="linkdiv-dash"> — </span><span class="desc">Määritä tietokoneesi siirtymään valmiustilaan automaattisesti.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.fi" title="Aseta näytön pimenemisaika"><span class="title">Aseta näytön pimenemisaika</span><span class="linkdiv-dash"> — </span><span class="desc">Muuta näytön pimenemisviivettä säästääksesi virtaa.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-profile.html.fi" title="Choose a power profile"><span class="title">Choose a power profile</span><span class="linkdiv-dash"> — </span><span class="desc">Balance performance and battery usage.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.fi" title="Miksi näyttö himmenee itsestään?"><span class="title">Miksi näyttö himmenee itsestään?</span><span class="linkdiv-dash"> — </span><span class="desc">Näyttö himmennetään energian säästämiseksi, kun tietokone on käyttämättä.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.fi" title="Miksi näyttö himmenee itsestään?"><span class="title">Miksi näyttö himmenee itsestään?</span><span class="linkdiv-dash"> — </span><span class="desc">Näyttö himmennetään energian säästämiseksi, kun tietokone on käyttämättä.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.fi" title="Ota käyttöön automaattinen kirkkaus"><span class="title">Ota käyttöön automaattinen kirkkaus</span><span class="linkdiv-dash"> — </span><span class="desc">Hallitse näytön kirkkautta automaattisesti säästääksesi akun käyttöä.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-profile.html.fi" title="Valitse virtaprofiili"><span class="title">Valitse virtaprofiili</span><span class="linkdiv-dash"> — </span><span class="desc">Tasapainota suorituskykyä ja akunkäyttöä.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="faq"><div class="inner">

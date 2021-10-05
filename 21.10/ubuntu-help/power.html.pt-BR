@@ -87,9 +87,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.pt-BR" title="Fazendo melhor uso da bateria de seu notebook"><span class="title">Fazendo melhor uso da bateria de seu notebook</span><span class="linkdiv-dash"> — </span><span class="desc">Dicas como “Não deixe a carga da bateria ficar baixa demais”.</span></a></div>
 </div>
 <div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.pt-BR" title="Mostrando o status da bateria como uma porcentagem"><span class="title">Mostrando o status da bateria como uma porcentagem</span><span class="linkdiv-dash"> — </span><span class="desc">Exibe a porcentagem da bateria na barra superior.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.pt-BR" title="O que acontece quando eu suspendo o meu computador?"><span class="title">O que acontece quando eu suspendo o meu computador?</span><span class="linkdiv-dash"> — </span><span class="desc">Suspensão leva seu computador para dormir, para que use menos energia.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.pt-BR" title="Por que meu computador desliga quando fecho a tampa?"><span class="title">Por que meu computador desliga quando fecho a tampa?</span><span class="linkdiv-dash"> — </span><span class="desc">Notebooks dormem quando você fecha a tampa, para economizar energia.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.pt-BR" title="Show the battery status as a percentage"><span class="title">Show the battery status as a percentage</span><span class="linkdiv-dash"> — </span><span class="desc">Display the battery percentage in the top bar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.pt-BR" title="Usando menos energia e melhorando duração da bateria"><span class="title">Usando menos energia e melhorando duração da bateria</span><span class="linkdiv-dash"> — </span><span class="desc">Dicas para reduzir o consumo de energia do seus computador.</span></a></div>
 </div>
 </div></div></div></div></div>
@@ -97,9 +97,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Configurações de economia de energia</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-profile.html.pt-BR" title="Choose a power profile"><span class="title">Choose a power profile</span><span class="linkdiv-dash"> — </span><span class="desc">Balance performance and battery usage.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.pt-BR" title="Configurando suspensão automática"><span class="title">Configurando suspensão automática</span><span class="linkdiv-dash"> — </span><span class="desc">Configure seu computador para suspender automaticamente.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.pt-BR" title="Definindo o tempo de apagamento da tela"><span class="title">Definindo o tempo de apagamento da tela</span><span class="linkdiv-dash"> — </span><span class="desc">Altere o tempo até apagar a tela para economizar energia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-profile.html.pt-BR" title="Escolhendo um perfil de energia"><span class="title">Escolhendo um perfil de energia</span><span class="linkdiv-dash"> — </span><span class="desc">Equilibre o desempenho e o uso da bateria.</span></a></div>
 </div>
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.pt-BR" title="Habilitando brilho automático"><span class="title">Habilitando brilho automático</span><span class="linkdiv-dash"> — </span><span class="desc">Controle automaticamente o brilho da tela para reduzir o uso da bateria.</span></a></div>

@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">A maioria dos arquivos ocultos terão um <span class="file">.</span> no começo de seus nomes. Outros, no entanto, podem ter um <span class="file">~</span> no final dos seus nomes. Estes são cópias de segurança de arquivos. Veja <span class="link"><a href="files-tilde.html.pt-BR" title="O que é um arquivo com um ~ no final do seu nome?">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</a></span> para mais informações.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">A maioria dos arquivos ocultos terão um <span class="file">.</span> no começo de seus nomes. Outros, no entanto, podem ter um <span class="file">~</span> no final dos seus nomes. Estes são arquivos de backup. Veja <span class="link"><a href="files-tilde.html.pt-BR" title="O que é um arquivo com um ~ no final do seu nome?">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</a></span> para mais informações.</p></div></div></div>
 </div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

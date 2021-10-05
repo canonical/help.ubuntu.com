@@ -116,8 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.de" title="Weitergehende Hilfe erhalten">Weitergehende Hilfe erhalten</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.de" title="Weitergehende Hilfe erhalten">Weitergehende Hilfe erhalten</a><span class="desc"> — Holen Sie sich Tipps zur Verwendung dieses Leitfadens und schließen Sie sich der Gemeinschaft an, um weitere Hilfe zu erhalten.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="trail">
 <span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="hardware.html.fi" title="Laitteisto ja ajurit">Laitteisto</a> » <a class="trail" href="power.html.fi" title="Virransäästö ja akku">Virransäästö</a> › <a class="trail" href="power.html.fi#faq" title="Kysymykset">Kysymykset</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="shell-overview.html.fi" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a> » <a class="trail" href="status-icons.html.fi" title="Mitä kuvakkeet yläpalkissa tarkoittavat?">Mitä kuvakkeet yläpalkissa tarkoittavat?</a> › <a class="trail" href="status-icons.html.fi#batteryicons" title="Battery icons">Battery icons</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.fi" title="Ubuntun työpöytäopas"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ohje"></span></span> Ubuntun työpöytäopas</a> » <a class="trail" href="shell-overview.html.fi" title="Työpöytäsi">Työpöytä</a> › <a class="trail" href="shell-overview.html.fi#apps" title="Sovellukset ja ikkunat">Sovellukset ja ikkunat</a> » <a class="trail" href="status-icons.html.fi" title="Mitä kuvakkeet yläpalkissa tarkoittavat?">Mitä kuvakkeet yläpalkissa tarkoittavat?</a> › <a class="trail" href="status-icons.html.fi#batteryicons" title="Akkukuvakkeet">Akkukuvakkeet</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -107,7 +107,7 @@ example). This changes from moment to moment, and is difficult to predict.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="status-icons.html.fi#batteryicons" title="Battery icons">Battery icons</a></li>
+<li class="links "><a href="status-icons.html.fi#batteryicons" title="Akkukuvakkeet">Akkukuvakkeet</a></li>
 <li class="links "><a href="power.html.fi#faq" title="Kysymykset">Kysymykset</a></li>
 </ul></div>
 </div></div>

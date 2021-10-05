@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <p class="p">Jika baterai internal terdeteksi, bagian <span class="gui">Baterai</span> akan menampilkan status satu atau beberapa baterai laptop. Bilah indikator menunjukkan persentase isi, serta waktu hingga terisi penuh jika dicolokkan, dan waktu yang tersisa saat berjalan pada daya baterai.</p>
 <p class="p">Bagian <span class="gui">Perangkat</span> menampilkan status perangkat yang terhubung.</p>
-<p class="p">The <span class="link"><a href="status-icons.html.id#batteryicons" title="Battery icons">status icon</a></span> in the top
+<p class="p">The <span class="link"><a href="status-icons.html.id#batteryicons" title="Ikon baterai">status icon</a></span> in the top
     bar shows the charge level of the main internal battery, and whether it is
     currently charging or not. It can also display the charge as a
     <span class="link"><a href="power-percentage.html.id" title="Show the battery status as a percentage">percentage</a></span>.</p>
@@ -118,7 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai">Memakai daya lebih sedikit dan meningkatkan umur baterai</a><span class="desc"> — Tip untuk mengurangi konsumsi daya komputer Anda.</span>
 </li>
 <li class="links ">
-<a href="power-percentage.html.id" title="Show the battery status as a percentage">Show the battery status as a percentage</a><span class="desc"> — Display the battery percentage in the top bar.</span>
+<a href="power-percentage.html.id" title="Show the battery status as a percentage">Show the battery status as a percentage</a><span class="desc"> — Menampilkan persentase baterai di bilah puncak.</span>
 </li>
 </ul></div>
 </div></div>

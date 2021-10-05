@@ -2,7 +2,7 @@
 <html lang=pt-BR>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Onde armazenar as cópias de segurança</title>
+<title>Onde armazenar seus backups</title>
 <link rel="stylesheet" type="text/css" href="pt-BR.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,14 +70,14 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a> » <a class="trail" href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes">Cópias de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Fazendo backup">Fazendo backup</a> » <a class="trail" href="backup-why.html.pt-BR" title="Fazendo backups dos seus arquivos importantes">Backups</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Onde armazenar as cópias de segurança</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Onde armazenar seus backups</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Você deveria armazenar suas cópias de segurança em algum lugar à parte do seu computador — em um disco rígido externo, por exemplo. Dessa maneira, se seu computador quebrar, ou ser perdido ou roubado, a cópia ainda estará intacta. Para máxima segurança, você não deveria guardá-la na mesma edificação que a do seu computador. Se houver incêndio ou furto, as cópias de segurança poderiam ser perdidas.</p>
-<p class="p">É importante escolher uma <span class="em">mídia de segurança</span> adequada também. Você precisa armazenar suas cópias em um dispositivo que tenha capacidade em disco suficiente para conter todos os arquivos de cópia de segurança.</p>
+<p class="p">Você deveria armazenar seus backups em algum lugar à parte do seu computador — em um disco rígido externo, por exemplo. Dessa maneira, se seu computador quebrar, ou ser perdido ou roubado, a cópia ainda estará intacta. Para máxima segurança, você não deveria guardá-la na mesma edificação que a do seu computador. Se houver incêndio ou furto, os backups poderiam ser perdidos.</p>
+<p class="p">É importante escolher uma <span class="em">mídia de segurança</span> adequada também. Você precisa armazenar seus backups em um dispositivo que tenha capacidade em disco suficiente para conter todos os arquivos de backup.</p>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Opções de armazenamento local e remoto</span></h2></div>
 <div class="region"><ul class="list compact">
@@ -85,19 +85,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="list"><p class="p">Disco rígido interno (grande capacidade)</p></li>
 <li class="list"><p class="p">Disco rígido externo (normalmente de grande capacidade)</p></li>
 <li class="list"><p class="p">Unidade conectada por rede (grande capacidade)</p></li>
-<li class="list"><p class="p">Servidor de arquivos/cópias de segurança (grande capacidade)</p></li>
+<li class="list"><p class="p">Servidor de arquivos/backups (grande capacidade)</p></li>
 <li class="list"><p class="p">CDs e DVDs graváveis (pequena/média capacidade)</p></li>
-<li class="list"><p class="p">Serviço de cópia de segurança na Internet (<span class="link"><a href="http://aws.amazon.com/s3/" title="http://aws.amazon.com/s3/">Amazon S3</a></span>, por exemplo; a capacidade depende do preço)</p></li>
+<li class="list"><p class="p">Serviço de backup na Internet (<span class="link"><a href="http://aws.amazon.com/s3/" title="http://aws.amazon.com/s3/">Amazon S3</a></span>, por exemplo; a capacidade depende do preço)</p></li>
 </ul></div>
 </div></div>
-<p class="p">Algumas dessas opções têm capacidade suficiente para permitir uma cópia de segurança para todos os arquivos do seu sistema, também conhecido como uma <span class="em">cópia de segurança completa do sistema</span>.</p>
+<p class="p">Algumas dessas opções têm capacidade suficiente para permitir um backup para todos os arquivos do seu sistema, também conhecido como um <span class="em">backup completo do sistema</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes">Fazendo cópias de segurança dos seus arquivos importantes</a><span class="desc"> — Por que, do que, onde e como fazer cópias de segurança.</span>
+<a href="backup-why.html.pt-BR" title="Fazendo backups dos seus arquivos importantes">Fazendo backups dos seus arquivos importantes</a><span class="desc"> — Por que, do que, onde e como fazer backup.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

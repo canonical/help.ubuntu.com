@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Když přijdete o některé své soubory nebo je smažete, ale máte jejich zálohu, můžete je ze zálohy obnovit:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Pokud chcete obnovit svoje zazálohované soubory ze zařízení, jako je externí pevný disk, flashdisk nebo jiný počítač na síti, můžete <span class="link"><a href="files-copy.html.cs" title="Kopírování a přesun souborů a složek">je nakopírovat</a></span> zpět do svého počítače.</p></li>
+<li class="list"><p class="p">Pokud chcete obnovit svoje zazálohované soubory ze zařízení, jako je externí pevný disk, flešdisk nebo jiný počítač na síti, můžete <span class="link"><a href="files-copy.html.cs" title="Kopírování a přesun souborů a složek">je nakopírovat</a></span> zpět do svého počítače.</p></li>
 <li class="list"><p class="p">Pokud jste vytvořili zálohu pomocí zálohovací aplikace, jako je <span class="app">Déjà Dup</span>, je doporučeno použít k obnově ze zálohy tu stejnou aplikaci. Podívejte se do nápovědy ke své zálohovací aplikaci, budou v ní konkrétní instrukce, jak soubory obnovit.</p></li>
 </ul></div></div></div>
 </div>

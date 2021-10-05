@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html.id" title="Disk &amp; penyimpanan">Disks</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="disk.html.id" title="Disk &amp; penyimpanan">Diska</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="addremove.html.id" title="Pasang &amp; hapus perangkat lunak">Tambah/hapus perangkat lunak</a> » </div>
 </div>
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
+<a href="disk.html.id" title="Disk &amp; penyimpanan">Disk &amp; penyimpanan</a><span class="desc"> — Periksa ruang disk dan mengendalikan bagaimana ruang disk dialokasikan dan digunakan.</span>
 </li>
 <li class="links ">
 <a href="addremove.html.id" title="Pasang &amp; hapus perangkat lunak">Pasang &amp; hapus perangkat lunak</a><span class="desc"> — Add and remove applications and other software. Handle

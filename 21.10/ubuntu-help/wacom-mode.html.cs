@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Nastavení režimu sledování stopy u grafického tabletu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Režim sledování stopy</span> určuje, jak je ukazatel mapován na obrazovku.</p>
+<p class="p"><span class="gui">Režim sledování stopy</span> určuje, jak je stylus mapován na obrazovku.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Grafický tablet</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na položku <span class="gui">Grafický tablet</span> otevřete příslušný panel.</p></li>
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">V <span class="em">absolutním</span> režimu je každý bod na tabletu namapován na bod na obrazovce. Například levý horní roh na obrazovce vždy odpovídá tomu stejnému bodu na tabletu.</p>
-<p class="p">V <span class="em">relativním</span> režimu, když zvednete ukazovátko nad tablet a přiložíte jej v jiném místě, tak se kurzor na obrazovce nepřemístí. Je to stejný způsob, jakým funguje myš.</p>
+<p class="p">V <span class="em">relativním</span> režimu, když zvednete stylus nad tablet a přiložíte jej v jiném místě, tak se ukazatel na obrazovce nepřemístí. Je to stejný způsob, jakým funguje myš.</p>
 </div></div></div>
 </div>
 </div>

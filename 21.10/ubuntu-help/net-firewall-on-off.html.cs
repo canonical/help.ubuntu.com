@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Povolení nebo blokování přístupu na firewallu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME does not come with a firewall, so for support beyond this document
-  check with your distribution’s support team or your organization’s IT department.
-  Your computer should be equipped with a <span class="em">firewall</span> that allows it to
-  block programs from being accessed by other people on the internet or your
-  network. This helps to keep your computer secure.</p>
+<p class="p">GNOME samotné není dodávané s firewallem, takže toto téma je mimo zaměření tohoto dokumentu. Obraťte se prosím na podporu své distribuce nebo ve firmě na správce IT. Váš systém by měl být vybaven <span class="em">firewallem</span>, který umí blokovat programy vůči přístupu ostatních lidí z Internetu nebo místní sítě. Pomáhá to udržet váš počítač v bezpečí.</p>
 <p class="p">Síťové připojení může využívat řada aplikací. Například, když jste připojeni k síti, můžete sdílet soubory nebo někomu umožnit prohlížet si vzdáleně vaši pracovní plochu. V závislosti na tom, jak je počítač nastaven, může být potřeba přizpůsobit firewall, aby tyto služby fungovaly tak, jak je zamýšleno.</p>
 <p class="p">Každý program, který poskytuje síťové služby k tomu používá konkrétní <span class="em">síťový port</span>. Abyste dovolili ostatním počítačům v síti přístup k službě, musíte na firewallu „otevřít“ port, který ji patří:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">

@@ -75,25 +75,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferencje zachowania menedżera plików</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Można zdecydować, czy otwierać pliki pojedynczym lub podwójnym kliknięciem, jak obsługiwać wykonywalne pliki tekstowe i jak kosz ma się zachowywać. Kliknij przycisk menu w górnym prawym rogu okna, wybierz <span class="gui">Preferencje</span> i kartę <span class="gui">Zachowanie</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
+executable text files are handled, and the trash behavior. Click the menu
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Zachowanie</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Przez pojedyncze kliknięcie</span></dt>
-<dt class="terms"><span class="gui">Przez podwójne kliknięcie</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Domyślnie kliknięcie zaznacza pliki, a podwójne kliknięcie je otwiera. Zamiast tego można wybrać otwieranie plików i katalogów po jedynym kliknięciu. W trybie otwierania przez pojedyncze kliknięcie można przytrzymać klawisz <span class="key"><kbd>Ctrl</kbd></span> podczas klikania, aby zaznaczyć jeden lub więcej plików.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Wykonywalne pliki tekstowe</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Wykonywalny plik tekstowy to plik zawierający program, który można uruchamiać (wykonywać). <span class="link"><a href="nautilus-file-properties-permissions.html.pl-PL" title="Ustawianie uprawnień plików">Uprawnienia pliku</a></span> muszą także zezwalać na wykonywanie pliku jako programu. Najczęściej są to skrypty <span class="sys">powłoki</span>, języka <span class="sys">Python</span> i <span class="sys">Perl</span>. Mają one rozszerzenia <span class="file">.sh</span>, <span class="file">.py</span> i <span class="file">.pl</span>.</p>
-<p class="p">Podczas otwierania wykonywalnego pliku tekstowego można wybrać:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Uruchamianie</span></p></li>
-<li class="list"><p class="p"><span class="gui">Wyświetlanie</span></p></li>
-<li class="list"><p class="p"><span class="gui">Pytanie, co robić</span></p></li>
-</ul></div></div></div>
-<p class="p">Wybranie <span class="gui">Pytanie, co robić</span> wyświetli okno z pytaniem, czy uruchomić lub wyświetlić dany plik tekstowy.</p>
 <p class="p">Wykonywalne pliki tekstowe są także zwane <span class="em">skryptami</span>. Wszystkie skrypty w katalogu <span class="file">~/.local/share/nautilus/scripts</span> będą wyświetlane w menu kontekstowym pliku w podmenu <span class="gui">Skrypty</span>. Kiedy skrypt jest wykonywany z lokalnego katalogu, wszystkie zaznaczone pliki zostaną wklejone do skryptu jako parametry. Aby wykonać skrypt na pliku:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Przejdź do wybranego katalogu.</p></li>
@@ -106,23 +101,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Parametry nie zostaną przekazane do skryptu, kiedy jest wykonywany ze zdalnego katalogu, takiego jak treść WWW lub <span class="sys">FTP</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Kosz</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Pytanie przed opróżnieniem kosza</span></dt>
-<dd class="terms"><p class="p">Ta opcja jest domyślnie zaznaczona. Podczas opróżniania kosza wyświetlany będzie komunikat proszący o potwierdzenie, czy na pewno opróżnić kosz lub usunąć pliki.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Patrz także</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.pl-PL" title="Usuwanie plików i katalogów">Usuwanie plików i katalogów</a><span class="desc"> — Usuwanie niepotrzebnych plików i katalogów.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

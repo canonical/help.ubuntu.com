@@ -80,9 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Wacom-tegneplade</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.da" title="Brug tegnepladen venstrehåndet"><span class="title">Brug tegnepladen venstrehåndet</span><span class="linkdiv-dash"> — </span><span class="desc">Skift Wacom-tegnepladen til <span class="gui">Venstrehåndet orientering</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.da" title="Indstil Wacom-tegnepladens sporingstilstand"><span class="title">Indstil Wacom-tegnepladens sporingstilstand</span><span class="linkdiv-dash"> — </span><span class="desc">Skift tegnepladen mellem tegneplade- og musetilstand.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.da" title="Konfigurer pennen"><span class="title">Konfigurer pennen</span><span class="linkdiv-dash"> — </span><span class="desc">Vælg Wacom-stylussens knapfunktioner og trykfølsomhed.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.da" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.da" title="Vælg en skærm"><span class="title">Vælg en skærm</span><span class="linkdiv-dash"> — </span><span class="desc">Tilpas Wacom-tegnepladen til en bestemt skærm.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">

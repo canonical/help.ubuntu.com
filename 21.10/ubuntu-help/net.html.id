@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="net-problem.html.id" title="Masalah jaringan"><span class="title">Masalah jaringan</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot connectivity issues with wireless and wired networks.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="net-browser.html.id" title="Peramban Web"><span class="title">Peramban Web</span><span class="linkdiv-dash"> — </span><span class="desc">Change your default web browser.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-browser.html.id" title="Peramban Web"><span class="title">Peramban Web</span><span class="linkdiv-dash"> — </span><span class="desc">Mengubah peramban web baku Anda.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-email.html.id" title="Surel &amp; perangkat lunak surel"><span class="title">Surel &amp; perangkat lunak surel</span><span class="linkdiv-dash"> — </span><span class="desc">Set your default app and stay safe with email.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-security.html.id" title="Tetap aman di internet"><span class="title">Tetap aman di internet</span><span class="linkdiv-dash"> — </span><span class="desc">Understand firewalls, viruses, and other internet security topics.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="net-general.html.id" title="Tips &amp; istilah jaringan"><span class="title">Tips &amp; istilah jaringan</span><span class="linkdiv-dash"> — </span><span class="desc">Learn about IP address, internet proxies, and how to stay safe

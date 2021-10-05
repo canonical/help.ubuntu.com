@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Beállíthatja a fájl tulajdonosának, a fájl tulajdonoscsoportjának és a rendszer minden más felhasználójának jogosultságait. Saját fájljai esetén Ön a tulajdonos, és adhat magának csak olvasási vagy írási és olvasási jogosultságot is. Akkor tegyen egy fájlt írásvédetté, ha nem szeretné véletlenül módosítani.</p>
 <p class="p">Minden felhasználó egy csoporthoz tartozik. Otthoni számítógépek esetén gyakran minden felhasználóhoz saját csoport tartozik, és a csoportjogosultságok nincsenek használatban. Vállalati környezetben a csoportok gyakran osztályoknak vagy projekteknek felelnek meg. Azon túl, hogy a fájloknak van tulajdonosuk, egy csoporthoz is tartoznak. Beállíthatja a fájl csoportját, és az adott csoport minden felhasználójának a fájlra vonatkozó jogosultságait. A fájl csoportját csak olyan csoportra állíthatja, amelynek Ön is tagja.</p>
 <p class="p">Beállíthatja a fájl tulajdonosán és a fájl csoportjának tagjain kívüli többi felhasználó jogosultságait is.</p>
-<p class="p">Ha a fájl egy program, például parancsfájl, akkor a futtatásához be kell jelölnie a <span class="gui">Fájl végrehajtásának engedélyezése programként</span> négyzetet. Ha ez a lehetőség be is van jelölve, a fájlkezelő továbbra is megnyithatja a fájlt egy alkalmazásban, vagy rákérdezhet a teendőre. További információkért lásd: <span class="link"><a href="nautilus-behavior.html.hu#executable" title="Végrehajtható szöveges fájlok">Végrehajtható szöveges fájlok</a></span>.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.hu#executable" title="Végrehajtható szöveges fájlok">Végrehajtható szöveges fájlok</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mappák</span></h2></div>

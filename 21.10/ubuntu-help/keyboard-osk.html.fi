@@ -92,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Accessibility</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Esteettömyys</span> sivupalkista avataksesi paneelin.</p></li>
 <li class="steps"><p class="p">Switch on <span class="gui">Screen Keyboard</span> in the <span class="gui">Typing</span>
       section.</p></li>
 </ol></div></div></div>
@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
   button to hide the keyboard temporarily. The keyboard will show again
   automatically when you next press on something where you can use it.
   On a touchscreen, you can also pull up the keyboard by
-  <span class="link"><a href="touchscreen-gestures.html.fi" title="Use gestures on touchpads and touchscreens">dragging up from the bottom edge</a></span>.</p>
+  <span class="link"><a href="touchscreen-gestures.html.fi" title="Käytä eleitä kosketuslevyillä ja kosketunäytöillä">dragging up from the bottom edge</a></span>.</p>
 <p class="p">Press the
   <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="flag"></span></span></span>
   button to change your settings for

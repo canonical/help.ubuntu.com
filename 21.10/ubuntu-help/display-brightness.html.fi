@@ -80,8 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Aseta näytön kirkkaus</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Depending on your hardware, you can change the brightness of your screen to
-  save power or to make the screen more readable in bright light.</p>
+<p class="p">Riippuen laitteistostasi voit muuttaa näytön kirkkautta säästääksesi sähköä tai tehdäksesi näytön sisällöstä helpommin luettavaa kirkkaassa valossa.</p>
 <p class="p">To change the brightness of your screen, click the
   <span class="gui"><a href="shell-introduction.html.fi#systemmenu" title="Järjestelmävalikko">system menu</a></span> on the right side
   of the top bar and adjust the screen brightness slider to the value you want
@@ -94,9 +93,9 @@ document.addEventListener('DOMContentLoaded', function() {
     often have a picture that looks like the sun. Hold down the <span class="key"><kbd class="key-Fn">Fn</kbd></span>
     key to use these keys.</p></div></div></div>
 </div>
-<p class="p">You can also adjust the screen brightness by using the <span class="gui">Power</span> panel.</p>
+<p class="p">Voit muuttaa näytön kirkkautta myös <span class="gui">Virranhallinta</span>-paneelin kautta.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To set the screen brightness using the Power panel:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Aseta näytön kirkkaus käyttäen virranhallintapaneelia:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Virransäästö</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Virranhallinta</span> avataksesi paneelin.</p></li>
@@ -135,9 +134,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-profile.html.fi" title="Choose a power profile">Choose a power profile</a><span class="desc"> — Balance performance and battery usage.</span>
-</li>
-<li class="links ">
 <a href="power-batterylife.html.fi" title="Käytä vähemmän virtaa ja säästä siten akkua">Käytä vähemmän virtaa ja säästä siten akkua</a><span class="desc"> — Vinkkejä tietokoneen virrankäytön vähentämiseksi.</span>
 </li>
 <li class="links ">
@@ -148,6 +144,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="links ">
 <a href="a11y-contrast.html.fi" title="Säädä kontrastia">Säädä kontrastia</a><span class="desc"> — Aseta ikkunoiden ja painikkeiden väritasot sopiviksi, jotta näkeminen on aiempaa helpompaa.</span>
+</li>
+<li class="links ">
+<a href="power-profile.html.fi" title="Valitse virtaprofiili">Valitse virtaprofiili</a><span class="desc"> — Tasapainota suorituskykyä ja akunkäyttöä.</span>
 </li>
 </ul></div>
 </div></div>

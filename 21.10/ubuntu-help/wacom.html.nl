@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.nl" title="De pen configureren"><span class="title">De pen configureren</span><span class="linkdiv-dash"> — </span><span class="desc">De knopfuncties en drukgevoeligheid van de Wacom-pen bepalen.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.nl" title="De volgmodus van het Wacom-tablet instellen"><span class="title">De volgmodus van het Wacom-tablet instellen</span><span class="linkdiv-dash"> — </span><span class="desc">Het tablet omschakelen tussen tabletmodus en muismodus.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.nl" title="Een monitor kiezen"><span class="title">Een monitor kiezen</span><span class="linkdiv-dash"> — </span><span class="desc">Het Wacom-tablet aan een bepaald beeldscherm koppelen.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.nl" title="Het tablet gebruiken met uw linkerhand"><span class="title">Het tablet gebruiken met uw linkerhand</span><span class="linkdiv-dash"> — </span><span class="desc">Stel het Wacom-tablet in op <span class="gui">Linkshandige oriëntatie</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.nl" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

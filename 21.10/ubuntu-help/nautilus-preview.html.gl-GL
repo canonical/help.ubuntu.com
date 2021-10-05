@@ -79,22 +79,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">The file manager creates thumbnails to preview image, video, and text
 files. Thumbnail previews can be slow for large files or over networks, so
 you can control when previews are made. Click the menu button in the top-right
-of the window, select <span class="gui">Preferences</span>, then select the
-<span class="gui">Search &amp; Preview</span> tab.</p>
+of the window, select <span class="gui">Preferences</span>, then go to the
+<span class="gui">Performance</span> section.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ficheiros</span></dt>
-<dd class="terms">
-<p class="p">By default, all previews are done for
-    <span class="gui">Files on this computer only</span>, those on your computer or connected
-    external drives. You can set this feature to <span class="gui">All Files</span> or
+<dt class="terms"><span class="gui">Show Thumbnails</span></dt>
+<dd class="terms"><p class="p">By default, all previews are done for
+    <span class="gui">On this computer only</span>, those on your computer or connected
+    external drives. You can set this feature to <span class="gui">All files</span> or
     <span class="gui">Never</span>. The file manager can
     <span class="link"><a href="nautilus-connect.html.gl-GL" title="Examinar ficheiros nun servidor ou compartición de rede">browse files on other computers</a></span> over
     a local area network or the internet. If you often browse files over a local
     area network, and the network has high bandwidth, you may want to set the
-    preview option to <span class="gui">All Files</span>.</p>
-<p class="p">Ademais, pode usar a preferencia <span class="gui">Só para os ficheiros máis pequenos que</span> para limitar o tamaño dos ficheiros a previsualizar.</p>
-</dd>
-<dt class="terms"><span class="gui">Contía de ficheiros</span></dt>
+    preview option to <span class="gui">All files</span>.</p></dd>
+<dt class="terms"><span class="gui">Count Number of Files in Folders</span></dt>
 <dd class="terms">
 <p class="p">If you show file sizes in <span class="link"><a href="nautilus-list.html.gl-GL" title="Preferencias das columnas na lista de ficheiros">list view columns</a></span>
     or <span class="link"><a href="nautilus-display.html.gl-GL#icon-captions" title="Lendas das iconas">icon captions</a></span>,

@@ -2,9 +2,7 @@
 <html lang=ja>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Install additional applications
-  </title>
+<title>アプリケーションのインストール</title>
 <link rel="stylesheet" type="text/css" href="ja.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -72,12 +70,10 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ja" title="Install &amp; remove software">ソフトウェアの追加/削除</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ja" title="ソフトウェアのインストールと削除">ソフトウェアの追加/削除</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">
-    Install additional applications
-  </span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">アプリケーションのインストール</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">
@@ -110,10 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
         When <span class="app">Ubuntu Software</span> launches, search for an application, or select 
         a category and find an application from the list.
       </p></li>
-<li class="steps"><p class="p">
-        Select the application that you want to install and click 
-        <span class="gui">Install</span>.
-      </p></li>
+<li class="steps"><p class="p">インストールしたいアプリケーションを選択して<span class="gui">インストール</span>をクリックします。</p></li>
 <li class="steps"><p class="p">
         You will be asked to authenticate by entering your password. 
         Once you have done that the installation will begin. 
@@ -128,7 +121,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">詳細</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.ja" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — Add and remove applications and other software. Handle
+<a href="addremove.html.ja" title="ソフトウェアのインストールと削除">ソフトウェアのインストールと削除</a><span class="desc"> — Add and remove applications and other software. Handle
     additional software repositories.</span>
 </li></ul></div>
 </div></div>

@@ -75,25 +75,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Налаштування поведінки програми для керування файлами</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Ви можете керувати тим, відкриватимуться файли у відповідь на одинарне чи подвійне клацання, як оброблятимуться виконувані текстові файли та керувати поведінкою смітника. Натисніть кнопку меню у верхній лівій частині вікна і виберіть <span class="gui">Параметри</span>, потім перейдіть на вкладку <span class="gui">Поведінка</span>.</p></div>
+<div class="contents pagewide"><p class="p">Ви можете керувати тим, відкриватимуться файли у відповідь на одинарне чи подвійне клацання, як оброблятимуться виконувані текстові файли та керувати поведінкою смітника. Натисніть кнопку меню у верхній лівій частині вікна, виберіть <span class="gui">Параметри</span>, потім перейдіть до розділу <span class="gui">Загальне</span>.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Поведінка</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Одинарне клацання для відкриття</span></dt>
-<dt class="terms"><span class="gui">Подвійне клацання для відкриття</span></dt>
+<dt class="terms"><span class="gui">Дія для відкриття записів</span></dt>
 <dd class="terms"><p class="p">Типово, клацання позначає файли, а подвійне клацання відкриває їх. Втім, ви можете наказати системі відкривати файли і теки одинарним клацанням. Коли ви користуєтеся режимом одинарного клацання, ви можете утримувати натиснутою клавішу <span class="key"><kbd>Ctrl</kbd></span> при клацанні, щоб позначити один або декілька файлів.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Виконувані текстові файли</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Виконуваний текстовий файл — файл, який містить програму, яку можна запустити (виконати). Крім того, для запуску програми запуск має бути уможливлено <span class="link"><a href="nautilus-file-properties-permissions.html.uk" title="Встановлення прав доступу до файла">правами доступу до файла</a></span>. Найпоширенішими виконуваними текстовими файлами є скрипти <span class="sys">командної оболонки</span>, <span class="sys">Python</span> і <span class="sys">Perl</span>. Назви відповідних файлів мають суфікси <span class="file">.sh</span>, <span class="file">.py</span> і <span class="file">.pl</span>, відповідно.</p>
-<p class="p">При відкритті виконуваного текстового файла ви можете вибрати один з таких варіантів:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Запустити виконувані текстові файли, коли їх відкрито</span></p></li>
-<li class="list"><p class="p"><span class="gui">Переглянути виконувані текстові файли, коли їх відкрито</span></p></li>
-<li class="list"><p class="p"><span class="gui">Запитувати щоразу</span></p></li>
-</ul></div></div></div>
-<p class="p">Якщо позначено пункт <span class="gui">Запитувати щоразу</span>, програма відкриє діалогове вікно із запитом щодо того, хочете ви запустити чи переглянути позначений текстовий файл.</p>
 <p class="p">Виконувані текстові файли називають також <span class="em">скриптами</span>. Усі скрипти у теці <span class="file">~/.local/share/nautilus/scripts</span> буде показано у контекстному меню файла, а саме, у підменю <span class="gui">Скрипти</span>. Якщо скрипти виконують з локальної теки, як параметри, йому буде передано усі позначені файли. Щоб скрипт обробив певний файл, виконайте такі дії:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Перейдіть до бажаної теки.</p></li>
@@ -106,23 +98,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Скрипту не передаватимуться жодні параметри, якщо його буде виконано з віддаленої теки, зокрема теки, у якій показано інтернет-сторінку або вміст теки <span class="sys">ftp</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Смітник</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Перепитувати перед очищенням смітника</span></dt>
-<dd class="terms"><p class="p">Типово, цей пункт позначено. При спорожненні смітника буде показано вікно із проханням підтвердити спорожнення смітника або вилучення файлів.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Дивіться також</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.uk" title="Вилучення файлів і тек">Вилучення файлів і тек</a><span class="desc"> — Вилучення файлів або тек, які вам більше не потрібні.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

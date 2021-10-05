@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Bluetooth is a wireless protocol that allows you to connect many different
-types of devices to your computer. Bluetooth is commonly used for headsets
-and other devices like mice and keyboards. You can also use Bluetooth to
-<span class="link"><a href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth">send files between devices</a></span>, such as
-from your computer to your cell phone.</p>
+<p class="p">Bluetooth je bezdrátový protokol, který umožňuje připojit mnoho různých typů zařízení k počítači. Běžně se používá pro sluchátka a další zařízení, jako jsou třeba myš a klávesnice. Můžete jej také používat k <span class="link"><a href="bluetooth-send-file.html.cs" title="Posílání souborů do zařízení Bluetooth">přenosu souborů mezi zařízeními</a></span>, třeba mezi počítačem a mobilním telefonem.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.cs" title="Zapnutí nebo vypnutí Bluetooth"><span class="title">Zapnutí nebo vypnutí Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zapnout nebo vypnout zařízení Bluetooth na svém počítači.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-remove-connection.html.cs" title="Odpojení zařízení Bluetooth"><span class="title">Odpojení zařízení Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Jak odebrat zařízení ze seznamu se zařízeními Bluetooth.</span></a></div>

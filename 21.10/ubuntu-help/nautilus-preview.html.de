@@ -76,14 +76,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Einstellungen für die Vorschauen in der Dateiverwaltung</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Die Dateiverwaltung erstellt Vorschaubilder für Bild-, Video- und Textdateien. Vorschaubilder können für große Dateien oder über Netzwerke langsam sein, deshalb können Sie festlegen, wann Vorschauen erstellt werden sollen. Klicken Sie dazu auf den Menüknopf rechts oben im Fenster, wählen Sie <span class="gui">Einstellungen</span> und dann den Reiter <span class="gui">Suche und Vorschau</span>.</p>
+<p class="p">The file manager creates thumbnails to preview image, video, and text
+files. Thumbnail previews can be slow for large files or over networks, so
+you can control when previews are made. Click the menu button in the top-right
+of the window, select <span class="gui">Preferences</span>, then go to the
+<span class="gui">Performance</span> section.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Dateien</span></dt>
-<dd class="terms">
-<p class="p">Standardmäßig werden für alle Vorschauen <span class="gui">nur Dateien auf diesem Rechner</span> oder damit verbundenen externen Laufwerken verwendet. Sie können dies auf <span class="gui">Alle Dateien</span> oder <span class="gui">Nie</span> festlegen. Die Dateiverwaltung kann auch <span class="link"><a href="nautilus-connect.html.de" title="Durchsuchen von Dateien auf einem Server oder in einer Netzwerkfreigabe">Dateien auf anderen Rechnern durchsuchen</a></span>, beispielsweise in einem lokalen Netzwerk oder im Internet. Wenn Sie oft Dateien in einem lokalen Netzwerk durchsuchen und das Netzwerk eine hohe Bandbreite aufweist, möchten Sie vielleicht einige oder alle Vorschaueinstellungen auf <span class="gui">Alle Dateien</span> setzen.</p>
-<p class="p">Zusätzlich können Sie <span class="gui">Nur für Dateien kleiner als:</span> aktivieren, um die Größe der Dateien zu begrenzen, für die Vorschauen angezeigt werden.</p>
-</dd>
-<dt class="terms"><span class="gui">Dateizähler</span></dt>
+<dt class="terms"><span class="gui">Show Thumbnails</span></dt>
+<dd class="terms"><p class="p">By default, all previews are done for
+    <span class="gui">On this computer only</span>, those on your computer or connected
+    external drives. You can set this feature to <span class="gui">All files</span> or
+    <span class="gui">Never</span>. The file manager can
+    <span class="link"><a href="nautilus-connect.html.de" title="Durchsuchen von Dateien auf einem Server oder in einer Netzwerkfreigabe">browse files on other computers</a></span> over
+    a local area network or the internet. If you often browse files over a local
+    area network, and the network has high bandwidth, you may want to set the
+    preview option to <span class="gui">All files</span>.</p></dd>
+<dt class="terms"><span class="gui">Count Number of Files in Folders</span></dt>
 <dd class="terms">
 <p class="p">Wenn Sie die Dateigröße in einer Spalte der <span class="link"><a href="nautilus-list.html.de" title="Einstellungen für die Spalten in der Dateiverwaltung">Listenansicht</a></span> oder in <span class="link"><a href="nautilus-display.html.de#icon-captions" title="Symbolbeschriftungen">Symbolbeschriftungen</a></span> anzeigen, werden Ordner mit der Anzahl der Dateien und Ordner dargestellt, die sie enthalten. Das Zählen dieser Objekte kann langsam sein, besonders bei sehr großen Ordnern oder über ein Netzwerk.</p>
 <p class="p">Sie können diese Funktion ein- oder ausschalten oder nur für Dateien auf Ihrem Rechner und auf lokalen, externen Laufwerken einschalten.</p>

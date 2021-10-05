@@ -76,9 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Obrázkový přehled GNOME</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME features a user interface designed to stay out of your way, minimize
-  distractions, and help you get things done. When you first log in, you will
-  see the <span class="gui">Activities</span> overview and the top bar.</p>
+<p class="p">GNOME přichází s uživatelským prostředím, které je navrženo tak, aby nepřekáželo, nerušilo a umožňovalo efektivní práci. Po prvním přihlášení uvidíte přehled <span class="gui">Činnosti</span> a horní lištu.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="Horní lišta GNOME Shellu"></div></div>
 <p class="p">Horní lišta poskytuje přístup k aplikacím a jejich oknům, ke kalendáři a k událostem a také k <span class="link"><a href="status-icons.html.cs" title="Co znamenají ikony na horní liště?">systémovým záležitostem</a></span>, jako je zvuk, síť a napájení. V systémové nabídce v horním panelu můžete měnit hlasitost nebo jas obrazovky, upravovat údaje připojení přes <span class="gui">Wi-Fi</span>, kontrolovat stav baterie, odhlašovat nebo přepínat uživatele a vypnut počítač.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>

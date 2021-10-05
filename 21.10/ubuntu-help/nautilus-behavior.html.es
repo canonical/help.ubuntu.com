@@ -75,25 +75,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferencias de comportamiento del gestor de archivos</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Puede controlar si hace una pulsación simple o doble a los archivos, cómo se manejan los archivos de texto ejecutables y el comportamiento de la papelera. Pulse de menú en la esquina superior derecha de la ventana,  elija <span class="gui">Preferencias</span> y seleccione la pestaña <span class="gui">Comportamiento</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
+executable text files are handled, and the trash behavior. Click the menu
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Comportamiento</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Una sola pulsación para abrir elementos</span></dt>
-<dt class="terms"><span class="gui">Una doble pulsación para abrir elementos</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">De manera predeterminada, al pulsar una vez se seleccionan archivos, y pulsando dos veces se abren. Puede optar por abrir archivos y carpetas pulsándolos una sola vez. En el modo de una sola pulsación, puede mantener apretada la tecla <span class="key"><kbd>Ctrl</kbd></span> mientras pulsa con el ratón para seleccionar uno o más archivos.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Archivos de texto ejecutables</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Un archivo de texto ejecutable es un archivo que contiene un programa que puede ejecutar. Los <span class="link"><a href="nautilus-file-properties-permissions.html.es" title="Establecer los permisos del archivo">permisos del archivo</a></span> también deben permitir que el archivo pueda ejecutarse como un programa. Los más frecuentes suelen ser scripts de <span class="sys">Shell</span>, <span class="sys">Python</span> y <span class="sys">Perl</span>. Tienen extensiones <span class="file">.sh</span>, <span class="file">.py</span> y <span class="file">.pl</span> respectivamente.</p>
-<p class="p">Cuando abre un archivo de texto ejecutable, puede elegir entre:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Ejecutar archivos de texto ejecutables cuando se abren</span></p></li>
-<li class="list"><p class="p"><span class="gui">Ver archivos de texto ejecutables cuando se abren</span></p></li>
-<li class="list"><p class="p"><span class="gui">Preguntar cada vez</span></p></li>
-</ul></div></div></div>
-<p class="p">Si <span class="gui">Preguntar cada vez</span> está seleccionada, aparecerá un diálogo preguntando si quiere ejecutar o ver el archivo de texto seleccionado.</p>
 <p class="p">Los archivos de texto ejecutables también se llaman <span class="em">scripts</span>. Todos los scripts de la carpeta <span class="file">~/.local/share/nautilus/scripts</span> aparecerán en el menú contextual para un archivo en el submenú <span class="gui">Scripts</span>. Cuando se ejecuta un script desde una carpeta local, todos los archivos seleccionados se pasarán el script como parámetros. Para ejecutar un script sobre un archivo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Navegue hasta la carpeta que quiere.</p></li>
@@ -106,23 +101,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Un script no se pasará como parámetros cuando se ejecute desde una carpeta remota, como una carpeta que muestra contenido web o <span class="sys">ftp</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Papelera</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Preguntar antes de vaciar la papelera</span></dt>
-<dd class="terms"><p class="p">Esta opción está seleccionada de forma predeterminada. Cuando se va a vaciar la papelera, aparece un mensaje confirmando si quiere vaciar la papelera o eliminar los archivos.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Consulte también</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.es" title="Eliminar archivos y carpetas">Eliminar archivos y carpetas</a><span class="desc"> — Quitar archivos o carpetas que ya no necesita.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

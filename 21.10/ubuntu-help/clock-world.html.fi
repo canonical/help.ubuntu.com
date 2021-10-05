@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">In the <span class="app">Clocks</span> window, click
       <span class="gui">+</span> button or press
       <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>N</kbd></span></span> to add a new city.</p></li>
-<li class="steps"><p class="p">Start typing the name of the city into the search.</p></li>
+<li class="steps"><p class="p">Aloita etsittävän kaupungin nimen kirjoittaminen.</p></li>
 <li class="steps"><p class="p">Select the correct city or the closest location to you from the
       list.</p></li>
 <li class="steps"><p class="p">Press <span class="gui">Add</span> to finish adding the city.</p></li>

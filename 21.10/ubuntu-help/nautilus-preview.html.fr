@@ -76,14 +76,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Préférences d’aperçu du gestionnaire de fichiers</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Le gestionnaire de fichiers génère des vignettes pour avoir un aperçu des images, des vidéos et des fichiers texte. Ces aperçus peuvent être très long à générer en fonction de la taille des fichiers ou sur un réseau, et vous pouvez donc décider du moment où ils sont nécessaires. Cliquez sur le bouton de menu situé dans le coin supérieur droit de la fenêtre, choisissez <span class="gui">Préférences</span>, puis sélectionnez l’onglet <span class="gui">Recherche et aperçu</span>.</p>
+<p class="p">The file manager creates thumbnails to preview image, video, and text
+files. Thumbnail previews can be slow for large files or over networks, so
+you can control when previews are made. Click the menu button in the top-right
+of the window, select <span class="gui">Preferences</span>, then go to the
+<span class="gui">Performance</span> section.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Fichiers</span></dt>
-<dd class="terms">
-<p class="p">Par défaut, les aperçus ne sont disponibles que pour les <span class="gui">Fichiers sur cet ordinateur uniquement</span>, ou les fichiers sur un support externe qui y est connecté. Vous pouvez régler cette caractéristique sur <span class="gui">Tous les fichiers</span> ou <span class="gui">Jamais</span>. Le gestionnaire de fichiers peut aussi <span class="link"><a href="nautilus-connect.html.fr" title="Consultation de fichiers sur un serveur ou un réseau partagé">consulter des fichiers sur un autre ordinateur</a></span> via un réseau local ou Internet. Si vous avez souvent besoin de ces fonctions et si le serveur possède suffisamment de bande passante, vous pouvez régler l’option d’aperçu sur <span class="gui">Tous les fichiers</span>.</p>
-<p class="p">En outre, vous pouvez recourir à <span class="gui">Uniquement pour les fichiers plus petits que</span> pour limiter la taille des fichiers qui auront un aperçu.</p>
-</dd>
-<dt class="terms"><span class="gui">Nombre de fichiers</span></dt>
+<dt class="terms"><span class="gui">Show Thumbnails</span></dt>
+<dd class="terms"><p class="p">By default, all previews are done for
+    <span class="gui">On this computer only</span>, those on your computer or connected
+    external drives. You can set this feature to <span class="gui">All files</span> or
+    <span class="gui">Never</span>. The file manager can
+    <span class="link"><a href="nautilus-connect.html.fr" title="Consultation de fichiers sur un serveur ou un réseau partagé">browse files on other computers</a></span> over
+    a local area network or the internet. If you often browse files over a local
+    area network, and the network has high bandwidth, you may want to set the
+    preview option to <span class="gui">All files</span>.</p></dd>
+<dt class="terms"><span class="gui">Count Number of Files in Folders</span></dt>
 <dd class="terms">
 <p class="p">Si vous affichez les tailles de fichiers dans <span class="link"><a href="nautilus-list.html.fr" title="Préférences des colonnes dans Fichiers">les colonnes de la vue en liste</a></span> ou dans les <span class="link"><a href="nautilus-display.html.fr#icon-captions" title="Libellés des icônes">libellés des icônes</a></span>, les dossiers affichent le nombre de fichiers et de sous-dossiers qu’ils contiennent. Le comptage peut être très long si son contenu est très volumineux, ou s’il s’effectue à travers un réseau.</p>
 <p class="p">Vous pouvez activer ou désactiver cette fonction, ou l’activer uniquement pour les fichiers stockés sur votre ordinateur et les disques externes locaux.</p>

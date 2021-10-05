@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.id" title="Memakai daya lebih sedikit dan meningkatkan umur baterai"><span class="title">Memakai daya lebih sedikit dan meningkatkan umur baterai</span><span class="linkdiv-dash"> — </span><span class="desc">Tip untuk mengurangi konsumsi daya komputer Anda.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.id" title="Mengapa komputer saya mati ketika saya menutup lid?"><span class="title">Mengapa komputer saya mati ketika saya menutup lid?</span><span class="linkdiv-dash"> — </span><span class="desc">Laptop pergi tidur ketika Anda menutup lid, untuk menghemat daya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.id" title="Menonaktifkan teknologi nirkabel yang tidak terpakai"><span class="title">Menonaktifkan teknologi nirkabel yang tidak terpakai</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi, dan data seluler dapat dimatikan untuk mengurangi penggunaan baterai.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.id" title="Show the battery status as a percentage"><span class="title">Show the battery status as a percentage</span><span class="linkdiv-dash"> — </span><span class="desc">Display the battery percentage in the top bar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.id" title="Show the battery status as a percentage"><span class="title">Show the battery status as a percentage</span><span class="linkdiv-dash"> — </span><span class="desc">Menampilkan persentase baterai di bilah puncak.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section id="saving"><div class="inner">
@@ -98,12 +98,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.id" title="Atur waktu pengosongan layar"><span class="title">Atur waktu pengosongan layar</span><span class="linkdiv-dash"> — </span><span class="desc">Mengubah waktu mengosongkan layar untuk menghemat daya.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-profile.html.id" title="Choose a power profile"><span class="title">Choose a power profile</span><span class="linkdiv-dash"> — </span><span class="desc">Balance performance and battery usage.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.id" title="Memfungsikan kecerahan otomatis"><span class="title">Memfungsikan kecerahan otomatis</span><span class="linkdiv-dash"> — </span><span class="desc">Secara otomatis mengontrol kecerahan layar untuk mengurangi penggunaan baterai.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?"><span class="title">Mengapa layar saya meredup setelah beberapa saat?</span><span class="linkdiv-dash"> — </span><span class="desc">Layar akan meredup ketika komputer menganggur untuk menghemat daya.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.id" title="Mengapa layar saya meredup setelah beberapa saat?"><span class="title">Mengapa layar saya meredup setelah beberapa saat?</span><span class="linkdiv-dash"> — </span><span class="desc">Layar akan meredup ketika komputer menganggur untuk menghemat daya.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.id" title="Menyiapkan suspensi otomatis"><span class="title">Menyiapkan suspensi otomatis</span><span class="linkdiv-dash"> — </span><span class="desc">Konfigurasikan komputer untuk mensuspensi secara otomatis.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-profile.html.id" title="Pilih suatu profil daya"><span class="title">Pilih suatu profil daya</span><span class="linkdiv-dash"> — </span><span class="desc">Menyeimbangkan kinerja dan penggunaan baterai.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="faq"><div class="inner">

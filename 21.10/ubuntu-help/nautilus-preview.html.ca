@@ -76,14 +76,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferències de previsualització del gestor de fitxers</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">El gestor de fitxers crea miniatures per a previsualitzar imatges, vídeos i fitxers de text. Les visualitzacions prèvies de les miniatures poden ser lentes per als fitxers grans o sobre xarxes, de manera que podeu controlar quan es fan les visualitzacions prèvies. Feu clic al botó de menú a la pert superior dreta de la finestra, trieu <span class="gui">Preferències</span> i aleshores seleccioneu la pestanya <span class="gui">Cerca i previsualitza</span>.</p>
+<p class="p">The file manager creates thumbnails to preview image, video, and text
+files. Thumbnail previews can be slow for large files or over networks, so
+you can control when previews are made. Click the menu button in the top-right
+of the window, select <span class="gui">Preferences</span>, then go to the
+<span class="gui">Performance</span> section.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Fitxers</span></dt>
-<dd class="terms">
-<p class="p">De manera predeterminada, totes les previsualitzacions es realitzen per <span class="gui">Tan sols fitxers locals</span>, a l'ordinador o en discs externs connectats. Podeu configurar aquesta funció a <span class="gui">Sempre</span> o <span class="gui">Mai</span>. El gestor de fitxers pot <span class="link"><a href="nautilus-connect.html.ca" title="Navegar per fitxers en un servidor o en una xarxa compartida">navegar per fitxers en altres equips</a></span> sobre una xarxa local o internet. Si navegueu sovint per fitxers d'una xarxa local i la xarxa té una amplada de banda elevada, és possible que vulgueu configurar l'opció de vista prèvia a <span class="gui">Tots els fitxers</span>.</p>
-<p class="p">A més, podeu utilitzar la configuració <span class="gui">Només per a fitxers més petits de</span> per a limitar la mida dels fitxers que es previsualitzen.</p>
-</dd>
-<dt class="terms"><span class="gui">Comptador de fitxers</span></dt>
+<dt class="terms"><span class="gui">Show Thumbnails</span></dt>
+<dd class="terms"><p class="p">By default, all previews are done for
+    <span class="gui">On this computer only</span>, those on your computer or connected
+    external drives. You can set this feature to <span class="gui">All files</span> or
+    <span class="gui">Never</span>. The file manager can
+    <span class="link"><a href="nautilus-connect.html.ca" title="Navegar per fitxers en un servidor o en una xarxa compartida">browse files on other computers</a></span> over
+    a local area network or the internet. If you often browse files over a local
+    area network, and the network has high bandwidth, you may want to set the
+    preview option to <span class="gui">All files</span>.</p></dd>
+<dt class="terms"><span class="gui">Count Number of Files in Folders</span></dt>
 <dd class="terms">
 <p class="p">Si veieu les mides dels fitxers a les <span class="link"><a href="nautilus-list.html.ca" title="Preferències de les columnes de la llista de fitxers">columnes visibles a la vista de llista</a></span> o a les <span class="link"><a href="nautilus-display.html.ca#icon-captions" title="Llegendes de les icones">etiquetes de les icones</a></span>, les carpetes es mostraran amb el recompte de quants fitxers i carpetes contenen. Comptar elements en una carpeta pot ser lent, especialment per carpetes molt grans o en una xarxa.</p>
 <p class="p">Podeu activar o desactivar aquesta funció, o activar-la només per a fitxers del vostre ordinador i unitats locals externes.</p>

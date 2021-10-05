@@ -2,7 +2,7 @@
 <html lang=de>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Das Tablet mit der linken Hand verwenden</title>
+<title>Use the tablet with your left or your right hand</title>
 <link rel="stylesheet" type="text/css" href="de.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Das Tablet mit der linken Hand verwenden</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Use the tablet with your left or your right hand</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Einige Tabletts verfügen über physische Knöpfe an einer Seite. Das Tablett kann um 180 Grad gedreht werden, um die Position der Knöpfe den Erfordernissen linkshändiger Benutzer anzupassen. So ändern Sie die Orientierung für Linkshänder:</p>
+<p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
+   180 degrees to position these buttons. By default, the orientation is for
+   right-handed people. To switch the orientation to left-handed:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">Wacom-Tablett</span> ein.</p></li>
 <li class="steps"><p class="p">Klicken Sie auf <span class="gui">Wacom-Grafiktablett</span>, um das Panel zu öffnen.</p></li>

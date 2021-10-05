@@ -79,10 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Para enviar um e-mail, bater-papo com ou ligar para alguém nos <span class="app">Contatos</span>:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Selecione o contato da sua lista de contatos.</p></li>
-<li class="steps"><p class="p">Press the button corresponding to the <span class="em">detail</span> that you want to use.
-      For example, to email your contact, press the 
-      <span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="mail"></span></span> button next to the contact’s 
-      email address.</p></li>
+<li class="steps"><p class="p">Pressione o botão correspondente ao <span class="em">detalhe</span> que você deseja usar. Por exemplo, para enviar um e-mail para seu contato, pressione o botão <span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="e-mail"></span></span> ao lado do endereço de e-mail do contato.</p></li>
 <li class="steps"><p class="p">O aplicativo correspondente será iniciado usando os detalhes do contato.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota">

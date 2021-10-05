@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Anda dapat mengatur izin untuk pemilik berkas, pemilik grup, dan semua pengguna lain dari sistem. Untuk berkas Anda, Anda adalah pemiliknya, dan Anda dapat memberikan diri Anda baca-saja atau izin baca-dan-tulis. Atur berkas ke hanya-baca jika Anda tidak ingin mengubahnya secara tidak sengaja.</p>
 <p class="p">Setiap pengguna di komputer masuk ke dalam suatu grup. Pada komputer rumah, umum untuk setiap pengguna memiliki grup mereka sendiri, dan izin grup tidak sering digunakan. Dalam lingkungan perusahaan, grup terkadang digunakan untuk departemen atau proyek. Selain punya pemilik, setiap berkas menjadi milik suatu grup. Anda dapat mengatur grup berkas dan mengontrol izin untuk semua pengguna dalam grup tersebut. Anda hanya dapat mengatur grup berkas ke grup yang Anda ikuti.</p>
 <p class="p">Anda juga dapat mengatur izin untuk pengguna selain pemilik dan yang di grup berkas.</p>
-<p class="p">Jika berkas adalah program, seperti skrip, Anda harus memilih <span class="gui">Mengizinkan mengeksekusi berkas sebagai program</span> untuk menjalankannya. Bahkan dengan opsi ini dipilih, manajer berkas masih dapat membuka berkas dalam aplikasi atau meminta Anda apa yang harus dilakukan. Lihat <span class="link"><a href="nautilus-behavior.html.id#executable" title="Berkas teks executable">Berkas teks executable</a></span> untuk informasi lebih lanjut.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.id#executable" title="Berkas teks executable">Berkas teks executable</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Folder</span></h2></div>

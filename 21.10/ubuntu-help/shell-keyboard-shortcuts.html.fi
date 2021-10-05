@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p">Pop up command window (for quickly running commands).</p>
+<p class="p">Näytä komennon suoritusikkuna (komentojen nopeaa syöttöä varten).</p>
 <p class="p">Käytä nuolinäppäimiä käyttääksesi aiemmin suoritettuja komentoja.</p>
 </td>
 </tr>
@@ -117,15 +117,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Switch between windows in the current workspace. Hold down
-      <span class="key"><kbd>Shift</kbd></span> for reverse order.</p></td>
+<td style="border-top-style: solid;"><p class="p">Vaihda nykyisessä työtilassa olevien ikkunoiden välillä. Pidä <span class="key"><kbd>Shift</kbd></span> pohjassa vaihtaaksesi käänteisessä järjestyksessä.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Give keyboard focus to the top bar. In the <span class="gui">Activities</span>
-      overview, switch keyboard focus between the top bar, dash, windows
-      overview, applications list, and search field. Use the arrow keys to
-      navigate.</p></td>
+<td style="border-top-style: solid;"><p class="p">Aseta näppäimistön kohdistus yläpalkkiin. <span class="gui">Toiminnot</span>-yleisnäkymässä vaihda näppäimistön kohdistusta yläpalkin, telakan, ikkunanäkymän, sovellusluettelon ja hakukentän välillä. Käytä nuolinäppäimiä liikkuaksesi.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
@@ -157,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.fi" title="Kirjaudu ulos, sammuta tai vaihda käyttäjää">Show the Power Off dialog</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.fi" title="Kirjaudu ulos, sammuta tai vaihda käyttäjää">Näytä sammutusvahvistus</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
@@ -165,9 +161,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p">Show <span class="link"><a href="shell-notifications.html.fi#notificationlist" title="Ilmoitusluettelo">the notification
-    list</a></span>. Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> again or
-    <span class="key"><kbd>Esc</kbd></span> to close.</p></td>
+<td style="border-top-style: solid;"><p class="p">Näytä <span class="link"><a href="shell-notifications.html.fi#notificationlist" title="Ilmoitusluettelo">ilmoitusluettelo</a></span>. Paina <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> uudelleen tai <span class="key"><kbd>Esc</kbd></span> sulkeaksesi.</p></td>
 </tr>
 </table></div>
 </div>

@@ -76,20 +76,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Bir uygulamayı kaldırın</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">An application is software that has a graphical user interface (GUI).
-    You can use <span class="app">Ubuntu Software</span> to remove applications that you 
-    no longer use.</p>
+<p class="p">Uygulama, grafikli kullanıcı arayüzüne (GUI) sahip bir yazılımdır. Artık kullanmadığınız uygulamaları kaldırmak için <span class="app">Ubuntu Software</span> uygulamasını kullanabilirsiniz.</p>
 <p class="p">Uygulamalar iki biçimde sunulur: snap paketleri ve Debian paketleri. Bir snap paketi olarak sunulan uygulama şu andan itibaren <span class="em">snap</span> olarak anılacaktır. Bazı uygulamalar her iki biçimde de sunulur. Böyle bir durumda snap <span class="app">Ubuntu Software</span> uygulamasında önce listelenecektir.</p>
-<p class="p">You may also wish to remove software that does not have a GUI.
-    To remove such software, you can use
-    <span class="link"><a href="addremove-install-synaptic.html.tr" title="Daha gelişmiş yazılım yönetimi için Synaptic'i kullanın">Synaptic</a></span>. Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
+<p class="p">Bir GUI'ya sahip olmayan bir yazılımı da kaldırmak isteyebilirsiniz. Bu tür bir yazılımı kaldırmak için <span class="link"><a href="addremove-install-synaptic.html.tr" title="Daha gelişmiş yazılım yönetimi için Synaptic'i kullanın">Synaptic</a></span> uygulamasını kullanabilirsiniz. <span class="app">Synaptic</span> uygulamasının snap uygulamaları göstermediğini unutmayın.</p>
 <p class="p">Bir uygulamayı kaldırmak için:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p"><span class="gui">Panel</span>'deki <span class="app">Ubuntu Yazılımı</span> simgesini tıklayın veya <span class="em">Etkinlikler</span> arama çubuğunda <span class="input">Yazılım</span> arayın.</p></li>
 <li class="steps"><p class="p"><span class="app">Ubuntu Yazılımı</span> açıldığında, en üstteki <span class="gui">Yüklendi</span> butonunu tıklayın.</p></li>
 <li class="steps"><p class="p">Kaldırmak istediğiniz uygulamayı arama kutusunu kullanarak veya kurulu uygulamaların listesinden bulun.</p></li>
 <li class="steps"><p class="p">Uygulamayı seçin ve <span class="gui">Kaldır</span>'a tıklayın.</p></li>
@@ -109,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Daha Çok Bilgi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Uygulamaları ve diğer yazılımları ekleyin ve kaldırın. Ek yazılım depolarını yönetin.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

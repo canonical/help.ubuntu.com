@@ -81,10 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra <span class="app">Captura de tela</span> no panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span>.</p></li>
-<li class="steps"><p class="p">In the <span class="app">Screenshot</span> window, select whether to grab the whole
-      screen, the current window, or an area of the screen. Set a delay if you
-      need to select a window or otherwise set up your desktop for the
-      screenshot.</p></li>
+<li class="steps"><p class="p">Na janela <span class="app">Captura de tela</span>, selecione ser obtida toda a tela, a janela atual ou uma área da tela. Defina um atraso caso você precise selecionar uma janela ou, do contrário, configurar seu ambiente para a captura de tela.</p></li>
 <li class="steps">
 <p class="p">Clique em <span class="gui">Capturar</span>.</p>
 <p class="p">Se você selecionou <span class="gui">Seleção</span>, o cursor mudará para uma mira. Clique e arraste a área que quer para a captura de tela.</p>

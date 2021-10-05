@@ -76,9 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Paritusohjeet laitteille</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Even if you manage to source the manual for a device, it might not contain
-  enough information to make pairing possible. Here are details for a few common
-  devices.</p>
+<p class="p">Vaikka sinulla olisi käyttöohje, se ei välttämättä sisällä tarpeeksi tietoa paritusta varten. Tässä tietoa joidenkin yleisten laitteiden parittamisesta.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">PlayStation 3 -ohjaimet</dt>
 <dd class="terms"><p class="p">Those devices use “cable-pairing”. Plug the joypads in via USB with the

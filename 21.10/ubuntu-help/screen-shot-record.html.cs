@@ -81,10 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Z přehledu <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> otevřete aplikaci <span class="app">Snímek obrazovky</span>.</p></li>
-<li class="steps"><p class="p">In the <span class="app">Screenshot</span> window, select whether to grab the whole
-      screen, the current window, or an area of the screen. Set a delay if you
-      need to select a window or otherwise set up your desktop for the
-      screenshot.</p></li>
+<li class="steps"><p class="p">V okně <span class="app">Snímek obrazovky</span> vyberte, jestli chcete zachytit celou obrazovku, aktuální okno nebo nějakou oblast obrazovky. Nastavte si prodlevu v případě, že potřebujete čas na vybrání okna nebo nějaké nastavení uživatelského prostředí před pořízením snímku.</p></li>
 <li class="steps">
 <p class="p">Klikněte na <span class="gui">Zachytit snímek obrazovky</span>.</p>
 <p class="p">Pokud jste vybrali <span class="gui">Výběr</span>, změní se ukazatel na nitkový kříž. Kliknutím a táhnutím vyberte oblast, kterou chcete na snímku zachytit.</p>

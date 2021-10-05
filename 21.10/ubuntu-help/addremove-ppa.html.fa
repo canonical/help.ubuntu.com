@@ -2,9 +2,7 @@
 <html lang=fa>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Add a Personal Package Archive (PPA)
-  </title>
+<title>افزودن یک بایگانی بستهٔ شخصی (PPA)</title>
 <link rel="stylesheet" type="text/css" href="fa.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -75,9 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.fa" title="راهنمای میزکار اوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> راهنمای میزکار اوبونتو</a> » <a class="trail" href="addremove.html.fa" title="نصب و برداشتن نرم‌افزارها">افزودن/برداشتن نرم‌افزارها</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">
-    Add a Personal Package Archive (PPA)
-  </span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">افزودن یک بایگانی بستهٔ شخصی (PPA)</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">
@@ -89,9 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">
-      Only add software repositories from sources that you trust!
-    </p>
+<p class="p">مخازن نرم‌افزاری را فقط از منابعی که به آن‌ها اعتماد دارید بیفزایید!</p>
 <p class="p">
       Third-party software repositories are not checked for security or 
       reliability by Ubuntu members, and may contain software which is harmful 
@@ -100,9 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div></div>
 </div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">
-      Install a PPA
-    </span></h2></div>
+<div class="title title-steps"><h2><span class="title">نصب یک PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         On the PPA's overview page, look for the heading <span class="gui">Adding this PPA to 
@@ -142,12 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">همچنین ببینید</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html.fa" title="Add software repositories">
-    Add software repositories
-  </a><span class="desc"> — 
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span>
+<a href="addremove-sources.html.fa" title="افزودن مخازن نرم‌افزاری">افزودن مخازن نرم‌افزاری</a><span class="desc"> — برای گسترش منابع نرم‌افزاری‌ای که اوبونتو برای نصب و به‌روز رسانی‌ها استفاده می‌کند، مخازن را بیفزایید.</span>
 </li></ul></div>
 </div></div>
 </div>

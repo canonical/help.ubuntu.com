@@ -122,11 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">ویدیوها و دوربین‌های ویدیویی</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.fa" title="Create fun photos and videos with your webcam"><span class="title">
-    Create fun photos and videos with your webcam
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-      It is like your own personal photo booth.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.fa" title="ایجاد عکس‌ها و ویدیوهای بامزه با وب‌کمتان"><span class="title">ایجاد عکس‌ها و ویدیوهای بامزه با وب‌کمتان</span><span class="linkdiv-dash"> — </span><span class="desc">مثل باجهٔ عکس شخصی خودتان است.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="video-sending.html.fa" title="دیگران نمی‌توانند ویدیوهایی که ساخته‌ام را پخش کنند"><span class="title">دیگران نمی‌توانند ویدیوهایی که ساخته‌ام را پخش کنند</span><span class="linkdiv-dash"> — </span><span class="desc">بررسی کنید که رمزینه‌های ویدیویی درست را نصب کرده باشند.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="video-dvd.html.fa" title="چرا دی‌وی‌دی‌ها پخش نمی‌شوند؟"><span class="title">چرا دی‌وی‌دی‌ها پخش نمی‌شوند؟</span><span class="linkdiv-dash"> — </span><span class="desc">ممکن است رمزینه‌های درست را نصب نداشته باشید یا دی‌وی‌دی برای ناحیهٔ اشتباهی باشد.</span></a></div>
 </div>

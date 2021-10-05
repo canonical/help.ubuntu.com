@@ -96,10 +96,10 @@ document.addEventListener('DOMContentLoaded', function() {
     in, and time remaining when running on battery power.</p>
 <p class="p">The <span class="gui">Devices</span> section displays the status of connected
     devices.</p>
-<p class="p">The <span class="link"><a href="status-icons.html.fi#batteryicons" title="Battery icons">status icon</a></span> in the top
+<p class="p">The <span class="link"><a href="status-icons.html.fi#batteryicons" title="Akkukuvakkeet">status icon</a></span> in the top
     bar shows the charge level of the main internal battery, and whether it is
     currently charging or not. It can also display the charge as a
-    <span class="link"><a href="power-percentage.html.fi" title="Show the battery status as a percentage">percentage</a></span>.</p>
+    <span class="link"><a href="power-percentage.html.fi" title="Näytä akun tila prosentteina">percentage</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -122,7 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="power-batterylife.html.fi" title="Käytä vähemmän virtaa ja säästä siten akkua">Käytä vähemmän virtaa ja säästä siten akkua</a><span class="desc"> — Vinkkejä tietokoneen virrankäytön vähentämiseksi.</span>
 </li>
 <li class="links ">
-<a href="power-percentage.html.fi" title="Show the battery status as a percentage">Show the battery status as a percentage</a><span class="desc"> — Display the battery percentage in the top bar.</span>
+<a href="power-percentage.html.fi" title="Näytä akun tila prosentteina">Näytä akun tila prosentteina</a><span class="desc"> — Näytä akun varaus prosentteina yläpalkissa.</span>
 </li>
 </ul></div>
 </div></div>

@@ -89,7 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Pressione o botão <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Ver mais"></span></span> para na barra de cabeçalho no canto direito superior.</p></li>
 <li class="steps"><p class="p">Pressione a opção <span class="gui">Delete</span> para remover o contato.</p></li>
 </ol></div></div></div>
-<p class="p">To remove one or more contacts, check the boxes next to the contacts you want to delete and press <span class="gui">Remove</span>.</p>
+<p class="p">Para remover um ou mais contatos, marque as caixas ao lado dos contatos que deseja excluir e pressione <span class="gui">Remover</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

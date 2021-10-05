@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ställ in Wacom-plattans spårningsläge</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Spårningsläge</span> avgör hur markören mappas till skärmen.</p>
+<p class="p"><span class="gui">Spårningsläge</span> avgör hur styluspennan mappas till skärmen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Wacom-platta</span>.</p></li>
 <li class="steps"><p class="p">Klicka på <span class="gui">Wacom-ritplatta</span> för att öppna panelen.</p></li>
@@ -101,7 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">I <span class="em">absolut</span> läge kommer varje punkt på plattan att mappas till en punkt på skärmen. Övre vänstra hörnet av skärmen kommer till exempel alltid att motsvara samma punkt på plattan.</p>
-<p class="p">I <span class="em">relativt</span> läge så kommer markören på skärmen inte att flytta sig om du lyfter upp pennan från plattan och sätter ner den på en annan position. Det är så en mus fungerar.</p>
+<p class="p">I <span class="em">relativt</span> läge så kommer markören på skärmen inte att flytta sig om du lyfter upp styluspennan från plattan och sätter ner den på en annan position. Det är så en mus fungerar.</p>
 </div></div></div>
 </div>
 </div>

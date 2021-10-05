@@ -76,12 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Controlando quais serviços on-line uma conta pode ser usada para acessar</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Some types of online account providers allow you to access several services
-  with the same user account. For example, Google accounts provide access to
-  calendar, email, and contacts. You may want to use your account for some
-  services, but not others. For example, you may want to use your Google account
-  for email but not calendar if you have a different online account that you use
-  for calendar.</p>
+<p class="p">Alguns tipos de conta on-line permitem que você acesse diversos serviços com a mesma conta de usuário. Por exemplo, contas Google fornecem acesso a agenda, e-mail e contatos. Talvez você queira usar sua conta para alguns serviços, mas não para outros. Por exemplo, talvez você queira usar sua conta Google para e-mail, mas não para agenda, por ter uma conta online diferente para usar para bate-papo.</p>
 <p class="p">Você pode desabilitar alguns dos serviços que são fornecidos por cada conta on-line:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Contas on-line</span>.</p></li>

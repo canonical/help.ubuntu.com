@@ -99,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="color.html.es" title="Gestión del color">Gestión del color</a><span class="desc"> — Calibrate color profiles on monitors, printers, and other devices.</span>
+<a href="color.html.es" title="Gestión del color">Gestión del color</a><span class="desc"> — Calibrar los perfiles de color de monitores, impresoras y otros dispositivos.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

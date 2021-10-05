@@ -87,23 +87,23 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="power-closelid.html.cs" title="Proč se můj počítač vypne, když zavřu víko?"><span class="title">Proč se můj počítač vypne, když zavřu víko?</span><span class="linkdiv-dash"> — </span><span class="desc">Noteboky se po zavření víka uspávají, aby ušetřily energii.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.cs" title="Show the battery status as a percentage"><span class="title">Show the battery status as a percentage</span><span class="linkdiv-dash"> — </span><span class="desc">Display the battery percentage in the top bar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie"><span class="title">Snižte spotřebu a prodlužte výdrž baterie</span><span class="linkdiv-dash"> — </span><span class="desc">Tipy na snížení spotřeby vašeho počítače.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.cs" title="Vymáčkněte z baterie svého notebooku co nejvíce"><span class="title">Vymáčkněte z baterie svého notebooku co nejvíce</span><span class="linkdiv-dash"> — </span><span class="desc">Rady jako „Nenechte baterii vybít úplně do dna“</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.cs" title="Vypnutí nepoužívaných bezdrátových technologií"><span class="title">Vypnutí nepoužívaných bezdrátových technologií</span><span class="linkdiv-dash"> — </span><span class="desc">Jak šetřit baterii vypnutím Bluetooth, Wi-Fi a mobilního připojení.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.cs" title="Zobrazení procent baterie"><span class="title">Zobrazení procent baterie</span><span class="linkdiv-dash"> — </span><span class="desc">Jak zobrazovat na horní liště stav baterie v procentech.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section id="saving"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Nastavení šetření energií</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-profile.html.cs" title="Choose a power profile"><span class="title">Choose a power profile</span><span class="linkdiv-dash"> — </span><span class="desc">Balance performance and battery usage.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.cs" title="Nastavení automatického uspávání"><span class="title">Nastavení automatického uspávání</span><span class="linkdiv-dash"> — </span><span class="desc">Jak počítač nastavit, aby se automaticky uspával do paměti.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.cs" title="Nastavení času vypnutí obrazovky"><span class="title">Nastavení času vypnutí obrazovky</span><span class="linkdiv-dash"> — </span><span class="desc">Jak změnit čas, po kterém se vypne obrazovka kvůli úspoře energie.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.cs" title="Povolení automatického jasu"><span class="title">Povolení automatického jasu</span><span class="linkdiv-dash"> — </span><span class="desc">Automatické řízení jasu obrazovky může snížit spotřebu z baterie.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.cs" title="Povolení automatického jasu"><span class="title">Povolení automatického jasu</span><span class="linkdiv-dash"> — </span><span class="desc">Automatické řízení jasu obrazovky může snížit spotřebu z baterie.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-whydim.html.cs" title="Proč moje obrazovka po krátké době potemní?"><span class="title">Proč moje obrazovka po krátké době potemní?</span><span class="linkdiv-dash"> — </span><span class="desc">Obrazovka ztlumí jas, když je počítač nějakou dobu nepoužíván, aby ušetřil energii.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-profile.html.cs" title="Volba profilu napájení"><span class="title">Volba profilu napájení</span><span class="linkdiv-dash"> — </span><span class="desc">Jak vyvážit výkon vs. využití baterie.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section id="faq"><div class="inner">

@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Networking</a> » <a class="trail" href="sharing.html.id" title="Berbagi">Berbagi</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan</a> » <a class="trail" href="sharing.html.id" title="Berbagi">Berbagi</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="prefs-sharing.html.id" title="Pengaturan Berbagi">Pengaturan Berbagi</a> » </div>
 <div class="trail">
@@ -109,8 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="sharing.html.id" title="Berbagi">Berbagi</a><span class="desc"> — Share your desktop, files, or media.</span>
 </li>
 <li class="links ">
-<a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.id" title="Bluetooth">Bluetooth</a><span class="desc"> — Terhubung ke perangkat melalui Bluetooth untuk mentransfer berkas atau menggunakan audio nirkabel.</span>
 </li>
 <li class="links ">
 <a href="prefs-sharing.html.id" title="Pengaturan Berbagi">Pengaturan Berbagi</a><span class="desc"> — Share your screen, or share media and other files over a local

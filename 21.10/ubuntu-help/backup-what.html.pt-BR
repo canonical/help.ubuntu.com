@@ -2,7 +2,7 @@
 <html lang=pt-BR>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>O que deve ter cópia de segurança</title>
+<title>O que deve ter backup</title>
 <link rel="stylesheet" type="text/css" href="pt-BR.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,31 +70,31 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a> » <a class="trail" href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes">Cópias de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Fazendo backup">Fazendo backup</a> » <a class="trail" href="backup-why.html.pt-BR" title="Fazendo backups dos seus arquivos importantes">Backups</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">O que deve ter cópia de segurança</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">O que deve ter backup</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Sua prioridade deveria ser fazer cópias de segurança dos seus <span class="link"><a href="backup-thinkabout.html.pt-BR" title="Onde posso achar os arquivos que quero fazer cópia de segurança?">arquivos mais importantes</a></span> assim como aqueles que sejam difíceis de recriar. Por exemplo, classificados do mais para o menos importantes:</p>
+<p class="p">Sua prioridade deveria ser fazer backup dos seus <span class="link"><a href="backup-thinkabout.html.pt-BR" title="Onde posso achar os arquivos que quero fazer backup?">arquivos mais importantes</a></span> assim como aqueles que sejam difíceis de recriar. Por exemplo, classificados do mais para o menos importantes:</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms">Seus arquivos pessoais</dt>
 <dd class="terms"><p class="p">Isso pode incluir documentos, planilhas, e-mails, compromissos da agenda, dados financeiros, fotos de família ou outros arquivos pessoais que consideraria insubstituíveis.</p></dd>
 <dt class="terms">Suas configurações pessoais</dt>
 <dd class="terms"><p class="p">Aqui estão incluídas as alterações que você tenha feito para cores, planos de fundo, resolução de tela e configurações d mouse no seu ambiente. Isto também inclui as configurações/preferências de aplicativos, tais como as do <span class="app">LibreOffice</span>, do seu reprodutor de música e do seu programa de e-mail. Elas são substituíveis, mas pode levar um tempo para recriá-las.</p></dd>
 <dt class="terms">Configurações de sistema</dt>
-<dd class="terms"><p class="p">A maioria das pessoas nunca mudam as configurações do sistema que são criadas durante a instalação. Se você realmente personaliza suas configurações do sistema por alguma razão, ou se você usa seu computador com servidor, então você pode querer fazer cópias de segurança dessas configurações.</p></dd>
+<dd class="terms"><p class="p">A maioria das pessoas nunca mudam as configurações do sistema que são criadas durante a instalação. Se você realmente personaliza suas configurações do sistema por alguma razão, ou se você usa seu computador com servidor, então você pode querer fazer backup dessas configurações.</p></dd>
 <dt class="terms">Softwares instalados</dt>
 <dd class="terms"><p class="p">O software que você usa pode ser recuperado bem rapidamente após um problema grave no computador, basta reinstalar.</p></dd>
 </dl></div></div></div>
-<p class="p">Em geral, você vai querer fazer cópias de segurança que sejam insubstituíveis e aqueles que exijam um grande tempo investido para substituí-lo sem uma cópia de segurança. Se são coisas fáceis de substituir, por outro lado, você talvez não queira usar espaço em disco com cópias de segurança delas.</p>
+<p class="p">Em geral, você vai querer fazer backup que sejam insubstituíveis e aqueles que exijam um grande tempo investido para substituí-lo sem um backup. Se são coisas fáceis de substituir, por outro lado, você talvez não queira usar espaço em disco com backups delas.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="backup-why.html.pt-BR" title="Fazendo cópias de segurança dos seus arquivos importantes">Fazendo cópias de segurança dos seus arquivos importantes</a><span class="desc"> — Por que, do que, onde e como fazer cópias de segurança.</span>
+<a href="backup-why.html.pt-BR" title="Fazendo backups dos seus arquivos importantes">Fazendo backups dos seus arquivos importantes</a><span class="desc"> — Por que, do que, onde e como fazer backup.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

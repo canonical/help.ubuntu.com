@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Arquivos com um <span class="file">~</span> no final do seus nomes (por exemplo, <span class="file">exemplo.txt~</span>) são cópias de segurança criadas automaticamente de documentos editados no editor de texto <span class="app">gedit</span> ou outros aplicativos. É seguro excluí-los, mas não há risco em mantê-los em seu computador.</p>
+<p class="p">Arquivos com um <span class="file">~</span> no final do seus nomes (por exemplo, <span class="file">exemplo.txt~</span>) são backups criados automaticamente de documentos editados no editor de texto <span class="app">gedit</span> ou outros aplicativos. É seguro excluí-los, mas não há risco em mantê-los em seu computador.</p>
 <p class="p">Por padrão, estes arquivos são ocultos. Se você está os vendo, é porque você selecionou tanto <span class="gui">Mostrar arquivos ocultos</span> (no menu de opções de visualização da barra de ferramentas <span class="app">Arquivos</span>) ou pressionou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span>. Você pode ocultá-los novamente repetindo qualquer um destes passos.</p>
 <p class="p">Esses arquivos são tratados da mesma forma que arquivos ocultos comuns. Veja <span class="link"><a href="files-hidden.html.pt-BR" title="Ocultando um arquivo">Ocultando um arquivo</a></span> por conselho sobre lidar com arquivos ocultos.</p>
 </div>

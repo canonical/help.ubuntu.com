@@ -75,25 +75,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Filhanterarens beteendeinställningar</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Du kan styra huruvida du enkelklickar eller dubbelklickar på filer, hur körbara textfiler hanteras och papperskorgsbeteendet. Klicka på menyknappen i övre högra hörnet i fönstret och välj <span class="gui">Inställningar</span> och välj fliken <span class="gui">Beteende</span>.</p></div>
+<div class="contents pagewide"><p class="p">Du kan styra huruvida du enkelklickar eller dubbelklickar på filer, hur körbara textfiler hanteras och papperskorgsbeteendet. Klicka på menyknappen i fönstrets övre högra hörn, välj <span class="gui">Inställningar</span> och gå sedan till avsnittet <span class="gui">Allmänt</span>.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Beteende</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Enkelklick för att öppna objekt</span></dt>
-<dt class="terms"><span class="gui">Dubbelklick för att öppna objekt</span></dt>
+<dt class="terms"><span class="gui">Åtgärd för att öppna objekt</span></dt>
 <dd class="terms"><p class="p">Som standard kommer klickande att markera filer och dubbelklickande att öppna dem. Du kan istället välja att låta filer och mappar öppnas när du klickar på dem en gång. När du använder enkelklicksläget kan du hålla ner <span class="key"><kbd>Ctrl</kbd></span> medan du klicka för att välja en eller flera filer.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Körbara textfiler</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">En körbar textfil är en fil som innehåller ett program som du kan köra (exekvera). <span class="link"><a href="nautilus-file-properties-permissions.html.sv" title="Ange filrättigheter">Filrättigheterna</a></span> måste också tillåta att filen körs som ett program. De vanligaste är <span class="sys">Shell-</span>, <span class="sys">Python-</span> och <span class="sys">Perl-</span>-skript. Dessa har filändelserna <span class="file">.sh</span>, <span class="file">.py</span> respektive <span class="file">.pl</span>.</p>
-<p class="p">När du öppnar en körbar textfil kan du välja mellan:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Kör körbara textfiler när de öppnas</span></p></li>
-<li class="list"><p class="p"><span class="gui">Visa körbara textfiler när de öppnas</span></p></li>
-<li class="list"><p class="p"><span class="gui">Fråga varje gång</span></p></li>
-</ul></div></div></div>
-<p class="p">Om du väljer <span class="gui">Fråga varje gång</span> kommer en dialogruta visas där du får välja om du vill köra eller visa den markerade textfilen.</p>
 <p class="p">Körbara textfiler kallas också för <span class="em">skript</span>. Alla skript i mappen <span class="file">~/.local/share/nautilus/scripts</span> kommer att visas i snabbvalsmenyn för en fil i undermenyn <span class="gui">Skript</span>. När ett skript körs från en lokal mapp kommer alla valda filer att klistras in till skriptet som parametrar. För att köra ett skript på en fil:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Navigera till den önskade mappen.</p></li>
@@ -106,23 +98,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Ett skript kommer inte att ges någon parameter när det körs från en fjärrmapp som exempelvis en mapp som visar webb- eller <span class="sys">ftp</span>-innehåll.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Papperskorg</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Fråga innan papperskorgen töms</span></dt>
-<dd class="terms"><p class="p">Detta alternativ är valt som standard. När du tömmer papperskorgen kommer ett meddelande att visas som bekräftar att du önskar tömma papperskorgen eller ta bort filer.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Se även</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.sv" title="Ta bort filer och mappar">Ta bort filer och mappar</a><span class="desc"> — Ta bort filer eller mappar som du inte längre behöver.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

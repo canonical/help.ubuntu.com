@@ -97,7 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Jakaminen</span> sivupalkista avataksesi paneelin.</p></li>
 <li class="steps">
 <p class="p">If the <span class="gui">Sharing</span> switch in the top-right of the window is set
       to off, switch it to on.</p>
@@ -126,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide">
 <p class="p">Ennen asetuksen muuttamista kannattaa miettiä, miten valinta vaikuttaa tietoturvaan.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">New connections must ask for access</dt>
+<dt class="terms">Uusien yhteyksien tulee pyytää käyttölupaa</dt>
 <dd class="terms">
 <p class="p">If you want to be able to choose whether to allow someone to access
       your desktop, enable <span class="gui">New connections must ask for access</span>.  If
@@ -165,7 +165,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Asetukset</span>.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Asetukset</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Sharing</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Napsauta <span class="gui">Jakaminen</span> sivupalkista avataksesi paneelin.</p></li>
 <li class="steps"><p class="p"><span class="gui">Screen Sharing</span> will show as <span class="gui">Active</span>. Click on
       it.</p></li>
 <li class="steps"><p class="p">Toggle the switch at the top to off.</p></li>

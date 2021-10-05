@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Menata mode pelacakan tablet Wacom</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Mode Pelacakan</span> menentukan bagaimana penunjuk dipetakan ke layar.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Tablet Wacom</span>.</p></li>
 <li class="steps"><p class="p">Klik pada <span class="gui">Tablet Wacom</span> untuk membuka panel.</p></li>
@@ -101,7 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">Dalam mode <span class="em">absolut</span>, setiap titik pada tablet dipetakan ke suatu titik pada layar. Sudut kiri atas layar, misalnya, selalu sesuai dengan titik yang sama pada tablet.</p>
-<p class="p">Dalam mode <span class="em">relatif</span>, jika Anda mengangkat penunjuk dari tablet dan meletakkannya di posisi yang berbeda, kursor di layar tidak bergerak. Ini adalah cara tetikus beroperasi.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div>
 </div>
 </div>

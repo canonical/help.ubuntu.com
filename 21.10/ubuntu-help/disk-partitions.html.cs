@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Správa svazků a oddílů</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Slovo <span class="em">svazek</span> se používá k označení úložného zařízení, jako je pevný disk. Může také označovat jen <span class="em">část</span> úložného zařízení, protože to se dá rozdělit na více bloků. Počítač vám úložiště zpřístupňuje pomocí souborových systémů po jejich tzv. <span class="em">připojení</span>. Připojenými svazky mohou být pevné disky, flashdisky do USB, DVD-RW mechaniky, karty SD a další média. Když je svazek připojen, můžete z něj číst soubory (a případně je i zapisovat).</p>
+<p class="p">Slovo <span class="em">svazek</span> se používá k označení úložného zařízení, jako je pevný disk. Může také označovat jen <span class="em">část</span> úložného zařízení, protože to se dá rozdělit na více bloků. Počítač vám úložiště zpřístupňuje pomocí souborových systémů po jejich tzv. <span class="em">připojení</span>. Připojenými svazky mohou být pevné disky, flešdisky do USB, DVD-RW mechaniky, karty SD a další média. Když je svazek připojen, můžete z něj číst soubory (a případně je i zapisovat).</p>
 <p class="p">Občas se připojenému svazku říká <span class="em">oddíl</span>, ale to není úplně přesné. „Oddíl“ představuje <span class="em">fyzickou</span> oblast úložiště na jednom diskovém zařízení. Když je oddíl připojen, je označován jako svazek, protože můžete přistupovat k souborům na něm. O svazcích můžete uvažovat jako o označených zpřístupněných „místnostech“ v celém „domě“ z oddílů a disků.</p>
 </div>
 <section id="manage"><div class="inner">

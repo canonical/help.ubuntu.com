@@ -153,10 +153,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="net-othersedit.html.fa" title="Other users can’t edit the network connections">Other users can’t edit the network connections</a><span class="desc"> — You need to uncheck the <span class="gui">Available to all users</span> option in the network connection settings.</span>
 </li>
 <li class="links ">
-<a href="user-admin-problems.html.fa" title="Problems caused by administrative restrictions">Problems caused by administrative restrictions</a><span class="desc"> — You can do some things, like installing applications, only if you
-    have administrative privileges.</span>
-</li>
-<li class="links ">
 <a href="user-changepicture.html.fa" title="تغییر عکس صفحهٔ ورودتان">تغییر عکس صفحهٔ ورودتان</a><span class="desc"> — Add your photo to the login and user screens.</span>
 </li>
 <li class="links ">
@@ -168,6 +164,10 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="links ">
 <a href="user-delete.html.fa" title="حذف یک حساب کاربری">حذف یک حساب کاربری</a><span class="desc"> — Remove users that no longer use your computer.</span>
+</li>
+<li class="links ">
+<a href="user-admin-problems.html.fa" title="مشکلات ایجاد شده به دست محدودیت‌های مدیریتی">مشکلات ایجاد شده به دست محدودیت‌های مدیریتی</a><span class="desc"> — You can do some things, like installing applications, only if you
+    have administrative privileges.</span>
 </li>
 <li class="links ">
 <a href="printing-name-location.html.fa" title="نام یا مکان چاپگر را تغییر دهید">نام یا مکان چاپگر را تغییر دهید</a><span class="desc"> — Change the name or location of a printer in the printer

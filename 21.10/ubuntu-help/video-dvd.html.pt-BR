@@ -80,11 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Instalando os codecs corretos para reprodução de DVD</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Para reproduzir DVDs, você precisa ter os <span class="em">codecs</span> corretos instalados. Um codec é um software que permite aos aplicativos lerem um formato de vídeo ou de áudio. Se o seu programa reprodutor de filmes não localizar os codecs corretos, ele pode se oferecer para instalá-los para você. Se isso não acontecer, você terá que instalá-los manualmente — peça ajuda sobre como fazer isso, por exemplo nos fóruns de suporte da sua distribuição Linux.</p>
-<p class="p">DVDs are also <span class="em">copy-protected</span> using a system called CSS. This
-  prevents you from copying DVDs, but it also prevents you from playing them
-  unless you have extra software to handle the copy protection. This software
-  is available from a number of Linux distributions, but cannot be legally used
-  in all countries. Please contact your Linux distribution for more information.</p>
+<p class="p">Os DVDs são também <span class="em">protegidos contra cópia</span> usando um sistema chamado CSS. Isso impede a cópia dos DVDs, mas também impede a sua reprodução a menos que você tenha algum programa extra para lidar com a proteção contra cópias. Esse software está disponível em várias distribuições Linux, mas não pode ser legalmente usado em todos países. Por favor, contate sua distribuição para mais informações.</p>
 </div></div>
 </div></section><section id="region"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Verificando a região do DVD</span></h2></div>

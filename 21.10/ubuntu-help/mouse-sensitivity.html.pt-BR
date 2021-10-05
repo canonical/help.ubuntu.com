@@ -82,11 +82,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ajustando a velocidade do mouse e do touchpad</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Se seu ponteiro se move rápido ou lento demais quando você mexe o mouse ou usa o touchpad, você pode ajustar a velocidade do ponteiro para esses dispositivos.</p>
+<p class="p">Se seu cursor se move rápido ou lento demais quando você mexe o mouse ou usa o touchpad, você pode ajustar a velocidade do cursor para esses dispositivos.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Mouse &amp; touchpad</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Mouse &amp; touchpad</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">Ajuste o controle deslizante de <span class="gui">Velocidade do mouse</span> ou <span class="gui">Velocidade do touchpad</span> até que o movimento do ponteiro esteja confortável para você. Algumas das configurações mais confortáveis para um tipo de dispositivo não são as melhores para o outro.</p></li>
+<li class="steps"><p class="p">Ajuste o controle deslizante de <span class="gui">Velocidade do mouse</span> ou <span class="gui">Velocidade do touchpad</span> até que o movimento do cursor esteja confortável para você. Algumas das configurações mais confortáveis para um tipo de dispositivo não são as melhores para o outro.</p></li>
 </ol></div></div></div>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">

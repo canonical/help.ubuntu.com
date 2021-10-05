@@ -70,30 +70,25 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferensi perilaku pengelola berkas</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Anda dapat mengontrol apakah Anda mengklik tunggal atau klik ganda berkas, bagaimana berkas teks yang dapat dieksekusi ditangani, dan perilaku sampah. Klik tombol menu di pojok kanan atas jendela dan pilih <span class="gui">Preferensi</span>, lalu pilih tab <span class="gui">Perilaku</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
+executable text files are handled, and the trash behavior. Click the menu
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Perilaku</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Klik tunggal untuk membuka butir</span></dt>
-<dt class="terms"><span class="gui">Klik ganda untuk membuka butir</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Secara default, mengklik memilih berkas dan mengklik ganda membuka mereka. Anda malah dapat memilih agar berkas dan folder terbuka ketika Anda klik pada mereka sekali. Ketika Anda menggunakan mode klik-tunggal, Anda dapat menekan terus tombol <span class="key"><kbd>Ctrl</kbd></span> sambil mengklik untuk memilih satu atau lebih berkas.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Berkas teks executable</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Sebuah berkas teks executable adalah berkas yang berisi program yang dapat dijalankan (execute). <span class="link"><a href="nautilus-file-properties-permissions.html.id" title="Menata izin berkas">Hak akses berkas</a></span> juga harus memungkinkan berkas untuk dijalankan sebagai sebuah program. Yang paling umum adalah skrip <span class="sys">Shell</span>, <span class="sys">Python</span>, dan <span class="sys">Perl</span>. Ini masing-masing memiliki ekstensi <span class="file">.sh</span>, <span class="file">.py</span>, dan <span class="file">.pl</span>.</p>
-<p class="p">Ketika Anda membuka berkas teks executable, Anda dapat memilih dari:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Jalankan berkas teks yang dapat dieksekusi ketika berkas tersebut dibuka</span></p></li>
-<li class="list"><p class="p"><span class="gui">Tilik berkas teks yang dapat dieksekusi ketika berkas tersebut dibuka</span></p></li>
-<li class="list"><p class="p"><span class="gui">Tanyakan setiap kali</span></p></li>
-</ul></div></div></div>
-<p class="p">Jika <span class="gui">Tanyakan setiap kali</span> dipilih, sebuah dialog akan muncul menanyakan apakah Anda ingin menjalankan atau melihat berkas teks yang dipilih.</p>
 <p class="p">Berkas teks executable juga disebut <span class="em">skrip</span>. Semua skrip di folder <span class="file">~/.local/share/nautilus/scripts</span> akan muncul dalam menu konteks untuk berkas di bawah sub menu <span class="gui">Skrip</span>. Ketika skrip dieksekusi dari folder lokal, semua berkas yang dipilih akan disisipkan ke skrip sebagai parameter. Untuk menjalankan skrip pada berkas:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Navigasikan ke folder yang dikehendaki.</p></li>
@@ -106,23 +101,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Skrip tidak akan diberi parameter apa pun saat dijalankan dari folder jarak jauh seperti folder yang menampilkan konten web atau <span class="sys">ftp</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Tong Sampah</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Bertanya sebelum mengosongkan Tong Sampah</span></dt>
-<dd class="terms"><p class="p">Opsi ini dipilih secara default. Saat mengosongkan sampah, pesan akan ditampilkan untuk mengonfirmasi bahwa Anda ingin mengosongkan sampah atau menghapus berkas.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Lihat Juga</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.id" title="Menghapus berkas-berkas dan folder-folder">Menghapus berkas-berkas dan folder-folder</a><span class="desc"> — Menghapus berkas-berkas atau folder-folder yang tidak Anda perlukan lagi.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

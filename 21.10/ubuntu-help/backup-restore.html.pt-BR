@@ -2,7 +2,7 @@
 <html lang=pt-BR>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Restaurando uma cópia de segurança</title>
+<title>Restaurando um backup</title>
 <link rel="stylesheet" type="text/css" href="pt-BR.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,23 +70,23 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Fazendo backup">Fazendo backup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Restaurando uma cópia de segurança</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Restaurando um backup</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Se você perdeu ou excluiu algum arquivo seu, mas tem uma cópia de segurança dele, você pode restaurá-lo:</p>
+<p class="p">Se você perdeu ou excluiu algum arquivo seu, mas tem um backup dele, você pode restaurá-lo:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Se você quiser restaurar sua cópia de segurança de um dispositivo como uma unidade de disco externa, uma unidade USB ou um outro computador na rede, você pode <span class="link"><a href="files-copy.html.pt-BR" title="Copiando ou movendo arquivos e pastas">copiá-los</a></span> de volta a seu computador.</p></li>
-<li class="list"><p class="p">Se você criou sua cópia usando um aplicativo para este fim como o <span class="app">Déjà Dup</span>, recomenda-se que utilize o mesmo aplicativo para restaurar sua cópia de segurança. Consulte a ajuda do aplicativo: ele fornecerá instruções específicas sobre como restaurar seus arquivos.</p></li>
+<li class="list"><p class="p">Se você quiser restaurar seu backup de um dispositivo como uma unidade de disco externa, uma unidade USB ou um outro computador na rede, você pode <span class="link"><a href="files-copy.html.pt-BR" title="Copiando ou movendo arquivos e pastas">copiá-los</a></span> de volta a seu computador.</p></li>
+<li class="list"><p class="p">Se você criou sua cópia usando um aplicativo para este fim como o <span class="app">Déjà Dup</span>, recomenda-se que utilize o mesmo aplicativo para restaurar seu backup. Consulte a ajuda do aplicativo: ele fornecerá instruções específicas sobre como restaurar seus arquivos.</p></li>
 </ul></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#backup" title="Fazendo backup">Fazendo backup</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

@@ -71,21 +71,16 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Color</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Warna</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Color</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Warna</a> › <a class="trail" href="color.html.id#calibration" title="Kalibrasi">Kalibrasi</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Bagaimana saya mengkalibrasi kamera saya?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    Camera devices are calibrated by taking a photograph of a target
-    under the desired lighting conditions.
-    By converting the RAW file to a TIFF file, it can be used to
-    calibrate the camera device in the <span class="gui">Color</span> panel.
-  </p>
+<p class="p">Perangkat kamera dikalibrasi dengan cara mengambil foto dari suatu target di bawah kondisi pencahayaan yang diinginkan. Dengan mengonversi berkas RAW ke berkas TIFF, itu dapat dipakai untuk mengkalibrasi perangkat kamera dalam panel <span class="gui">Warna</span>.</p>
 <p class="p">Anda akan perlu memotong berkas TIFF sehingga hanya target yang nampak. Pastikan bahwa tepi putih atau hitam masih nampak. Kalibrasi tak akan bekerja bila gambar terbalik atau cukup banyak terdistorsi.</p>
 <div class="note note-tip" title="Tip">
 <svg width="24" height="24" version="1.1">

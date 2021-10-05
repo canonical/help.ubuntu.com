@@ -115,12 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Patrz także</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.pl-PL#trash" title="Kosz">Preferencje kosza menedżera plików</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.pl-PL" title="Przywracanie pliku z Kosza">Przywracanie pliku z Kosza</a><span class="desc"> — Usunięte pliki są zwykle wysyłane do Kosza, ale można je odzyskać.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

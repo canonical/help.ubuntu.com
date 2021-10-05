@@ -75,25 +75,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferências de comportamento do gerenciador de arquivos</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Você pode controlar se deve fazer clique único ou clique duplo em arquivos, como arquivos de texto executáveis são manipulados e o comportamento da lixeira. Clique no botão de menu no canto superior direito da janela e selecione <span class="gui">Preferências</span> e selecione a aba <span class="gui">Comportamento</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
+executable text files are handled, and the trash behavior. Click the menu
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Comportamento</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Clique único para abrir itens</span></dt>
-<dt class="terms"><span class="gui">Clique duplo para abrir itens</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Por padrão, o clique seleciona arquivos e o clique duplo os abre. Você pode, em vez disso, escolher ter arquivos e pastas abertos ao clicar uma vez neles. Ao usar o modo clique único, você pode manter pressionada a tecla <span class="key"><kbd>Ctrl</kbd></span> enquanto clica para selecionar um ou mais arquivos.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Arquivos de texto executáveis</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Um arquivo de texto executável contém um programa que você pode executar. As <span class="link"><a href="nautilus-file-properties-permissions.html.pt" title="Definindo permissões de arquivo">permissões do arquivo</a></span> devem também permitir o arquivo ser executado como um programa. Os mais comuns são os scripts em <span class="sys">Shell</span>, <span class="sys">Python</span> e <span class="sys">Perl</span>. Eles têm as extensões <span class="file">.sh</span>, <span class="file">.py</span> e <span class="file">.pl</span>, respectivamente.</p>
-<p class="p">Quando você abre um arquivo de texto executável, você pode escolher entre:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Executar arquivos de texto executáveis quando forem abertos</span></p></li>
-<li class="list"><p class="p"><span class="gui">Ver arquivos de texto executáveis quando forem abertos</span></p></li>
-<li class="list"><p class="p"><span class="gui">Perguntar a cada vez</span></p></li>
-</ul></div></div></div>
-<p class="p">Se <span class="gui">Perguntar a cada vez</span> estiver selecionado, uma janela vai aparecer perguntando se você deseja executar ou ver o arquivo texto selecionado.</p>
 <p class="p">Arquivos de texto executáveis também são chamados de <span class="em">scripts</span>. Todos os scripts na pasta <span class="file">~/.local/share/nautilus/scripts</span> vão aparecer no menu de contexto por um arquivo sob o submenu <span class="gui">Scripts</span>. Quando um script é executado de uma pasta local, todos os arquivos selecionados serão colados como parâmetros. Para executar um script em um arquivo:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Navegue até a pasta desejada.</p></li>
@@ -106,23 +101,6 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Não será passado nenhum parâmetro para um script quando este for executado de uma pasta remota, como, por exemplo, uma pasta mostrando conteúdo da web ou <span class="sys">ftp</span>.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Lixeira</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Perguntar antes de esvaziar a lixeira</span></dt>
-<dd class="terms"><p class="p">Esta opção está selecionada por padrão. Ao esvaziar a lixeira, uma mensagem vai ser exibida confirmando que você deseja esvaziar a lixeira ou excluir arquivos.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Consulte também</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.pt" title="Excluindo arquivos e pastas">Excluindo arquivos e pastas</a><span class="desc"> — Remova arquivos e pastas que não precise mais.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

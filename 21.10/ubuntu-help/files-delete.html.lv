@@ -119,12 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.lv" title="Atjaunot datni no miskastes">Atjaunot datni no miskastes</a><span class="desc"> — Parasti dzēstās datnes tiek aizsūtītas uz miskasti, bet tās var atgūt.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.lv#trash" title="Miskaste">Datņu pārvaldnieka miskastes iestatījumi</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

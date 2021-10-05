@@ -123,12 +123,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">ఇవి కూడా చూడండి</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.te#trash" title="Trash">File manager trash preferences</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.te" title="చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము">చెత్తబుట్ట నుండి ఫైలును తిరిగిపొందుము</a><span class="desc"> — తొలగించిన ఫైళ్ళు సాధారణంగా చెత్తబుట్టకు పంపబడును, అయితే మరలా తిరిగి పొందవచ్చు.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

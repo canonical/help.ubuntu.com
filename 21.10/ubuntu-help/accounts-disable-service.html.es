@@ -76,12 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Controlar qué servicios en línea puede usar una cuenta para acceder</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Some types of online account providers allow you to access several services
-  with the same user account. For example, Google accounts provide access to
-  calendar, email, and contacts. You may want to use your account for some
-  services, but not others. For example, you may want to use your Google account
-  for email but not calendar if you have a different online account that you use
-  for calendar.</p>
+<p class="p">Algunos tipos de proveedores de cuentas en línea le permiten acceder a varios servicios con la misma cuenta de usuario. Las cuentas de Google proporcionan acceso al calendario, correo-e y contactos. Puede querer usar su cuenta para algunos servicios, pero no para otros. Por ejemplo, puede querer usar su cuenta de Google para correo-e pero no para calendario si ya tiene una cuenta en línea distinta que usa para el calendario.</p>
 <p class="p">Puede desactivar algunos de los servicios proporcionados con cada cuenta en línea:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Cuentas en línea</span>.</p></li>
@@ -99,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — Connect to your accounts with various online services.</span>
+<a href="accounts.html.es" title="Cuentas en línea">Cuentas en línea</a><span class="desc"> — Conectar a sus cuentas con varios servicios en línea</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

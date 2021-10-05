@@ -70,20 +70,28 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="files.html.id" title="Berkas, folder, &amp; cari">Berkas</a> › <a class="trail" href="files.html.id#more-file-tasks" title="Tugas terkait berkas lainnya">Tugas terkait berkas lainnya</a> » <a class="trail" href="nautilus-prefs.html.id" title="Preferensi pengelola berkas">Preferensi</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferensi pratilik pengelola berkas</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Manajer berkas membuat gambar mini untuk pratinjau citra, video, dan berkas teks. Pratinjau gambar mini bisa lambat untuk berkas besar atau melalui jaringan, sehingga Anda dapat mengontrol kapan pratinjau dibuat. Klik tombol menu di kanan atas jendela, pilih <span class="gui">Preferensi</span>, lalu pilih tab <span class="gui">Cari &amp; Pratinjau</span>.</p>
+<p class="p">The file manager creates thumbnails to preview image, video, and text
+files. Thumbnail previews can be slow for large files or over networks, so
+you can control when previews are made. Click the menu button in the top-right
+of the window, select <span class="gui">Preferences</span>, then go to the
+<span class="gui">Performance</span> section.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Berkas</span></dt>
-<dd class="terms">
-<p class="p">Secara baku, Semua pratinjau dilakukan untuk <span class="gui">Berkas di komputer ini saja</span>, yang ada di komputer Anda, atau drive eksternal yang terhubung. Anda dapat mengatur fitur ini ke <span class="gui">Semua Berkas</span> atau <span class="gui">Tidak Pernah</span>. Manajer berkas dapat <span class="link"><a href="nautilus-connect.html.id" title="Browse files on a server or network share">meramban berkas pada komputer lain</a></span> melalui jaringan area lokal atau internet. Jika Anda sering menelusuri berkas melalui jaringan area lokal, dan jaringan memiliki bandwidth tinggi, Anda mungkin ingin menetapkan opsi pratinjau ke <span class="gui">Semua Berkas</span>.</p>
-<p class="p">Selain itu, Anda dapat menggunakan pengaturan <span class="gui">Hanya untuk berkas yang kurang dari</span> untuk membatasi ukuran berkas yang dipratinjau.</p>
-</dd>
-<dt class="terms"><span class="gui">Cacah berkas</span></dt>
+<dt class="terms"><span class="gui">Tampilkan Gambar Mini</span></dt>
+<dd class="terms"><p class="p">By default, all previews are done for
+    <span class="gui">On this computer only</span>, those on your computer or connected
+    external drives. You can set this feature to <span class="gui">All files</span> or
+    <span class="gui">Never</span>. The file manager can
+    <span class="link"><a href="nautilus-connect.html.id" title="Browse files on a server or network share">browse files on other computers</a></span> over
+    a local area network or the internet. If you often browse files over a local
+    area network, and the network has high bandwidth, you may want to set the
+    preview option to <span class="gui">All files</span>.</p></dd>
+<dt class="terms"><span class="gui">Count Number of Files in Folders</span></dt>
 <dd class="terms">
 <p class="p">Jika Anda menampilkan ukuran berkas dalam <span class="link"><a href="nautilus-list.html.id" title="Preferensi kolom daftar berkas">kolom tampilan daftar</a></span> atau <span class="link"><a href="nautilus-display.html.id#icon-captions" title="Kapsi ikon">keterangan ikon</a></span>, folder akan ditampilkan dengan jumlah berapa banyak berkas dan folder yang dikandungnya. Menghitung item dalam folder bisa lambat, terutama untuk folder yang sangat besar, atau melalui jaringan.</p>
 <p class="p">Anda dapat mengaktifkan atau menonaktifkan fitur ini, atau mengaktifkannya hanya untuk berkas di komputer dan drive eksternal lokal.</p>

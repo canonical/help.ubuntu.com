@@ -2,7 +2,7 @@
 <html lang=ru>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Управление графическим планшетом левой рукой</title>
+<title>Use the tablet with your left or your right hand</title>
 <link rel="stylesheet" type="text/css" href="ru.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Управление графическим планшетом левой рукой</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Use the tablet with your left or your right hand</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">На некоторых графических планшетах кнопки расположены с одной стороны. Планшет можно развернуть на 180 градусов, чтобы кнопки было удобнее нажимать левой рукой. Чтобы изменить ориентацию планшета:</p>
+<p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
+   180 degrees to position these buttons. By default, the orientation is for
+   right-handed people. To switch the orientation to left-handed:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ru#activities" title="Режим обзора">Activities</a></span>
     overview and start typing <span class="gui">Wacom Tablet</span>.</p></li>

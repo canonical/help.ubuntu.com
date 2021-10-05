@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferências de exibição do gerenciador de arquivos</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Você pode controlar como o gerenciador de arquivos exibe legendas sob ícones. Clique no botão de menu no canto superior direito da janela e selecione <span class="gui">Preferências</span> e selecione a aba <span class="gui">Exibir</span>.</p></div>
+<div class="contents pagewide"><p class="p">Você pode controlar como o gerenciador de arquivos exibe legendas sob ícones. Clique no botão de menu no canto superior direito da janela, selecione <span class="gui">Preferências</span> e vá à aba <span class="gui">Legenda da exibição de ícones</span>.</p></div>
 <section id="icon-captions"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Legendas dos ícones</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 </div></section><section id="list-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Visão de lista</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Quando se vê arquivos como uma lista, você pode <span class="gui">Permitir que pastas sejam expandidas</span>. Isso mostra expansores em cada diretório na lista de arquivos, de forma que o conteúdo de várias pastas pode ser mostrado de uma vez. Isso é útil se a estrutura da pasta é relevante como, por exemplo, se seus arquivos de música forem organizados com uma pasta por artista, e uma subpasta por álbum.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">Quando se vê arquivos como uma lista, você pode exibir <span class="gui">Pastas expandíveis na visão em lista</span>. Isso mostra expansores em cada diretório na lista de arquivos, de forma que o conteúdo de várias pastas pode ser mostrado de uma vez. Isso é útil se a estrutura da pasta é relevante como, por exemplo, se seus arquivos de música forem organizados com uma pasta por artista, e uma subpasta por álbum.</p></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

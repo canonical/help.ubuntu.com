@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide">
 <p class="p">Kahta näyttöä käyttämällä nämä kaksi näyttötilaa ovat käytettävissä:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Liitä näytöt:</span> näyttöjen reunat yhdistetään, joten asiat voivat liikkua näytöltä toiselle</p></li>
+<li class="list"><p class="p"><span class="gui">Liitä näytöt:</span> näyttöjen reunat yhdistetään, joten asiat voivat liikkua näytöltä toiselle.</p></li>
 <li class="list"><p class="p"><span class="gui">Peili:</span> sama sisältö näytetään kahdella näytöllä, samalla tarkkuudella ja suuntauksella.</p></li>
 <li class="list"><p class="p"><span class="gui">Yksi näyttö:</span> vain yksi näyttö määritetään, toinen näyttö sammutetaan. Esimerkiksi ulkoinen näyttö yhdistettynä telakoituun kannettavaan tietokoneeseen, jossa on kansi suljettu, olisi yksi määritetty näyttö.</p></li>
 </ul></div></div></div>

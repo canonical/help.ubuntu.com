@@ -89,9 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Menginstal PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Pada halaman ikhtisar PPA, cari tajuk yang <span class="gui">Menambahkan PPA ini ke sistem Anda</span>. Catat lokasi PPA, yang seharusnya terlihat mirip dengan: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">
-        Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Buka <span class="app">Perangkat Lunak &amp; Pemutakhiran</span> melalui bilah pencarian <span class="em">Aktivitas</span>.</p></li>
 <li class="steps"><p class="p">Beralih ke tab <span class="gui">Perangkat Lunak Lain</span>.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tambah</span> dan masukkan lokasi PPA (seperti yang tercantum pada langkah 1).</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tambahkan Sumber</span>. Masukkan kata sandi Anda di jendela Autentikasi.</p></li>

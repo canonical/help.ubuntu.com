@@ -95,7 +95,10 @@ document.addEventListener('DOMContentLoaded', function() {
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">ファイルがスクリプトなどのプログラムである場合、それを実行するには、<span class="gui">プログラムとして実行できる</span>のオプションを選択してください。このオプションが設定されていても、ファイルマネージャーはそのファイルを何らかのアプリケーションで開くこともあれば、どうするか確認することもあります。詳細は <span class="link"><a href="nautilus-behavior.html.ja#executable" title="実行可能なテキストファイル">実行可能なテキストファイル</a></span> を参照してください。</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.ja#executable" title="実行可能なテキストファイル">実行可能なテキストファイル</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">フォルダー</span></h2></div>

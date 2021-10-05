@@ -82,10 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd class="terms"><p class="p">Esos dispositivos usan «emparejamiento por cable». Conecte los mandos a través de USB con la <span class="gui"> Configuración de Bluetooth </span> abierta y Bluetooth activado. Después de pulsar el botón «PS», se le preguntará si quiere configurar esos mandos. Desconéctelos y pulse el botón «PS» para usarlos a través de Bluetooth.</p></dd>
 <dt class="terms">Mandos 4 de PlayStation</dt>
 <dd class="terms">
-<p class="p">Those devices use “cable-pairing” as well. Plug the joypads in via USB with the
-      <span class="gui">Bluetooth Settings</span> opened, and Bluetooth turned on. You will get asked whether
-      to set those joypads up without needing to press the “PS” button. Unplug them and press the
-      “PS” button to use them over Bluetooth.</p>
+<p class="p">Esos dispositivos también usan «emparejamiento por cable». Conecte los mandos a través de USB con la <span class="gui">Configuración de Bluetooth</span> abierta y Bluetooth activado. Se le preguntará si quiere configurar esos mandos sin necesidad de pulsar el botón PS. Desconéctelos y pulse el botón PS para usarlos a través de Bluetooth.</p>
 <p class="p">El uso de la combinación de botones «PS» y «Share» para emparejar el mando también se puede usar para hacer que el mando sea visible y emparejarlo como cualquier otro dispositivo Bluetooth si no tiene un cable USB a mano.</p>
 </dd>
 <dt class="terms">Control remoto de PlayStation 3 BD</dt>
@@ -93,10 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dt class="terms">Mandos de Nintendo Wii y Wii U</dt>
 <dd class="terms"><p class="p">Use el botón rojo «Sync» dentro del compartimento de la batería para iniciar el proceso de emparejamiento. Otras combinaciones de botones no mantendrán la información de emparejamiento, por lo que deberá volver a hacerlo en poco tiempo. También tenga en cuenta que algunos programas quieren acceso directo a los controles remotos y, en esos casos, no debe configurarlos en el panel Bluetooth. Consulte el manual de la aplicación para obtener instrucciones.</p></dd>
 <dt class="terms">ION iCade</dt>
-<dd class="terms"><p class="p">Hold down the bottom 4 buttons and the top white button to start the pairing
-      process. When the pairing instructions appear, make sure to use only the cardinal
-      directions to input the code, followed by any of the 2 white buttons to the far
-      right of the arcade stick to confirm.</p></dd>
+<dd class="terms"><p class="p">Mantenga pulsados los 4 botones inferiores y el botón blanco superior para empezar el proceso de emparejamiento. Cuando aparezcan las instrucciones de emparejamiento, asegúrese de usar solamente direcciones cardinales para introducir el código, seguidas de cualquiera de los 2 botones blancos del extremo derecho del mando de la máquina recreativa para confirmar.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -105,8 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.es" title="Bluetooth">Bluetooth</a><span class="desc"> — Conectar a dispositivos por Bluetooth para transferir archivos o usar audio inalámbrico.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

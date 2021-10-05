@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Встановлення режиму стеження для планшета Wacom</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Режим стеження</span> визначає спосіб прив'язки вказівника до екрана.</p>
+<p class="p"><span class="gui">Режим стеження</span> визначає спосіб прив'язки стила до екрана.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Відкрийте огляд <span class="gui"><a href="shell-introduction.html.uk#activities" title="Огляд Діяльності">Діяльності</a></span> і почніть введення слова <span class="gui">Планшет Wacom</span>.</p></li>
 <li class="steps"><p class="p">Натисніть кнопку <span class="gui">Планшет Wacom</span>, щоб відкрити панель.</p></li>

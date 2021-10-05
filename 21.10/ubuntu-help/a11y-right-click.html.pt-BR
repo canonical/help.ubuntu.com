@@ -90,9 +90,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Na janela de <span class="gui">Assistência de clique</span>, alterne <span class="gui">Clique secundário simulado</span> para ligado.</p></li>
 </ol></div></div></div>
 <p class="p">É possível alterar por quanto tempo você deve manter pressionado o botão esquerdo do mouse antes de ele ser registrado como um clique-direito, alterando o <span class="gui">Atraso de aceitação</span>.</p>
-<p class="p">Para um clicar de botão direito com o clique secundário simulado, mantenha pressionado o botão esquerdo do mouse onde você normalmente clicaria com o botão direito, e então solte. O ponteiro encherá com uma cor diferente na medida em que você mantém o botão esquerdo do mouse pressionado. Assim que ele alterar essa cor completamente, solte o botão do mouse para ter o efeito do clique de botão direito.</p>
-<p class="p">Alguns ponteiros especiais, como os ponteiros de redimensionar, não mudam de cor. Você ainda pode usar Clique secundário simulado, mesmo se você não obtiver o feedback visual do ponteiro.</p>
-<p class="p">Se você usar <span class="link"><a href="mouse-mousekeys.html.pt-BR" title="Clicando e movendo o ponteiro do mouse usando o teclado">Teclas do mouse</a></span>, isso também permite a você faça o clique com o botão direito segurando a tecla <span class="key"><kbd>5</kbd></span> no seu teclado numérico.</p>
+<p class="p">Para um clicar de botão direito com o clique secundário simulado, mantenha pressionado o botão esquerdo do mouse onde você normalmente clicaria com o botão direito, e então solte. O cursor encherá com uma cor diferente na medida em que você mantém o botão esquerdo do mouse pressionado. Assim que ele alterar essa cor completamente, solte o botão do mouse para ter o efeito do clique de botão direito.</p>
+<p class="p">Alguns cursores especiais, como os cursores de redimensionar, não mudam de cor. Você ainda pode usar Clique secundário simulado, mesmo se você não obtiver o feedback visual do cursor.</p>
+<p class="p">Se você usar <span class="link"><a href="mouse-mousekeys.html.pt-BR" title="Clicando e movendo o cursor do mouse usando o teclado">Teclas do mouse</a></span>, isso também permite a você faça o clique com o botão direito segurando a tecla <span class="key"><kbd>5</kbd></span> no seu teclado numérico.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>

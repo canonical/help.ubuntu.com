@@ -92,8 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Pokud omylem propojíte kontakty, které propojené být nemají, můžete je zase rozpojit.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">V seznamu kontaktů vyberte kontakt, který chcete rozpojit.</p></li>
-<li class="steps"><p class="p">Press <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="view more"></span></span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
+<li class="steps"><p class="p">Zmáčkněte tlačítko <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Zobrazit více"></span></span> v pravém horním rohu aplikace <span class="app">Kontakty</span>.</p></li>
 <li class="steps"><p class="p">Zmáčknutím <span class="gui">Rozpojit</span> záznam v kontaktech rozpojíte.</p></li>
 </ol></div></div></div>
 </div></div>

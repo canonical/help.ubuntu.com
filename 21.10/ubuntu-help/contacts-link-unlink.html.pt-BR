@@ -92,8 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Você pode querer desvincular contatos, caso você tenha acidentalmente vinculado contatos que não deveriam estar vinculados.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Selecione o contato que você deseja de desvincular da sua lista de contatos.</p></li>
-<li class="steps"><p class="p">Press <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="view more"></span></span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
+<li class="steps"><p class="p">Pressione <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="ver mais"></span></span> no canto superior direito de <span class="app">Contatos</span>.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Desvincular</span> para desvincular o registro do contato.</p></li>
 </ol></div></div></div>
 </div></div>

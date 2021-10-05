@@ -88,9 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Na většině zařízení musíte zadání potvrdit zhruba do 20 vteřin, jinak nebude spojení úplně dokončeno. Pokud se vám to stane, vraťte se na seznam zařízení a začněte znovu.</p>
 </li>
 <li class="steps"><p class="p">Položka pro zařízení v seznamu <span class="gui">Zařízení</span> bude ukazovat stav <span class="gui">Spojeno</span>.</p></li>
-<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Devices</span> list. You
-      will see a panel specific to the device. It may display additional
-      options applicable to the type of device to which you are connecting.</p></li>
+<li class="steps"><p class="p">Když chcete zařízení upravit, klikněte na něj v seznamu <span class="gui">Zařízení</span>. Uvidíte panel pro ono konkrétní zařízení. Může zobrazovat dodatečné volby, které jsou použitelné pro typ zařízení, které připojujete.</p></li>
 <li class="steps"><p class="p">Až máte změny nastavení provedeny, zavřete panel.</p></li>
 </ol></div></div></div>
 <div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-symbolic.svg" class="media media-block" alt="Ikona Bluetooth na horní liště"></div></div>

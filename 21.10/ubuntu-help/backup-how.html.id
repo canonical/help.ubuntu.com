@@ -78,14 +78,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Cara termudah membackup berkas dan pengaturan Anda adalah dengan membiarkan aplikasi backup mengelola proses backup bagi Anda. Tersedia sejumlah aplikasi backup yang berbeda, misalnya <span class="app">Déjà Dup</span>.</p>
 <p class="p">Bantuan bagi aplikasi backup yang Anda pilih akan membimbing Anda langkah demi langkah dalam mengatur preferensi Anda bagi backup, serta bagaimana memulihkan data Anda.</p>
-<p class="p">An alternative option is to <span class="link"><a href="files-copy.html.id" title="Menyalin atau memindah berkas dan folder">copy your files</a></span>
- to a safe location, such as an external hard drive, an online storage service,
- or a USB drive. Your <span class="link"><a href="backup-thinkabout.html.id" title="Dimana saya dapat menemukan berkas yang ingin saya back up?">personal files</a></span>
- and settings are usually in your Home folder, so you can copy them from there.</p>
+<p class="p">Sebuah pilihan alternatif adalah untuk <span class="link"><a href="files-copy.html.id" title="Menyalin atau memindah berkas dan folder">menyalin berkas Anda</a></span> ke lokasi yang aman, seperti hard drive eksternal, komputer lain pada jaringan, atau USB drive. <span class="link"><a href="backup-thinkabout.html.id" title="Dimana saya dapat menemukan berkas yang ingin saya back up?">Berkas pribadi</a></span> dan pengaturan Anda biasanya ada dalam folder Rumah Anda, sehingga Anda dapat menyalinnya dari sana.</p>
 <p class="p">Banyaknya data yang dapat Anda backup dibatasi oleh ukuran media penyimpanan. Bila Anda memiliki ruang pada perangkat backup Anda, hal terbaik adalah untuk membackup seluruh folder Rumah Anda dengan pengecualian berikut:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Files that are already backed up somewhere else, such as to a USB drive,
- or other removable media.</p></li>
+<li class="list"><p class="p">Berkas yang telah di-backup di tempat lain, seperti ke drive USB, atau media lepas pasang lain.</p></li>
 <li class="list"><p class="p">Berkas yang dapat dengan mudah Anda ciptakan ulang. Misalnya, bila Anda programmer, Anda tak perlu membackup berkas yang dihasilkan ketika Anda mengkompail program Anda. Pastikan saja bahwa Anda membackup berkas sumber aslinya.</p></li>
 <li class="list"><p class="p">Sebarang berkas dalam folder Tong Sampah. Folder Tong Sampah Anda dapat ditemukan di <span class="file">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>

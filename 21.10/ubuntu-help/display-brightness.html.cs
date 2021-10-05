@@ -94,9 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Saving</span> section, adjust the <span class="gui">Screen
-      brightness</span> slider to the value you want to use. The change should
-      take effect immediately.</p></li>
+<li class="steps"><p class="p">V části <span class="gui">Šetření energií</span> posuňte táhlo <span class="gui">Jas obrazovky</span> na hodnotu, kterou chcete použít. Změny by se měly projevit okamžitě.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Tip">
@@ -125,9 +123,6 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-profile.html.cs" title="Choose a power profile">Choose a power profile</a><span class="desc"> — Balance performance and battery usage.</span>
-</li>
-<li class="links ">
 <a href="power-autobrightness.html.cs" title="Povolení automatického jasu">Povolení automatického jasu</a><span class="desc"> — Automatické řízení jasu obrazovky může snížit spotřebu z baterie.</span>
 </li>
 <li class="links ">
@@ -135,6 +130,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </li>
 <li class="links ">
 <a href="power-batterylife.html.cs" title="Snižte spotřebu a prodlužte výdrž baterie">Snižte spotřebu a prodlužte výdrž baterie</a><span class="desc"> — Tipy na snížení spotřeby vašeho počítače.</span>
+</li>
+<li class="links ">
+<a href="power-profile.html.cs" title="Volba profilu napájení">Volba profilu napájení</a><span class="desc"> — Jak vyvážit výkon vs. využití baterie.</span>
 </li>
 <li class="links ">
 <a href="a11y-contrast.html.cs" title="Úprava kontrastu">Úprava kontrastu</a><span class="desc"> — Jak učinit okna a tlačítka na obrazovce výraznější (nebo naopak méně výrazné), aby se na ně lépe dívalo.</span>

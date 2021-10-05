@@ -2,7 +2,7 @@
 <html lang=hu>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Rajztábla használata bal kézzel</title>
+<title>Use the tablet with your left or your right hand</title>
 <link rel="stylesheet" type="text/css" href="hu.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Rajztábla használata bal kézzel</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Use the tablet with your left or your right hand</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Egyes rajztáblák egyik oldalán hardveres gombok vannak. A rajztábla elforgatható 180 fokkal, hogy a gombok a balkezes emberek számára megfelelő pozícióba kerüljenek. A tájolás bal kezessé változtatásához:</p>
+<p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
+   180 degrees to position these buttons. By default, the orientation is for
+   right-handed people. To switch the orientation to left-handed:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.hu#activities" title="Tevékenységek áttekintés">Activities</a></span>
     overview and start typing <span class="gui">Wacom Tablet</span>.</p></li>

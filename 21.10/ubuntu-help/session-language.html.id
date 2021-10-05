@@ -82,7 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Klik pada <span class="gui">Wilayah &amp; Bahasa</span> untuk membuka panel.</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Bahasa</span>.</p></li>
 <li class="steps"><p class="p">Pilih wilayah dan bahasa yang Anda inginkan. Jika wilayah dan bahasa Anda tidak terdaftar, klik <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> di bagian bawah daftar untuk memilih dari semua wilayah dan bahasa yang tersedia.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Select</span> to save.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pilih</span> untuk menyimpan.</p></li>
 <li class="steps"><p class="p">Your session needs to be restarted for changes to take effect. Either click
       <span class="gui">Restart…</span>, or manually log back in later.</p></li>
 </ol></div></div></div>

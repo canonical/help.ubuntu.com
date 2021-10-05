@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.it" title="Choose a monitor"><span class="title">Choose a monitor</span><span class="linkdiv-dash"> — </span><span class="desc">Map the Wacom tablet to a specific monitor.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.it" title="Configure the stylus"><span class="title">Configure the stylus</span><span class="linkdiv-dash"> — </span><span class="desc">Define the button functions and pressure feel of the Wacom stylus.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.it" title="Set the Wacom tablet’s tracking mode"><span class="title">Set the Wacom tablet’s tracking mode</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the tablet between tablet mode and mouse mode.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.it" title="Use the tablet left-handed"><span class="title">Use the tablet left-handed</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet to <span class="gui">Left-Handed Orientation</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.it" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

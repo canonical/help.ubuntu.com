@@ -85,7 +85,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Você pode definir as permissões do proprietário do arquivo, do proprietário do grupo e de todos os outros usuários do sistema. Para os seus arquivos, você é o proprietário e você mesmo pode se dar permissão de acesso de somente leitura ou leitura e escrita. Defina um arquivo como somente leitura, se você não deseja acidentalmente alterá-lo.</p>
 <p class="p">Cada usuário em seu computador pertence a um grupo. Em computadores residenciais, é comum que cada usuário tenha seu próprio grupo e as permissões de grupo geralmente não são usadas. Em ambientes corporativos, grupos são algumas vezes usados para departamentos ou projetos. Da mesma forma que ter um dono, cada arquivo pertence a um grupo. Você pode definir o grupo do arquivo e controlar as permissões para todos os usuários naquele grupo. Você apenas pode definir o grupo do arquivo para um grupo ao qual você pertença.</p>
 <p class="p">Você também pode definir as permissões de usuários além do dono e aqueles no grupo do arquivo.</p>
-<p class="p">Se o arquivo é um programa, como um script, você deve selecionar <span class="gui">Permitir execução do arquivo como um programa</span> para executá-lo. Mesmo com esta opção selecionada, o gerenciador de arquivos pode ainda abrir o arquivo em um aplicativo ou perguntar o que deseja fazer. Veja <span class="link"><a href="nautilus-behavior.html.pt#executable" title="Arquivos de texto executáveis">Arquivos de texto executáveis</a></span> para mais informações.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.pt#executable" title="Arquivos de texto executáveis">Arquivos de texto executáveis</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Pastas</span></h2></div>

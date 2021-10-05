@@ -77,26 +77,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
 executable text files are handled, and the trash behavior. Click the menu
-button in the top-right corner of the window and select <span class="gui">Preferences</span>,
-and select the <span class="gui">Behavior</span> tab.</p></div>
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Поведение</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Открывать объекты одним нажатием</span></dt>
-<dt class="terms"><span class="gui">Открывать объекты двойным нажатием</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">По умолчанию нажатие выбирает файлы, а двойное нажатие открывает их. Можно сделать так, чтобы файлы и папки открывались при одинарном нажатии на них. Чтобы в этом режиме выбрать один или несколько файлов, можно удерживать клавишу <span class="key"><kbd>Ctrl</kbd></span> во время нажатия.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Исполняемые текстовые файлы</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Исполняемый текстовый файл — это файл, содержащий программу, которую можно запустить (исполнить). Чтобы запустить файл, как программу, должны быть также установлены соответствующие <span class="link"><a href="nautilus-file-properties-permissions.html.ru" title="Настройка прав доступа к файлам">права доступа</a></span>. Типичные примеры подобных файлов — это сценарии сценарии <span class="sys">Shell</span>, <span class="sys">Python</span> и <span class="sys">Perl</span>. Они имеют расширения <span class="file">.sh</span>, <span class="file">.py</span> и <span class="file">.pl</span>, соответственно.</p>
-<p class="p">При открытии исполняемого текстового файла есть несколько возможностей:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Запускать исполняемые текстовые файлы при открытии</span></p></li>
-<li class="list"><p class="p"><span class="gui">Показывать содержимое исполняемых текстовых файлов при открытии</span></p></li>
-<li class="list"><p class="p"><span class="gui">Каждый раз спрашивать</span></p></li>
-</ul></div></div></div>
-<p class="p">При выборе параметра <span class="gui">Каждый раз спрашивать</span> будет показано диалоговое окно с вопросом, запустить или просмотреть выбранный текстовый файл.</p>
 <p class="p">Executable text files are also called <span class="em">scripts</span>. All scripts in the
  <span class="file">~/.local/share/nautilus/scripts</span> folder will appear in the context
  menu for a file under the <span class="gui">Scripts</span> submenu. When a
@@ -113,23 +105,6 @@ and select the <span class="gui">Behavior</span> tab.</p></div>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Сценарию, расположенному в удалённой папке, доступной например по протоколу <span class="sys">HTTP</span> или <span class="sys">FTP</span>, нельзя передать никаких параметров.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Корзина</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
-<dd class="terms"><p class="p">Эта опция включена по умолчанию. При очистке корзины будет появляться сообщение, позволяющее подтвердить, что вы хотите очистить корзину и удалить содержавшиеся в ней файлы.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Смотрите также</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.ru" title="Удаление файлов и папок">Удаление файлов и папок</a><span class="desc"> — Удалите файлы или папки, которые больше не нужны.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

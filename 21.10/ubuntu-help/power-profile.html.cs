@@ -2,7 +2,7 @@
 <html lang=cs>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Choose a power profile</title>
+<title>Volba profilu napájení</title>
 <link rel="stylesheet" type="text/css" href="cs.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,29 +77,21 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Choose a power profile</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Volba profilu napájení</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can manage power usage by choosing a <span class="gui">Power Mode</span>. There are
-  three possible profiles:</p>
+<p class="p">Pomocí výběru <span class="gui">Režimu napájení</span> máte možnost spravovat využití energie. Připravené jsou tři různé profily:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Balanced Power</span>: Standard performance and power usage. This is the
-      default setting.</p></li>
-<li class="list"><p class="p"><span class="gui">Power Saver</span>: Reduced performance and power usage. This setting
-      maximizes battery life. It may enable some power saving options and
-      prevent them from being switched off.</p></li>
-<li class="list"><p class="p"><span class="gui">Performance</span>: High performance and power usage. This mode will only
-      be visible if it is supported by your computer. It will be selectable if
-      your computer is running on AC power. If your device supports lap
-      detection, you will not be able to select this option if the device is
-      running on someone's lap.</p></li>
+<li class="list"><p class="p"><span class="gui">Vyvážení</span>: Standardní výkon i využití energie. Jedná se o výchozí nastavení.</p></li>
+<li class="list"><p class="p"><span class="gui">Úspora energie</span>: Snižuje výkon, ale sníží se tím spotřeba energie. Cílem nastavení je co nejdelší výdrž baterie. Může zapnout některé volby šetřící energii a znemožnit vám je vypnout.</p></li>
+<li class="list"><p class="p"><span class="gui">Výkon</span>: Vysoký výkon za cenu vysoké spotřeby energie. Tento režim je viditelný pouze, pokud jej počítač podporuje. Vybrat jej lze jen v situaci, kdy je počítač napájen z elektrické sítě. Pokud váše zařízení umí rozpoznat, že jej máte na klíně, místo na stole, nedovolí vám tento režim zvolit ve chvíli, kdy se nachází na klíně.</p></li>
 </ul></div></div></div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">To choose a power profile:</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Když si chcete zvolit profil napájení:</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Mode</span> section, choose one of the profiles.</p></li>
+<li class="steps"><p class="p">V části <span class="gui">Režim napájení</span> vyberte jeden z profilů.</p></li>
 </ol></div>
 </div></div>
 </div>

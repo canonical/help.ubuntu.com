@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ustawianie trybu śledzenia tabletu firmy Wacom</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="gui">Tryb śledzenia</span> określa, jak kursor jest mapowany do ekranu.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otwórz <span class="gui"><a href="shell-introduction.html.pl-PL#activities" title="Ekran podglądu">ekran podglądu</a></span> i zacznij pisać <span class="gui">Tablet firmy Wacom</span>.</p></li>
 <li class="steps"><p class="p">Kliknij <span class="gui">Tablet firmy Wacom</span>, aby otworzyć panel.</p></li>
@@ -101,7 +101,9 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">W trybie <span class="em">bezwzględnym</span> każdy punkt na tablecie jest mapowany do punktu na ekranie. Górny lewy róg ekranu, na przykład, zawsze odpowiada temu samemu punktowi na tablecie.</p>
-<p class="p">W trybie <span class="em">względnym</span> podniesienie kursora z tabletu i umieszczenie go w innym miejscu nie spowoduje zmiany kursora na ekranie. To sposób, w jaki działa mysz.</p>
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
+    the way a mouse operates.</p>
 </div></div></div>
 </div>
 </div>

@@ -119,12 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Zie ook</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.nl" title="Een bestand dat u verwijderd heeft terughalen.">Een bestand dat u verwijderd heeft terughalen.</a><span class="desc"> — Wanneer u bestanden verwijdert worden ze normaal gesproken naar de Prullenbak verplaatst, maar u kunt ze nog wel terughalen.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.nl#trash" title="Prullenbak">Voorkeuren voor de prullenbak in bestandsbeheer</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

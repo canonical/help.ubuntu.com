@@ -77,26 +77,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
 executable text files are handled, and the trash behavior. Click the menu
-button in the top-right corner of the window and select <span class="gui">Preferences</span>,
-and select the <span class="gui">Behavior</span> tab.</p></div>
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">நடத்தை</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">உருப்படிகளைத் திறக்க ஒற்றை சொடுக்கம்</span></dt>
-<dt class="terms"><span class="gui">உருப்படிகளைத் திறக்க இரு சொடுக்கம்</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">முன்னிருப்பாக, சொடுக்கம் செய்யும் போது கோப்புகள் தேர்வு செய்யப்படும், இரு சொடுக்கும் போது அவை திறக்கப்படும். நீங்கள் மாறாக கோப்புகள் மற்றும் கோப்புறைகளை ஒரு முறை சொடுக்கும் போது அவை திறக்குமாறும் அமைக்கலாம். நீங்கள் ஒற்றை சொடுக்க முறையைப் பயன்படுத்தும் போது ஒன்று அல்லது அதற்கு மேற்பட்ட கோப்புகளைத் தேர்ந்தெடுக்க சொடுக்கும் போது, <span class="key"><kbd>Ctrl</kbd></span> விசையைப் பிடித்துக்கொள்ள வேண்டும்.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">செயல்படுத்தக்கூடிய உரை கோப்புகள்</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">நீங்கள் இயக்கக்கூடிய ஒரு நிரலைக் கொண்டுள்ள உரைக் கோப்பே செயல்படுத்தக்கூடிய உரை கோப்பு எனப்படும். ஒரு கோப்பு நிரலாக செயல்படுத்தப்பட வேண்டுமெனில் அதை <span class="link"><a href="nautilus-file-properties-permissions.html.ta" title="கோப்பு அனுமதிகளை அமைத்தல்">கோப்பு அனுமதிகளும்</a></span> அனுமதிக்க வேண்டும். <span class="link"><a href="nautilus-file-properties-permissions.html.ta" title="கோப்பு அனுமதிகளை அமைத்தல்"> கோப்பு அனுமதிகளை </a></span> ஒரு திட்டம் என ரன் கோப்பு அனுமதிக்க வேண்டும். <span class="sys">Shell</span>, <span class="sys">Python</span> மற்றும் <span class="sys">Perl</span> ஸ்கிரிப்ட்டுகள் இவற்றில் பொதுவானவை. அவற்றின் நீட்டிப்புகள் முறையே <span class="file">.sh</span>, <span class="file">.py</span> மற்றும் <span class="file">.pl</span> ஆகும்.</p>
-<p class="p">நீங்கள் செயல்படுத்தக்கூடிய உரை கோப்பு ஒன்றைத் திறக்கும் போது, நீங்கள் இவ்விருப்பங்களைத் தேர்வு செய்யலாம்:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">செயல்படுத்தக்கூடிய உரை கோப்புகளை திறக்கும் போது அவற்றை இயக்குதல்</span></p></li>
-<li class="list"><p class="p"><span class="gui">செயல்படுத்தக்கூடிய உரை கோப்புகளை திறக்கும் போது அவற்றைக் காணுதல்</span></p></li>
-<li class="list"><p class="p"><span class="gui">ஒவ்வொரு முறையும் கேட்டல்</span></p></li>
-</ul></div></div></div>
-<p class="p"><span class="gui">ஒவ்வொரு முறையும் கேட்டல்</span> என்பது தேர்ந்தெடுக்கப்பட்டால், நீங்கள் தேர்ந்தெடுத்த உரை கோப்பை இயக்க வேண்டுமா அல்லது காண வேண்டுமா என கேட்கும் ஒரு பாப்-அப் உரையாடல் காண்பிக்கப்படும்.</p>
 <p class="p">Executable text files are also called <span class="em">scripts</span>. All scripts in the
  <span class="file">~/.local/share/nautilus/scripts</span> folder will appear in the context
  menu for a file under the <span class="gui">Scripts</span> submenu. When a
@@ -113,23 +105,6 @@ and select the <span class="gui">Behavior</span> tab.</p></div>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">வலை அல்லது <span class="sys">ftp</span> உள்ளடக்கத்தைக் காட்டும் ஒரு கோப்புறையில் இருந்து ஒரு ஸ்கிரிப்ட்டை இயக்கினால், அதற்கு எந்த அளவுருக்களும் வழங்கப்படாது.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">குப்பைத்தொட்டி</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Ask before emptying the Trash</span></dt>
-<dd class="terms"><p class="p">இந்த விருப்பம் முன்னிருப்பாக தேர்வு செய்யப்பட்டிருக்கும். குப்பைத் தொட்டியை காலியாக்கும் போது, நீங்கள் குப்பைத் தொட்டியை காலி செய்ய வேண்டுமா அல்லது கோப்புகளை அழிக்க வேண்டுமா என்று உறுதிப்படுத்துமாறு ஒரு செய்தி காண்பிக்கப்படும்.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">இதனையும் பார்</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.ta" title="கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்">கோப்புகள் மற்றும் கோப்புறைகளை அழித்தல்</a><span class="desc"> — இனி தேவைப்படாத கோப்புகள் அல்லது கோப்புறைகளை நீக்குதல்.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

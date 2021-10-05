@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Työtilasta:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Paina <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> nähdäksesi <span class="gui">ikkunanvaihtimen</span>.</p></li>
-<li class="steps"><p class="p">Release <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> to select the next
-      (highlighted) window in the switcher.</p></li>
+<li class="steps"><p class="p">Vapauta <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span> valitaksesi seuraavan (korostetun) ikkunan vaihtajasta.</p></li>
 <li class="steps"><p class="p">Otherwise, still holding down the <span class="key"><a href="keyboard-key-super.html.fi" title="Mikä on Super-näppäin?"><kbd>Super</kbd></a></span>
       key, press <span class="key"><kbd>Tab</kbd></span> to cycle through the list of open
       windows, or <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> to cycle

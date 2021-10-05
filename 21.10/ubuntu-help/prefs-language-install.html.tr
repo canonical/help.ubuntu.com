@@ -100,8 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Daha Çok Bilgi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Uygulamaları ve diğer yazılımları ekleyin ve kaldırın. Ek yazılım depolarını yönetin.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mazání souborů a složek</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you do not want a file or folder any more, you can delete it. When you
-  delete an item it is moved to the <span class="gui">Trash</span>, where it is stored
-  until you empty the trash. You can <span class="link"><a href="files-recover.html.cs" title="Obnovení souboru z koše">restore
-  items</a></span> in the <span class="gui">Trash</span> to their original location if you
-  decide you need them, or if they were accidentally deleted.</p>
+<p class="p">Pokud některý soubor nebo složku již nechcete, můžete je smazat. Když položku vymažete, přesune se do <span class="gui">Koše</span>, ve které bude uchována, dokud koš nevysypete. V případě, že zjistíte, že je přece jen potřebujete, nebo je smažete omylem, můžete z <span class="gui">Koše</span> <span class="link"><a href="files-recover.html.cs" title="Obnovení souboru z koše">položky obnovit</a></span> na jejich původní umístění.</p>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Když chcete soubor vyhodit do koše:</span></h2></div>
 <div class="region"><ol class="steps">
@@ -119,12 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.cs" title="Obnovení souboru z koše">Obnovení souboru z koše</a><span class="desc"> — Mazané soubory se normálně posílají do koše, ale mohou být obnoveny.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.cs#trash" title="Koš">Předvolby koše ve správci souborů</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

@@ -119,12 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Consulte também</span></h2></div>
-<div class="region"><ul>
-<li class="links "><a href="nautilus-behavior.html.pt#trash" title="Lixeira">Preferências da lixeira do gerenciador de arquivos</a></li>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.pt" title="Restaurando um arquivo da lixeira">Restaurando um arquivo da lixeira</a><span class="desc"> — Arquivos excluídos são normalmente enviados para a lixeira, mas podem ser restaurados.</span>
-</li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

@@ -2,7 +2,7 @@
 <html lang=nl>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Het tablet gebruiken met uw linkerhand</title>
+<title>Use the tablet with your left or your right hand</title>
 <link rel="stylesheet" type="text/css" href="nl.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Het tablet gebruiken met uw linkerhand</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Use the tablet with your left or your right hand</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Sommige tablets hebben knoppen aan de zijkant. Het tablet kan 180 graden gedraaid worden om deze knoppen op de plaats voor linkshandigen te zetten. Om de oriëntatie naar linkshandig om te zetten:</p>
+<p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
+   180 degrees to position these buttons. By default, the orientation is for
+   right-handed people. To switch the orientation to left-handed:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Open het <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activiteiten</a></span>-overzicht en typ <span class="gui">Wacom-tablet</span>.</p></li>
 <li class="steps"><p class="p">Klik op <span class="gui">Wacom-tablet</span> om het paneel te openen.</p></li>

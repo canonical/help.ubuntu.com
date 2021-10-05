@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Toisaalta kotikoneella olevien tiedostojen varmuuskopiointi tunnin välein voi olla tarpeetonta. Seuraavia asioita kannattaa huomioida varmuuskopiointiaikataulun suunnittelussa:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p">Kuinka paljon aikaa vietät tietokoneen ääressä?</p></li>
-<li class="list"><p class="p">Kuinka usein muutat työtiedostoja ja kuinka paljon niitä on?</p></li>
+<li class="list"><p class="p">Kuinka usein muutat tiedostoja ja kuinka paljon niitä on?</p></li>
 </ul></div></div></div>
 <p class="p">Jos varmuuskopioitavat tiedostot eivät ole kovin tärkeitä tai muuttuvat harvoin (kuten musiikki, sähköpostit ja valokuvat), viikoittainen tai jopa kuukausittainen varmuuskopiointi on hyvä valinta. Tiheämpi varmuuskopiointiaikataulu voi kuitenkin joissain tapauksissa olla tarpeellinen.</p>
 <p class="p">Nyrkkisääntönä voidaan pitää sitä, että varmuuskopioiden luomisen väliin jäävä aika ei ole pidempi kuin aika, jonka olet valmis käyttämään kadonneiden tiedostojen uudelleenluomiseen. Jos kadonneiden asiakirjojen uudelleenkirjoittamiseen kuluva viikko tuntuu liian pitkältä ajalta, varmuuskopiot kannattaa luoda viikoittain.</p>

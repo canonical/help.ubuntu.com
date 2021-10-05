@@ -2,9 +2,7 @@
 <html lang=ja>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>
-    Create a startup disk
-  </title>
+<title>起動ディスクの作成</title>
 <link rel="stylesheet" type="text/css" href="ja.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,15 +71,13 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ja" title="Install &amp; remove software">ソフトウェアの追加/削除</a> » </div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="addremove.html.ja" title="ソフトウェアのインストールと削除">ソフトウェアの追加/削除</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ja" title="ハードウェアとドライバー">ハードウェア</a> » <a class="trail" href="disk.html.ja" title="Disks &amp; storage">Disks</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">
-    Create a startup disk
-  </span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">起動ディスクの作成</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
@@ -90,9 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
 <p class="p">To create a startup disk from an Ubuntu ISO image:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p"><span class="em">アクティビティ</span>の検索バーから<span class="app">ブータブルUSBの作成</span>を開きます。</p></li>
 <li class="steps"><p class="p">
         If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,
         otherwise select the correct ISO image.
@@ -100,15 +94,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">
         If your computer has just one USB flash drive, <span class="app">Startup Disk Creator</span> will have selected it, otherwise select the correct drive.
       </p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Make Startup Disk</span>.
-      </p></li>
+<li class="steps"><p class="p"><span class="gui">ブータブルUSBの作成</span>をクリックします。</p></li>
 <li class="steps"><p class="p">
         Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
       </p></li>
-<li class="steps"><p class="p">
-        When the "Installation Complete" window opens click <span class="gui">Quit</span>.
-      </p></li>
+<li class="steps"><p class="p">インストール完了のウィンドウが開いたら<span class="gui">終了</span>をクリックします。</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -120,7 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="disk.html.ja" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
 </li>
 <li class="links ">
-<a href="addremove.html.ja" title="Install &amp; remove software">Install &amp; remove software</a><span class="desc"> — Add and remove applications and other software. Handle
+<a href="addremove.html.ja" title="ソフトウェアのインストールと削除">ソフトウェアのインストールと削除</a><span class="desc"> — Add and remove applications and other software. Handle
     additional software repositories.</span>
 </li>
 </ul></div>

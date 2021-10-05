@@ -76,8 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Selvitä käyttämäsi Gnomen versio</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can determine the version of GNOME that is running on your system by
-  going to the <span class="gui">About</span> panel in <span class="gui">Settings</span>.</p>
+<p class="p">Selvitä käyttämäsi Gnomen versio menemällä <span class="gui">Tietoja</span>-paneeliin <span class="gui">asetuksissa</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Avaa <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymä ja ala kirjoittamaan <span class="gui">Tietoja</span>.</p></li>
 <li class="steps"><p class="p">Ikkuna avautuu, ja siitä näkyy tietoja järjestelmästä, kuten jakelun nimi ja Gnomen versio.</p></li>

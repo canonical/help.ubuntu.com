@@ -76,25 +76,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ek uygulamalar yükleyin</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
+<p class="p">Uygulama, grafikli kullanıcı arayüzüne (GUI) sahip bir yazılımdır. Ubuntu geliştirme ekibi, Ubuntu'yu günlük görevlerin çoğu için çok yararlı kıldığını düşündüğümüz varsayılan bir dizi uygulama seçti. Ancak, Ubuntu'yu sizin için daha kullanışlı hale getirmek için elbette daha fazla uygulama yüklemek istersiniz. Bir uygulamayı yüklemek için <span class="app">Ubuntu Software</span> uygulamasını kullanabilirsiniz.</p>
 <p class="p">Uygulamalar iki biçimde sunulur: snap paketleri ve Debian paketleri. Bir snap paketi olarak sunulan uygulama şu andan itibaren <span class="em">snap</span> olarak anılacaktır. Bazı uygulamalar her iki biçimde de sunulur. Böyle bir durumda snap <span class="app">Ubuntu Software</span> uygulamasında önce listelenecektir.</p>
-<p class="p">
-    You may also wish to install software that does not have a GUI. To install
-    such software, you can use <span class="link"><a href="addremove-install-synaptic.html.tr" title="Daha gelişmiş yazılım yönetimi için Synaptic'i kullanın">Synaptic</a></span>.
-    Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
+<p class="p">Ayrıca grafikli bir arayüze sahip olmayan bir yazılım da kurmak isteyebilirsiniz. Bu tür bir yazılımı yüklemek için <span class="link"><a href="addremove-install-synaptic.html.tr" title="Daha gelişmiş yazılım yönetimi için Synaptic'i kullanın">Synaptic</a></span> uygulamasını kullanabilirsiniz. <span class="app">Synaptic</span> uygulamasının snap uygulamaları göstermediğini unutmayın.</p>
 <p class="p">Bir uygulamayı kurmak için:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p"><span class="gui">Panel</span>'deki <span class="app">Ubuntu Yazılımı</span> simgesini tıklayın veya <span class="em">Etkinlikler</span> arama çubuğunda <span class="input">Yazılım</span> arayın.</p></li>
 <li class="steps"><p class="p"><span class="app">Ubuntu Yazılımı</span> çalıştığında, bir uygulama arayın ya da listeden bir uygulama bulmak için bir kategori seçin.</p></li>
 <li class="steps"><p class="p"><span class="gui">Yükle</span> yüklemek istediğiniz uygulamayı seçin ve Tamam'ı tıklayın.</p></li>
 <li class="steps"><p class="p">Parolanızı girerek kimliğinizi doğrulamanız istenecek. Bunu yaptıktan sonra sonra kurulum başlayacak. Kurulum genellikle hızlı biter, fakat yavaş bir internet bağlantınız varsa biraz zaman alabilir.</p></li>
@@ -106,8 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Daha Çok Bilgi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Uygulamaları ve diğer yazılımları ekleyin ve kaldırın. Ek yazılım depolarını yönetin.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

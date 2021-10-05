@@ -81,8 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="backup-what.html.id" title="Apa yang akan dibackup"><span class="title">Apa yang akan dibackup</span><span class="linkdiv-dash"> — </span><span class="desc">Back up apapun yang Anda tidak ingin kehilangan bila terjadi masalah.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html.id" title="Bagaimana melakukan back up"><span class="title">Bagaimana melakukan back up</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (or another backup application) to make copies of
-    your valuable files and settings to protect against loss.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.id" title="Bagaimana melakukan back up"><span class="title">Bagaimana melakukan back up</span><span class="linkdiv-dash"> — </span><span class="desc">Memakai Déjà Dup (atau aplikasi pencadangan lain) untuk membuat salinan berkas-berkas berharga dan pengaturan sebagai perlindungan atas kehilangan.</span></a></div>
 </div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="backup-where.html.id" title="Dimana menyimpan backup Anda"><span class="title">Dimana menyimpan backup Anda</span><span class="linkdiv-dash"> — </span><span class="desc">Saran tentang dimana menyimpan backup Anda dan tipe perangkat penyimpanan apa yang dipakai.</span></a></div></div>
 </div></div></div></div>

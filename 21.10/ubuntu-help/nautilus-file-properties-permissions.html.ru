@@ -95,7 +95,10 @@ document.addEventListener('DOMContentLoaded', function() {
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">Если файл является программой, например, сценарием, можно включить <span class="gui">Разрешить выполнение файла как программы</span> для его запуска. Даже если эта опция включена, менеджер файлов всё равно может открыть файл в приложении или спросить вас, что с ним нужно делать. Подробнее смотрите <span class="link"><a href="nautilus-behavior.html.ru#executable" title="Исполняемые текстовые файлы">Исполняемые текстовые файлы</a></span>.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.ru#executable" title="Исполняемые текстовые файлы">Исполняемые текстовые файлы</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Папки</span></h2></div>

@@ -76,10 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ikkunat ja työtilat</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Like other desktops, the system uses windows to display your running
-  applications. Using both the <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Activities</a></span>
-  overview and the <span class="em">dash</span>, you can launch new applications and control
-  active windows.</p>
+<p class="p">Kuten muissakin työpöydissä, järjestelmä esittää sovellukset ikkunoissa. Käyttämällä <span class="gui"><a href="shell-introduction.html.fi#activities" title="Toiminnot-yleisnäkymä">Toiminnot</a></span>-yleisnäkymää ja <span class="gui">telakkaa</span> voit käynnistää uusia sovelluksia ja hallita avoinna olevia ikkunoita.</p>
 <p class="p">Tämän lisäksi voit myös ryhmittää sovelluksia käyttämällä työtiloja. Tutustu ominaisuuksiin tarkemmin lukemalla alapuolelta löytyviä ikkunoihin ja työtiloihin liittyviä ohjeita.</p>
 </div>
 <section id="working-with-windows"><div class="inner">

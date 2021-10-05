@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.pt-BR" title="Configurando a caneta stylus"><span class="title">Configurando a caneta stylus</span><span class="linkdiv-dash"> — </span><span class="desc">Defina a sensação de pressão e funções de botões do Wacom stylus.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.pt-BR" title="Definindo o modo de rastreamento do tablet Wacom"><span class="title">Definindo o modo de rastreamento do tablet Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Alterne o tablet entre modo tablet e modo mouse.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.pt-BR" title="Escolhendo um monitor"><span class="title">Escolhendo um monitor</span><span class="linkdiv-dash"> — </span><span class="desc">Associe o tablet Wacom para um monitor específico.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.pt-BR" title="Usando o tablet como canhoto"><span class="title">Usando o tablet como canhoto</span><span class="linkdiv-dash"> — </span><span class="desc">Alterne o tablet Wacom para <span class="gui">Orientação canhota</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.pt-BR" title="Usando o tablet com sua mão esquerda ou direita"><span class="title">Usando o tablet com sua mão esquerda ou direita</span><span class="linkdiv-dash"> — </span><span class="desc">Alterne a mesa digitalizadora Wacom entre a orientação para canhotos e destros.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

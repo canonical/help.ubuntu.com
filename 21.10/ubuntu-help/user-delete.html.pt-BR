@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Clique em <span class="gui">Usuários</span> para abrir o painel.</p></li>
 <li class="steps"><p class="p">Pressione <span class="gui">Desbloquear</span> no canto superior direito e insira sua senha quando solicitada.</p></li>
 <li class="steps"><p class="p">Selecione o usuário que você deseja excluir e pressione o botão <span class="gui">-</span>, abaixo da lista de contas à esquerda, para excluir uma conta de usuário.</p></li>
-<li class="steps"><p class="p">Cada usuário tem sua própria pasta pessoal para seus arquivos e configurações. Você pode escolher entre manter ou excluir essa pasta pessoal do usuário. Clique em <span class="gui">Excluir arquivos</span> se tem certeza de que ela não será mais usada e precisa liberar espaço em disco. Esses arquivos serão excluídos permanentemente. Eles não poderão ser recuperados. Talvez você queira fazer uma cópia de segurança dos arquivos em um disco externo ou CD antes de excluí-los.</p></li>
+<li class="steps"><p class="p">Cada usuário tem sua própria pasta pessoal para seus arquivos e configurações. Você pode escolher entre manter ou excluir essa pasta pessoal do usuário. Clique em <span class="gui">Excluir arquivos</span> se tem certeza de que ela não será mais usada e precisa liberar espaço em disco. Esses arquivos serão excluídos permanentemente. Eles não poderão ser recuperados. Talvez você queira fazer um backup dos arquivos em um disco externo ou CD antes de excluí-los.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

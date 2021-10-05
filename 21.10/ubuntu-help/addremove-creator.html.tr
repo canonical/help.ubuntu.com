@@ -80,19 +80,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Başlangıç diski oluşturma</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
-  The capacity of the USB flash drive must be at least 2 GB.
-  Any data on the USB flash drive will be lost when you create the startup disk.</p>
+<p class="p">Bu bağlamda bir başlangıç diski, Ubuntu'yu başlatabileceğiniz ve <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">kurabileceğiniz</a></span> bir USB bellektir. USB belleğin kapasitesi en az 2 GB olmalıdır. Başlangıç diskini oluşturduğunuzda USB bellekteki bütün veriler kaybolacaktır.</p>
 <p class="p">Ubuntu ISO görüntüsünü indirdiğiniz varsayıldı.</p>
 <p class="p">Ubuntu ISO yansısından başlangıç diski oluşturmak için:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,
-        otherwise select the correct ISO image.
-      </p></li>
+<li class="steps"><p class="p"><span class="em">Etkinlikler</span> arama çubuğunu kullanarak <span class="app">Başlangıç ​​Diski Oluşturucusu</span> uygulamasını açın.</p></li>
+<li class="steps"><p class="p">ISO imajı <span class="gui">İndirilenler</span> klasörünüzdeyse ve yalnızca bir ISO imajı varsa, <span class="app">Başlangıç ​​Diski Oluşturucusu</span> onu seçecektir, aksi takdirde doğru ISO imajını seçin.</p></li>
 <li class="steps"><p class="p"><span class="app">Başlangıç Diski Oluşturucu</span> onu seçmiş olacak, aksi takdirde doğru sürücüyü seçecek.</p></li>
 <li class="steps"><p class="p">Click <span class="gui">Başlangıç Diski Oluştur</span>.</p></li>
 <li class="steps"><p class="p"><span class="gui">Evet</span> onaylamak için tıklayın. İşlem on dakika veya daha kısa sürmelidir.</p></li>
@@ -108,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="disk.html.tr" title="Disks &amp; storage">Disks &amp; storage</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
 </li>
 <li class="links ">
-<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.tr" title="Yükle &amp; yazılımı kaldır">Yükle &amp; yazılımı kaldır</a><span class="desc"> — Uygulamaları ve diğer yazılımları ekleyin ve kaldırın. Ek yazılım depolarını yönetin.</span>
 </li>
 </ul></div>
 </div></div></div>

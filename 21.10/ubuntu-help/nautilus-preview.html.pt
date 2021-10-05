@@ -76,14 +76,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferências de visualização do gerenciador de arquivos</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">O gerenciador de arquivos cria miniaturas de visualização de arquivos de imagem, vídeo e texto. A visualização da miniatura pode ser lenta para arquivos grandes ou por redes, de forma que você pode controlar quando as visualizações são feitas. Clique no botão de menu no canto superior direito da janela e selecione <span class="gui">Preferências</span> e selecione a aba <span class="gui">Pesquisar &amp; visualizar</span>.</p>
+<p class="p">The file manager creates thumbnails to preview image, video, and text
+files. Thumbnail previews can be slow for large files or over networks, so
+you can control when previews are made. Click the menu button in the top-right
+of the window, select <span class="gui">Preferences</span>, then go to the
+<span class="gui">Performance</span> section.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Arquivos</span></dt>
-<dd class="terms">
-<p class="p">Por padrão, todas as visualização são feitas para <span class="gui">Arquivos neste computador apenas</span>, aqueles em seu computador ou conectados a unidades externas. Você pode definir este recurso para <span class="gui">Todos arquivos</span> ou <span class="gui">Nunca</span>. O gerenciador de arquivos pode <span class="link"><a href="nautilus-connect.html.pt" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">navegar nos arquivos em outros computadores</a></span> em uma área de rede local ou na Internet. Se você com frequência navega em arquivos em um área de rede local e a rede possui uma velocidade comunicação alta, então você pode querer definir a opção de visualização para <span class="gui">Todos arquivos</span>.</p>
-<p class="p">Além disso, você pode usar a configuração de <span class="gui">Apenas para arquivos menores que:</span> para limitar o tamanho dos arquivos visualizados.</p>
-</dd>
-<dt class="terms"><span class="gui">Contagem de arquivos</span></dt>
+<dt class="terms"><span class="gui">Show Thumbnails</span></dt>
+<dd class="terms"><p class="p">By default, all previews are done for
+    <span class="gui">On this computer only</span>, those on your computer or connected
+    external drives. You can set this feature to <span class="gui">All files</span> or
+    <span class="gui">Never</span>. The file manager can
+    <span class="link"><a href="nautilus-connect.html.pt" title="Navegando nos arquivos em um servidor ou compartilhamento de rede">browse files on other computers</a></span> over
+    a local area network or the internet. If you often browse files over a local
+    area network, and the network has high bandwidth, you may want to set the
+    preview option to <span class="gui">All files</span>.</p></dd>
+<dt class="terms"><span class="gui">Count Number of Files in Folders</span></dt>
 <dd class="terms">
 <p class="p">Se você mostra tamanhos de arquivos em <span class="link"><a href="nautilus-list.html.pt" title="Preferências de colunas da lista do arquivos">Colunas de visualização de lista</a></span> ou <span class="link"><a href="nautilus-display.html.pt#icon-captions" title="Legendas dos ícones">legendas de ícones</a></span>, pastas serão mostradas com uma contagem de quantos arquivos e pastas elas contém. A contagem de itens em uma pasta pode ser lenta, especialmente para pastas muito grandes ou em uma rede.</p>
 <p class="p">Você pode desabilitar ou habilitar este recurso ou habilitá-la somente para arquivos em seu computador e em unidades externas locais.</p>

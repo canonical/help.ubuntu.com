@@ -95,7 +95,10 @@ document.addEventListener('DOMContentLoaded', function() {
     belong to.</p>
 <p class="p">You can also set the permissions for users other than the owner and
     those in the file’s group.</p>
-<p class="p">V primeru da je datoteka program kot je skript, morate za njeno poganjanje izbrati <span class="gui">Dovoli izvajanje datoteke kot programa</span>. Tudi če je ta možnost izbrana, bo morda upravljalnik datotek še vedno odprl datoteko v programu in vas vprašal kaj želite narediti. Za več podrobnosti si oglejte <span class="link"><a href="nautilus-behavior.html.sl#executable" title="Izvedljive besedilne datoteke">Izvedljive besedilne datoteke</a></span>.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.sl#executable" title="Izvedljive besedilne datoteke">Izvedljive besedilne datoteke</a></span> for more information.</p>
 </div></div>
 </div></section><section id="folders"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Mape</span></h2></div>

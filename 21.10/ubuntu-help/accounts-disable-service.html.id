@@ -76,12 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mengendalikan agar suatu akun dapat dipakai untuk mengakses layanan daring mana</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Some types of online account providers allow you to access several services
-  with the same user account. For example, Google accounts provide access to
-  calendar, email, and contacts. You may want to use your account for some
-  services, but not others. For example, you may want to use your Google account
-  for email but not calendar if you have a different online account that you use
-  for calendar.</p>
+<p class="p">Beberapa jenis akun daring memungkinkan Anda untuk mengakses beberapa layanan dengan akun pengguna yang sama. Sebagai contoh, akun Google menyediakan akses ke kalender, surel, dan kontak. Anda mungkin ingin menggunakan akun Anda untuk beberapa layanan, tetapi tidak yang lain. Sebagai contoh, Anda mungkin ingin menggunakan akun Google Anda untuk surel tapi tidak kalender, karena Anda memiliki akun daring yang berbeda yang Anda gunakan untuk kalender.</p>
 <p class="p">Anda dapat menonaktifkan beberapa layanan yang disediakan oleh setiap akun daring:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Akun Daring</span>.</p></li>
@@ -99,7 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.id" title="Akun daring">Akun daring</a><span class="desc"> — Connect to your accounts with various online services.</span>
+<a href="accounts.html.id" title="Akun daring">Akun daring</a><span class="desc"> — Hubungkan ke akun Anda pada berbagai layanan daring.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

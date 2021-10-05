@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Set the Wacom tablet’s tracking mode</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Η <span class="gui">Λειτουργία παρακολούθησης</span> καθορίζει πώς ο δείκτης απεικονίζεται στην οθόνη.</p>
+<p class="p"><span class="gui">Tracking Mode</span> determines how the stylus is mapped to the screen.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Tablet Wacom</span> για να ανοίξετε τον πίνακα.</p></li>
@@ -103,8 +103,8 @@ document.addEventListener('DOMContentLoaded', function() {
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">Στην <span class="em">απόλυτη</span> λειτουργία, κάθε σημείο στο tablet απεικονίζει ένα σημείο στην οθόνη. Η πάνω αριστερή γωνία της οθόνης, για παράδειγμα, αντιστοιχεί πάντα στο ίδιο σημείο στο tablet.</p>
-<p class="p">In <span class="em">relative</span> mode, if you lift the pointer off the tablet and put it
- down in a different position, the cursor on the screen doesn’t move. This is
+<p class="p">In <span class="em">relative</span> mode, if you lift the stylus off the tablet and put it
+ down in a different position, the pointer on the screen doesn’t move. This is
     the way a mouse operates.</p>
 </div></div></div>
 </div>

@@ -2,7 +2,7 @@
 <html lang=pt-BR>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Frequência das cópias de segurança</title>
+<title>Frequência dos bakups</title>
 <link rel="stylesheet" type="text/css" href="pt-BR.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,26 +70,26 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#backup" title="Fazendo backup">Fazendo backup</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Frequência das cópias de segurança</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Frequência dos bakups</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Quão frequentemente você faz as suas cópias de segurança depende do tipo de dados a serem assegurados. Por exemplo, se estiver executando um ambiente de rede com dados críticos armazenados em seus servidores, então as cópias noturnas podem não ser suficientes.</p>
-<p class="p">Por outro lado, se estiver protegendo os dados de seu computador de casa, então cópias a cada hora provavelmente seriam desnecessárias. Você pode achar útil considerar os seguintes pontos ao planejar seu cronograma de cópia de segurança:</p>
+<p class="p">Quão frequentemente você faz seus backups depende do tipo de dados a serem assegurados. Por exemplo, se estiver executando um ambiente de rede com dados críticos armazenados em seus servidores, então as cópias noturnas podem não ser suficientes.</p>
+<p class="p">Por outro lado, se estiver protegendo os dados de seu computador de casa, então cópias a cada hora provavelmente seriam desnecessárias. Você pode achar útil considerar os seguintes pontos ao planejar seu cronograma de backup:</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p">A quantidade de tempo que você passa no computador.</p></li>
 <li class="list"><p class="p">O quão frequentemente e quantas vezes os dados no computador se alteram.</p></li>
 </ul></div></div></div>
-<p class="p">Se os dados que queira fazer cópia de segurança são de baixa prioridade, ou estão sujeitas a poucas mudanças, como e-mails, músicas e fotos de família, então cópias semanais ou mesmo mensais podem ser suficientes. Entretanto, se você se encontrar no meio de uma auditoria de impostos, são necessárias cópias de segurança mais frequentes.</p>
-<p class="p">Como regra geral, a quantidade de tempo entre as criações de cópia de segurança não deveria ser maior do que aquela que você gostaria de gastar refazendo qualquer trabalho perdido. Por exemplo, se gastar uma semana reescrevendo arquivos perdidos é demais para você, então deveria fazer pelo menos uma vez na semana.</p>
+<p class="p">Se os dados que queira fazer backup são de baixa prioridade, ou estão sujeitos a poucas mudanças, como e-mails, músicas e fotos de família, então cópias semanais ou mesmo mensais podem ser suficientes. Entretanto, se você se encontrar no meio de uma auditoria de impostos, são necessários backup mais frequentes.</p>
+<p class="p">Como regra geral, a quantidade de tempo entre as criações de backup não deveria ser maior do que aquela que você gostaria de gastar refazendo qualquer trabalho perdido. Por exemplo, se gastar uma semana reescrevendo arquivos perdidos é demais para você, então deveria fazer pelo menos uma vez na semana.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Mais informações</span></h2></div>
-<div class="region"><ul><li class="links "><a href="files.html.pt-BR#backup" title="Cópia de segurança">Cópia de segurança</a></li></ul></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#backup" title="Fazendo backup">Fazendo backup</a></li></ul></div>
 </div></div></div>
 </div></section>
 </div>

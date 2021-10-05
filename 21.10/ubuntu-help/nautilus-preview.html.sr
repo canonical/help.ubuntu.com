@@ -76,14 +76,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Поставке прегледа управника датотека</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Управник датотека ствара минијатуре за преглед слика, симака, и текстуалних датотека. Минијатурни прегледи могу бити спори за велике датотеке или путем мреже, тако да можете одредити када ће бити коришћени претпрегледи. Кликните на дугме изборника у горњем десном углу прозора и изаберите <span class="gui">Поставке</span> а затим језичак <span class="gui">Претрага и преглед</span>.</p>
+<p class="p">The file manager creates thumbnails to preview image, video, and text
+files. Thumbnail previews can be slow for large files or over networks, so
+you can control when previews are made. Click the menu button in the top-right
+of the window, select <span class="gui">Preferences</span>, then go to the
+<span class="gui">Performance</span> section.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Датотеке</span></dt>
-<dd class="terms">
-<p class="p">По основи, сви прегледи се приказују за <span class="gui">Само за датотеке на овом рачунару</span>, на вашем рачунару или на прикљученим спољним уређајима. Можете да поставите ову функцију на <span class="gui">Све датотеке</span> или <span class="gui">Никада</span>. Управник датотека може да <span class="link"><a href="nautilus-connect.html.sr" title="Претражујте датотеке на серверу или мрежном дељењу">разгледа датотеке на другим рачунарима</a></span> преко локалне мреже или на интернету. Ако често разгледате датотеке на локалној мрежи, а мрежа има велики пропусни опсег, можда ћете пожелети да подесите опцију прегледа на <span class="gui">Све датотеке</span>.</p>
-<p class="p">Поред тога, можете да користите поставку <span class="gui">Само за датотеке мање од</span> да ограничите величину датотека за претпреглед.</p>
-</dd>
-<dt class="terms"><span class="gui">Укупност датотека</span></dt>
+<dt class="terms"><span class="gui">Show Thumbnails</span></dt>
+<dd class="terms"><p class="p">By default, all previews are done for
+    <span class="gui">On this computer only</span>, those on your computer or connected
+    external drives. You can set this feature to <span class="gui">All files</span> or
+    <span class="gui">Never</span>. The file manager can
+    <span class="link"><a href="nautilus-connect.html.sr" title="Претражујте датотеке на серверу или мрежном дељењу">browse files on other computers</a></span> over
+    a local area network or the internet. If you often browse files over a local
+    area network, and the network has high bandwidth, you may want to set the
+    preview option to <span class="gui">All files</span>.</p></dd>
+<dt class="terms"><span class="gui">Count Number of Files in Folders</span></dt>
 <dd class="terms">
 <p class="p">Ако прикажете величине датотека у <span class="link"><a href="nautilus-list.html.sr" title="Поставке колона списка датотека">колонама прегледа списком</a></span> или у <span class="link"><a href="nautilus-display.html.sr#icon-captions" title="Натписи иконице">натписима иконица</a></span>, фасцикле ће бити приказане са бројем садржаних датотека и фасцикли. Бројање ставки у фасцикли може бити споро, нарочито за велике фасцикле, или преко мреже.</p>
 <p class="p">Можете да укључите или да искључите ову могућност, или да је укључите само за датотеке на вашем рачунару и локалним спољним уређајима.</p>

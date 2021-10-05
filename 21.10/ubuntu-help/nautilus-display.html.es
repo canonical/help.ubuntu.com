@@ -75,7 +75,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Preferencias de la vista del gestor de archivos</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Puede controlar cómo el gestor de archivos muestra leyendas debajo de los iconos. Pulse el botón de menú en la esquina superior derecha de la ventana, elija <span class="gui">Preferencias</span> y seleccione la pestaña <span class="gui">Vistas</span>.</p></div>
+<div class="contents pagewide"><p class="p">You can control how the file manager displays captions under icons. Click
+the menu button in the top-right corner of the window, select
+<span class="gui">Preferences</span>, then go to the <span class="gui">Icon View Captions</span> section.</p></div>
 <section id="icon-captions"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Títulos de iconos</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -86,7 +88,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 </div></section><section id="list-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Vista de lista</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Al ver archivos como una lista, puede <span class="gui">Permitir expandir las carpetas</span>. Esto muestra expansores en cada carpeta en la lista de archivos, por lo que se puede mostrar el contenido de varias carpetas a la vez. Esto es útil si la estructura de carpetas es relevante, como si su música estuviera organizada en una carpeta por artista, y una subcarpeta por álbum.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">When viewing files as a list, you can display <span class="gui">Expandable Folders in
+  List View</span>. This shows expanders on each directory in the file list, so
+  that the contents of several folders can be shown at once. This is useful if
+  the folder structure is relevant, such as if your music files are organized
+  with a folder per artist, and a subfolder per album.</p></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

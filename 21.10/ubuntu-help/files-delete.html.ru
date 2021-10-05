@@ -122,12 +122,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.ru" title="Восстановление файла из корзины">Восстановление файла из корзины</a><span class="desc"> — Удалённые файлы обычно отправляются в корзину, но могут быть восстановлены.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.ru#trash" title="Корзина">Параметры корзины в файловом менеджере</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

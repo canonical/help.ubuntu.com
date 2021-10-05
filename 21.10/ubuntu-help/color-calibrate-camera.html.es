@@ -80,12 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">¿Cómo calibrar la cámara?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    Camera devices are calibrated by taking a photograph of a target
-    under the desired lighting conditions.
-    By converting the RAW file to a TIFF file, it can be used to
-    calibrate the camera device in the <span class="gui">Color</span> panel.
-  </p>
+<p class="p">Las cámaras se calibran tomando una fotografía de un objetivo bajo las condiciones de luz deseadas. Convertir el archivo RAW a un archivo TIFF permite usarlo para calibrar la cámara en el panel de control de <span class="gui">Color</span>.</p>
 <p class="p">Deberá recortar el archivo TIFF para que sólo sea visible el objetivo. Asegúrese de que los bordes blancos o negros siguen siendo visibles. La calibración no funcionará si la imagen está al revés o si está muy distorsionada.</p>
 <div class="note note-tip" title="Sugerencia">
 <svg width="24" height="24" version="1.1">

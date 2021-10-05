@@ -70,22 +70,16 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Networking</a> » <a class="trail" href="contacts.html.id" title="Kontak">Kontak</a> » </div></div>
+<span style="color: #333">Ubuntu 21.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="net.html.id" title="Jaringan, web &amp; surel">Jaringan</a> » <a class="trail" href="contacts.html.id" title="Kontak">Kontak</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Memulai Kontak untuk pertama kali</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Ketika Anda menjalankan <span class="app">Kontak</span> untuk pertama kali, jendela <span class="gui">Pilih Buku Alamat</span> terbuka.</p>
-<p class="p">If you have <span class="link"><a href="accounts.html.id" title="Akun daring">online accounts</a></span> configured, they
-  are listed with <span class="gui">Local Address Book</span>. Select an item from the
-  list and press <span class="gui">Done</span>.</p>
-<p class="p">All new contacts you create will be saved to the address book you choose. 
-  You are also able to view, edit and delete contacts in other address books.</p>
-<p class="p">If you have no online accounts configured, press
-  <span class="gui">Online Accounts</span> to begin the setup. If you do not
-  wish to set up online accounts at this time, press <span class="gui">Local
-  Address Book</span>.</p>
+<p class="p">Bila <span class="link"><a href="accounts.html.id" title="Akun daring">akun daring</a></span> telah terkonfigurasi, mereka didaftar pada <span class="gui">Buku Alamat Lokal</span>. Pilih satu butir pada daftar dan klik <span class="gui">Selesai</span>.</p>
+<p class="p">Semua kontak baru yang Anda buat akan disimpan ke buku alamat yang Anda pilih. Anda juga dapat melihat, menyunting, dan menghapus kontak di buku alamat lainnya.</p>
+<p class="p">Bila Anda belum mengkonfigurasi akun daring, klik <span class="gui">Akun Daring</span> untuk mulai menyiapkan. Bila Anda tak ingin menata akun daring saat ini, klik <span class="gui">Buku Alamat Lokal</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

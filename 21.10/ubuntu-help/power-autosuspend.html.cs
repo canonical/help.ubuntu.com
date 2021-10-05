@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Napájení</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Napájení</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Saving</span> section, click
-      <span class="gui">Automatic suspend</span>.</p></li>
+<li class="steps"><p class="p">V části <span class="gui">Šetření energií</span> klikněte na <span class="gui">Automaticky uspat</span>.</p></li>
 <li class="steps">
 <p class="p">Zvolte <span class="gui">Při napájení z baterie</span> nebo <span class="gui">Při napájení ze sítě</span>, přepněte vypínač do polohy zapnuto a vyberte čas <span class="gui">Po uplynutí</span>. Nastavit můžete obě situace.</p>
 <div class="note note-tip" title="Tip">

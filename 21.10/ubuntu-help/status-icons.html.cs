@@ -152,7 +152,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td><p class="p">Ikona napájení zobrazená v systémech bez baterie.</p></td>
 </tr>
 </table></div></div></div>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="power-status.html.cs" title="Kontrola stavu baterie">Learn more about battery status.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="power-status.html.cs" title="Kontrola stavu baterie">Zjistěte si více o stavu baterie.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></section><section id="bluetoothicons"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Ikony Bluetooth</span></h2></div>

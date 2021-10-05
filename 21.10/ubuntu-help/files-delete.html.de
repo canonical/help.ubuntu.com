@@ -119,12 +119,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Siehe auch</span></h2></div>
-<div class="region"><ul>
-<li class="links ">
+<div class="region"><ul><li class="links ">
 <a href="files-recover.html.de" title="Eine Datei aus dem Papierkorb wiederherstellen">Eine Datei aus dem Papierkorb wiederherstellen</a><span class="desc"> — Wenn Sie Dateien löschen, werden sie normalerweise in den Papierkorb verschoben, können aber aus dem Papierkorb wiederhergestellt werden.</span>
-</li>
-<li class="links "><a href="nautilus-behavior.html.de#trash" title="Papierkorb">Einstellungen für den Papierkorb in der Dateiverwaltung</a></li>
-</ul></div>
+</li></ul></div>
 </div></div>
 </div>
 </div></section>

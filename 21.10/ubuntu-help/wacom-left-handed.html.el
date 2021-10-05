@@ -2,7 +2,7 @@
 <html lang=el>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Χρησιμοποιήστε το αριστερόχειρο tablet</title>
+<title>Use the tablet with your left or your right hand</title>
 <link rel="stylesheet" type="text/css" href="el.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,10 +77,12 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Χρησιμοποιήστε το αριστερόχειρο tablet</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Use the tablet with your left or your right hand</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Μερικά tablet έχουν κουμπιά υλικού στη μια πλευρά. Το tablet μπορεί να περιστραφεί 180 μοίρες για να τοποθετηθούν αυτά τα κουμπιά για αριστερόχειρα άτομα. Για εναλλαγή προσανατολισμού σε αριστερόχειρα:</p>
+<p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
+   180 degrees to position these buttons. By default, the orientation is for
+   right-handed people. To switch the orientation to left-handed:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ανοίξτε την επισκόπηση <span class="gui"><a href="shell-introduction.html.el#activities" title="Η επισκόπηση Δραστηριότητες">Δραστηριότητες</a></span> και αρχίστε να πληκτρολογείτε <span class="gui">Wacom Tablet</span>.</p></li>
 <li class="steps"><p class="p">Κάντε κλικ στο <span class="gui">Tablet Wacom</span> για να ανοίξετε τον πίνακα.</p></li>

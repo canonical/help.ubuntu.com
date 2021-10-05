@@ -77,26 +77,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
 executable text files are handled, and the trash behavior. Click the menu
-button in the top-right corner of the window and select <span class="gui">Preferences</span>,
-and select the <span class="gui">Behavior</span> tab.</p></div>
+button in the top-right corner of the window, select <span class="gui">Preferences</span>,
+then go to the <span class="gui">General</span> section.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Uzvedība</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Viens klikšķis atver vienumus</span></dt>
-<dt class="terms"><span class="gui">Dubultklikšķis atver vienumus</span></dt>
+<dt class="terms"><span class="gui">Action to Open Items</span></dt>
 <dd class="terms"><p class="p">Pēc noklusējuma viens klikšķis izvēlas datni, bet dubultklikšķis to atver. Tā vietā jūs varat izvēlēties, lai datnes un mapes atvērtos ar vienu klikšķi. Šajā režīmā jūs varat pieturēt nospiestu <span class="key"><kbd>Ctrl</kbd></span> taustiņu, lai izmantotu klikšķus, lai izvēlētos datnes.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Izpildāmās teksta datnes</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Izpildāma teksta datne ir datne, kas satur palaižamu (izpildāmu) programmu. Arī <span class="link"><a href="nautilus-file-properties-permissions.html.lv" title="Iestatīt atļaujas datnēm">datnes atļaujām</a></span> jābūt iestatītām, lai atļautu palaist datni kā programmu. Izplatītākās izpildāmās teksta datnes ir <span class="sys">čaulas</span>, <span class="sys">Python</span> un <span class="sys">Perl</span> skripti. To paplašinājumi ir attiecīgi <span class="file">.sh</span>, <span class="file">.py</span> un <span class="file">.pl</span>.</p>
-<p class="p">Atverot izpildāmu datni, jūs varat izvēlēties no:</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p"><span class="gui">Palaist izpildāmās teksta datnes, kad tās tiek atvērtas</span></p></li>
-<li class="list"><p class="p"><span class="gui">Skatīt izpildāmās teksta datnes, kad tās tiek atvērtas</span></p></li>
-<li class="list"><p class="p"><span class="gui">Vaicāt katru reizi</span></p></li>
-</ul></div></div></div>
-<p class="p">Ja izvēlēsities <span class="gui">Vaicāt katru reizi</span>, parādīsies dialoglodziņš, kas vaicās, vai vēlaties izpildīt vai skatīt izvēlēto teksta datni.</p>
 <p class="p">Izpildāmas teksta datnes mēdz saukt arī par <span class="em">skriptiem</span>. Visi skripti mapē <span class="file">~/.local/share/nautilus/scripts</span> parādīsies konteksta izvēlnē, zem apakšizvēlnes <span class="gui">Skripti</span>. Kas skripts tiek izpildīts, no lokālās mapes, visas datnes tiks ielīmētas skriptos kā parametri. Lai izpildītu skriptu uz datnes:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Dodaties uz vēlamo mapi.</p></li>
@@ -109,23 +101,6 @@ and select the <span class="gui">Behavior</span> tab.</p></div>
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Skriptam netiks padoti nekādi parametri, ja tas tiks izpildīts no attālinātas mapes, piemēram, mapes, kas rāda tīmekļa vai <span class="sys">ftp</span> saturu.</p></div></div></div>
 </div>
 </div></div>
-</div></section><section id="trash"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Miskaste</span></h2></div>
-<div class="region">
-<div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Jautāt, pirms iztukšot miskasti</span></dt>
-<dd class="terms"><p class="p">Šī iespēja pēc noklusējuma ir ieslēgta. Iztukšojot miskasti, sistēmas ziņojums prasīs apstiprinājumu, ka tiešām vēlaties iztukšot miskasti vai dzēst datnes.</p></dd>
-</dl></div></div></div></div>
-<section class="links" role="navigation"><div class="inner">
-<div class="hgroup pagewide"></div>
-<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
-<div class="title"><h3><span class="title">Skatīt arī</span></h3></div>
-<div class="region"><ul><li class="links ">
-<a href="files-delete.html.lv" title="Dzēst datnes un mapes">Dzēst datnes un mapes</a><span class="desc"> — Izņemt datnes vai mapes, kas vairs nav vajadzīgas.</span>
-</li></ul></div>
-</div></div></div>
-</div></section>
-</div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

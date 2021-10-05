@@ -76,23 +76,23 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Mitä kuvakkeet yläpalkissa tarkoittavat?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">This page explains the meaning of icons located on the top right corner of the screen. More specifically, the different variations of the icons provided by the system are described.</p>
+<p class="p">Tämä osio selventää näytön oikeassa yläkulmassa olevien kuvakkeiden tarkoituksen. Tarkemmin ilmaistuna kuvakkeiden eri muunnelmat ja niiden merkitykset.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
-<li class="links "><a href="status-icons.html.fi#universalicons" title="Accessibility icons">Accessibility icons</a></li>
-<li class="links "><a href="status-icons.html.fi#audioicons" title="Audio icons">Audio icons</a></li>
-<li class="links "><a href="status-icons.html.fi#batteryicons" title="Battery icons">Battery icons</a></li>
-<li class="links "><a href="status-icons.html.fi#bluetoothicons" title="Bluetooth icons">Bluetooth icons</a></li>
-<li class="links "><a href="status-icons.html.fi#networkicons" title="Networking icons">Networking icons</a></li>
-<li class="links "><a href="status-icons.html.fi#othericons" title="Other icons">Other icons</a></li>
+<li class="links "><a href="status-icons.html.fi#universalicons" title="Esteettömyyskuvakkeet">Esteettömyyskuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#audioicons" title="Äänikuvakkeet">Äänikuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#batteryicons" title="Akkukuvakkeet">Akkukuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#bluetoothicons" title="Bluetooth-kuvakkeet">Bluetooth-kuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#networkicons" title="Verkkokuvakkeet">Verkkokuvakkeet</a></li>
+<li class="links "><a href="status-icons.html.fi#othericons" title="Muut kuvakkeet">Muut kuvakkeet</a></li>
 </ul></div></div></div>
 </div>
 <section id="universalicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Accessibility icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Esteettömyyskuvakkeet</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-accessibility.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Allows you to quickly toggle various accessibility settings.</p></td>
+<td><p class="p">Voit ottaa käyttöön tai poistaa käytöstä esteettömyysasetuksia.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-pointer.svg" class="media media-block" alt=""></div></div></td>
@@ -100,67 +100,67 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 </table></div></div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="a11y.html.fi" title="Esteettömyys">Learn more about accessibility.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="a11y.html.fi" title="Esteettömyys">Lue lisää esteettömyydestä.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="a11y-dwellclick.html.fi" title="Simuloi napsautusta kohdistamalla">Learn more about Hover Click.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></section><section id="audioicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Audio icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Äänikuvakkeet</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-audio-volume.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Indicates the volume of the speakers or headphones.</p></td>
+<td><p class="p">Ilmaisee kaiuttimien tai kuulokkeiden äänenvoimakkuuden.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-audio-volume-muted.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The speakers or headphones are muted.</p></td>
+<td><p class="p">Kaiuttimet tai kuulokkeet on vaimennettu.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-microphone-sensitivity.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Indicates the sensitivity of the microphone.</p></td>
+<td><p class="p">Ilmaisee mikrofonin herkkyyden.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-microphone-sensitivity-muted.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The microphone is muted.</p></td>
+<td><p class="p">Mikrofoni on vaimennettu.</p></td>
 </tr>
 </table></div></div></div>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="sound-volume.html.fi" title="Muuta äänenvoimakkuutta">Learn more about sound volume.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="sound-volume.html.fi" title="Muuta äänenvoimakkuutta">Lue lisää äänenvoimakkuudesta.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></section><section id="batteryicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Battery icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Akkukuvakkeet</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-battery-charging.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Indicates the battery level while the battery is charging.</p></td>
+<td><p class="p">Ilmaisee akun tason kun akku on latauksessa.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-battery-level-100-charged.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is fully charged and charging.</p></td>
+<td><p class="p">Akku on täynnä ja se latautuu.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-battery-discharging.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Indicates the battery level while the battery is not charging.</p></td>
+<td><p class="p">Ilmaisee akun tason kun akku ei ole latauksessa.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-battery-level-100.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">The battery is fully charged and not charging.</p></td>
+<td><p class="p">Akku on täynnä ja se ei lataudu.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-system-shutdown.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Power icon displayed on systems without a battery.</p></td>
+<td><p class="p">Virtapainikkeen kuvake järjestelmissä, joissa ei ole akkua läsnä.</p></td>
 </tr>
 </table></div></div></div>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="power-status.html.fi" title="Tarkista akun tila">Learn more about battery status.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="power-status.html.fi" title="Tarkista akun tila">Lue lisää akun tilasta.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></section><section id="bluetoothicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Bluetooth icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Bluetooth-kuvakkeet</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Airplane mode is on. Bluetooth is disabled when airplane mode is on.</p></td>
+<td><p class="p">Lentokonetila on päällä. Bluetooth on pois käytöstä, kun lentokonetila on päällä.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-bluetooth-active.svg" class="media media-block" alt=""></div></div></td>
@@ -170,16 +170,16 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 </table></div></div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.fi" title="Katkaise langaton yhteys (lentokonetila)">Learn more about airplane mode.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="bluetooth.html.fi" title="Bluetooth">Learn more about Bluetooth.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.fi" title="Katkaise langaton yhteys (lentokonetila)">Lue lisää lentokonetilasta.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="bluetooth.html.fi" title="Bluetooth">Lue lisää Bluetoothista.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></section><section id="networkicons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Networking icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Verkkokuvakkeet</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
 <div class="table"><div class="inner">
-<div class="title title-table"><h3><span class="title">Wireless (Wi-Fi) connections</span></h3></div>
+<div class="title title-table"><h3><span class="title">Langattomat yhteydet (wifi)</span></h3></div>
 <div class="region"><table class="table">
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
@@ -187,15 +187,15 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-acquiring.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connecting to a wireless network.</p></td>
+<td><p class="p">Yhdistetään langattomaan verkkoon.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wireless-strength.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Indicates the strength of a wireless network connection.</p></td>
+<td><p class="p">Ilmaisee langattoman verkkoyhteyden signaalin vahvuuden.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-strength-none.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a wireless network, but there is no signal.</p></td>
+<td><p class="p">Yhdistetty langattomaan verkkoon, mutta ei signaalia.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-connected.svg" class="media media-block" alt=""></div></div></td>
@@ -211,27 +211,27 @@ document.addEventListener('DOMContentLoaded', function() {
 </table></div>
 </div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.fi" title="Katkaise langaton yhteys (lentokonetila)">Learn more about airplane mode.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Learn more about wireless networking.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.fi" title="Katkaise langaton yhteys (lentokonetila)">Lue lisää lentokonetilasta.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-connect.html.fi" title="Langattomaan verkkoon yhdistäminen">Lue lisää langattomista verkkoyhteyksistä.</a></span></p></li>
 </ul></div></div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h3><span class="title">Cellular networking (mobile broadband)</span></h3></div>
+<div class="title title-table"><h3><span class="title">Matkapuhelinverkot (mobiililaajakaista)</span></h3></div>
 <div class="region"><table class="table">
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Airplane mode is on. Cellular networking is disabled when airplane mode is on.</p></td>
+<td><p class="p">Lentokonetila on päällä. Matkapuhelinverkon yhteydet ovat pois käytöstä, kun lentokonetila on päällä.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-acquiring.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connecting to a cellular network.</p></td>
+<td><p class="p">Yhdistetään matkapuhelinverkkoon.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-cellular-signal.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Indicates the strength of a cellular network connection.</p></td>
+<td><p class="p">Ilmaisee matkapuhelinverkkoyhteyden signaalin vahvuuden.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-signal-none.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a cellular network, but there is no signal.</p></td>
+<td><p class="p">Yhdistetty matkapuhelinverkkoon, mutta ei signaalia.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-connected.svg" class="media media-block" alt=""></div></div></td>
@@ -242,15 +242,15 @@ document.addEventListener('DOMContentLoaded', function() {
 </table></div>
 </div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.fi" title="Katkaise langaton yhteys (lentokonetila)">Learn more about airplane mode.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="net-mobile.html.fi" title="Yhdistä mobiililaajakaistaan">Learn more about cellular networking.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.fi" title="Katkaise langaton yhteys (lentokonetila)">Lue lisää lentokonetilasta.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-mobile.html.fi" title="Yhdistä mobiililaajakaistaan">Lue lisää matkapuhelinverkkoyhteyksistä.</a></span></p></li>
 </ul></div></div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h3><span class="title">Wired connections</span></h3></div>
+<div class="title title-table"><h3><span class="title">Kiinteät yhteydet</span></h3></div>
 <div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired-acquiring.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connecting to a wired connection.</p></td>
+<td><p class="p">Yhdistetään langallista yhteyttä.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired.svg" class="media media-block" alt=""></div></div></td>
@@ -268,21 +268,21 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 </table></div>
 </div></div>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="net-wired-connect.html.fi" title="Yhdistä kiinteään (Ethernet) verkkoon">Learn more about wired networking.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="net-wired-connect.html.fi" title="Yhdistä kiinteään (Ethernet) verkkoon">Lue lisää kiinteistä verkkoyhteyksistä.</a></span></p></li></ul></div></div></div>
 <div class="table"><div class="inner">
-<div class="title title-table"><h3><span class="title">VPN (virtual private networking)</span></h3></div>
+<div class="title title-table"><h3><span class="title">VPN (virtuaalinen erillisverkko)</span></h3></div>
 <div class="region"><table class="table">
 <tr>
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-vpn-acquiring.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connecting to a virtual private network.</p></td>
+<td><p class="p">Yhdistetään virtuaaliseen erillisverkkoon.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-vpn.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connected to a virtual private network.</p></td>
+<td><p class="p">Yhdistetty virtuaaliseen erillisverkkoon.</p></td>
 </tr>
 </table></div>
 </div></div>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="net-vpn-connect.html.fi" title="Muodosta VPN-yhteys">Learn more about virtual private networks.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="net-vpn-connect.html.fi" title="Muodosta VPN-yhteys">Lue lisää virtuaalisista erillisverkoista.</a></span></p></li></ul></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -295,44 +295,39 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section>
 </div>
 </div></section><section id="othericons"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Other icons</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Muut kuvakkeet</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="table"><div class="inner"><div class="region"><table class="table">
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-input-method.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Indicates the keyboard layout or input method currently in use.
-    Click to select another layout. The keyboard layout menu is only shown
-    if you have multiple input methods configured.</p></td>
+<td><p class="p">Ilmaisee parhaillaan käytössä olevan näppäimistöasettelun tai syötetavan. Napsauta valitaksesi toisen asettelun. Näppäimistöasettelun valikko näytetään vain, jos useita syötetapoja on määritetty.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-find-location.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">An app is currently accessing your location.
-    You can disable location access from the menu.</p></td>
+<td><p class="p">Sovellus käyttää parhaillaan sijaintitietoasi. Voit estää pääsyn sijaintitietoon valikon kautta.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-night-light.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Night light has changed the color temperature of the display
-    to reduce eye strain. You can temporarily disable night light from
-    the menu.</p></td>
+<td><p class="p">Yövalo on muuttanut näytön värilämpötilaa silmien rasituksen estämiseksi. Voit poistaa yövalon väliaikaisesti pois käytöstä valikon kautta.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-media-record.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">You are currently recording a screencast of your entire screen.</p></td>
+<td><p class="p">Tallennat parhaillaan näyttökaappausvideota koko näytöstäsi.</p></td>
 </tr>
 <tr>
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-screen-shared.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">An app is currently sharing the screen or another window.</p></td>
+<td><p class="p">Sovellus jakaa parhaillaan näyttöä tai toista ikkunaa.</p></td>
 </tr>
 <tr class="shade">
 <td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-thunderbolt-acquiring.svg" class="media media-block" alt=""></div></div></td>
-<td><p class="p">Connecting to a Thunderbolt device, such as a dock.</p></td>
+<td><p class="p">Yhdistetään Thunderbolt-laitteeseen, esimerkiksi telakkaan.</p></td>
 </tr>
 </table></div></div></div>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
-<li class="list"><p class="p"><span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">Learn more about keyboard layouts.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="privacy-location.html.fi" title="Hallitse paikannuspalveluita">Learn more about privacy and location services.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="display-night-light.html.fi" title="Määritä näytön värilämpötila">Learn more about night light and color temperature.</a></span></p></li>
-<li class="list"><p class="p"><span class="link"><a href="screen-shot-record.html.fi" title="Kuvakaappaukset ja näyttökaappausvideot">Learn more about screenshots and screencasts.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="keyboard-layouts.html.fi" title="Käytä vaihtoehtoisia näppäimistöasetteluja">Lue lisää näppäimistöasetteluista.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="privacy-location.html.fi" title="Hallitse paikannuspalveluita">Lue lisää yksityisyydestä ja sijaintipalveluista.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="display-night-light.html.fi" title="Määritä näytön värilämpötila">Lue lisää yövalosta ja värilämpötilasta.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="screen-shot-record.html.fi" title="Kuvakaappaukset ja näyttökaappausvideot">Lue lisää kuvakaappauksista ja näyttölähetyksistä.</a></span></p></li>
 </ul></div></div></div>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

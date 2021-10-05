@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Předvolby zobrazení ve správci souborů</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">Máte možnost řídit, co má správce souborů zobrazovat v popisech pod ikonami souborů. Klikněte na tlačítko nabídky v pravém horním rohu okna, zvolte <span class="gui">Předvolby</span> a vyberte kartu <span class="gui">Zobrazit</span>.</p></div>
+<div class="contents pagewide"><p class="p">Máte možnost řídit, co má správce souborů zobrazovat v popisech pod ikonami souborů. Klikněte na tlačítko nabídky v pravém horním rohu okna, zvolte <span class="gui">Předvolby</span> a pak přejděte do části <span class="gui">Popisky v ikonovém zobrazení</span>.</p></div>
 <section id="icon-captions"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Popisy ikon</span></h2></div>
 <div class="region"><div class="contents pagewide">
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 </div></section><section id="list-view"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Seznamové zobrazení</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Když máte soubory zobrazené v seznamu, můžete <span class="gui">Umožnit rozbalování složek</span>. Tím se v seznamu u každé složky zobrazí rozbalovací prvek, takže si můžete zobrazit obsah několika složek naráz. To se hodí, když spolu složky nějak souvisí, například u hudebních souborů uspořádaných do složek podle umělce a podsložek podle alba.</p></div></div>
+<div class="region"><div class="contents pagewide"><p class="p">Když máte soubory zobrazené v seznamu, můžete používat <span class="gui">Rozbalitelné složky v seznamovém zobrazení</span>. Tím se v seznamu u každé složky zobrazí rozbalovací prvek, takže si můžete zobrazit obsah několika složek naráz. To se hodí, když spolu složky nějak souvisí, například u hudebních souborů uspořádaných do složek podle umělce a podsložek podle alba.</p></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

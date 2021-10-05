@@ -94,9 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Abra o panorama de <span class="gui"><a href="shell-introduction.html.pt-BR#activities" title="Panorama de Atividades">Atividades</a></span> e comece a digitar <span class="gui">Energia</span>.</p></li>
 <li class="steps"><p class="p">Clique em <span class="gui">Energia</span> para abrir o painel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Power Saving</span> section, adjust the <span class="gui">Screen
-      brightness</span> slider to the value you want to use. The change should
-      take effect immediately.</p></li>
+<li class="steps"><p class="p">Na seção <span class="gui">Economia de energia</span>, ajuste o controle deslizante <span class="gui">Brilho da tela</span> para o valor que você deseja usar. A alteração deve fazer efeito imediatamente.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Dica">
@@ -128,7 +126,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="a11y-contrast.html.pt-BR" title="Ajustando o contraste">Ajustando o contraste</a><span class="desc"> — Torne as janelas e os botões na tela mais (ou menos) vívido, para que sejam mais fáceis de ver.</span>
 </li>
 <li class="links ">
-<a href="power-profile.html.pt-BR" title="Choose a power profile">Choose a power profile</a><span class="desc"> — Balance performance and battery usage.</span>
+<a href="power-profile.html.pt-BR" title="Escolhendo um perfil de energia">Escolhendo um perfil de energia</a><span class="desc"> — Equilibre o desempenho e o uso da bateria.</span>
 </li>
 <li class="links ">
 <a href="power-autobrightness.html.pt-BR" title="Habilitando brilho automático">Habilitando brilho automático</a><span class="desc"> — Controle automaticamente o brilho da tela para reduzir o uso da bateria.</span>

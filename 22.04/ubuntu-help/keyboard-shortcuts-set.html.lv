@@ -1,0 +1,576 @@
+<!DOCTYPE html>
+<html lang=lv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Iestatīt tastatūras saīsnes</title>
+<link rel="stylesheet" type="text/css" href="lv.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="hardware.html.lv" title="Aparatūra un draiveri">Aparatūra</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="prefs.html.lv" title="Lietotājs un sistēmas iestatījumi">Iestatījumi</a> » <a class="trail" href="keyboard.html.lv" title="Tastatūra">Tastatūra</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Iestatīt tastatūras saīsnes</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Lai izmainītu taustiņu vai taustiņus, kas veido tastatūras saīsni:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Atveriet <span class="gui"><a href="shell-introduction.html.lv#activities" title="Aktivitāšu pārskats">aktivitāšu</a></span> pārskatu un sāciet rakstīt <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Iestatījumi</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">In the <span class="gui">Keyboard Shortcuts</span> section, select <span class="gui">Customize Shortcuts</span>.</p></li>
+<li class="steps"><p class="p">Select the desired category, or enter a search term.</p></li>
+<li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
+      window will be shown.</p></li>
+<li class="steps"><p class="p">Turiet nospiestu vēlamo taustiņu kombināciju vai spiediet <span class="key"><kbd>Backspace</kbd></span>, lai atiestatītu, vai spiediet <span class="key"><kbd>Esc</kbd></span>, lai atceltu.</p></li>
+</ol></div></div></div>
+</div>
+<section id="defined"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Jau definētās saīsnes</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Šeit ir iepriekš konfigurētas saīsnes kas var tikt mainītas, sagrupētas šajās kategorijās:</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Accessibility</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Samazināt teksta izmēru</p></td>
+<td><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ieslēgt vai izslēgt augstu kontrastu</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Palielināt teksta izmēru</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ieslēgt vai izslēgt ekrāna tastatūru</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ieslēgt vai izslēgt ekrāna lasītāju</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ieslēgt vai izslēgt tuvinājumu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Tuvināt</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>=</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Tālināt</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>-</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Palaidēji</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Mājas mape</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> vai <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> vai <span class="key"><kbd>Pārlūks</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Palaist kalkulatoru</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> vai <span class="key"><kbd>Kalkulators</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Palaist e-pasta klientu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> vai <span class="key"><kbd>Pasts</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Palaist palīdzības pārlūku</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Palaist tīmekļa pārlūkprogrammu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> vai <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> vai <span class="key"><kbd>WWW</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Meklēšana</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> vai <span class="key"><kbd>Meklēšana</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Settings</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Tools</kbd></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Navigācija</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Slēpt visus parastos logus</p></td>
+<td><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move to workspace on the left</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move to workspace on the right</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor down</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.lv" title="Kas ir Super taustiņš?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor to the left</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor to the right</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor up</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārvietot logu uz darbvietu pa kreisi</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārvietot logu uz darbvietu pa labi</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārvietot logu uz 1. darbvietu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārvietot logu uz 2. darbvietu</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārvietot logu uz 3. darbvietu</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārvietot logu uz 4. darbvietu</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgt lietotnes</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgt sistēmas vadīklas</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgt sistēmas vadīklas tieši</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgties uz 1. darbvietu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgties uz 2. darbvietu</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgties uz 3. darbvietu</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgties uz 4. darbvietu</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgties starp logiem</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgties starp logiem tieši</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgt lietotnes logu tieši</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgt vienas lietotnes logus</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Ekrānattēli</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Ievietot loga attēlu starpliktuvē</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ievietot ekrāna daļas attēlu starpliktuvē</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Ievietot ekrānattēlu starpliktuvē</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Record a short screencast</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot of a window to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot of an area to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot to Pictures</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Skaņa un multimediji</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Izgrūst</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Izgrūst)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Palaist mediju atskaņotāju</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio medijs)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Microphone mute/unmute</p></td>
+<td style="border-top-style: solid;"></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Nākamais celiņš</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio nākamais)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pauzēt atskaņošanu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pauzēšana)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Atskaņot (vai atskaņot/pauzēt)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio atskaņošana)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Iepriekšējais celiņš</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio iepriekšējais)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Apturēt atskaņošanu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio apturēšana)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Samazināt skaļumu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Samazināt audio līmeni)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Izslēgt skaņu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio klusināšana)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Palielināt skaņu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Palielināt audio līmeni)</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Sistēma</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Fokusēt aktīvo paziņojumu</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>N</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Noslēgt ekrānu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the Power Off dialog</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Atvērt lietotnes izvēlni</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Restore the keyboard shortcuts</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Rādīt visas lietotnes</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Parādīt aktivitāšu pārskatu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the notification list</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the overview</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Rādīt palaišanas komandrindu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Rakstīšana</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Pārslēgties uz nākamo ievades avotu</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Atstarpe</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgties uz iepriekšējo ievades avotu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Windows</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Aktivizēt loga izvēlni</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Atstarpe</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Aizvērt logu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Paslēpt logu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pazemināt logu zem citiem logiem</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Maksimizēt logu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Maksimizēt logu horizontāli</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Maksimizēt logu vertikāli</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārvietot logu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pacelt logu virs citiem logiem</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pacelt logu, ja to aizsedz, citādi pazemināt</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Mainīt loga izmēru</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Atjaunot loga izmēru</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgt pilnekrāna režīmu</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgt maksimizācijas stāvokli</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Pārslēgt, vai logam jābūt visās darbvietās vai vienā</p></td>
+<td style="border-top-style: solid;"><p class="p">Atslēgts</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Izvietot kreisajā ekrāna pusē</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Izvietot labajā ekrāna pusē</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div></div>
+</div></section><section id="custom"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Pielāgotās saīsnes</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">To create your own application keyboard shortcut in the
+  <span class="gui">Keyboard</span> settings:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Select <span class="gui">Custom Shortcuts</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add Shortcut</span> button if no custom
+      shortcut is set yet. Otherwise click the <span class="gui">+</span>
+      button. The <span class="gui">Add Custom Shortcut</span> window will appear.</p></li>
+<li class="steps"><p class="p">Rakstiet <span class="gui">Nosaukums</span> laukā, lai identificētu saīsni, un <span class="gui">Komanda</span> laukā, lai palaistu lietotni. Piemēram, ja jūs vēlaties izveidot saīsni, lai palaistu <span class="app">Rhythmbox</span>, jūs varētu to nosaukt <span class="input">Mūzika</span> un izmantot <span class="input">rhythmbox</span> komandu.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add Shortcut…</span> button. In the
+      <span class="gui">Add Custom Shortcut</span> window, hold down the desired
+      shortcut key combination.</p></li>
+<li class="steps"><p class="p">Spiediet <span class="gui">Pievienot</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Komandas nosaukumam ko jūs ievadīsiet vajadzētu būt derīgai sistēmas komandai. Jūs varat to pārbaudīt atverot Termināli un ievadot šo komandu tur. Komanda, kas atver lietotni nevar būt ar tādu pašu nosaukumu kā pati lietotne.</p>
+<p class="p">If you want to change the command that is associated with a custom
+  keyboard shortcut, click the row of the shortcut. The
+  <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
+  command.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard.html.lv" title="Tastatūra">Tastatūra</a><span class="desc"> — Select international keyboard layouts and use keyboard
+    accessibility features.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-keyboard-shortcuts.html.lv" title="Noderīgas tastatūras saīsnes">Noderīgas tastatūras saīsnes</a><span class="desc"> — Pārvietojieties pa darbvirsmu, izmantojot tastatūru.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

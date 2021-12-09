@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>상단 표시줄의 아이콘은 어떤 의미가 있죠?</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="shell-overview.html.ko" title="여러분의 데스크톱">데스크톱</a> › <a class="trail" href="shell-overview.html.ko#apps" title="프로그램 및 창">프로그램 및 창</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">상단 표시줄의 아이콘은 어떤 의미가 있죠?</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">이 페이지에서는 화면의 우측 상단에 위치한 아이콘의 의미를 설명합니다. 좀 더 특별하게 시스템에서 나타나는 이 아이콘의 변형 모양새에 대해서도 설명합니다.</p>
+<div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="status-icons.html.ko#universalicons" title="접근성 아이콘">접근성 아이콘</a></li>
+<li class="links "><a href="status-icons.html.ko#audioicons" title="오디오 아이콘">오디오 아이콘</a></li>
+<li class="links "><a href="status-icons.html.ko#batteryicons" title="배터리 아이콘">배터리 아이콘</a></li>
+<li class="links "><a href="status-icons.html.ko#bluetoothicons" title="블루투스 아이콘">블루투스 아이콘</a></li>
+<li class="links "><a href="status-icons.html.ko#networkicons" title="네트워크 아이콘">네트워크 아이콘</a></li>
+<li class="links "><a href="status-icons.html.ko#othericons" title="다른 아이콘">다른 아이콘</a></li>
+</ul></div></div></div>
+</div>
+<section id="universalicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">접근성 아이콘</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-accessibility.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">다양한 접근성 설정을 간편하게 전환할 수 있습니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-pointer.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">자동 누르기 기능을 사용하면 누르기 동작을 취할 수 있습니다.</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="a11y.html.ko" title="접근성">접근성을 알아봅니다.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="a11y-dwellclick.html.ko" title="커서 올려두어 누르기 흉내">자동 누르기를 알아봅니다.</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="audioicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">오디오 아이콘</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-audio-volume.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">스피커 또는 헤드폰의 음량을 나타냅니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-audio-volume-muted.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">스피커 또는 헤드폰을 껐습니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-microphone-sensitivity.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">마이크 감도를 나타냅니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-microphone-sensitivity-muted.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">마이크를 껐습니다.</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="sound-volume.html.ko" title="음링 조절">소리 음량을 더 알아봅니다.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section id="batteryicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">배터리 아이콘</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-battery-charging.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">배터리 충전 중 배터리 잔량 수준을 나타냅니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-battery-level-100-charged.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">배터리를 완전히 충전했고 충전중입니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-battery-discharging.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">배터리 충전 상태가 아닌 배터리의 잔량 수준을 나타냅니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-battery-level-100.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">배터리를 완전히 충전했고 대기중입니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-system-shutdown.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">배터리가 빠져있는 시스템에 나타난 전원 아이콘입니다.</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="power-status.html.ko" title="배터리 상태 확인">배터리 상태를 더 알아봅니다.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section id="bluetoothicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">블루투스 아이콘</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">비행 모드를 켰습니다. 비행 모드를 켜면 블루투스가 꺼집니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-bluetooth-active.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">블루투스 장치를 페어링하여 사용중입니다. 블루투스를 항상 사용중일 때일 뿐만 아니라 활성 장치를 연결했을 때 이 아이콘만 나타납니다.</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.ko" title="무선 통신 끄기(비행 모드)">비행 모드를 더 알아봅니다.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="bluetooth.html.ko" title="블루투스">블루투스를 더 알아봅니다.</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="networkicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">네트워크 아이콘</span></h2></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="table"><div class="inner">
+<div class="title title-table"><h3><span class="title">무선(Wi-Fi) 연결</span></h3></div>
+<div class="region"><table class="table">
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">비행 모드를 켰습니다. 비행 모드르 켜면 무선 네트워크가 꺼집니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">무선 네트워크에 연결합니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wireless-strength.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">무선 네트워크 연결의 신호 세기를 나타냅니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-strength-none.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">무선 네트워크에 연결했습니다만, 신호가 없습니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-connected.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">무선 네트워크에 연결했습니다. 애드혹 네트워크에 연결했을 때처럼 신호 세기를 알 수 없으면 이 아이콘만 나타납니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-no-route.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">무선 네트워크에 연결했습니다만, 인터넷으로 연결할 경로가 없습니다. 네트워크 설정이 잘못됐거나 인터넷 서비스 제공 업체의 제공 연결이 끊어졌을 수 있습니다.</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.ko" title="무선 통신 끄기(비행 모드)">비행 모드를 더 알아봅니다.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-connect.html.ko" title="무선 네트워크 연결">무선 네트워크를 더 알아봅니다.</a></span></p></li>
+</ul></div></div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h3><span class="title">셀룰러 네트워크(모바일 광대역)</span></h3></div>
+<div class="region"><table class="table">
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">비행 모드를 켰습니다. 비행 모드를 켜면 셀룰러 네트워크가 꺼집니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">셀룰러 네트워크에 연결합니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-cellular-signal.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">셀룰러 네트워크 연결의 신호 세기를 나타냅니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-signal-none.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">셀룰러 네트워크에 연결했습니다만, 신호가 없습니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-connected.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">셀룰러 네트워크에 연결했습니다. 블루투스로 연결했을 때 처럼 신호 세기를 알 수 없으면 이 아이콘만 나타납니다. 신호 세기를 확인할 수 있으면, 이 대신 신호 세기 아이콘이 나타납니다.</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.ko" title="무선 통신 끄기(비행 모드)">비행 모드를 더 알아봅니다.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-mobile.html.ko" title="모바일 광대역망 연결">셀룰러 네트워크를 더 알아봅니다.</a></span></p></li>
+</ul></div></div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h3><span class="title">유선 연결</span></h3></div>
+<div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">유선 네트워크에 연결합니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">유선 네트워크에 연결했습니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired-disconnected.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">네트워크를 끊었습니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired-no-route.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">유선 네트워크에 연결했습니다만, 인터넷으로 연결할 경로가 없습니다. 네트워크 설정이 잘못됐거나 인터넷 서비스 제공 업체의 제공 연결이 끊어졌을 수 있습니다.</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="net-wired-connect.html.ko" title="유선(이더넷) 네트워크 연결">유션 네트워크를 더 알아봅니다.</a></span></p></li></ul></div></div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h3><span class="title">VPN(가상 개인 네트워크)</span></h3></div>
+<div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-vpn-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">가상 개인 네트워크에 연결합니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-vpn.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">가상 개인 네트워크에 연결했습니다.</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="net-vpn-connect.html.ko" title="VPN 연결">가상 개인 네트워크를 더 알아봅니다.</a></span></p></li></ul></div></div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">참고</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.ko" title="무선 네트워크">무선 네트워크</a><span class="desc"> — 숨긴 네트워크, 폰 테더링으로 만든 네트워크 등 무선 네트워크에 연결합니다.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section id="othericons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">다른 아이콘</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-input-method.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">현재 사용하고 있는 키보드 배치 또는 입력기를 나타냅니다. 선택할 다른 배치를 누릅니다. 키보드 배치 메뉴는 여러 입력기를 설정했을 경우에만 나타납니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-find-location.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">앱에서 현재 위치에 접근합니다. 메뉴에서 위치 정보 접근을 끌 수 있습니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-night-light.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">야간 모드은 눈의 피로를 줄이려면 디스플레이 색 온도를 바꿉니다. 메뉴에서 야간 모드을 잠깐 끌 수 있습니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-media-record.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">현재 전체 화면의 스크린캐스트를 녹화하고 있습니다.</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-screen-shared.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">앱에서 현재 화면 또는 다른 창을 공유합니다.</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-thunderbolt-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">도크와 같은 썬더볼트 장비에 연결합니다.</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="keyboard-layouts.html.ko" title="대안 키보드 배치 활용하기">키보드 배치를 더 알아봅니다.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="privacy-location.html.ko" title="위치 서비스 제어하기">개인 정보 및 위치 정보 서비스를 더 알아봅니다.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="display-night-light.html.ko" title="화면 색 온도 조절하기">야간 모드 및 색 온도를 더 알아봅니다.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="screen-shot-record.html.ko" title="스크린샷과 스크린캐스트">스크린샷과 스크린 캐스트를 더 알아봅니다.</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.ko#apps" title="프로그램 및 창">프로그램 및 창</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

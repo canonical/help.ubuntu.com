@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg919" width="28" height="28" version="1.1" viewBox="0 0 7.4083 7.4083" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs id="defs849">
+  <clipPath id="a">
+   <path id="path2061" d="m-73-30-7-7v-4.5h16.5v4.5l-7.5 7z" fill="none" stroke="#000"/>
+  </clipPath>
+ </defs>
+ <metadata id="metadata852">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-16.933 -67.733)">
+  <g id="topbar-network-wireless-connected" transform="translate(0 -25.4)">
+   <rect id="rect5476" x="16.933" y="93.133" width="7.4083" height="7.4083" rx="1.0583" ry="1.0583" style="stroke-width:.529"/>
+   <g id="g2229" transform="matrix(.26458 0 0 .26458 18.493 94.721)" fill="#474747" style="fill:#fff">
+    <path id="path2225" transform="translate(80,40)" d="m-72-38v1h1v-0.969a12.13 12.13 0 0 0-1-0.031zm1 1v1h1v-1zm1 0h1v-0.594a9.508 9.508 0 0 0-1-0.218zm1 0v1h1v-1zm1 0h0.5c-0.165-0.084-0.327-0.145-0.5-0.219zm0 1v1h1v-1zm1 0h1v1h1a7.865 7.865 0 0 0-2-1.719zm2 1v1h-1v1h-1v1h-1v1h-1v1h-1v-1h-1v1h-1v-1h-1v1h-1v-1h-1v-1h-1v-1h-1v-1h-1v-1h-0.563c-1.565 1.851-0.437 4.376-0.437 7 0 5.215 1.39 6 7 6s7-0.784 7-6c0-2.374 1.296-5.441 0-7zm-13 0h1v-1h-0.563c-0.144 0.124-0.3 0.242-0.437 0.375zm1-1h1v-1h-0.063a8.017 8.017 0 0 0-0.937 0.563zm1-1h1v-0.5c-0.346 0.125-0.68 0.303-1 0.469zm1 0v1h1v-1zm1 0h1v-0.938a8.79 8.79 0 0 0-1 0.157zm1 0v1h1v-1zm1 1v1h1v-1zm1 1v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 1v1h1v-1zm1 0h1v-1h-1zm-1 1h-1v1h1zm-1 1h-1v1h1zm-1 0v-1h-1v1zm-1 0h-1v1h1zm-1 0v-1h-1v1zm-1 0h-1v1h1zm-1 0v-1h-1v1zm-1-1v-1h-1v1zm-1-1v-1h-1v1zm0-1h1v-1h-1zm1 0v1h1v-1zm1 0h1v-1h-1zm1 0v1h1v-1zm1 1v1h1v-1zm-1 0h-1v1h1zm3 1h1v-1h-1z" clip-path="url(#a)" color="#000000" font-family="Sans" font-weight="400" opacity=".35" overflow="visible" style="fill:#fff;text-decoration-line:none;text-indent:0;text-transform:none"/>
+    <path id="path2227" d="m10 13a2 2 0 1 1-4 0 2 2 0 0 1 4 0z" style="fill:#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

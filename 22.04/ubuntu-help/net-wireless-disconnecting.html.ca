@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang=ca>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Per què la meva xarxa sense fil continua desconnectant-se?</title>
+<link rel="stylesheet" type="text/css" href="ca.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxa</a> » <a class="trail" href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="net.html.ca" title="Xarxes, web i correu electrònic">Xarxa</a> » <a class="trail" href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Per què la meva xarxa sense fil continua desconnectant-se?</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><p class="p">Pot ser que us hàgiu desconnectat d'una xarxa sense fil encara que vulgueu mantenir-vos connectat. Normalment, l'ordinador intentarà tornar a connectar-se a la xarxa quan això succeeix (la icona de la xarxa a la barra superior mostrarà tres punts si s'intenta tornar a connectar), però pot ser molest, especialment si utilitzeu Internet en aquest moment.</p></div>
+<section id="signal"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Senyal de xarxa sense fil fluixa</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Un motiu molt comú pel que esteu desconnectats d'una xarxa sense fil és que tingueu un senyal baix. Les xarxes sense fil tenen un rang limitat, de manera que si s'està massa lluny de l'estació base, és possible que no es pugui obtenir un senyal prou fort per a mantenir una connexió. Les parets i altres objectes entre vostè i l'estació base també poden debilitar el senyal.</p>
+<p class="p">La icona de xarxa a la barra superior mostra la fortalesa que té el senyal de la xarxa sense fil. Si el senyal és baix, proveu d'apropar-se a l'estació base.</p>
+</div></div>
+</div></section><section id="network"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">No s'ha establert correctament la connexió de xarxa</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">A vegades, quan es connecta a una xarxa sense fil, al principi pot semblar que s'hagi connectat correctament, però aleshores es desconnecta poc després. Això normalment passa perquè l'equip només va tenir un èxit parcial en connectar-se a la xarxa: va aconseguir establir una connexió, però no va poder finalitzar la connexió per alguna raó i, per tant, finalment es va desconnectar.</p>
+<p class="p">Una possible raó perquè passi això és que hàgiu introduït una contrasenya incorrecta o que l'ordinador no estigui autoritzat a la xarxa (perquè la xarxa necessita un nom d'usuari per a iniciar sessió, per exemple).</p>
+</div></div>
+</div></section><section id="hardware"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Maquinari/controladors de xarxa sense fil poc fiables</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Alguns maquinaris de les xarxes sense fil poden ser poc fiables. Les xarxes sense fil són complicades, de manera que les targetes de xarxa sense fil i les estacions base ocasionalment tenen problemes menors i poden desconnectar connexions. Això és molest, però passa bastant regularment amb molts dispositius. Si de tant en tant es va desconnectant de les connexions sense fil, pot ser el motiu. Si això passa amb molta freqüència, és possible que hàgiu de considerar obtenir un maquinari diferent.</p></div></div>
+</div></section><section id="busy"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Xarxes sense fil ocupades</span></h2></div>
+<div class="region"><div class="contents pagewide"><p class="p">Les xarxes sense fil en llocs molt ocupats (per exemple, a les universitats i cafeteries) sovint tenen molts equips que intenten connectar-se al mateix temps. De vegades, aquestes xarxes estan massa ocupades i no poden gestionar tots els ordinadors que s'intenten connectar, de manera que algunes es desconnecten.</p></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Més informació</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-problem.html.ca" title="Problemes de xarxa">Problemes de xarxa</a><span class="desc"> — Solucioneu problemes de connectivitat amb xarxes sense fil i cablejades.</span>
+</li>
+<li class="links ">
+<a href="net-wireless.html.ca" title="Xarxa sense fil">Xarxa sense fil</a><span class="desc"> — Connecta a les xarxes sense fil, incloses les xarxes ocultes i les xarxes creades a partir d'una connexió telefònica.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Vegeu també</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-connect.html.ca" title="Connectar-se a una xarxa sense fil">Connectar-se a una xarxa sense fil</a><span class="desc"> — Ves a Internet — sense fil.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

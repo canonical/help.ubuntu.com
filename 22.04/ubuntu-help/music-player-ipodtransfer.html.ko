@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>아이팟에 노래를 복사하면 나타나지 않아요</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="media.html.ko" title="소리, 비디오, 사진">미디어</a> › <a class="trail" href="media.html.ko#music" title="음악과 휴대 오디오 재생기">음악과 재생기</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">아이팟에 노래를 복사하면 나타나지 않아요</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">컴퓨터에 아이팟을 연결하면, 음악 재생 프로그램과 파일 관리자(<span class="gui">현재 활동</span> 개요의 <span class="app">파일</span> 프로그램)에 나타납니다. 음악 재생 프로그램으로 아이팟에 음악을 복사해야 합니다. 파일 관리자에서 파일을 복사하면 올바른 위치에 음악이 들어가지 않아 동작하지 않습니다. 아이팟은 음악 재생 프로그램에서 음악을 불러올 수 있지만 파일 관리자에서는 그렇게 못하는 득별한 저장 위치가 있습니다.</p>
+<p class="p">아이팟의 연결을 끊기 전에 음악의 복사를 끝내기 전까지 기다려야 합니다. 아이팟 연결을 끊기 전에 <span class="link"><a href="files-removedrive.html.ko" title="외장 드라이브 안전하게 제거하기">이 장치를 안전하게 제거</a></span>를 선택했는지 확인합니다. 이 동작을 진행하면 모든 음악을 장치로 올바르게 복사했는지 확인해줍니다.</p>
+<p class="p">아이팟의 노래가 나타나지 않는 또 다른 이유라면 사용하는 음악 플레이어 프로그램에서 음악의 오디오 형식 번환을 지원하지 않기 때문입니다. 아이팟에서 지원하지 않는 오디오 형식의 음악 사본이 있다면 (예: Ogg Vorbis (.oga) 파일), 음악 재생 프로그램은 아이팟이 인식하는 MP3 같은 형식으로 변환하려고 합니다. 적당한 변환 프로그램(코덱, 인코더)을 설치하지 않았다면, 음악 프로그램으로는 파일 형식을 변환할 수가 없어 음악 사본을 만들 수 없습니다. 프로그램 설치 관리자에서 적당한 코덱을 찾아봅니다.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html.ko#music" title="음악과 휴대 오디오 재생기">음악과 재생기</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

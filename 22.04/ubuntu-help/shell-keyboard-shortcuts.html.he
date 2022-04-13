@@ -89,7 +89,7 @@ use your desktop and applications more efficiently. If you cannot use a
 mouse or pointing device at all, see <span class="link"><a href="keyboard-nav.html.he" title="Keyboard navigation">Keyboard navigation</a></span> for more
 information on navigating user interfaces with only the keyboard.</p>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="true"></div>
 <div class="inner">
 <div class="title title-table"><h2><span class="title">Getting around the desktop</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -186,7 +186,7 @@ information on navigating user interfaces with only the keyboard.</p>
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h2><span class="title">Common editing shortcuts</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -214,7 +214,7 @@ information on navigating user interfaces with only the keyboard.</p>
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h2><span class="title">Capturing from the screen</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">

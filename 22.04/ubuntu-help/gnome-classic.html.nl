@@ -100,7 +100,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Belangrijk">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Gnome Klassiek is alleen beschikbaar op systemen waar bepaalde Gnome Shell-uitbreidingen zijn geïnstalleerd. Sommige GNU/Linux-distributies hebben deze uitbreidingen wellicht niet beschikbaar of niet standaard geïnstalleerd.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have the
+ <span class="sys">gnome-shell-extensions</span> package installed to make GNOME Classic available.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-shell-extensions" title="apt:gnome-shell-extensions">Install <span class="sys">gnome-shell-extensions</span></a></span></p>
+</div></div></div>
 </div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Om van <span class="em">Gnome</span> naar <span class="em">Gnome Klassiek</span> over te schakelen:</span></h3></div>

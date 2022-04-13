@@ -80,12 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Qu’est-ce que la touche <span class="key"><kbd>Menu</kbd></span> ?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">The <span class="key"><kbd>Menu</kbd></span> key, also known as the <span class="em">Application</span> key, is a
-  key found on some Windows-oriented keyboards. This key is usually on the
-  bottom-right of the keyboard, next to the <span class="key"><kbd>Ctrl</kbd></span> key, but it can be
-  placed in a different location by keyboard manufacturers. It is usually
-  depicted as a cursor hovering above a menu:
-  <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
+<p class="p">La touche <span class="key"><kbd>menu</kbd></span>, encore appelée touche <span class="em">Application</span>, est une touche qui existe sur les claviers Microsoft entre les touches <span class="key"><kbd>Alt Gr</kbd></span> et <span class="key"><kbd>Ctrl droite</kbd></span>, mais elle peut être placée ailleurs sur les claviers d’autres fabricants. Elle est habituellement représentée comme un petit pointeur en forme de flèche survolant une image de menu : <span class="media"><span class="media media-image"><img src="figures/keyboard-key-menu.svg" class="media media-inline" alt="Menu key icon"></span></span>.</p>
 <p class="p">La principale fonction de cette touche est d’ouvrir un menu contextuel avec le clavier plutôt qu’avec un clic droit de la souris. C’est utile si vous n’avez pas de souris ou si le bouton droit est inexistant.</p>
 <p class="p">La touche <span class="key"><kbd>menu</kbd></span> peut être absente pour des raisons de place, surtout sur les claviers d’ordinateurs portables. Dans ce cas, elle est souvent remplacée par une touche de fonction <span class="key"><kbd>menu</kbd></span> activée en combinaison avec la touche <span class="key"><kbd class="key-Fn">Fn</kbd></span>.</p>
 <p class="p">Le <span class="em">menu contextuel</span> est un menu qui surgit quand vous faites un clic droit. Ce menu dépend du contexte et est fonction de la surface sur laquelle vous avez cliqué. Si vous utilisez la touche <span class="key"><kbd>Menu</kbd></span>, le menu affiché est fonction de la zone de l’écran survolée par le pointeur au moment de l’appui sur la touche.</p>
@@ -96,8 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Select international keyboard layouts and use keyboard
-    accessibility features.</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

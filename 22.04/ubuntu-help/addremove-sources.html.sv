@@ -102,17 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">De flesta programförråd tillhandahåller en signeringsnyckel för verifiering av nerladdade paket. Så utöver stegen ovan skall du följa eventuella instruktioner om nerladdning och installation av signeringsnyckeln (GPG-nyckeln).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Aktivera förrådet Canonical-partners</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Förrådet Canonical-partners erbjuder vissa proprietära program som inte kostar något att använda men bygger på sluten källkod. Dessa inkluderar program som <span class="app">Adobe Flash Plugin</span>. Program i det här förrådet visas bland sökresultaten i <span class="app">Programvara för Ubuntu</span> men kommer inte att kunna installeras förrän förrådet är aktiverat.</p>
-<p class="p">För att aktivera förrådet, följ stegen ovanför för att öppna fliken <span class="gui">Övriga program</span> i <span class="app">Program &amp; uppdateringar</span>. Om du ser förrådet <span class="gui">Canonical Partners</span> i listan, kontrollera att det är förbockat och stäng sedan fönstret <span class="app">Program &amp; uppdateringar</span>. Om du inte ser det, klicka på <span class="gui">Add</span> och mata in:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Klicka på <span class="gui">Lägg till källa</span> och stäng sedan fönstret <span class="app">Program &amp; uppdateringar</span>. Vänta en stund medan <span class="app">Programvara för Ubuntu</span> laddar ner förrådsinformationen.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

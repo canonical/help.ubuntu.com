@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Comptes utilisateurs</title>
+<title>Comptes utilisateur</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,7 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Comptes utilisateurs</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Comptes utilisateur</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><p class="p">Toutes les personnes utilisant l’ordinateur doivent avoir leur propre compte utilisateur. Elles peuvent ainsi conserver leurs fichiers dans un endroit différent des autres et choisir leurs propres paramètres. C’est aussi plus sûr. Il n’est possible d’accéder à un autre compte utilisateur que si vous en connaissez le mot de passe.</p></div>
 <section id="manage"><div class="inner">
@@ -108,8 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — From hardware control to privacy settings, make GNOME
-    work for you.</span>
+<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — Du contrôle du matériel aux paramètres de confidentialité, faire en sorte que GNOME travaille pour vous.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

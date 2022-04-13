@@ -71,21 +71,16 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Color</a> › <a class="trail" href="color.html.fr#calibration" title="Étalonnage">Étalonnage</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Couleur</a> › <a class="trail" href="color.html.fr#calibration" title="Étalonnage">Étalonnage</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Color</a> › <a class="trail" href="color.html.fr#calibration" title="Étalonnage">Étalonnage</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="color.html.fr" title="Gestion de la couleur">Couleur</a> › <a class="trail" href="color.html.fr#calibration" title="Étalonnage">Étalonnage</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Étalonnage d’un appareil photo</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    Camera devices are calibrated by taking a photograph of a target
-    under the desired lighting conditions.
-    By converting the RAW file to a TIFF file, it can be used to
-    calibrate the camera device in the <span class="gui">Color</span> panel.
-  </p>
+<p class="p">Les appareils photos sont étalonnés en photographiant une cible sous des conditions d’éclairage souhaitées. En convertissant le fichier RAW en fichier TIFF, il peut être utilisé ensuite pour étalonner l’appareil dans le panneau <span class="gui">Couleur</span>.</p>
 <p class="p">Vous devrez rogner le fichier TIFF afin que seule la cible soit visible. Assurez-vous que les bordures blanches ou noires sont toujours visibles. L’étalonnage ne fonctionnera pas si l’image est à l’envers ou trop largement distordue.</p>
 <div class="note note-tip" title="Astuce">
 <svg width="24" height="24" version="1.1">

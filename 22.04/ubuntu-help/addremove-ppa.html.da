@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Tilføj et Personligt pakkearkiv (PPA</title>
+<title>Tilføj et Personligt pakkearkiv (PPA)</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,42 +70,30 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installer og fjern software">Tilføj / fjern software</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installér og fjern software">Tilføj / fjern software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Tilføj et Personligt pakkearkiv (PPA</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Tilføj et Personligt pakkearkiv (PPA)</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    <span class="em">Personal Package Archives (PPAs)</span> are software repositories designed 
-    for Ubuntu users and are easier to install than other third-party 
-    repositories. PPAs are often used to distribute pre-release software so that it can be tested.
-  </p>
+<p class="p"><span class="em">Personlige pakkearkiver (PPA'er)</span> er programarkiver designet til Ubuntu-brugere og er nemmere at installere end andre tredjepartsarkiver. PPA'er bruges ofte til at distribuere programmer før udgivelse, så de kan testes.</p>
 <div class="note note-warning" title="Advarsel">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">Tilføj kun softwarearkiver fra kilder du stoler på!</p>
-<p class="p">Tredje-parts software arkiver er hverken checket igennem sikkerheds eller troværdighed-mæssigt af Ubuntu medlemmer, og kan derfor indeholde programmer, der kan ødelægge din computer.</p>
+<p class="p">Tilføj kun programarkiver fra kilder, du stoler på!</p>
+<p class="p">Tredjepartsprogramarkiver er ikke undersøgt af Ubuntu-medlemmer mht. sikkerhed eller troværdighed og kan derfor indeholde programmer, der kan gøre skade på din computer.</p>
 </div></div></div>
 </div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Installér en PPA</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Installér et PPA</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">På PPA'ets oversigtsside, se efter overskriften <span class="gui">Tilføjelse af denne PPA til dit system</span>. Notér PPA'ets placering, som bør ligne: <span class="code">ppa:mozillateam/firefox-next</span>.
-Tredjeparts software repositories ikke kontrolleres for sikkerhed eller pålidelighed af Ubuntu-medlemmer, og kan indeholde software, som er skadeligt for din computer.</p></li>
-<li class="steps"><p class="p">
-        Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">Skift til <span class="gui">Anden Software</span> fanebladet.</p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Add</span> and enter the PPA's location (as noted in step 1).
-      </p></li>
+<li class="steps"><p class="p">Se efter overskriften <span class="gui">Tilføjelse af dette PPA til dit system</span> på oversigten over PPA'er. Notér PPA'ets placering, som bør ligne: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="app">Software &amp; opdateringer</span> fra søgelinjen i <span class="em">Aktiviteter</span>.</p></li>
+<li class="steps"><p class="p">Skift til fanebladet <span class="gui">Anden Software</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Tilføj</span> og indtast PPA'ets placering (som beskrevet under trin 1).</p></li>
 <li class="steps"><p class="p">Klik <span class="gui">Tilføj kilde</span>. Indtast din adgangskode i godkendelsesvinduet.</p></li>
-<li class="steps"><p class="p">
-        Close the <span class="app">Software &amp; Updates</span> window. <span class="app">Ubuntu Software</span> will then
-        check your software sources for new software.
-      </p></li>
+<li class="steps"><p class="p">Luk <span class="app">Software &amp; opdateringer</span>-vinduet. <span class="app">Ubuntu Software</span> vil så lede efter nye programmer i dine programkilder.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -115,19 +103,13 @@ Tredjeparts software repositories ikke kontrolleres for sikkerhed eller pålidel
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.da" title="Installer og fjern software">Installer og fjern software</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.da" title="Installér og fjern software">Installér og fjern software</a><span class="desc"> — Tilføj og fjern programmer og anden software. Håndtér yderligere programarkiver.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove-sources.html.da" title="Add software repositories">
-    Add software repositories
-  </a><span class="desc"> — 
-      Add repositories to extend the software sources Ubuntu uses for 
-      installation and upgrades.
-    </span>
+<a href="addremove-sources.html.da" title="Tilføj programarkiver">Tilføj programarkiver</a><span class="desc"> — Tilføj arkiver for at udvide antallet af programkilder, Ubuntu bruger til installering og opgraderinger.</span>
 </li></ul></div>
 </div></div>
 </div>

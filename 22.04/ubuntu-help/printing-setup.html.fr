@@ -92,9 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Imprimantes</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Imprimantes</span>.</p></li>
-<li class="steps"><p class="p">Depending on your system, you may have to press 
-      <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
+<li class="steps"><p class="p">Selon votre système, vous devrez peut-être cliquer sur le bouton <span class="gui">Déverrouiller</span> situé dans le coin supérieur droit et saisir votre mot de passe.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Ajouter</span>.</p></li>
 <li class="steps">
 <p class="p">Dans la fenêtre qui s’affiche, sélectionnez votre nouvelle imprimante, et appuyez sur <span class="gui">Ajouter</span>.</p>

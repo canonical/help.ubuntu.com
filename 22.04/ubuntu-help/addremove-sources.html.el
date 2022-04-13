@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</a> » <a class="trail" href="addremove.html.el" title="Εγκατάσταση &amp; απεγκατάσταση λογισμικού">Προσθήκη/Αφαίρεση Λογισμικού</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.el" title="Οδηγός χρήσης Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Βοήθεια"></span></span> Οδηγός χρήσης Ubuntu</a> » <a class="trail" href="addremove.html.el" title="Εγκατάσταση &amp; απεγκατάσταση λογισμικού">Προσθήκη/Αφαίρεση Λογισμικού</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Προσθήκη αποθετηρίων λογισμικού</span></h1></div>
@@ -104,17 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Τα περισσότερα αποθετήρια παρέχουν ένα κλειδί υπογραφής για την επαλήθευση των ληφθέντων πακέτων. Έτσι επιπρόσθετα στα παραπάνω βήματα, θα πρέπει να ακολουθείτε πιθανές οδηγίες στον τρόπο λήψης και εγκατάστασης του κλειδιού υπογραφής (κλειδί GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Ενεργοποιήστε το Αποθετήριο συνεργατών της Canonical.</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Το αποθετήριο Canonical Partner προσφέρει κάποιες ιδιόκτητες εφαρμογές που είναι δωρεάν αλλά είναι κλειστού κώδικα. Συμπεριλαμβάνεται λογισμικό όπως το <span class="app">Adobe Flash Plugin</span>. Το λογισμικό σε αυτό το αποθετήριο εμφανίζεται στα αποτελέσματα αναζήτησης στο <span class="app">Λογισμικό Ubuntu</span> αλλά δεν θα είναι διαθέσιμο για εγκατάσταση μέχρι να ενεργοποιηθεί αυτό το αποθετήριο.</p>
-<p class="p">Για την ενεργοποίηση του αποθετηρίου ακολουθήστε τα βήματα παραπάνω για να ανοίξετε την καρτέλα <span class="gui">'Αλλο λογισμικό</span> στην εφαρμογή <span class="app">Λογισμικό &amp; Ενημερώσεις</span>. Εάν δείτε το αποθετήριο <span class="gui">Canonical Partners</span> στη λίστα, σιγουρευτείτε ότι είναι επιλεγμένο και μετά κλείστε το παράθυρο του <span class="app">Λογισμικό &amp; Ενημερώσεις</span>. Εάν δεν το βλέπετε, πατήστε <span class="gui">Προσθήκη</span> και εισάγετε:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Πατήστε <span class="gui">Προσθήκη πηγής</span> και μετά κλείστε το παράθυρο <span class="app">Λογισμικό &amp; Ενημερώσεις</span>. Περιμένετε λίγο ώστε το <span class="app">Λογισμικό Ubuntu</span> να λάβει τις πληροφορίες του αποθετηρίου.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

@@ -70,21 +70,15 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-wired.html.fr" title="Réseau filaire">Réseau filaire</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-wired.html.fr" title="Réseau filaire">Réseau filaire</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Connexion à un réseau filaire (Ethernet)</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Pour configurer la plupart des connexions filaires, tout ce que vous avez à faire est de brancher un câble réseau. L’icône de réseau filaire (<span class="media"><span class="media media-image"><img src="figures/network-wired-symbolic.svg" class="media media-inline" alt="paramètres"></span></span>) est affichée dans la barre supérieure avec trois points pendant que la connexion est en cours. Les points disparaissent lorsque la connexion est établie.</p>
-<div class="media media-image floatend"><div class="inner"><img src="figures/net-wired-ethernet-diagram.svg" height="38" width="51" class="media media-block" alt="Diagram of an Ethernet cable"></div></div>
-<p class="p">If this does not happen, you should first of all make sure that your
-  network cable is plugged in. One end of the cable should be plugged into the
-  rectangular Ethernet (network) port on your computer, and the other end
-  should be plugged into a switch, router, network wall socket or similar
-  (depending on the network setup you have). The Ethernet port is often on the
-  side of a laptop, or near the top of the back of a desktop computer. Sometimes, a
-  light beside the Ethernet port will indicate that it is plugged in and active.</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/net-wired-ethernet-diagram.svg" height="38" width="51" class="media media-block" alt="Diagramme d’un câble Ethernet"></div></div>
+<p class="p">Si cela ne se passe pas de cette façon, commencez par vérifier que votre câble réseau est correctement branché. L’une de ses extrémités doit être branchée dans le port Ethernet rectangulaire de votre ordinateur, l’autre extrémité va dans un commutateur, la prise d’un routeur ou d’un connecteur réseau mural, ou quelque chose d’équivalent (en fonction de votre configuration réseau). Le port Ethernet se trouve souvent sur le côté d’un ordinateur portable, ou à l’arrière (vers la partie supérieure) d’un ordinateur de bureau. Parfois, une lumière à côté du port Ethernet indique qu’il est connecté et actif.</p>
 <div class="note" title="Note">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -98,7 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-wired.html.fr" title="Réseau filaire">Réseau filaire</a><span class="desc"> — Use a wired internet connection and set a static IP address.</span>
+<a href="net-wired.html.fr" title="Réseau filaire">Réseau filaire</a><span class="desc"> — Utiliser une connexion Internet filaire et définir une adresse IP statique.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -98,8 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Докладніше</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.uk" title="Встановлення та видалення програмного забезпечення">Встановлення та видалення програмного забезпечення</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.uk" title="Встановлення та видалення програмного забезпечення">Встановлення та видалення програмного забезпечення</a><span class="desc"> — Додавайте і вилучайте додатки та інше програмне забезпечення. Керуйте репозиторіями з додатковими програмами.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

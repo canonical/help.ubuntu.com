@@ -104,17 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Většina repozitářů poskytuje podpisový klíč, aby bylo možno ověřit stažené balíky. Kromě výše zmíněných kroků byste se tedy měli řídit instrukcemi jak stáhnout a nainstalovat podpisový klíč (klíč GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Aktivace Partnerského repozitáře Canonical</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Partnerský repozitář Canonical poskytuje některé proprietární aplikace, které nestojí žádné peníze, ale mají uzavřený zdrojový kód. Patří mezi ně například <span class="app">zásuvný modul Adobe Flash</span>. Software z tohoto repozitáře se zobrazí ve výsledcích vyhledávání v <span class="app">Ubuntu Software</span>, ale nebude možno jej nainstalovat, než bude tento repozitář povolen.</p>
-<p class="p">Pro povolení tohoto repozitáře se řiďte instrukcemi výše pro otevření karty <span class="gui">Ostatní software</span> v <span class="app">Software &amp; Aktualizace</span>. Pokud v seznamu vidíte repozitář <span class="gui">Partneři Canonicalu</span>, ujistěte se, že je zaškrtnut a poté zavřete okno <span class="app">Software &amp; Aktualizace</span>. Pokud jej nevidíte, klikněte na <span class="gui">Přidat</span> a vložte:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Klikněte na <span class="gui">Přidat zdroj</span>, poté zavřete okno <span class="app">Software &amp; Aktualizace</span>. Poté chvíli počkejte, než <span class="app">Ubuntu Software</span> stáhne informace o repozitáři.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

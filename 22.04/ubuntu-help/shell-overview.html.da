@@ -103,8 +103,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="shell-keyboard-shortcuts.html.da" title="Nyttige tastaturgenveje"><span class="title">Nyttige tastaturgenveje</span><span class="linkdiv-dash"> — </span><span class="desc">Find rundt på skrivebordet med tastaturet.</span></a></div>
 </div>
 <div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.da" title="Opstartsprogrammer"><span class="title">Opstartsprogrammer</span><span class="linkdiv-dash"> — </span><span class="desc">Vælg, hvilke programmer der skal starte, når du logger på.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows-switching.html.da" title="Skift mellem vinduer"><span class="title">Skift mellem vinduer</span><span class="linkdiv-dash"> — </span><span class="desc">Tryk på <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.da" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-windows.html.da" title="Vinduer og arbejdsområder"><span class="title">Vinduer og arbejdsområder</span><span class="linkdiv-dash"> — </span><span class="desc">Flyt og organiser dine vinduer.</span></a></div>
 </div>
 </div></div></div></div></div></div>

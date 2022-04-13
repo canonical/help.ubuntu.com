@@ -79,8 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Si descubre un problema en Ubuntu, puede enviar un <span class="em">informe de fallo</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Type <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-<span class="input">ubuntu-bug &lt;package name&gt;</span></p>
+<p class="p">Pulse <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> y escriba <span class="input">ubuntu-bug &lt;nombre del paquete&gt;</span></p>
 <p class="p">Si tiene un problema de hardware o no sabe el nombre del programa afectado, teclee simplemente <span class="input">ubuntu-bug</span></p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
@@ -117,8 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.es" title="Obtener más ayuda">Obtener más ayuda</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.es" title="Obtener más ayuda">Obtener más ayuda</a><span class="desc"> — Obtenga sugerencias sobre el uso de esta guía y conecte con la comunidad para obtener más ayuda.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

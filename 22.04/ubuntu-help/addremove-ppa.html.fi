@@ -89,9 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Asenna PPA-ohjelmalähde</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">PPA-ohjelmalähteen etusivulla on kohta <span class="gui">Adding this PPA to your system</span>. Tämän otsikon alta löytyy PPA:n polku, joka on muotoa <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">
-        Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Avaa <span class="app">Ohjelmistot ja päivitykset</span> <span class="em">Toiminnot</span>-hakupalkin avulla.</p></li>
 <li class="steps"><p class="p">Siirry <span class="gui">Muut ohjelmistot</span> -välilehdelle.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Lisää</span> ja kirjoita PPA:n sijainti (kuten mainittu kohdassa 1).</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Lisää lähde</span>. Anna salasanasi todennusikkunaan.</p></li>
@@ -105,8 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a><span class="desc"> — Sovellusten lisääminen ja poistaminen. Ohjelmalähteiden hallinta.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

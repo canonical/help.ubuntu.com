@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fa" title="راهنمای میزکار اوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> راهنمای میزکار اوبونتو</a> » <a class="trail" href="net.html.fa" title="شبکه، وب و رایانامه">شبکه</a> » <a class="trail" href="net-general.html.fa" title="عبارت‌ها و نکته‌های شبکه‌ای">نکته‌ها</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fa" title="راهنمای میزکار اوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> راهنمای میزکار اوبونتو</a>‏ » ‏<a class="trail" href="net.html.fa" title="شبکه، وب و رایانامه">شبکه</a>‏ » ‏<a class="trail" href="net-general.html.fa" title="عبارت‌ها و نکته‌های شبکه‌ای">نکته‌ها</a>‏ » ‏</div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">نشانی مک چیست؟</span></h1></div>

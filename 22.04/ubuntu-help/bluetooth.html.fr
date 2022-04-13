@@ -76,11 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Bluetooth</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Bluetooth is a wireless protocol that allows you to connect many different
-types of devices to your computer. Bluetooth is commonly used for headsets
-and other devices like mice and keyboards. You can also use Bluetooth to
-<span class="link"><a href="bluetooth-send-file.html.fr" title="Envoi de fichiers vers un périphérique Bluetooth">send files between devices</a></span>, such as
-from your computer to your cell phone.</p>
+<p class="p">Bluetooth est un protocole de communication sans fil qui permet de connecter différents types de périphériques à un ordinateur. Bluetooth est habituellement utilisé pour les micro-casques et d’autres périphériques comme les souris et les claviers. Il est aussi utilisé pour <span class="link"><a href="bluetooth-send-file.html.fr" title="Envoi de fichiers vers un périphérique Bluetooth">envoyer des fichiers entre périphériques</a></span>, par exemple entre un ordinateur et un téléphone portable.</p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-turn-on-off.html.fr" title="Activation ou désactivation du Bluetooth"><span class="title">Activation ou désactivation du Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Activer ou désactiver le périphérique Bluetooth sur votre ordinateur.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-connect-device.html.fr" title="Association d’un ordinateur à un périphérique Bluetooth"><span class="title">Association d’un ordinateur à un périphérique Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Associer des périphériques Bluetooth.</span></a></div>
@@ -108,8 +104,7 @@ from your computer to your cell phone.</p>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configure hardware and diagnose problems, including printers,
-    displays, disks, and more.</span>
+<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configurer le matériel et diagnostiquer les problèmes, y compris les imprimantes, les écrans, les disques, etc.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

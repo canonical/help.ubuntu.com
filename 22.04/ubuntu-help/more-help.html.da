@@ -81,12 +81,12 @@ document.addEventListener('DOMContentLoaded', function() {
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="community-support.html.da" title="Community support"><span class="title">Community support</span><span class="linkdiv-dash"> — </span><span class="desc">Get help from the community</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.da" title="Om denne vejledning"><span class="title">Om denne vejledning</span><span class="linkdiv-dash"> — </span><span class="desc">Et par tips om at bruge Ubuntu-skrivebordsguiden.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="community-support.html.da" title="Fællesskabshjælp"><span class="title">Fællesskabshjælp</span><span class="linkdiv-dash"> — </span><span class="desc">Få hjælp fra fællesskabet</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.da" title="Indrapportér et problem i Ubuntu"><span class="title">Indrapportér et problem i Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">Hvordan og hvor rapporteres fejl i Ubuntu.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="report-ubuntu-bug.html.da" title="Report a problem in Ubuntu"><span class="title">Report a problem in Ubuntu</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to report problems with Ubuntu.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="get-involved.html.da" title="Vær med til at forbedre guiden"><span class="title">Vær med til at forbedre guiden</span><span class="linkdiv-dash"> — </span><span class="desc">How and where to report problems with these help topics.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.da" title="Om denne vejledning"><span class="title">Om denne vejledning</span><span class="linkdiv-dash"> — </span><span class="desc">Et par tips om at bruge Ubuntu-skrivebordsvejledningen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="get-involved.html.da" title="Vær med til at forbedre guiden"><span class="title">Vær med til at forbedre guiden</span><span class="linkdiv-dash"> — </span><span class="desc">Hvordan og hvor rapporteres fejl i disse hjælpeemner.</span></a></div>
 </div>
 </div></div></div></div>
 </div>

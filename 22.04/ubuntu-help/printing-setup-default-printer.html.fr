@@ -86,12 +86,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Imprimantes</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Imprimantes</span>.</p></li>
-<li class="steps"><p class="p">Depending on your system, you may have to press 
-      <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Click the <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
-      button next to the printer.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">Use Printer by Default</span> checkbox.</p></li>
+<li class="steps"><p class="p">Selon votre système, vous devrez peut-être cliquer sur le bouton <span class="gui">Déverrouiller</span> situé dans le coin supérieur droit et saisir votre mot de passe.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="paramètres"></span></span> situé à côté de l’imprimante.</p></li>
+<li class="steps"><p class="p">Cochez la case <span class="gui">Utiliser comme imprimante par défaut</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Quand vous imprimez avec une application, l’imprimante par défaut est utilisée automatiquement, à moins que vous ne choisissiez une autre imprimante.</p>
 </div>

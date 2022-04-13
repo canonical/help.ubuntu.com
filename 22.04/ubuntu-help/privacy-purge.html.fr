@@ -85,15 +85,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Purge automatique de la corbeille et des fichiers temporaires</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir<span class="gui">Historique des fichiers et corbeille</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">File History &amp; Trash</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Switch on one or both of <span class="gui">Automatically Delete Trash Content</span>
-      or <span class="gui">Automatically Delete Temporary Files</span>.</p></li>
-<li class="steps"><p class="p">Set how often you would like your <span class="em">Trash</span>  and
-      <span class="em">Temporary Files</span> to be purged by changing the
-      <span class="gui">Automatically Delete Period</span> value.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Empty Trash…</span> or <span class="gui">Delete Temporary Files…</span>
-      buttons to perform these actions immediately.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Historique des fichiers et corbeille</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Historique des fichiers et corbeille</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">Activez <span class="gui">Supprimer automatiquement le contenu de la corbeille</span> et, ou <span class="gui">Supprimer automatiquement les fichiers temporaires</span>.</p></li>
+<li class="steps"><p class="p">Définissez la fréquence de purge de la <span class="em">Corbeille</span> et des <span class="em">Fichiers temporaires</span> en modifiant la valeur <span class="gui">Périodicité de suppression automatique</span>.</p></li>
+<li class="steps"><p class="p">Utilisez les boutons <span class="gui">Vider la corbeille</span> ou <span class="gui">Supprimer les fichiers temporaires</span> pour exécuter ces actions immédiatement.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Astuce">
@@ -110,8 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a></li>
 <li class="links ">
-<a href="privacy.html.fr" title="Paramètres de confidentialité">Paramètres de confidentialité</a><span class="desc"> — Lock your screen, remove temporary files, and control access to
-    devices like cameras and microphones.</span>
+<a href="privacy.html.fr" title="Paramètres de confidentialité">Paramètres de confidentialité</a><span class="desc"> — Verrouiller votre écran, supprimer les fichiers temporaires et contrôler l’accès aux périphériques tels que les caméras et les microphones.</span>
 </li>
 </ul></div>
 </div></div></div>

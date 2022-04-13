@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> › <a class="trail" href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> › <a class="trail" href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> › <a class="trail" href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> › <a class="trail" href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="hardware-problems-graphics.html.fr" title="Problèmes d’écran">Problèmes d’écran</a> » </div>
 </div>
@@ -90,9 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à taper <span class="gui">Énergie</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Énergie</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Screen Blank</span> drop-down list under <span class="gui">Power Saving
-      Options</span> to set the time until the screen blanks, or disable the blanking
-      completely.</p></li>
+<li class="steps"><p class="p">Utilisez la liste déroulante d’<span class="gui">Écran noir</span>, à la rubrique <span class="gui">Options d’économie d’énergie</span>, pour définir le délai avant extinction de l’écran, ou désactiver complètement la fonction.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Astuce">
@@ -109,8 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Set your background, configure monitors, and manage
-    color temperatures.</span>
+<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Définir votre arrière-plan, configurer les écrans et gérer les températures de couleur.</span>
 </li>
 <li class="links "><a href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a></li>
 <li class="links ">
@@ -125,8 +122,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="power-whydim.html.fr" title="Diminution de la luminosité de l’écran après un certain temps d’inactivité">Diminution de la luminosité de l’écran après un certain temps d’inactivité</a><span class="desc"> — L’écran s’assombrit quand l’ordinateur est mis au repos pour économiser l’énergie.</span>
 </li>
 <li class="links ">
-<a href="session-screenlocks.html.fr" title="L’écran se verrouille trop rapidement">L’écran se verrouille trop rapidement</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Screen Lock</span> settings.</span>
+<a href="session-screenlocks.html.fr" title="L’écran se verrouille trop rapidement">L’écran se verrouille trop rapidement</a><span class="desc"> — Modifier le temps d’attente avant le verrouillage de l’écran dans les paramètres de <span class="gui">Verrouillage de l’écran</span>.</span>
 </li>
 </ul></div>
 </div></div>

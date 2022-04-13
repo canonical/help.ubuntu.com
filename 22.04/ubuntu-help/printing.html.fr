@@ -125,8 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configure hardware and diagnose problems, including printers,
-    displays, disks, and more.</span>
+<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configurer le matériel et diagnostiquer les problèmes, y compris les imprimantes, les écrans, les disques, etc.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -76,21 +76,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Réseau, Web, messagerie et courriel</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-wireless.html.fr" title="Réseau sans fil"><span class="title">Réseau sans fil</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to wireless networks, including hidden networks and
-    networks created from phone tethering.</span></a></div></div></div></div></div>
+<div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-wireless.html.fr" title="Réseau sans fil"><span class="title">Réseau sans fil</span><span class="linkdiv-dash"> — </span><span class="desc">Se connecter à des réseaux sans fil, y compris des réseaux masqués et des réseaux créés à partir du partage de connexion téléphonique.</span></a></div></div></div></div></div>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="contacts.html.fr" title="Contacts"><span class="title">Contacts</span><span class="linkdiv-dash"> — </span><span class="desc">Accéder à vos contacts.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-email.html.fr" title="Logiciels de messagerie et courriels"><span class="title">Logiciels de messagerie et courriels</span><span class="linkdiv-dash"> — </span><span class="desc">Set your default app and stay safe with email.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-browser.html.fr" title="Navigateurs Web"><span class="title">Navigateurs Web</span><span class="linkdiv-dash"> — </span><span class="desc">Change your default web browser.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing.html.fr" title="Partage"><span class="title">Partage</span><span class="linkdiv-dash"> — </span><span class="desc">Share your desktop, files, or media.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-email.html.fr" title="Logiciels de messagerie et courriels"><span class="title">Logiciels de messagerie et courriels</span><span class="linkdiv-dash"> — </span><span class="desc">Définir votre application par défaut et assurer la sécurité de vos courriels.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-browser.html.fr" title="Navigateurs Web"><span class="title">Navigateurs Web</span><span class="linkdiv-dash"> — </span><span class="desc">Changer votre navigateur Web par défaut.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing.html.fr" title="Partage"><span class="title">Partage</span><span class="linkdiv-dash"> — </span><span class="desc">Partager votre bureau, vos fichiers ou vos médias.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="net-problem.html.fr" title="Problèmes réseau"><span class="title">Problèmes réseau</span><span class="linkdiv-dash"> — </span><span class="desc">Troubleshoot connectivity issues with wireless and wired networks.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-wired.html.fr" title="Réseau filaire"><span class="title">Réseau filaire</span><span class="linkdiv-dash"> — </span><span class="desc">Use a wired internet connection and set a static IP address.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-general.html.fr" title="Termes et astuces sur le réseau"><span class="title">Termes et astuces sur le réseau</span><span class="linkdiv-dash"> — </span><span class="desc">Learn about IP address, internet proxies, and how to stay safe
-    on the internet.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="net-security.html.fr" title="Être en sécurité sur Internet"><span class="title">Être en sécurité sur Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Understand firewalls, viruses, and other internet security topics.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-problem.html.fr" title="Problèmes réseau"><span class="title">Problèmes réseau</span><span class="linkdiv-dash"> — </span><span class="desc">Résoudre les problèmes de connectivité avec les réseaux sans fil et filaires.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-wired.html.fr" title="Réseau filaire"><span class="title">Réseau filaire</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser une connexion Internet filaire et définir une adresse IP statique.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-general.html.fr" title="Termes et astuces sur le réseau"><span class="title">Termes et astuces sur le réseau</span><span class="linkdiv-dash"> — </span><span class="desc">En apprendre davantage sur les adresses IP, les serveurs mandataires et comment utiliser Internet en toute sécurité.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="net-security.html.fr" title="Être en sécurité sur Internet"><span class="title">Être en sécurité sur Internet</span><span class="linkdiv-dash"> — </span><span class="desc">Comprendre les pare-feu, les virus et d’autres sujets concernant la sécurité sur Internet.</span></a></div>
 </div>
 </div></div></div></div>
 </div>

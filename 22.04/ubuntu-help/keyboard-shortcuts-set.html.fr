@@ -84,9 +84,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Keyboard Shortcuts</span> section, select <span class="gui">Customize Shortcuts</span>.</p></li>
-<li class="steps"><p class="p">Select the desired category, or enter a search term.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Clavier</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">À la rubrique <span class="gui">Raccourcis clavier</span>, sélectionnez <span class="gui">Personnaliser les raccourcis</span>.</p></li>
+<li class="steps"><p class="p">Sélectionnez la catégorie souhaitée ou saisissez un terme de recherche.</p></li>
 <li class="steps"><p class="p">Cliquez sur la ligne comportant l’action souhaitée. La fenêtre <span class="gui">Définir un raccourci</span> s’ouvre alors.</p></li>
 <li class="steps"><p class="p">Effectuez la combinaison de touches désirée ou appuyez sur <span class="key"><kbd>Retour arrière</kbd></span> pour l’effacer, ou sur <span class="key"><kbd>Échap</kbd></span> pour annuler.</p></li>
 </ol></div></div></div>
@@ -181,11 +181,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <td><p class="p">Désactivé</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move to workspace on the left</p></td>
+<td style="border-top-style: solid;"><p class="p">Basculer vers l’espace de travail de gauche</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page haut</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move to workspace on the right</p></td>
+<td style="border-top-style: solid;"><p class="p">Basculer vers l’espace de travail de droite</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page bas</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -205,11 +205,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one workspace to the left</p></td>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre d’un espace de travail vers la gauche</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>page haut</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Move window one workspace to the right</p></td>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre d’un espace de travail vers la droite</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>page bas</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -333,7 +333,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Lecteur multimédia)</p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Microphone mute/unmute</p></td>
+<td style="border-top-style: solid;"><p class="p">Éteindre/allumer le microphone</p></td>
 <td style="border-top-style: solid;"></td>
 </tr>
 <tr>
@@ -385,7 +385,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p">Show the Power Off dialog</p></td>
+<td style="border-top-style: solid;"><p class="p">Afficher la fenêtre Éteindre</p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Suppr</kbd></span></span></p></td>
 </tr>
 <tr>
@@ -515,24 +515,16 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></section><section id="custom"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Raccourcis personnalisés</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">To create your own application keyboard shortcut in the
-  <span class="gui">Keyboard</span> settings:</p>
+<p class="p">Pour créer vos propres raccourcis clavier dans les paramètres <span class="gui">Clavier</span> :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select <span class="gui">Custom Shortcuts</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Add Shortcut</span> button if no custom
-      shortcut is set yet. Otherwise click the <span class="gui">+</span>
-      button. The <span class="gui">Add Custom Shortcut</span> window will appear.</p></li>
+<li class="steps"><p class="p">Choisissez <span class="gui">Raccourcis personnalisés</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Ajouter un raccourci</span> si aucun raccourci personnalisé n’est encore défini. Sinon, cliquez sur le bouton <span class="gui">+</span>. La fenêtre <span class="gui">Ajouter un raccourci personnalisé</span> s’ouvre alors.</p></li>
 <li class="steps"><p class="p">Saisissez un <span class="gui">Nom</span> pour identifier le raccourci, et une <span class="gui">Commande</span> pour lancer une application. Par exemple, si vous voulez un raccourci pour ouvrir <span class="app">Rhythmbox</span>, vous pouvez le nommer <span class="input">Musique</span> et utiliser la commande <span class="input">rhythmbox</span>.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Add Shortcut…</span> button. In the
-      <span class="gui">Add Custom Shortcut</span> window, hold down the desired
-      shortcut key combination.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Ajouter un raccourci</span>. Dans la fenêtre <span class="gui">Ajouter un raccourci personnalisé</span>, effectuez la combinaison de touches désirée.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Ajouter</span>.</p></li>
 </ol></div></div></div>
 <p class="p">Le nom de la commande que vous saisissez doit être une commande système valide. Vous pouvez vérifier que la commande fonctionne en ouvrant un Terminal et en la saisissant dedans. Il est possible que la commande ouvrant une application n’aie pas exactement le même nom que l’application elle-même.</p>
-<p class="p">If you want to change the command that is associated with a custom
-  keyboard shortcut, click the row of the shortcut. The
-  <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
-  command.</p>
+<p class="p">Si vous voulez modifier la commande qui est associée à un raccourci clavier personnalisé, cliquez sur la ligne du raccourci. La fenêtre <span class="gui">Définir un raccourci personnalisé</span> apparaît et vous pouvez modifier la commande.</p>
 </div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -540,8 +532,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Select international keyboard layouts and use keyboard
-    accessibility features.</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

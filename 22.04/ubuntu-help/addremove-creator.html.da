@@ -73,36 +73,25 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="trail">
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="disk.html.da" title="Diske &amp; lager">Disks</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installer og fjern software">Tilføj / fjern software</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installér og fjern software">Tilføj / fjern software</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Opret en opstartsdisk</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">In this context a startup disk is a USB flash drive from which you can startup and <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">install Ubuntu</a></span>.
-  The capacity of the USB flash drive must be at least 2 GB.
-  Any data on the USB flash drive will be lost when you create the startup disk.</p>
-<p class="p">It's assumed that you have downloaded an Ubuntu ISO image.</p>
+<p class="p">I denne sammenhæng er en opstartsdisk en USB-nøgle, hvorfra du kan starte og <span class="link"><a href="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop" title="https://www.ubuntu.com/download/desktop/install-ubuntu-desktop">installere Ubuntu</a></span>. USB-nøglen skal mindst have en størrelse på 2 GB. Alle data på USB-nøglen vil gå tabt, når du laver opstartsdisken.</p>
+<p class="p">Det forudsættes, at du har hentet et Ubuntu-ISO-aftryk.</p>
 <p class="p">Opret en opstartsdisk fra et Ubuntu ISO-aftryk:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Open <span class="app">Startup Disk Creator</span> via the <span class="em">Activities</span> search bar.
       </p></li>
-<li class="steps"><p class="p">
-        If the ISO image is in your <span class="gui">Download</span> folder and there is just one ISO image, <span class="app">Startup Disk Creator</span> will have selected it,
-        otherwise select the correct ISO image.
-      </p></li>
-<li class="steps"><p class="p">
-        If your computer has just one USB flash drive, <span class="app">Startup Disk Creator</span> will have selected it, otherwise select the correct drive.
-      </p></li>
+<li class="steps"><p class="p">Ligger ISO-aftrykket i mappen <span class="gui">Hentet</span>, og er der kun et ISO-aftryk, vil <span class="app">Oprettelse af startdisk</span> allerede have valgt det. Hvis ikke, så vælg det rigtige ISO-aftryk selv.</p></li>
+<li class="steps"><p class="p">Har din computer kun en USB-nøgle isat, vil <span class="app">Oprettelse af startdisk</span> allerede have valgt den. I modsat fald skal du selv vælge den rigtige nøgle.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Opret opstartsdisk</span>.</p></li>
-<li class="steps"><p class="p">
-        Click <span class="gui">Yes</span> to confirm. The process should take ten minutes or less.
-      </p></li>
-<li class="steps"><p class="p">
-        When the "Installation Complete" window opens click <span class="gui">Quit</span>.
-      </p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Ja</span> for at bekræfte. Processen burde tage mindre end 10 minutter.</p></li>
+<li class="steps"><p class="p">Når vinduet "Installationen er fuldført" åbner, skal du klikke <span class="gui">Afslut</span>.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -114,8 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="disk.html.da" title="Diske &amp; lager">Diske &amp; lager</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
 </li>
 <li class="links ">
-<a href="addremove.html.da" title="Installer og fjern software">Installer og fjern software</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.da" title="Installér og fjern software">Installér og fjern software</a><span class="desc"> — Tilføj og fjern programmer og anden software. Håndtér yderligere programarkiver.</span>
 </li>
 </ul></div>
 </div></div></div>

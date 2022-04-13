@@ -101,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="disk.html.es" title="Discos y almacenamiento">Discos y almacenamiento</a><span class="desc"> — Compruebe el espacio en disco y controle cómo se asigna y usa el espacio en disco.</span>
 </li>
 <li class="links ">
-<a href="addremove.html.es" title="Instalar y desinstalar programas">Instalar y desinstalar programas</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.es" title="Instalar y desinstalar programas">Instalar y desinstalar programas</a><span class="desc"> — Instale y desinstale aplicaciones y otros programas. Gestione los repositorios de «software» adicionales.</span>
 </li>
 </ul></div>
 </div></div></div>

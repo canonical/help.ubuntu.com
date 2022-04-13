@@ -85,14 +85,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Arrêt du suivi de l’historique des fichiers</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Confidentialité</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">File History &amp; Trash</span> to open the panel.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Historique des fichiers et corbeille</span> pour ouvrir le panneau.</p></li>
 <li class="steps">
-<p class="p">Switch the <span class="gui">File History</span> switch to off.</p>
-<p class="p">To re-enable this feature, switch the <span class="gui">File History</span> switch
-     to on.</p>
+<p class="p">Désactivez l’option <span class="gui">Historique des fichiers</span> en basculant l’interrupteur.</p>
+<p class="p">Pour rétablir cette fonction, activez l’option <span class="gui">Historique des fichiers</span> en basculant l’interrupteur.</p>
 </li>
-<li class="steps"><p class="p">Use the <span class="gui">Clear History…</span> button to purge the history
-      immediately.</p></li>
+<li class="steps"><p class="p">Appuyez sur le bouton <span class="gui">Effacer l’historique</span> pour exécuter cette action immédiatement.</p></li>
 </ol></div>
 </div></div>
 <div class="note" title="Note">
@@ -104,14 +102,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Limitation du temps de stockage de l’historique de vos fichiers</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir<span class="gui">Historique des fichiers et corbeille</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">File History &amp; Trash</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Ensure the <span class="gui">File History</span> switch is set to on.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">File History Duration</span>, select how long to retain your file history.
-     Choose from options <span class="gui">1 day</span>, <span class="gui">7 days</span>, <span class="gui">30 days</span>, or
-     <span class="gui">Forever</span>.</p></li>
-<li class="steps"><p class="p">Use the <span class="gui">Clear History…</span> button to purge the history
-      immediately.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Historique des fichiers et corbeille</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Historique des fichiers et corbeille</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">Vérifiez que l’option <span class="gui">Historique des fichiers</span> est activée.</p></li>
+<li class="steps"><p class="p">Sous <span class="gui">Durée de l’historique des fichiers</span>, sélectionnez le temps de stockage de l’historique de vos fichiers. Vous avez le choix entre <span class="gui">1 jour</span>, <span class="gui">7 jours</span>, <span class="gui">30 jours</span> et <span class="gui">Toujours</span>.</p></li>
+<li class="steps"><p class="p">Appuyez sur le bouton <span class="gui">Effacer l’historique</span> pour exécuter cette action immédiatement.</p></li>
 </ol></div>
 </div></div>
 </div>
@@ -122,8 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a></li>
 <li class="links ">
-<a href="privacy.html.fr" title="Paramètres de confidentialité">Paramètres de confidentialité</a><span class="desc"> — Lock your screen, remove temporary files, and control access to
-    devices like cameras and microphones.</span>
+<a href="privacy.html.fr" title="Paramètres de confidentialité">Paramètres de confidentialité</a><span class="desc"> — Verrouiller votre écran, supprimer les fichiers temporaires et contrôler l’accès aux périphériques tels que les caméras et les microphones.</span>
 </li>
 </ul></div>
 </div></div></div>

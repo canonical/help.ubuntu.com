@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="disk.html.fr" title="Disques durs et périphériques de stockage">Disks</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="disk.html.fr" title="Disques durs et périphériques de stockage">Disques</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Test de la performance de votre disque dur</span></h1></div>
@@ -83,10 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Cliquez sur le bouton de menu et choisissez <span class="gui">Test de performance du disque</span> dans le menu.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Lancer le test de performance</span> et réglez le <span class="gui">Taux de transfert</span> et le <span class="gui">Temps d’accès</span> selon votre désir.</p></li>
 <li class="steps">
-<p class="p">Click <span class="gui">Start Benchmarking…</span> to test how fast data can be read
-      from the disk. <span class="link"><a href="user-admin-explain.html.fr" title="Fonctionnement des privilèges administrateur">Administrative
-      privileges</a></span> may be required. Enter your password, or the password
-      for the requested administrator account.</p>
+<p class="p">Cliquez sur <span class="gui">Démarrer le test de performance</span> pour savoir à quelle vitesse les données sont lues sur le disque. <span class="link"><a href="user-admin-explain.html.fr" title="Fonctionnement des privilèges administrateur">Des privilèges administrateur</a></span> peuvent être requis. Saisissez votre mot de passe ou le mot de passe du compte administrateur demandé.</p>
 <div class="note" title="Note">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -103,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="disk.html.fr" title="Disques durs et périphériques de stockage">Disques durs et périphériques de stockage</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
+<a href="disk.html.fr" title="Disques durs et périphériques de stockage">Disques durs et périphériques de stockage</a><span class="desc"> — Vérifier l’espace disque et contrôler la manière dont il est alloué et utilisé.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -89,10 +89,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="accounts.html.da" title="Onlinekonti"><span class="title">Onlinekonti</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to your accounts with various online services.</span></a></div>
 </div>
 <div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.da" title="Opstartsprogrammer"><span class="title">Opstartsprogrammer</span><span class="linkdiv-dash"> — </span><span class="desc">Vælg, hvilke programmer der skal starte, når du logger på.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="privacy.html.da" title="Privatlivsindstillinger"><span class="title">Privatlivsindstillinger</span><span class="linkdiv-dash"> — </span><span class="desc">Lock your screen, remove temporary files, and control access to
     devices like cameras and microphones.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="prefs-language.html.da" title="Region &amp; sprog"><span class="title">Region &amp; sprog</span><span class="linkdiv-dash"> — </span><span class="desc">Set your preferred languages, regions, formats, and keyboard layouts.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.da" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power.html.da" title="Strøm &amp; batteri"><span class="title">Strøm &amp; batteri</span><span class="linkdiv-dash"> — </span><span class="desc">View your battery status and change power saving settings.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="keyboard.html.da" title="Tastatur"><span class="title">Tastatur</span><span class="linkdiv-dash"> — </span><span class="desc">Select international keyboard layouts and use keyboard
     accessibility features.</span></a></div>

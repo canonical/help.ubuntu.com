@@ -89,9 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Instalēt PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">PPA pārskata lapā meklējiet virsrakstu <span class="gui">Adding this PPA to your system</span>. Piefiksējiet PPA atrašanās vietu, kam vajadzētu izskatīties apmēram šadi: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">
-        Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Atveriet <span class="app">Programmatūra un atjauninājumi</span> izmantojot <span class="em">Aktivitāšu</span> meklēšanas joslu.</p></li>
 <li class="steps"><p class="p">Pārslēdzieties uz <span class="gui">Cita programmatūra</span> cilni.</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot</span> un ievadiet PPA atrašanas vietu (kā norādīts 1. solī).</p></li>
 <li class="steps"><p class="p">Spiediet <span class="gui">Pievienot avotu</span>. Ievadiet paroli autentifikācijas logā.</p></li>

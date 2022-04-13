@@ -2,7 +2,7 @@
 <html lang=de>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Info zu diesem Handbuch</title>
+<title>Über diesen Leitfaden</title>
 <link rel="stylesheet" type="text/css" href="de.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,10 +70,10 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="more-help.html.de" title="Weitergehende Hilfe erhalten">Weitergehende Hilfe erhalten</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu Desktop Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="more-help.html.de" title="Weitergehende Hilfe erhalten">Weitergehende Hilfe erhalten</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Info zu diesem Handbuch</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Über diesen Leitfaden</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Dieser Leitfaden gibt Ihnen eine Einführung die Funktionen der Ubuntu-Arbeitsumgebung, und stellt Antworten auf Ihre rechnerbezogenen Fragen und Tipps zur effektiven Nutzung Ihres Rechners bereit.</p>
@@ -83,8 +83,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="list"><p class="p">Das Textfeld am oberen Ende dieses Leitfadens dient als <span class="em">Suchfeld</span>. Relevante Ergebnisse werden darunter erscheinen, sobald Sie zu tippen beginnen. Klicken Sie auf ein Ergebnis um die zugehörige Seite zu öffnen.</p></li>
 <li class="list"><p class="p">Dieses Handbuch wird ständig überarbeitet. Auch wenn wir versuchen für Sie eine möglichst umfangreiche Sammlung hilfreicher Informationen zusammenzutragen, werden wir nicht alle Ihre Fragen beantworten können. Jedoch werden wir weiterhin Informationen hinzufügen, um Ihnen bestmöglich zu helfen.</p></li>
 </ul></div></div></div>
-<p class="p">Danke, dass Sie sich die Zeit genommen haben den <span class="em">Ubuntu-Leitfaden</span> zu lesen.</p>
-<p class="p">– Das Ubuntu Dokumentations-Team</p>
+<p class="p">Danke, dass Sie sich die Zeit genommen haben den <span class="em">Ubuntu Desktop Leitfaden</span> zu lesen.</p>
+<p class="p">– Das Ubuntu-Dokumentations-Team</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

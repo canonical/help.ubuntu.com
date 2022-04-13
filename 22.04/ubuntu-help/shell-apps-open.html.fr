@@ -81,22 +81,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">Commencez à saisir le nom d’une application — la recherche commence aussitôt (si cela ne se produit pas, cliquez sur la barre de recherche en haut de l’écran et commencez à saisir). Si vous ne connaissez pas le nom exact d’une application, essayez de saisir un terme associé. Cliquez sur l’icône de l’application pour la lancer.</p></li>
 <li class="list">
-<p class="p">Some applications have icons in the <span class="em">dash</span>, the horizontal strip
-      of icons at the bottom of the <span class="gui">Activities</span> overview.
-      Click one of these to start the corresponding application.</p>
+<p class="p">Certaines applications possèdent des icônes sur le <span class="em">lanceur</span>, la bande horizontale d’icônes située en bas de la vue d’ensemble des <span class="gui">Activités</span>. Cliquez sur l’une d’elles pour lancer l’application correspondante.</p>
 <p class="p">S’il y a des applications que vous utilisez très fréquemment, vous pouvez <span class="link"><a href="shell-apps-favorites.html.fr" title="Ajout de vos applications préférées au lanceur">les ajouter au lanceur</a></span> vous-même.</p>
 </li>
-<li class="list"><p class="p">Click the grid button (which has nine dots) in the dash.
-      You will see the first page of all installed applications. To see more
-      applications, press the dots at the bottom, above the dash, to view other
-      applications. Press on the application to start it.</p></li>
+<li class="list"><p class="p">Cliquez sur le bouton en forme de grille (qui possède neuf points) situé dans le lanceur. Vous verrez s’afficher la première page de toutes les applications installées. Pour voir plus d’applications, appuyez sur les points situés en bas, au-dessus du lanceur. Appuyez sur l’application pour la démarrer.</p></li>
 <li class="list">
-<p class="p">You can launch an application in a separate
-      <span class="link"><a href="shell-workspaces.html.fr" title="Définition d’un espace de travail">workspace</a></span> by dragging its icon from
-      the dash, and dropping it onto one of the workspaces. The application will
-      open in the chosen workspace.</p>
-<p class="p">You can launch an application in a <span class="em">new</span> workspace by dragging its
-      icon to an empty workspace, or to the small gap between two workspaces.</p>
+<p class="p">Vous pouvez lancer une application dans un <span class="link"><a href="shell-workspaces.html.fr" title="Définition d’un espace de travail">espace de travail</a></span> séparé en déplaçant son icône à partir du lanceur et en la déposant sur un des espaces de travail. L’application s’ouvre dans l’espace de travail choisi.</p>
+<p class="p">Vous pouvez lancer une application dans un <span class="em">nouvel</span> espace de travail en glissant son icône dans un espace libre, ou entre deux espaces de travail.</p>
 </li>
 </ul></div></div></div>
 <div class="note note-tip" title="Astuce">
@@ -121,8 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="index.html.fr" title="Guide du bureau Ubuntu">Guide du bureau Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html.fr" title="Votre bureau">Votre bureau</a><span class="desc"> — Work with apps, windows, and workspaces. See your appointments and
-    things that matter in the top bar.</span>
+<a href="shell-overview.html.fr" title="Votre bureau">Votre bureau</a><span class="desc"> — Travailler avec des applications, des fenêtres et des espaces de travail. Consulter vos rendez-vous et les choses importantes dans la barre supérieure.</span>
 </li>
 </ul></div>
 </div></div>

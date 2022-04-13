@@ -79,8 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Om du hittar ett problem i Ubuntu kan du skicka in en <span class="em">felrapport</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Type <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-<span class="input">ubuntu-bug &lt;package name&gt;</span></p>
+<p class="p">Tryck <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> och skriv <span class="input">ubuntu-bug &lt;paketnamn&gt;</span></p>
 <p class="p">Om du har ett hårdvaruproblem och inte vet vad det påverkade programmet heter, skriv bara <span class="input">ubuntu-bug</span></p>
 <div class="note" title="Anteckning">
 <svg width="24" height="24" version="1.1">

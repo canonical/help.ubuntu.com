@@ -91,10 +91,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Keyboard Shortcuts</span> section, select <span class="gui">Customize Shortcuts</span>.</p></li>
-<li class="steps"><p class="p">Select the <span class="gui">System</span> category.</p></li>
-<li class="steps"><p class="p">Click the row with <span class="gui">Show the activities overview</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Clavier</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">À la rubrique <span class="gui">Raccourcis clavier</span>, sélectionnez <span class="gui">Personnaliser les raccourcis</span>.</p></li>
+<li class="steps"><p class="p">Sélectionnez la catégorie <span class="gui">Système</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur la ligne <span class="gui">Afficher la vue d’ensemble des activités</span>.</p></li>
 <li class="steps"><p class="p">Appuyez sur les touches souhaitées pour la combinaison.</p></li>
 </ol></div></div></div>
 </div>
@@ -104,8 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Select international keyboard layouts and use keyboard
-    accessibility features.</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

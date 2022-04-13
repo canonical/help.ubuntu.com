@@ -101,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="disk.html.fi" title="Levyt ja tiedon tallennus">Levyt ja tiedon tallennus</a><span class="desc"> — Tarkista vapaan levytilan määrä ja määritä miten levytilaa varataan sekä käytetään.</span>
 </li>
 <li class="links ">
-<a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a><span class="desc"> — Sovellusten lisääminen ja poistaminen. Ohjelmalähteiden hallinta.</span>
 </li>
 </ul></div>
 </div></div></div>

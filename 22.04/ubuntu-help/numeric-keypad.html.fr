@@ -97,8 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Select international keyboard layouts and use keyboard
-    accessibility features.</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

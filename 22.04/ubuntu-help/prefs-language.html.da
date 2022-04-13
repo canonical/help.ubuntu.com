@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language-install.html.da" title="Installer sprog">Installer sprog</a><span class="desc"> — Install more translations and related language support packages.</span>
+<a href="prefs-language-install.html.da" title="Installér sprog">Installér sprog</a><span class="desc"> — Installér flere oversættelser og relaterede sprogunderstøttelsespakker.</span>
 </li></ul></div>
 </div></div>
 </div>

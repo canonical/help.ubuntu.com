@@ -82,13 +82,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-status.html.fr" title="Vérification de l’état de la batterie"><span class="title">Vérification de l’état de la batterie</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher l’état de la batterie et des périphériques connectés.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.fr" title="Affichage de l’état de la batterie sous forme de pourcentage"><span class="title">Affichage de l’état de la batterie sous forme de pourcentage</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher le pourcentage de la batterie dans la barre supérieure.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-exit.html.fr" title="Déconnexion, extinction, ou changement d’utilisateur"><span class="title">Déconnexion, extinction, ou changement d’utilisateur</span><span class="linkdiv-dash"> — </span><span class="desc">Apprendre à quitter son compte utilisateur, en se déconnectant, en changeant d’utilisateur…</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-wireless.html.fr" title="Désactivation des technologies sans fil inutilisées"><span class="title">Désactivation des technologies sans fil inutilisées</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, Wi-Fi et connexions mobiles à large bande peuvent être désactivés pour réduire l’utilisation de la batterie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.fr" title="Mise en veille de l’ordinateur quand l’écran est rabattu"><span class="title">Mise en veille de l’ordinateur quand l’écran est rabattu</span><span class="linkdiv-dash"> — </span><span class="desc">Pour économiser l’énergie, les ordinateurs portables se mettent en veille quand vous rabattez l’écran.</span></a></div>
 </div>
 <div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.fr" title="Mise en veille de l’ordinateur quand l’écran est rabattu"><span class="title">Mise en veille de l’ordinateur quand l’écran est rabattu</span><span class="linkdiv-dash"> — </span><span class="desc">Pour économiser l’énergie, les ordinateurs portables se mettent en veille quand vous rabattez l’écran.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-suspend.html.fr" title="Que se passe-t-il lorsque je mets en veille mon ordinateur ?"><span class="title">Que se passe-t-il lorsque je mets en veille mon ordinateur ?</span><span class="linkdiv-dash"> — </span><span class="desc">La mise en veille désactive la plupart des fonctionnalités de votre ordinateur afin qu’il utilise moins d’énergie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.fr" title="Show the battery status as a percentage"><span class="title">Show the battery status as a percentage</span><span class="linkdiv-dash"> — </span><span class="desc">Display the battery percentage in the top bar.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.fr" title="Utilisation optimale de la batterie de votre portable"><span class="title">Utilisation optimale de la batterie de votre portable</span><span class="linkdiv-dash"> — </span><span class="desc">Conseils du genre « ne pas trop laisser la batterie se décharger ».</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.fr" title="Économie d’énergie et accroissement de la longévité de la batterie"><span class="title">Économie d’énergie et accroissement de la longévité de la batterie</span><span class="linkdiv-dash"> — </span><span class="desc">Conseils pour réduire la consommation d’énergie de votre ordinateur.</span></a></div>
 </div>
@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.fr" title="Activation de la luminosité automatique"><span class="title">Activation de la luminosité automatique</span><span class="linkdiv-dash"> — </span><span class="desc">Contrôler automatiquement la luminosité de l’écran pour réduire l’utilisation de la batterie.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power-profile.html.fr" title="Choose a power profile"><span class="title">Choose a power profile</span><span class="linkdiv-dash"> — </span><span class="desc">Balance performance and battery usage.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-profile.html.fr" title="Choix d’un profil d’énergie"><span class="title">Choix d’un profil d’énergie</span><span class="linkdiv-dash"> — </span><span class="desc">Équilibrer les performances et l’utilisation de la batterie.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.fr" title="Configuration de la mise en veille automatique"><span class="title">Configuration de la mise en veille automatique</span><span class="linkdiv-dash"> — </span><span class="desc">Paramétrez votre ordinateur pour qu’il se mette en veille automatiquement.</span></a></div>
 </div>
 <div class="links-divs">
@@ -147,12 +147,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configure hardware and diagnose problems, including printers,
-    displays, disks, and more.</span>
+<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configurer le matériel et diagnostiquer les problèmes, y compris les imprimantes, les écrans, les disques, etc.</span>
 </li>
 <li class="links ">
-<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — From hardware control to privacy settings, make GNOME
-    work for you.</span>
+<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — Du contrôle du matériel aux paramètres de confidentialité, faire en sorte que GNOME travaille pour vous.</span>
 </li>
 </ul></div>
 </div></div></div>

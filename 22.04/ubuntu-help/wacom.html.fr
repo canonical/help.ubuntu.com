@@ -83,7 +83,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="wacom-stylus.html.fr" title="Configuration du stylet"><span class="title">Configuration du stylet</span><span class="linkdiv-dash"> — </span><span class="desc">Définir les fonctions des boutons et la sensibilité de pression du stylet Wacom.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-mode.html.fr" title="Définition du mode de recherche de la tablette Wacom"><span class="title">Définition du mode de recherche de la tablette Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Basculer entre le mode pavé tactile et le mode tablette de la tablette graphique.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="wacom-multi-monitor.html.fr" title="Sélection d’un écran"><span class="title">Sélection d’un écran</span><span class="linkdiv-dash"> — </span><span class="desc">Faire correspondre une tablette Wacom à un écran spécifique.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.fr" title="Use the tablet with your left or your right hand"><span class="title">Use the tablet with your left or your right hand</span><span class="linkdiv-dash"> — </span><span class="desc">Switch the Wacom tablet between left-handed and right-handed orientation.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom-left-handed.html.fr" title="Utilisation de la tablette avec la main gauche ou la main droite"><span class="title">Utilisation de la tablette avec la main gauche ou la main droite</span><span class="linkdiv-dash"> — </span><span class="desc">Basculer la tablette Wacom entre l’orientation pour gaucher et droitier.</span></a></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -91,12 +91,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configure hardware and diagnose problems, including printers,
-    displays, disks, and more.</span>
+<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configurer le matériel et diagnostiquer les problèmes, y compris les imprimantes, les écrans, les disques, etc.</span>
 </li>
 <li class="links ">
-<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — From hardware control to privacy settings, make GNOME
-    work for you.</span>
+<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — Du contrôle du matériel aux paramètres de confidentialité, faire en sorte que GNOME travaille pour vous.</span>
 </li>
 </ul></div>
 </div></div></div>

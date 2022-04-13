@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Community support</title>
+<title>Fællesskabshjælp</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,25 +73,19 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Community support</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Fællesskabshjælp</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can find support from a variety of sources which are mentioned and
-  linked to at <span class="link"><a href="https://www.ubuntu.com/support/community-support" title="https://www.ubuntu.com/support/community-support">
-  Community support</a></span>.</p>
-<p class="p">Every page at <span class="link"><a href="https://help.ubuntu.com" title="https://help.ubuntu.com">help.ubuntu.com</a></span>
-  has a search feature at the top right. It lets you do a custom Google search
-  on Ubuntu documentation and support resources on the web, to easier find out
-  if your question has already been answered.</p>
-<p class="p">Support in your own language may be provided by your <span class="link"><a href="http://loco.ubuntu.com/teams/" title="http://loco.ubuntu.com/teams/">Local Community Team</a></span>.</p>
+<p class="p">Du kan få hjælp fra en række kilder, som du kan finde links til på <span class="link"><a href="https://www.ubuntu.com/support/community-support" title="https://www.ubuntu.com/support/community-support">Community support</a></span>.</p>
+<p class="p">Alle sider på <span class="link"><a href="https://help.ubuntu.com" title="https://help.ubuntu.com">help.ubuntu.com</a></span> har en søgefunktion øverst til højre. Med den kan du lave en tilpasset Google-søgning i Ubuntus dokumentation samt hjælpekanaler på nettet for nemmere at finde ud af, om dit spørgsmål allerede er blevet besvaret.</p>
+<p class="p">Hjælp på dit eget sprog kan muligvis leveres af dit <span class="link"><a href="http://loco.ubuntu.com/teams/" title="http://loco.ubuntu.com/teams/">lokale fællesskabshold</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a><span class="desc"> — Få tips til brugen af denne vejledning og forbind med fællesskabet for at få mere hjælp.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

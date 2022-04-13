@@ -76,8 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Lav sjove billeder og videoer med dit webkamera</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Med den <span class="app"> ost </span> program og dit webcam, kan du tage billeder og videoer, anvende sjove specielle effekter og dele sjov med andre.</p>
-<p class="p">For at få hjælp med at bruge Cheese, læse <span class="link"><a href="https://help.gnome.org/users/cheese/stable/" title="https://help.gnome.org/users/cheese/stable/"> Cheese brugervejledning </a></span>.</p>
+<p class="p">Med programmet <span class="app">Cheese</span> og dit webcam kan du tage billeder og videoer, anvende sjove effekter og dele det med andre.</p>
+<p class="p">For at få hjælp til brugen af Cheese, så læs <span class="link"><a href="https://help.gnome.org/users/cheese/stable/" title="https://help.gnome.org/users/cheese/stable/">Cheeses brugervejledning</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

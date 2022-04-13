@@ -96,8 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="a11y.html.fr" title="Accessibilité">Accessibilité</a><span class="desc"> — Use assistive technologies to help with special needs for
-    vision, hearing, and mobility.</span>
+<a href="a11y.html.fr" title="Accessibilité">Accessibilité</a><span class="desc"> — Utiliser des techniques d’assistance pour répondre aux besoins particuliers en matière de vision, d’audition et de mobilité.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

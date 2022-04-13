@@ -76,8 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Détection de la version de GNOME en cours d’utilisation</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can determine the version of GNOME that is running on your system by
-  going to the <span class="gui">About</span> panel in <span class="gui">Settings</span>.</p>
+<p class="p">Pour savoir quelle version de GNOME est actuellement en cours d’utilisation, allez dans le panneau <span class="gui">À propos</span> des <span class="gui">Paramètres</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">À propos</span>.</p></li>
 <li class="steps"><p class="p">Une fenêtre apparaît avec les informations concernant votre système, ainsi que le nom de votre distribution et la version de GNOME.</p></li>
@@ -88,7 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — Get the most out of GNOME with these handy tips.</span>
+<a href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — Tirez le meilleur parti de GNOME avec ces conseils pratiques.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Отворите преглед <span class="gui"><a href="shell-introduction.html.sr#activities" title="Преглед Активности">Активности</a></span> и почните да куцате <span class="gui">Екрани</span>.</p></li>
 <li class="steps"><p class="p">Кликните <span class="gui">Екрани</span> да отворите панел.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Night Light</span> in the header bar to open the settings.</p></li>
+<li class="steps"><p class="p">Кликните на <span class="gui">Ноћно светло</span> на траци заглавља да отворите поставке.</p></li>
 <li class="steps"><p class="p">Уверите се да је прекидач <span class="gui">Ноћно светло</span> постављен на укључено.</p></li>
 <li class="steps"><p class="p">Под <span class="gui">Заказивање</span>, изаберите <span class="gui">Од заласка до изласка Сунца</span> да учините да боја екрана прати времена заласка и изласка Сунца за ваше место. Изаберите <span class="gui">Ручно закажи</span> да поставите <span class="gui">Времена</span> на произвољно заказана.</p></li>
 <li class="steps"><p class="p">Користите клизач да дотерате <span class="gui">Температуру боје</span> на топлију или хладнију.</p></li>

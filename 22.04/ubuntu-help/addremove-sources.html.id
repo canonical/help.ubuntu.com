@@ -102,17 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Sebagian besar repositori menyediakan kunci penandatanganan untuk dapat memverifikasi paket yang diunduh. Jadi, selain langkah di atas, Anda harus mengikuti kemungkinan petunjuk tentang cara mengunduh dan menginstal kunci penandatanganan (kunci GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Mengaktifkan repositori Canonical Partner</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Repositori Canonical Partner menawarkan beberapa aplikasi proprietari yang tidak memerlukan biaya untuk digunakan, tetapi merupakan sumber tertutup. Mereka termasuk perangkat lunak seperti <span class="app">Adobe Flash Plugin</span>. Perangkat lunak dalam repositori ini akan muncul dalam hasil pencarian <span class="app">Perangkat Lunak Ubuntu</span> tetapi tidak akan dapat diinstal sampai repositori ini diaktifkan.</p>
-<p class="p">Untuk mengaktifkan repositori, ikuti langkah di atas untuk membuka tab <span class="gui">Perangkat Lunak Lain</span> di <span class="app">Perangkat Lunak &amp; Pembaruan</span>. Jika Anda melihat repositori <span class="gui">Canonical Parters</span> dalam daftar, pastikan itu dicentang lalu tutup jendela <span class="app">Perangkat Lunak &amp; Pembaruan</span>. Jika Anda tidak melihatnya, klik <span class="gui">Tambah</span> dan masukkan:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Klik <span class="gui">Tambahkan Sumber</span> kemudian tutup jendela <span class="app">Perangkat Lunak &amp; Pembaruan</span>. Tunggu sejenak agar <span class="app">Perangkat Lunak Ubuntu</span> mengunduh informasi repositori.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

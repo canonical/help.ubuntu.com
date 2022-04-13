@@ -102,23 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Većina repozitorija omogućuje ključ potpisa kako bi mogli provjeriti preuzete pakete. Stoga kao nadopunu na korak iznad, trebali bi slijediti moguće upute o tome kako preuzeti i instalirati ključ potpisa (GPG ključ).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Aktivacija Repozitorija Canonicalovih partnera</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Repozitorij Canonicalovih partnera nudi određene vlasničke aplikacije koje su besplatne ali su zatvorenog kôda. Uključuje softver poput<span class="app">Adobe Flash priključka</span>. Softver iz toga repozitorija će se pojaviti u rezultatima pretrage <span class="app">Ubuntu Softvera</span> ali se neće moći instalirati dok ga ne omogućite.</p>
-<p class="p">
-      To enable the repository, follow the steps above to open the <span class="gui">Other 
-      Software</span> tab in <span class="app">Software &amp; Updates</span>. If you see the 
-      <span class="gui">Canonical Partners</span> repository in the list, make sure it is 
-      checked then close the <span class="app">Software &amp; Updates</span> window. If you don't see it, click 
-      <span class="gui">Add</span> and enter:
-    </p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Kliknite <span class="gui">Dodaj izvor</span> zatim zatvorite <span class="app">Softver i nadopune</span> prozor. Pričekajte trenutak kako bi <span class="app">Ubuntu Softver</span> preuzeo informacije repozitorija.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

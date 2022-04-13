@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-general.html.fr" title="Termes et astuces sur le réseau">Astuces</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-general.html.fr" title="Termes et astuces sur le réseau">Astuces</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Qu’est-ce qu’une adresse IP ?</span></h1></div>
@@ -92,8 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.fr" title="Termes et astuces sur le réseau">Termes et astuces sur le réseau</a><span class="desc"> — Learn about IP address, internet proxies, and how to stay safe
-    on the internet.</span>
+<a href="net-general.html.fr" title="Termes et astuces sur le réseau">Termes et astuces sur le réseau</a><span class="desc"> — En apprendre davantage sur les adresses IP, les serveurs mandataires et comment utiliser Internet en toute sécurité.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

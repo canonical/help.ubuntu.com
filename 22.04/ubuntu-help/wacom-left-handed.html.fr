@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use the tablet with your left or your right hand</title>
+<title>Utilisation de la tablette avec la main gauche ou la main droite</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -77,12 +77,10 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Use the tablet with your left or your right hand</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Utilisation de la tablette avec la main gauche ou la main droite</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Some tablets have hardware buttons on one side. The tablet can be rotated
-   180 degrees to position these buttons. By default, the orientation is for
-   right-handed people. To switch the orientation to left-handed:</p>
+<p class="p">Certaines tablettes possèdent des boutons sur le côté. La tablette peut être tournée de 180 degrés afin de positionner ces boutons. Par défaut, l’orientation est configurée pour les droitiers. Pour changer l’orientation pour les gauchers :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Tablette Wacom</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Tablette Wacom</span> pour ouvrir le panneau.</p></li>
@@ -103,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html.fr" title="Tablette graphique Wacom">Tablette graphique Wacom</a><span class="desc"> — Configure your Wacom graphics tablet, including the tracking
-  mode and which monitor it is mapped to.</span>
+<a href="wacom.html.fr" title="Tablette graphique Wacom">Tablette graphique Wacom</a><span class="desc"> — Configurer votre tablette graphique Wacom, y compris le mode de recherche et l’écran auquel elle correspond.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

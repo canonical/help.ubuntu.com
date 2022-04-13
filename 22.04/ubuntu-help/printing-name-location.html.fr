@@ -91,13 +91,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Imprimantes</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Imprimantes</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Depending on your system, you may have to press 
-      <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Click the <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
-      button next to the printer.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Printer Details</span>.</p></li>
-<li class="steps"><p class="p">Enter a new name for the printer in the <span class="gui">Name</span> field.</p></li>
+<li class="steps"><p class="p">Selon votre système, vous devrez peut-être cliquer sur le bouton <span class="gui">Déverrouiller</span> situé dans le coin supérieur droit et saisir votre mot de passe.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="paramètres"></span></span> situé à côté de l’imprimante.</p></li>
+<li class="steps"><p class="p">Sélectionnez <span class="gui">Informations sur l’imprimante</span>.</p></li>
+<li class="steps"><p class="p">Saisissez le nouveau nom de l’imprimante dans le champ <span class="gui">Nom</span>.</p></li>
 <li class="steps"><p class="p">Fermez la boîte de dialogue.</p></li>
 </ol></div></div></div>
 </div></div>
@@ -108,13 +105,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Imprimantes</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Imprimantes</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Depending on your system, you may have to press 
-      <span class="gui">Unlock</span> in the top right corner and
-      type in your password when prompted.</p></li>
-<li class="steps"><p class="p">Click the <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
-      button next to the printer.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">Printer Details</span>.</p></li>
-<li class="steps"><p class="p">Enter a new location for the printer in the <span class="gui">Location</span> field.</p></li>
+<li class="steps"><p class="p">Selon votre système, vous devrez peut-être cliquer sur le bouton <span class="gui">Déverrouiller</span> situé dans le coin supérieur droit et saisir votre mot de passe.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="paramètres"></span></span> situé à côté de l’imprimante.</p></li>
+<li class="steps"><p class="p">Sélectionnez <span class="gui">Informations sur l’imprimante</span>.</p></li>
+<li class="steps"><p class="p">Saisissez le nouvel emplacement de l’imprimante dans le champ <span class="gui">Emplacement</span>.</p></li>
 <li class="steps"><p class="p">Fermez la boîte de dialogue.</p></li>
 </ol></div></div></div>
 </div></div>

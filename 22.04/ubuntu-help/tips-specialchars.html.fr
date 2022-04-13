@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-links"><h2><span class="title">Méthodes de saisie des caractères</span></h2></div>
 <div class="region"><ul>
 <li class="links "><a href="tips-specialchars.html.fr#characters" title="Caractères">Caractères</a></li>
-<li class="links "><a href="tips-specialchars.html.fr#emoji" title="Emoji">Emoji</a></li>
+<li class="links "><a href="tips-specialchars.html.fr#emoji" title="Émoji">Émoji</a></li>
 <li class="links "><a href="tips-specialchars.html.fr#compose" title="La touche « compose »">La touche « compose »</a></li>
 <li class="links "><a href="tips-specialchars.html.fr#ctrlshiftu" title="Points de code">Points de code</a></li>
 <li class="links "><a href="tips-specialchars.html.fr#layout" title="Agencements du clavier">Agencements du clavier</a></li>
@@ -96,14 +96,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Vous pouvez lancer <span class="app">Caractères</span> à partir de la vue d’ensemble des activités.</p>
 </div></div>
 </div></section><section id="emoji"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Emoji</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Émoji</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="steps"><div class="inner">
-<div class="title title-steps"><h3><span class="title">Insert emoji</span></h3></div>
+<div class="title title-steps"><h3><span class="title">Insérer un émoji</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>;</kbd></span></span>.</p></li>
-<li class="steps"><p class="p">Browse the categories at the bottom of the dialog or start typing a
-    description in the search field.</p></li>
-<li class="steps"><p class="p">Select an emoji to insert.</p></li>
+<li class="steps"><p class="p">Appuyez sur <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>;</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Parcourez les catégories situées en bas de la boîte de dialogue ou commencez à saisir une description dans le champ de recherche.</p></li>
+<li class="steps"><p class="p">Sélectionnez un émoji à insérer.</p></li>
 </ol></div>
 </div></div></div></div>
 </div></section><section id="compose"><div class="inner">
@@ -116,9 +115,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Type Special Characters</span> section, click <span class="gui">Compose Key</span>.</p></li>
-<li class="steps"><p class="p">Turn the switch on for the <span class="gui">Compose Key</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Clavier</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">À la rubrique <span class="gui">Saisie de caractères spéciaux</span>, cliquez sur <span class="gui">Touche de composition</span>.</p></li>
+<li class="steps"><p class="p">Activez l’option <span class="gui">Touche de composition</span> en basculant l’interrupteur.</p></li>
 <li class="steps"><p class="p">Cochez la case de la touche que vous souhaitez définir comme touche compose.</p></li>
 <li class="steps"><p class="p">Fermez la boîte de dialogue.</p></li>
 </ol></div>
@@ -130,8 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="list"><p class="p">appuyer sur <span class="key"><kbd>compose</kbd></span>, puis sur <span class="key"><kbd>"</kbd></span> et enfin sur une lettre pour y placer un tréma, comme <span class="em">ë</span>,</p></li>
 <li class="list"><p class="p">appuyer sur <span class="key"><kbd>compose</kbd></span>, puis sur <span class="key"><kbd>-</kbd></span> et enfin sur une lettre pour y placer un macron, comme <span class="em">ē</span>.</p></li>
 </ul></div></div></div>
-<p class="p">For more compose key sequences, see <span class="link"><a href="https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations" title="https://en.wikipedia.org/wiki/Compose_key#Common_compose_combinations">the
-    compose key page on Wikipedia</a></span>.</p>
+<p class="p">Pour d’autres séquences de compositions, consultez <span class="link"><a href="https://doc.ubuntu-fr.org/caracteres_etendus" title="https://doc.ubuntu-fr.org/caracteres_etendus">cette page de la documentation Ubuntu francophone sur les caractères étendus</a></span>.</p>
 </div></div>
 </div></section><section id="ctrlshiftu"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Points de code</span></h2></div>
@@ -154,7 +152,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — Get the most out of GNOME with these handy tips.</span>
+<a href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — Tirez le meilleur parti de GNOME avec ces conseils pratiques.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

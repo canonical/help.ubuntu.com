@@ -76,9 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Поставке колона списка датотека</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">There are several columns of information that you can display in the
-  <span class="gui">Files</span> list view. Right-click a column header and select or
-  deselect which columns should be visible.</p>
+<p class="p">Постоји неколико колона података које можете да прикажете у прегледу списком у програму <span class="gui">Датотеке</span>. Десни клик на заглавље колоне и изаберите или поништите које колоне ће бити видљиве.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
 <dt class="terms"><span class="gui">Назив</span></dt>
 <dd class="terms">

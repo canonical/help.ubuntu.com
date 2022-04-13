@@ -76,21 +76,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Qu’est-ce que GNOME Classique ?</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="em">GNOME Classic</span> is a feature for users who prefer a more traditional
-  desktop experience. While <span class="em">GNOME Classic</span> is based on modern GNOME
-  technologies, it provides a number of changes to the user interface, such as
-  the <span class="gui">Applications</span> and
-  <span class="gui">Places</span> menus on the top bar, and a window
-  list at the bottom of the screen.</p>
-<p class="p">You can use the <span class="gui">Applications</span> menu on the top bar to launch
- applications.</p>
+<p class="p"><span class="em">GNOME Classique</span> est une présentation de GNOME sous un aspect plus traditionnel. Il est basé sur les technologies modernes de GNOME et offre de nombreux changements dans l’interface utilisateur, comme les menus <span class="gui">Applications</span> et <span class="gui">Emplacements</span> dans la barre supérieure, ainsi qu’une liste des fenêtres en bas de l’écran.</p>
+<p class="p">Vous pouvez utiliser le menu <span class="gui">Applications</span> situé dans la barre supérieure pour lancer des applications.</p>
 </div>
 <section id="gnome-classic-window-list"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Liste des fenêtres</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">La liste des fenêtres en bas de l’écran donne accès à toutes les fenêtres et applications ouvertes et permet de les réduire et de les restaurer rapidement.</p>
-<p class="p">The <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activities</a></span> overview is available
- by clicking the button at the left-hand side of the window list at the bottom.</p>
+<p class="p">La vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> est disponible en cliquant sur le bouton situé en bas, à gauche de la liste des fenêtres.</p>
 <p class="p">Pour accéder à la <span class="em">vue d’ensemble des <span class="gui">Activités</span></span>, vous pouvez aussi appuyer sur la touche <span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span>.</p>
 <p class="p">À droite de la liste des fenêtres, GNOME affiche un identifiant du bureau actuel, par exemple <span class="gui">1</span> si vous êtes sur le premier bureau. Cet identifiant montre aussi le nombre total de bureaux disponibles. Pour passer à un autre bureau, cliquez sur l’identifiant et choisissez le bureau souhaité dans le menu.</p>
 </div></div>
@@ -100,32 +93,34 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Important">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Gnome Classique n’est disponible que sur les systèmes dotés de certaines extensions. Sur quelques distributions Linux, ces extensions peuvent ne pas être disponibles, ou ne pas être installées par défaut.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have the
+ <span class="sys">gnome-shell-extensions</span> package installed to make GNOME Classic available.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-shell-extensions" title="apt:gnome-shell-extensions">Install <span class="sys">gnome-shell-extensions</span></a></span></p>
+</div></div></div>
 </div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Pour passer de <span class="em">GNOME</span> à <span class="em">GNOME Classique</span> :</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Save any open work, and then log out. Click the system menu on the right
-      side of the top bar and then choose the right option.</p></li>
+<li class="steps"><p class="p">Enregistrez les travaux en cours et fermez votre session. Cliquez sur le menu système situé dans la partie droite de la barre supérieure, et choisissez l’option adéquate.</p></li>
 <li class="steps"><p class="p">Un message de confirmation apparaît. Sélectionnez <span class="gui">Fermer la session</span> pour confirmer.</p></li>
 <li class="steps"><p class="p">À l’écran de connexion, sélectionnez votre nom dans la liste.</p></li>
-<li class="steps"><p class="p">Click the <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="settings"></span></span>
-      button in the bottom right corner.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">GNOME Classic</span> from the list.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="paramètres"></span></span> situé dans le coin inférieur droit.</p></li>
+<li class="steps"><p class="p">Sélectionnez <span class="gui">GNOME Classique</span> dans la liste.</p></li>
 <li class="steps"><p class="p">Saisissez votre mot de passe dans le champ adéquat.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Appuyez sur <span class="key"><kbd>Entrée</kbd></span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Pour passer de <span class="em">GNOME Classique</span> à <span class="em">GNOME</span> :</span></h3></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Enregistrez vos travaux en cours et fermez votre session. Cliquez sur le menu système dans la partie droite de la barre supérieure, cliquez sur votre nom et choisissez la bonne option.</p></li>
+<li class="steps"><p class="p">Enregistrez les travaux en cours et fermez votre session. Cliquez sur le menu système situé dans la partie droite de la barre supérieure, cliquez sur votre nom et choisissez l’option adéquate.</p></li>
 <li class="steps"><p class="p">Un message de confirmation apparaît. Sélectionnez <span class="gui">Fermer la session</span> pour confirmer.</p></li>
 <li class="steps"><p class="p">À l’écran de connexion, sélectionnez votre nom dans la liste.</p></li>
-<li class="steps"><p class="p">Click the options icon in the bottom right corner.</p></li>
-<li class="steps"><p class="p">Select <span class="gui">GNOME</span> from the list.</p></li>
+<li class="steps"><p class="p">Cliquez sur l’icône des options située dans le coin inférieur droit.</p></li>
+<li class="steps"><p class="p">Sélectionnez <span class="gui">GNOME</span> dans la liste.</p></li>
 <li class="steps"><p class="p">Saisissez votre mot de passe dans le champ adéquat.</p></li>
-<li class="steps"><p class="p">Press <span class="key"><kbd>Enter</kbd></span>.</p></li>
+<li class="steps"><p class="p">Appuyez sur <span class="key"><kbd>Entrée</kbd></span>.</p></li>
 </ol></div>
 </div></div>
 </div></div>
@@ -134,8 +129,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="shell-overview.html.fr" title="Votre bureau">Votre bureau</a><span class="desc"> — Work with apps, windows, and workspaces. See your appointments and
-    things that matter in the top bar.</span>
+<a href="shell-overview.html.fr" title="Votre bureau">Votre bureau</a><span class="desc"> — Travailler avec des applications, des fenêtres et des espaces de travail. Consulter vos rendez-vous et les choses importantes dans la barre supérieure.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

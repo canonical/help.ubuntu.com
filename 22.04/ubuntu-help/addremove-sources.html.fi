@@ -89,9 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </p>
 <p class="p">Lisää ohjelmistolähde:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Avaa <span class="app">Ohjelmistot ja päivitykset</span> <span class="em">Toiminnot</span>-hakupalkin avulla.</p></li>
 <li class="steps"><p class="p">Siirry <span class="gui">Muut ohjelmistot</span> -välilehdelle.</p></li>
 <li class="steps">
 <p class="p">Napsauta <span class="gui">LIsää</span> ja syötä ohjelmalähteen APT-rivi. APT-rivin pitäisi olla näkyvissä ohjelmiston verkkosivustolla. APT-rivin pitäisi vaikuttaa samankaltaiselta kuin alla:</p>
@@ -104,24 +102,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Useimmat pakettilähteet julkaisevat allekirjoitusavaimen, jonka avulla ladatut paketit vahvistetaan. Yllä olevien ohjeiden lisäksi on suositeltavaa noudattaa ohjeita, kuinka ladata ja asentaa allekirjoitukseen tarkoitettu GPG-avain.</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Canonicalin kumppanit -pakettivaraston aktivoiminen</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Canonicalin partnerit -pakettivarasto sisältää suljettuja ohjelmistoja, jotka eivät maksa mitään, mutta niiden lähdekoodi ei ole avointa. Tällaisiin ohjelmiin lukeutuu esimerkiksi <span class="app">Adobe Flash -liitännäinen</span>. Tässä pakettivarastossa olevat ohjelmistot näkyvät <span class="app">Ubuntun sovellusvalikoiman</span> hakutuloksissa, mutta ne eivät ole asennettavissa, ennen kuin kyseinen pakettivarasto on otettu käyttöön.</p>
-<p class="p">Seuraa yllä olevia ohjeita ottaaksesi ohjelmistolähteen käyttöön <span class="gui">Muut ohjelmistot</span> -välilehdellä <span class="app">Ohjelmistot ja päivitykset</span> -ikkunassa. Jos näet <span class="gui">Canonicalin partnerit</span> -ohjelmistolähteen listassa, varmista että se on rastitettu ja siten otettu käyttöön. Sulje sen jälkeen <span class="app">Ohjelmistot ja päivitykset</span> -ikkuna. Jos et näe listassa Canonicalin partnereihin viittaavia merkintöjä, napsauta <span class="gui">Lisää</span> ja kirjoita:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Napsauta <span class="gui">Lisää lähde</span> ja sulje sitten <span class="app">Ohjelmistot ja päivitykset</span> -ikkuna. Odota hetki, niin <span class="app">Ubuntun sovellusvalikoima</span> lataa ohjelmistolähteen tiedot.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.fi" title="Lisää ja poista ohjelmistoja">Lisää ja poista ohjelmistoja</a><span class="desc"> — Sovellusten lisääminen ja poistaminen. Ohjelmalähteiden hallinta.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

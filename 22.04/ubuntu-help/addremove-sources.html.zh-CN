@@ -104,17 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">绝大多数软件仓库都提供签名密钥，以便能够验证下载的软件包。因此，除了上述步骤之外，您还应遵循有关如何下载和安装签名密钥（GPG 密钥）的操作说明。</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">激活 Canonical 合作伙伴软件仓库</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Canonical 合作伙伴软件仓库，提供了一些专有的应用程序，这些应用程序都是免费的，但也都是闭源的。它们包括<span class="app"> Adobe Flash 插件</span>之类的软件。该存储库中的软件将出现在<span class="app"> Ubuntu 软件中心</span>搜索结果中，但必须要启用这些软件源以后才能安装。</p>
-<p class="p">要启用该库，请遵照上述步骤打开在<span class="app">软件和更新 </span>中的<span class="gui">其他软件</span>标签页。如果您在列表中看到<span class="gui">Canonical 合作伙伴</span>仓库，请确保将其选中，然后关闭 <span class="app">软件和更新</span> 窗口。如果没有看到该库，单击<span class="gui">添加</span>，然后输入：</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">点<span class="gui">添加源</span>，然后关闭<span class="app">软件和更新</span>窗口，等待<span class="app"> Ubuntu 软件中心</span>下载软件库信息。</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

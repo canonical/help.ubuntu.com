@@ -102,24 +102,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">La plupart des dépôts fournissent une clé de signature afin d'être en mesure de vérifier les paquets téléchargés. Donc, en plus des étapes ci-dessus, vous devez suivre les instructions sur la façon de télécharger et installer la clé de signature (clé GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Activer le dépôt des partenaires de Canonical</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Le dépôt des partenaires de Canonical propose des applications propriétaires gratuites mais non-libres. Elles incluent des applications comme le <span class="app">greffon Adobe Flash</span>. Les logiciels de ce dépôt apparaîtront dans les résultats de recherche de <span class="app">Logiciels Ubuntu</span> mais ne seront pas installables tant que ce dépôt ne sera pas activé.</p>
-<p class="p">Pour activer ce dépôt, suivez les étapes ci-dessus pour ouvrir l'onglet <span class="gui">Autres logiciels</span> dans <span class="app">Logiciels &amp; mises à jour</span>. Si vous voyez le dépôt <span class="gui">Partenaires de Canonical</span> dans la liste, assurez-vous qu'il soit coché puis fermez la fenêtre de <span class="app">Logiciels &amp; mises à jour</span>. Si vous ne le voyez pas, cliquez sur <span class="gui">Ajouter</span> puis saisissez :</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Cliquez sur <span class="gui">Ajouter la source</span> puis fermez la fenêtre <span class="app">Logiciels &amp; mises à jour</span>. Attendez un instant que <span class="app">Logiciels Ubuntu</span> télécharge les informations relatives au dépôt.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.fr" title="Installer et supprimer des logiciels">Installer et supprimer des logiciels</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.fr" title="Installer et supprimer des logiciels">Installer et supprimer des logiciels</a><span class="desc"> — Ajouter et supprimer des applications et autres logiciels. Gérer des référentiels de logiciels supplémentaires.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

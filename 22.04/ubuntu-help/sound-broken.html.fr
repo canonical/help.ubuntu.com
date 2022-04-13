@@ -93,8 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="hardware.html.fr#problems" title="Problèmes connus">Problèmes matériels</a></li>
 <li class="links ">
-<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — Adjust the volume for different apps, and configure different
-   speakers and microphones.</span>
+<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — Régler le volume pour différentes applications et configurer différents haut-parleurs et microphones.</span>
 </li>
 </ul></div>
 </div></div></div>

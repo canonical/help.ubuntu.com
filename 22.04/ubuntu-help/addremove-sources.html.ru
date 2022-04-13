@@ -104,17 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Большинство репозиториев предоставляют ключ подписи, позволяющий проверить достоверность загруженных пакетов. Поэтому в дополнение к приведённым выше действиям может оказаться необходимым выполнить полученные инструкции по загрузке и установке ключа подписи (ключа GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Активация репозитория «Партнёры Canonical»</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Репозиторий партнёров Canonical, предоставляет некоторые бесплатные, к использованию, проприетарные приложения, имеющие закрытый исходный код. Он включает такие программы как <span class="app">Надстройка Adobe Flash</span>. Программы этого репозитория, будут отображаться в результатах поиска <span class="app">Центра ПО Ubuntu</span>, но установить их будет возможно, после включения репозитория.</p>
-<p class="p">Чтобы подключить репозиторий, выполните описанные выше шаги для открытия вкладки <span class="gui">Другое ПО</span> в окне <span class="app">Программы и обновления</span>. Если репозиторий <span class="gui">Партнёры Canonical</span> имеется в списке, активируйте флажок рядом с ним и закройте окно <span class="app">Программы и обновления</span>. Если его нет, нажмите <span class="gui">Добавить</span> и введите:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Нажмите <span class="gui">Добавить источник</span>, затем закройте окно <span class="app">Программы и обновления</span>. Дождитесь, пока <span class="app">Менеджер приложений Ubuntu</span> загрузит сведения о репозитории.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

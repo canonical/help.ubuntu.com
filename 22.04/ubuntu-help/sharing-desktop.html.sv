@@ -80,22 +80,26 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Dela ditt skrivbord</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Du kan låta andra personer se och styra ditt skrivbord från en annan dator med ett skrivbordsvisningsprogram. Konfigurera <span class="gui">Skärmdelning</span> till att låta andra personer få åtkomst till ditt skrivbord och ställ in säkerhetsinställningarna.</p>
+<p class="p">You can let other people view and control your desktop from another
+  computer with a desktop viewing application. Configure <span class="gui">Remote
+  Desktop</span> to allow others to access your desktop and set the security
+  preferences.</p>
 <div class="note note-package" title="Paket">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m3 10v7.429l9 5.571 9-5.571v-7.429l-9 5z"></path>
  <path class="yelp-svg-fill" d="m3 7v2l9 5 9-5v-2l-9-5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">Du måste ha paketet <span class="app">GNOME Fjärrskrivbord</span> installerat för att <span class="gui">Skärmdelning</span> ska visas.</p>
+<p class="p">You must have the <span class="app">GNOME Remote Desktop</span> package installed for
+     <span class="gui">Remote Desktop</span> to be visible.</p>
 <p class="p"><span class="link-button link"><a href="apt:gnome-remote-desktop" title="apt:gnome-remote-desktop">Installera GNOME Fjärrskrivbord</a></span></p>
 </div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Delning</span> i sidopanelen för att öppna panelen.</p></li>
+<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Dela</span>.</p></li>
+<li class="steps"><p class="p">Klicka på <span class="gui">Dela</span> för att öppna panelen.</p></li>
 <li class="steps">
-<p class="p">Om <span class="gui">Delning</span> längst upp till höger i fönstret är av, slå på det.</p>
+<p class="p">If the <span class="gui">Sharing</span> switch in the top-right of the window is set
+      to off, click to switch it on.</p>
 <div class="note" title="Anteckning">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -103,53 +107,104 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Om texten nedanför <span class="gui">Datornamn</span> låter dig redigera den, kan du <span class="link"><a href="sharing-displayname.html.sv" title="Ställ in visningsnamnet för din dator">ändra</a></span> namnet din dator visar på nätverket.</p></div></div></div>
 </div>
 </li>
-<li class="steps"><p class="p">Välj <span class="gui">Skärmdelning</span>.</p></li>
-<li class="steps"><p class="p">För att låta andra se ditt skrivbord, slå på <span class="gui">Skärmdelning</span>. Detta innebär att andra personer kan försöka att ansluta till din dator och se vad som finns på din skärm.</p></li>
-<li class="steps"><p class="p">För att låta andra interagera med ditt skrivbord, säkerställ att <span class="gui">Tillåt anslutningar att styra skärmen</span> är ikryssat. Detta kan låta den andra personen flytta din mus, köra program och bläddra bland filer på din dator, beroende på säkerhetsinställningarna som du använder för närvarande.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Remote Desktop</span>.</p></li>
+<li class="steps"><p class="p">To let others view your desktop, set the <span class="gui">Remote Desktop</span>
+      switch to on. This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen.</p></li>
+<li class="steps"><p class="p">To let others interact with your desktop, set the
+      <span class="gui">Remote Control</span> switch to on. This may allow the other person to
+      move your mouse, run applications, and browse files on your computer,
+      depending on the security settings which you are currently using.</p></li>
 </ol></div></div></div>
 </div>
 <section id="security"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Säkerhet</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Det är viktigt att du funderar på den fulla vidden av vad varje säkerhetsalternativ innebär innan du ändrar det.</p>
+<p class="p">The <span class="gui">Authentication</span> section displays the login credentials to be
+  used in the client software on the connecting device.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Nya anslutningar måste be om åtkomst</dt>
+<dt class="terms">User Name</dt>
+<dd class="terms"><p class="p">Use the suggested value or enter your own.</p></dd>
+<dt class="terms">Password</dt>
 <dd class="terms">
-<p class="p">Om du vill kunna välja huruvida någon ska beviljas åtkomst till ditt skrivbord, aktivera <span class="gui">Nya anslutningar måste fråga efter åtkomst</span>. Om du inaktiverar detta alternativ kommer du inte att blir tillfrågad huruvida du vill tillåta någon att ansluta till din dator.</p>
+<p class="p">Use the suggested value or enter your own.</p>
 <div class="note note-tip" title="Tips">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Detta alternativ är aktiverat som standard.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Click the button next to each entry if you want to place it in the
+      clipboard.</p></div></div></div>
 </div>
 </dd>
-<dt class="terms">Kräv ett lösenord</dt>
-<dd class="terms">
-<p class="p">För att kräva att andra personer använder ett lösenord när de ansluter till ditt skrivbord, aktivera <span class="gui">Begär lösenord</span>. Om du inte använder detta alternativ kan vem som helst försöka se ditt skrivbord.</p>
-<div class="note note-tip" title="Tips">
-<svg width="24" height="24" version="1.1">
- <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
- <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Detta alternativ är inaktiverat som standard, men du bör aktivera det och ställa in ett säkert lösenord.</p></div></div></div>
-</div>
-</dd>
+<dt class="terms">Verify Encryption</dt>
+<dd class="terms"><p class="p">Click the <span class="gui">Verify Encryption</span> button to display the
+      encryption fingerprint. Compare it with the value displayed by the client
+      when connecting: they should be identical.</p></dd>
 </dl></div></div></div>
 </div></div>
-</div></section><section id="networks"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Nätverk</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">Avsnittet <span class="gui">Nätverk</span> listar nätverken som du för närvarande är ansluten till. Använd brytaren intill respektive nätverk för att välja var ditt skrivbord kan delas.</p></div></div>
+</div></section><section id="connecting"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Connecting</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">The <span class="gui">How to Connect</span> section displays the
+  <span class="gui">Device Name</span> and <span class="gui">Remote Desktop Address</span> that can be used
+  on the connecting computer. Click the button next to each entry if you want to
+  place it in the clipboard. A connection can also be made using your
+  <span class="link"><a href="net-findip.html.sv" title="Hitta din IP-adress">IP address</a></span>.</p>
+<p class="p">When the other computer is successfully connected to your desktop, you
+  will see the <span class="gui">Screen is being shared</span> icon,
+  <span class="media"><span class="media media-image"><img src="figures/topbar-screen-shared.svg" class="media media-inline" alt=""></span></span>
+  in your system status area.</p>
+</div></div>
+</div></section><section id="clients"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Clients</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">To connect to your desktop from another computer, the following clients are
+  known to work.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">From Linux:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="app">Remmina</span>, a GTK client, is available as a package in
+        most distributions, and also as a
+        <span class="link"><a href="https://flathub.org/apps/details/org.remmina.Remmina" title="https://flathub.org/apps/details/org.remmina.Remmina">flatpak</a></span>.
+        Use default settings, particularly <span class="gui">Color depth</span> 'Automatic'
+        in the connection profile settings.</p></li>
+<li class="list"><p class="p"><span class="app">xfreerdp</span> is a command line client available as a
+        package in most distributions. The option <span class="cmd">/network:auto</span>
+        should be passed to the client on the command line.</p></li>
+</ul></div></div></div></dd>
+<dt class="terms">From Microsoft Windows:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list"><p class="p"><span class="app">mstsc</span> is the built-in Windows client. Default
+        settings are recommended.</p></li></ul></div></div></div></dd>
+<dt class="terms">From Linux, Windows, or macOS:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list"><p class="p"><span class="app">Thincast</span> is a proprietary client. The Linux version
+        is available as a <span class="link"><a href="https://flathub.org/apps/details/com.thincast.client" title="https://flathub.org/apps/details/com.thincast.client">flatpak</a></span>.
+        Default settings are recommended.</p></li></ul></div></div></div></dd>
+</dl></div></div></div>
+</div></div>
 </div></section><section id="disconnect"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Sluta dela ditt skrivbord</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">För att koppla från någon som tittar på ditt skrivbord:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Öppna översiktsvyn <span class="gui"><a href="shell-introduction.html.sv#activities" title="Översiktsvyn Aktiviteter">Aktiviteter</a></span> och börja skriv <span class="gui">Inställningar</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Inställningar</span>.</p></li>
-<li class="steps"><p class="p">Klicka på <span class="gui">Delning</span> i sidopanelen för att öppna panelen.</p></li>
-<li class="steps"><p class="p"><span class="gui">Skärmdelning</span> kommer att visas som <span class="gui">Aktiv</span>. Klicka på det.</p></li>
-<li class="steps"><p class="p">Slå av inställningen längst upp.</p></li>
+<li class="steps"><p class="p">Click the system menu on the right side of the top bar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Screen is being shared</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Turn off</span>.</p></li>
 </ol></div></div></div>
 </div></div>
+</div></section><section id="advanced" class="ui-expander"><div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Advanced Topics</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Command line configuration</dt>
+<dd class="terms"><p class="p">The <span class="cmd">grdctl</span> utility allows you to configure your host
+      settings in a console window. For usage details, type
+      <span class="cmd">grdctl --help</span>.</p></dd>
+<dt class="terms">H.264</dt>
+<dd class="terms"><p class="p">H.264 video encoding heavily reduces bandwidth.
+      <span class="app">GNOME Remote Desktop</span> will use H.264 when: the graphics pipeline
+      is used (a requirement of the protocol), the client supports it, and
+      NVENC (NVIDIA's encoder) is available.</p></dd>
+</dl></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

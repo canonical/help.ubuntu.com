@@ -110,8 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="wacom.html.fr" title="Tablette graphique Wacom">Tablette graphique Wacom</a><span class="desc"> — Configure your Wacom graphics tablet, including the tracking
-  mode and which monitor it is mapped to.</span>
+<a href="wacom.html.fr" title="Tablette graphique Wacom">Tablette graphique Wacom</a><span class="desc"> — Configurer votre tablette graphique Wacom, y compris le mode de recherche et l’écran auquel elle correspond.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

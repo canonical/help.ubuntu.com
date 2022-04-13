@@ -93,7 +93,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Důležité">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">GNOME klasické je dostupné jen na systémech s nainstalovanými konkrétními rozšířeními GNOME Shellu. V některýc linuxových distribucích nemusí mí tato rozšíření k dispozici nebo nemusí být nainstalována ve výchozím stavu.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents">
+<p class="p">Aby bylo GNOME klasické dostupné, musíte mít nainstalovaný balíček <span class="sys">gnome-shell-extensions</span></p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-shell-extensions" title="apt:gnome-shell-extensions">Nainstalovat <span class="sys">gnome-shell-extensions</span></a></span></p>
+</div></div></div>
 </div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">Když se chcete přepnout z <span class="em">GNOME</span> na <span class="em">GNOME klasické</span>:</span></h3></div>

@@ -76,11 +76,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Affichage et écran</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="look-background.html.fr" title="Change the desktop background"><span class="title">Change the desktop background</span><span class="linkdiv-dash"> — </span><span class="desc">Set an image as your desktop background.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-dual-monitors.html.fr" title="Connexion d’un autre écran à votre ordinateur"><span class="title">Connexion d’un autre écran à votre ordinateur</span><span class="linkdiv-dash"> — </span><span class="desc">Configurer un écran externe.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fr" title="L’écran se verrouille trop rapidement"><span class="title">L’écran se verrouille trop rapidement</span><span class="linkdiv-dash"> — </span><span class="desc">Change how long to wait before locking the screen in the
-    <span class="gui">Screen Lock</span> settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="session-screenlocks.html.fr" title="L’écran se verrouille trop rapidement"><span class="title">L’écran se verrouille trop rapidement</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier le temps d’attente avant le verrouillage de l’écran dans les paramètres de <span class="gui">Verrouillage de l’écran</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="look-resolution.html.fr" title="Modification de la définition ou de l’orientation de l’écran"><span class="title">Modification de la définition ou de l’orientation de l’écran</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier la définition de l’écran et son orientation (rotation).</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="look-background.html.fr" title="Modification de l’arrière-plan du bureau"><span class="title">Modification de l’arrière-plan du bureau</span><span class="linkdiv-dash"> — </span><span class="desc">Définir une image comme arrière-plan de votre bureau.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-brightness.html.fr" title="Réglage de la luminosité de l’écran"><span class="title">Réglage de la luminosité de l’écran</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier la luminosité de l’écran afin de le rendre plus lisible sous une lumière vive.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-night-light.html.fr" title="Réglage de la température de couleur de votre écran"><span class="title">Réglage de la température de couleur de votre écran</span><span class="linkdiv-dash"> — </span><span class="desc">Le Mode nuit change la couleur de vos écrans en fonction de l’heure de la journée.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="display-blank.html.fr" title="Réglage du délai avant extinction de l’écran"><span class="title">Réglage du délai avant extinction de l’écran</span><span class="linkdiv-dash"> — </span><span class="desc">Modifier le délai avant extinction de l’écran pour économiser l’énergie.</span></a></div>
@@ -90,8 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — From hardware control to privacy settings, make GNOME
-    work for you.</span>
+<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — Du contrôle du matériel aux paramètres de confidentialité, faire en sorte que GNOME travaille pour vous.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

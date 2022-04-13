@@ -79,8 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Ako ste primijetili problem u Ubuntuu, možete popuniti <span class="em">izvještaj greške</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Type <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-<span class="input">ubuntu-bug &lt;package name&gt;</span></p>
+<p class="p">Pritisnite <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> tipke i upišite <span class="input">ubuntu-bug &lt;naziv paketa&gt;</span></p>
 <p class="p">Ako imate hardverski problem ili ne znate naziv zahvaćenog programa, jednostavno utipkajte <span class="input">ubuntu-bug</span></p>
 <div class="note" title="Bilješka">
 <svg width="24" height="24" version="1.1">

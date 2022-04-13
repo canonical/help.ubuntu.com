@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-email.html.fr" title="Logiciels de messagerie et courriels">Email</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-email.html.fr" title="Logiciels de messagerie et courriels">Courriels</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Changement du client de messagerie pour écrire vos courriels</span></h1></div>
@@ -78,9 +78,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Quand vous cliquez sur un bouton ou sur un lien pour envoyer un nouveau courriel (par exemple dans votre application de traitement de texte), votre client de messagerie par défaut s’ouvre avec un message vide, prêt à la saisie. Cependant, si vous avez installé plus d’un client de messagerie, ce sera peut-être le mauvais qui s’ouvrira. Pour régler le problème, vous pouvez choisir votre application de messagerie par défaut :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Default Applications</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Default Applications</span>.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Applications par défaut</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Applications par défaut</span>.</p></li>
 <li class="steps"><p class="p">Choisissez votre client de messagerie par défaut en le sélectionnant dans la liste déroulante <span class="gui">Courriels</span>.</p></li>
 </ol></div></div></div>
 </div>
@@ -89,7 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-email.html.fr" title="Logiciels de messagerie et courriels">Logiciels de messagerie et courriels</a><span class="desc"> — Set your default app and stay safe with email.</span>
+<a href="net-email.html.fr" title="Logiciels de messagerie et courriels">Logiciels de messagerie et courriels</a><span class="desc"> — Définir votre application par défaut et assurer la sécurité de vos courriels.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

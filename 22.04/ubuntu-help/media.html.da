@@ -125,11 +125,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="video-sending.html.da" title="Andre personer kan ikke afspille de videoer, jeg har lavet"><span class="title">Andre personer kan ikke afspille de videoer, jeg har lavet</span><span class="linkdiv-dash"> — </span><span class="desc">Tjek at du har de rette video-codecs installeret.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="video-dvd.html.da" title="Hvorfor afspilles dvd'er ikke?"><span class="title">Hvorfor afspilles dvd'er ikke?</span><span class="linkdiv-dash"> — </span><span class="desc">Du har måske ikke de rette codecs installeret eller dvd'en er en forkert region.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.da" title="Lav sjove billeder og videoer med dit webkamera"><span class="title">Lav sjove billeder og videoer med dit webkamera</span><span class="linkdiv-dash"> — </span><span class="desc">Det fungerer som dit eget personlige billedværksted</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="app-cheese.html.da" title="Lav sjove billeder og videoer med dit webkamera"><span class="title">Lav sjove billeder og videoer med dit webkamera</span><span class="linkdiv-dash"> — </span><span class="desc">Det fungerer som dit eget personlige billedværksted.</span></a></div>
 </div>
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="files-autorun.html.da" title="Åbn programmer til enheder eller diske"><span class="title">Åbn programmer til enheder eller diske</span><span class="linkdiv-dash"> — </span><span class="desc">Kør automatisk programmer fra cd'er og dvd'er, kameraer, lydafspillere og andre enheder og medier.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.da" title="How do I enable restricted codecs to play DVDs?"><span class="title">How do I enable restricted codecs to play DVDs?</span><span class="linkdiv-dash"> — </span><span class="desc">Most commercial DVDs are encrypted and will not play without decryption software.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="video-dvd-restricted.html.da" title="Hvordan aktiveres begrænsede codecs til afspilning af dvd'er?"><span class="title">Hvordan aktiveres begrænsede codecs til afspilning af dvd'er?</span><span class="linkdiv-dash"> — </span><span class="desc">De fleste kommercielle dvd'er er krypterede og vil ikke kunne afspilles uden dekrypteringssoftware.</span></a></div>
 </div>
 </div></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">

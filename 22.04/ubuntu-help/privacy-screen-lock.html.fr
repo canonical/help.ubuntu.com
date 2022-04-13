@@ -86,22 +86,16 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Pour paramétrer un délai plus long avant que l’écran ne se verrouille automatiquement :</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Screen Lock</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Screen Lock</span> to open the panel.</p></li>
-<li class="steps"><p class="p">Make sure <span class="gui">Automatic Screen Lock</span> is switched on, then select a
-      length of time from the <span class="gui">Automatic Screen Lock Delay</span> drop-down list.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Verrouillage de l’écran</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Verrouillage de l’écran</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">Assurez-vous que l’option <span class="gui">Verrouillage automatique de l’écran</span> est activée, puis choisissez un délai dans la liste déroulante de <span class="gui">Délai du verrouillage automatique de l’écran</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="note note-tip" title="Astuce">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Applications can present notifications to you that are still displayed
-    on your lock screen. This is convenient, for example, to see if you have
-    any email without unlocking your screen. If you’re concerned about other
-    people seeing these notifications, switch <span class="gui">Show Notifications on Lock Screen</span>
-    off. For further notification settings, refer to <span class="link"><a href="shell-notifications.html.fr" title="Notifications et liste des notifications">Notifications et liste des notifications</a></span>.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Les applications peuvent présenter des notifications qui sont toujours affichées sur votre écran de verrouillage. Cela est pratique, par exemple, pour voir si vous avez des courriels sans déverrouiller votre écran. Si vous craignez que d’autres personnes voient ces notifications, désactivez l’option <span class="gui">Afficher les notifications sur l’écran verrouillé</span>. Pour plus de paramètres de notification, consultez <span class="link"><a href="shell-notifications.html.fr" title="Notifications et liste des notifications">Notifications et liste des notifications</a></span>.</p></div></div></div>
 </div>
 <p class="p">Si l’écran est verrouillé, appuyez sur <span class="key"><kbd>Échap</kbd></span> pour le déverrouiller, ou balayez l’écran avec la souris de bas en haut. Saisissez alors votre mot de passe et appuyez sur <span class="key"><kbd>Entrée</kbd></span> ou bien cliquez sur <span class="gui">Déverrouiller</span>. Sinon, commencez juste à saisir votre mot de passe et l’écran de verrouillage se soulève au fur et à mesure.</p>
 </div>
@@ -111,16 +105,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="privacy.html.fr" title="Paramètres de confidentialité">Paramètres de confidentialité</a><span class="desc"> — Lock your screen, remove temporary files, and control access to
-    devices like cameras and microphones.</span>
+<a href="privacy.html.fr" title="Paramètres de confidentialité">Paramètres de confidentialité</a><span class="desc"> — Verrouiller votre écran, supprimer les fichiers temporaires et contrôler l’accès aux périphériques tels que les caméras et les microphones.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html.fr" title="L’écran se verrouille trop rapidement">L’écran se verrouille trop rapidement</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Screen Lock</span> settings.</span>
+<a href="session-screenlocks.html.fr" title="L’écran se verrouille trop rapidement">L’écran se verrouille trop rapidement</a><span class="desc"> — Modifier le temps d’attente avant le verrouillage de l’écran dans les paramètres de <span class="gui">Verrouillage de l’écran</span>.</span>
 </li>
 <li class="links "><a href="shell-exit.html.fr#lock-screen" title="Verrouillage de l’écran">Verrouillage de l’écran</a></li>
 </ul></div>

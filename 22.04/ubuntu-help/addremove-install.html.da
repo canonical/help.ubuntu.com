@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Installer yderligere programmer</title>
+<title>Installér yderligere programmer</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,50 +70,24 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installer og fjern software">Tilføj / fjern software</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installér og fjern software">Tilføj / fjern software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Installer yderligere programmer</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Installér yderligere programmer</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">Ubuntu Software</span>.
-   </p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">Ubuntu Software</span> the snap will be listed first.
-   </p>
-<p class="p">
-    You may also wish to install software that does not have a GUI. To install
-    such software, you can use <span class="link"><a href="addremove-install-synaptic.html.da" title="Brug Synaptic til mere avanceret softwarehåndtering">Synaptic</a></span>.
-    Note that <span class="app">Synaptic</span> does not list snaps.
-  </p>
-<p class="p">Installer programmer:</p>
+<p class="p">Et program er software, som har en grafisk brugergrænseflade (GUI). Ubuntus udviklerhold har udvalgt et sæt programmer, som vi mener, gør Ubuntu meget anvendelig til de fleste daglige opgaver. Du vil dog helt sikkert ønske at installere flere programmer for at gøre Ubuntu mere anvendeligt for dig. Du kan installere et program med <span class="app">Ubuntu Software</span>.</p>
+<p class="p">Programmer findes i to formater: snap-pakker og Debian-pakker. Et program tilgængeligt som en snap-pakke kaldes fra nu af en <span class="em">snap</span>. Nogle programmer er tilgængelige i begge formater. I det tilfælde vil snappen vises først i <span class="app">Ubuntu Software</span>.</p>
+<p class="p">Du vil måske også installere et program uden en GUI. Den type programmer kan installeres med <span class="link"><a href="addremove-install-synaptic.html.da" title="Brug Synaptic til mere avanceret softwarehåndtering">Synaptic</a></span>. Bemærk, at <span class="app">Synaptic</span> ikke viser snapper.</p>
+<p class="p">Installér et program:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">
         Click the <span class="app">Ubuntu Software</span> icon in the <span class="gui">Dock</span>, or search
         for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
       </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">Ubuntu Software</span> launches, search for an application, or select 
-        a category and find an application from the list.
-      </p></li>
-<li class="steps"><p class="p">
-        Select the application that you want to install and click 
-        <span class="gui">Install</span>.
-      </p></li>
-<li class="steps"><p class="p">
-        You will be asked to authenticate by entering your password. 
-        Once you have done that the installation will begin. 
-        The installation usually finishes quickly, but could take a while if you 
-        have a slow Internet connection.
-      </p></li>
+<li class="steps"><p class="p">Når <span class="app">Ubuntu Software</span> er startet, så søg efter et program eller vælge en kategori og find et program på listen.</p></li>
+<li class="steps"><p class="p">Vælg det program, du vil installere, og klik <span class="gui">Installér</span>.</p></li>
+<li class="steps"><p class="p">Du vil blive bedt om at godkende ved at indtaste din adgangskode. Når du har gjort det, vil programmet blive installeret. Det er sædvanligvis hurtigt overstået, men kan tage noget tid på en langsom internetforbindelse.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -122,24 +96,20 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.da" title="Installer og fjern software">Installer og fjern software</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.da" title="Installér og fjern software">Installér og fjern software</a><span class="desc"> — Tilføj og fjern programmer og anden software. Håndtér yderligere programarkiver.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install-synaptic.html.da" title="Brug Synaptic til mere avanceret softwarehåndtering">Brug Synaptic til mere avanceret softwarehåndtering</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">Ubuntu Software</span>.
-    </span>
+<a href="addremove-install-synaptic.html.da" title="Brug Synaptic til mere avanceret softwarehåndtering">Brug Synaptic til mere avanceret softwarehåndtering</a><span class="desc"> — Synaptic er et meget stærkt, men også kompliceret, alternativ til <span class="app">Ubuntu Software</span>.</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.da" title="Fjern et program">Fjern et program</a><span class="desc"> — Fjern programmer som ikke længere bruges.</span>
 </li>
 <li class="links ">
-<a href="prefs-language-install.html.da" title="Installer sprog">Installer sprog</a><span class="desc"> — Install more translations and related language support packages.</span>
+<a href="prefs-language-install.html.da" title="Installér sprog">Installér sprog</a><span class="desc"> — Installér flere oversættelser og relaterede sprogunderstøttelsespakker.</span>
 </li>
 </ul></div>
 </div></div>

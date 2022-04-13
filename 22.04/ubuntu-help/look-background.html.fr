@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Change the desktop background</title>
+<title>Modification de l’arrière-plan du bureau</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,20 +73,18 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Change the desktop background</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Modification de l’arrière-plan du bureau</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
 <p class="p">Pour modifier l’image utilisée pour les arrière-plans :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Arrière-plan</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Background</span> to open the panel. The currently selected
-      wallpaper is shown at the top.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Arrière-plan</span> pour ouvrir le panneau. Les sélections actuelles pour l’arrière-plan et l’écran de verrouillage sont affichées en haut.</p></li>
 <li class="steps">
 <p class="p">Il existe deux façons de modifier l’image utilisée pour les arrière-plans :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list">
-<p class="p">Click one of the background images which are shipped with the
-          system.</p>
+<p class="p">Cliquez sur l’une des images d’arrière-plan fournies avec le système.</p>
 <div class="note" title="Note">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -94,9 +92,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Certains papiers peints changent au cours de la journée. Ceux-ci possèdent une petite icône en forme d’horloge dans le coin inférieur droit.</p></div></div></div>
 </div>
 </li>
-<li class="list"><p class="p">Click <span class="gui">Add Picture…</span> to use one of your own photos. By
-          default, the <span class="file">Pictures</span> folder will be opened, since most
-          photo management applications store photos there.</p></li>
+<li class="list"><p class="p">Cliquez sur <span class="gui">Ajouter une image</span> pour utiliser l’une de vos photos personnelles. Par défaut, cette action ouvre le dossier <span class="file">Images</span>, car la plupart des applications de gestion des photos y stockent des photos.</p></li>
 </ul></div></div></div>
 </li>
 <li class="steps">
@@ -105,11 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">For another way to set one of your own photos as the background,
-          right-click on the image file in <span class="app">Files</span> and select <span class="gui">Set
-          as Wallpaper</span>, or open the image file in <span class="app">Image Viewer</span>,
-          click the menu button in the titlebar and select <span class="gui">Set as
-          Wallpaper</span>.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Voici d’autres façons de définir l’une de vos photos personnelles comme arrière-plan : faites un clic droit sur le fichier image contenu dans <span class="app">Fichiers</span> puis sélectionnez <span class="gui">Définir comme papier peint</span>, ou bien ouvrez le fichier image dans <span class="app">Visionneur d’images</span>, cliquez sur le bouton de menu situé dans la barre de titre, puis sélectionnez <span class="gui">Définir comme papier peint</span>.</p></div></div></div>
 </div>
 </li>
 <li class="steps"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.fr" title="Changement d’espace de travail">Affichez un espace de travail vide</a></span> pour visualiser le bureau dans son intégralité.</p></li>
@@ -120,8 +112,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Set your background, configure monitors, and manage
-    color temperatures.</span>
+<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Définir votre arrière-plan, configurer les écrans et gérer les températures de couleur.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -83,11 +83,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Si vous laissez votre ordinateur pendant quelques minutes, l’écran se verrouille automatiquement et vous devez saisir votre mot de passe pour l’utiliser à nouveau. Ce système a été mis en place pour des raisons de sécurité (de cette façon, personne ne peut intervenir dans votre travail si vous laissez votre ordinateur sans surveillance), mais le fait que l’écran se verrouille trop vite peut devenir gênant.</p>
 <p class="p">Pour paramétrer un délai plus long avant que l’écran ne se verrouille automatiquement :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activities</a></span> overview and
-      start typing <span class="gui">Screen Lock</span>.</p></li>
-<li class="steps"><p class="p">Click on <span class="gui">Screen Lock</span> to open the panel.</p></li>
-<li class="steps"><p class="p">If <span class="gui">Automatic Screen Lock</span> is on, you can change the value
-      in the <span class="gui">Automatic Screen Lock Delay</span> drop-down list.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Verrouillage de l’écran</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Verrouillage de l’écran</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">Si le <span class="gui">Verrouillage automatique de l’écran</span> est activé, vous pouvez modifier la valeur dans la liste déroulante <span class="gui">Délai du verrouillage automatique de l’écran</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Astuce">
 <svg width="24" height="24" version="1.1">
@@ -103,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Set your background, configure monitors, and manage
-    color temperatures.</span>
+<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Définir votre arrière-plan, configurer les écrans et gérer les températures de couleur.</span>
 </li>
 <li class="links ">
 <a href="hardware-problems-graphics.html.fr" title="Problèmes d’écran">Problèmes d’écran</a><span class="desc"> — Résoudre les problèmes d’écran ou de carte graphique.</span>

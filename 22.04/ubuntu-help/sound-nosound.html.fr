@@ -86,13 +86,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Ouvrez le <span class="gui"><a href="shell-introduction.html.fr#systemmenu" title="Menu système">menu système</a></span> et vérifiez que le son n’est pas mis en sourdine ou éteint.</p>
 <p class="p">Certains ordinateurs portables possèdent un interrupteur de son, ou une touche spéciale sur le clavier : appuyez sur cette touche pour voir si le son revient.</p>
 <p class="p">Vérifiez également si vous n’avez pas rendu silencieuse l’application utilisée pour jouer le son (par exemple le lecteur de musique ou le lecteur de film). L’application peut disposer d’un bouton de volume ou de mise en sourdine. Assurez-vous en.</p>
-<p class="p">Also, you can check the volume slider in the <span class="gui">Sound</span>   panel:</p>
+<p class="p">Vous pouvez aussi vérifier le curseur de volume dans le panneau <span class="gui">Son</span> :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Son</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Son</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">Volume Levels</span>, check that your application is not
-      muted. The button at the end of the volume slider toggles <span class="gui">Mute</span>
-      on and off.</p></li>
+<li class="steps"><p class="p">À la rubrique <span class="gui">Niveaux de volume</span>, vérifiez que votre application n’est pas mise en sourdine. Le bouton situé à la fin du curseur de volume active et désactive la <span class="gui">Sourdine</span>.</p></li>
 </ol></div></div></div>
 </div></div>
 </div></section><section id="speakers"><div class="inner">
@@ -110,9 +108,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Son</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Son</span> pour ouvrir le panneau.</p></li>
 <li class="steps">
-<p class="p">Under <span class="gui">Output</span>, select an <span class="gui">Output Device</span> and click
-      the <span class="gui">Test</span> button to see if it works.</p>
-<p class="p">You might need to try each available device.</p>
+<p class="p">À la rubrique <span class="gui">Sortie</span>, sélectionnez un <span class="gui">Périphérique de sortie</span> puis cliquez sur le bouton <span class="gui">Test</span> pour vérifier si cela fonctionne.</p>
+<p class="p">Vous devrez peut-être tester chaque périphérique disponible.</p>
 </li>
 </ol></div></div></div>
 </div></div>

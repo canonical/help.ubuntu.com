@@ -79,15 +79,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Jos havaitset ongelman, voit tehdä <span class="em">vikailmoituksen</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Type <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-<span class="input">ubuntu-bug &lt;package name&gt;</span></p>
+<p class="p">Paina <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> ja kirjoita <span class="input">ubuntu-bug &lt;paketin nimi&gt;</span></p>
 <p class="p">Jos sinulla on laitteisto-ongelmia tai et tiedä ohjelman nimeä, kirjoita pelkästään <span class="input">ubuntu-bug</span></p>
 <div class="note" title="Huomautus">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If using <span class="cmd">ubuntu-bug</span> does not work for some reason, <span class="link"><a href="https://help.ubuntu.com/community/ReportingBugs#Filing_bugs_manually_at_Launchpad.net" title="https://help.ubuntu.com/community/ReportingBugs#Filing_bugs_manually_at_Launchpad.net">
-    file a bug manually</a></span> and jump to step 4 in this instruction.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Jos <span class="cmd">ubuntu-bug</span>:n käyttö ei jostain syystä toimi, <span class="link"><a href="https://help.ubuntu.com/community/ReportingBugs#Filing_bugs_manually_at_Launchpad.net" title="https://help.ubuntu.com/community/ReportingBugs#Filing_bugs_manually_at_Launchpad.net">luo virheraportti käsin</a></span> ja seuraa tämän ohjeen kohtaa 4.</p></div></div></div>
 </div>
 </li>
 <li class="steps"><p class="p">Kun olet tehnyt jonkin edellisistä toimenpiteistä, Ubuntu kerää tietoja raporttiasi varten. Tämä saattaa kestää muutaman minuutin. Voit halutessasi tarkistaa raporttiin liitetyt tiedot. Jatka napsauttamalla <span class="gui">Lähetä</span>.</p></li>
@@ -118,8 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Lisätietoja</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.fi" title="Lue lisää ohjeita">Lue lisää ohjeita</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.fi" title="Lue lisää ohjeita">Lue lisää ohjeita</a><span class="desc"> — Ohjeita tämän oppaan käyttöön sekä tietoa yhteisöstä.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

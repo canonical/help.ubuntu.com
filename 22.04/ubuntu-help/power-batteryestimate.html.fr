@@ -71,11 +71,11 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Votre bureau">Bureau</a> › <a class="trail" href="shell-overview.html.fr#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » <a class="trail" href="status-icons.html.fr" title="Signification des icônes de la barre supérieure">Signification des icônes de la barre supérieure</a> › <a class="trail" href="status-icons.html.fr#batteryicons" title="Battery icons">Battery icons</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Votre bureau">Bureau</a> › <a class="trail" href="shell-overview.html.fr#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » <a class="trail" href="status-icons.html.fr" title="Signification des icônes de la barre supérieure">Signification des icônes de la barre supérieure</a> › <a class="trail" href="status-icons.html.fr#batteryicons" title="Icônes Batterie">Icônes Batterie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> › <a class="trail" href="power.html.fr#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> › <a class="trail" href="power.html.fr#faq" title="Questions">Questions</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> › <a class="trail" href="power.html.fr#faq" title="Questions">Questions</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> › <a class="trail" href="power.html.fr#faq" title="Questions">Questions</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -102,7 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
-<li class="links "><a href="status-icons.html.fr#batteryicons" title="Battery icons">Battery icons</a></li>
+<li class="links "><a href="status-icons.html.fr#batteryicons" title="Icônes Batterie">Icônes Batterie</a></li>
 <li class="links "><a href="power.html.fr#faq" title="Questions">Questions</a></li>
 </ul></div>
 </div></div>

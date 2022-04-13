@@ -101,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Máis información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.gl-GL" title="Instalar e eliminar software">Instalar e eliminar software</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.gl-GL" title="Instalar e eliminar software">Instalar e eliminar software</a><span class="desc"> — Engada e retire aplicacións e outro software. Xestione repositorios de software adicionais.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

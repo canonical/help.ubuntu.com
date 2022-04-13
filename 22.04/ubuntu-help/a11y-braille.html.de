@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="a11y.html.de" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html.de#vision" title="Visuelle Beeinträchtigungen">Visuelle Beeinträchtigungen</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu Desktop Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="a11y.html.de" title="Barrierefreiheit">Barrierefreiheit</a> › <a class="trail" href="a11y.html.de#vision" title="Visuelle Beeinträchtigungen">Visuelle Beeinträchtigungen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Den Bildschirm in Brailleschrift lesen</span></h1></div>

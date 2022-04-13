@@ -80,22 +80,26 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">데스크톱 공유</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">다른 사람이 여러분의 컴퓨터를 다른 컴퓨터에서 데스크톱 보기 프로그램으로 보고 제어하게 할 수 있습니다. <span class="gui">화면 공유</span>를 설정하여 다른 사람의 데스크톱 접근을 허용하고 보안 기본 설정 항목을 설정합니다.</p>
+<p class="p">You can let other people view and control your desktop from another
+  computer with a desktop viewing application. Configure <span class="gui">Remote
+  Desktop</span> to allow others to access your desktop and set the security
+  preferences.</p>
 <div class="note note-package" title="패키지">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m3 10v7.429l9 5.571 9-5.571v-7.429l-9 5z"></path>
  <path class="yelp-svg-fill" d="m3 7v2l9 5 9-5v-2l-9-5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p"><span class="gui">화면 공유</span> 화면이 나타나게 하려면 <span class="app">그놈 원격 데스크톱</span> 패키지를 설치해야합니다.</p>
+<p class="p">You must have the <span class="app">GNOME Remote Desktop</span> package installed for
+     <span class="gui">Remote Desktop</span> to be visible.</p>
 <p class="p"><span class="link-button link"><a href="apt:gnome-remote-desktop" title="apt:gnome-remote-desktop">그놈 원격 데스크톱 설치</a></span></p>
 </div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="gui"><a href="shell-introduction.html.ko#activities" title="현재 활동 개요">현재 활동</a></span> 개요를 열고 <span class="gui">설정</span> 입력을 시작합니다.</p></li>
-<li class="steps"><p class="p"><span class="gui">설정</span>을 누릅니다.</p></li>
-<li class="steps"><p class="p">가장자리 창에서 <span class="gui">공유</span>를 눌러 창을 엽니다.</p></li>
+<li class="steps"><p class="p"><span class="gui"><a href="shell-introduction.html.ko#activities" title="현재 활동 개요">현재 활동</a></span> 개요를 열고 <span class="gui">공유</span> 입력을 시작합니다.</p></li>
+<li class="steps"><p class="p"><span class="gui">공유</span>를 눌러 창을 엽니다.</p></li>
 <li class="steps">
-<p class="p">창 우측 상단의 <span class="gui">공유</span> 스위치가 꺼져있으면 켜둡니다.</p>
+<p class="p">If the <span class="gui">Sharing</span> switch in the top-right of the window is set
+      to off, click to switch it on.</p>
 <div class="note" title="알림">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -103,53 +107,104 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">컴퓨터 이름</span> 하단 텍스트를 편집할 수 있다면, 네트워크에 나타나는 컴퓨터 이름을 <span class="link"><a href="sharing-displayname.html.ko" title="컴퓨터의 표시 이름 설정">바꿀</a></span> 수 있습니다.</p></div></div></div>
 </div>
 </li>
-<li class="steps"><p class="p"><span class="gui">화면 공유</span>를 선택합니다.</p></li>
-<li class="steps"><p class="p">데스크톱을 다른 사람이 볼 수 있게 하려면 <span class="gui">화면 공유</span> 스위치를 켭니다. 여러분의 컴퓨터에 연결을 시도하여 화면에 무엇이 떠있는지 볼 수 있게 함을 의미합니다.</p></li>
-<li class="steps"><p class="p">다른 사람에 여러분의 데스크톱을 다룰 수 있게 하려면, <span class="gui">연결해서 화면 조작 허용</span>을 표시했는지 확인합니다. 현재 설정한 보안 설정에 따라 다른 사람이 여러분 컴퓨터의 마우스를 움직이고, 프로그램을 실행하며, 컴퓨터의 파일을 확인해볼 수 있습니다.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Remote Desktop</span>.</p></li>
+<li class="steps"><p class="p">To let others view your desktop, set the <span class="gui">Remote Desktop</span>
+      switch to on. This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen.</p></li>
+<li class="steps"><p class="p">To let others interact with your desktop, set the
+      <span class="gui">Remote Control</span> switch to on. This may allow the other person to
+      move your mouse, run applications, and browse files on your computer,
+      depending on the security settings which you are currently using.</p></li>
 </ol></div></div></div>
 </div>
 <section id="security"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">보안</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">각 보안 옵션을 바꾸기 전에 어떤 의미를 지니는지 전체적으로 확인해보는게 중요합니다.</p>
+<p class="p">The <span class="gui">Authentication</span> section displays the login credentials to be
+  used in the client software on the connecting device.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">새 연결에서 접근 요청을 하게 만들기</dt>
+<dt class="terms">User Name</dt>
+<dd class="terms"><p class="p">Use the suggested value or enter your own.</p></dd>
+<dt class="terms">Password</dt>
 <dd class="terms">
-<p class="p">누군가가 데스크톱 접근을 요청해올 때 허용할 지 여부를 선택할 수 있게 하려면, <span class="gui">새로 연결하면 접근을 허용할지 확인</span> 옵션을 켭니다. 이 옵션을 끄면, 누군가가 여러분의 컴퓨터에 연결할 때 허용할 지 여부를 묻지 않습니다.</p>
+<p class="p">Use the suggested value or enter your own.</p>
 <div class="note note-tip" title="힌트">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">이 옵션은 기본으로 켜져있습니다.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Click the button next to each entry if you want to place it in the
+      clipboard.</p></div></div></div>
 </div>
 </dd>
-<dt class="terms">암호 필요</dt>
-<dd class="terms">
-<p class="p">데스크톱에 연결할 때 다른 사람에게 암호를 요구하게 하려면, <span class="gui">암호 필요</span>를 켭니다. 이 옵션을 사용하지 않으면 누구든 데스크톱 내용을 보려 할 수 있습니다.</p>
-<div class="note note-tip" title="힌트">
-<svg width="24" height="24" version="1.1">
- <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
- <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">이 옵션은 기본으로 꺼져있습니다. 그러나 켜야 하며 보안 암호를 설정해야합니다.</p></div></div></div>
-</div>
-</dd>
+<dt class="terms">Verify Encryption</dt>
+<dd class="terms"><p class="p">Click the <span class="gui">Verify Encryption</span> button to display the
+      encryption fingerprint. Compare it with the value displayed by the client
+      when connecting: they should be identical.</p></dd>
 </dl></div></div></div>
 </div></div>
-</div></section><section id="networks"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">네트워크</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p"><span class="gui">네트워크</span> 부분에서는 현재 연결한 네트워크를 목록으로 보여줍니다. 어떤 데스크톱을 공유할 수 있는지 선택할 항목의 스위치를 활용합니다.</p></div></div>
+</div></section><section id="connecting"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Connecting</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">The <span class="gui">How to Connect</span> section displays the
+  <span class="gui">Device Name</span> and <span class="gui">Remote Desktop Address</span> that can be used
+  on the connecting computer. Click the button next to each entry if you want to
+  place it in the clipboard. A connection can also be made using your
+  <span class="link"><a href="net-findip.html.ko" title="IP 주소 찾기">IP address</a></span>.</p>
+<p class="p">When the other computer is successfully connected to your desktop, you
+  will see the <span class="gui">Screen is being shared</span> icon,
+  <span class="media"><span class="media media-image"><img src="figures/topbar-screen-shared.svg" class="media media-inline" alt=""></span></span>
+  in your system status area.</p>
+</div></div>
+</div></section><section id="clients"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Clients</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">To connect to your desktop from another computer, the following clients are
+  known to work.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">From Linux:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="app">Remmina</span>, a GTK client, is available as a package in
+        most distributions, and also as a
+        <span class="link"><a href="https://flathub.org/apps/details/org.remmina.Remmina" title="https://flathub.org/apps/details/org.remmina.Remmina">flatpak</a></span>.
+        Use default settings, particularly <span class="gui">Color depth</span> 'Automatic'
+        in the connection profile settings.</p></li>
+<li class="list"><p class="p"><span class="app">xfreerdp</span> is a command line client available as a
+        package in most distributions. The option <span class="cmd">/network:auto</span>
+        should be passed to the client on the command line.</p></li>
+</ul></div></div></div></dd>
+<dt class="terms">From Microsoft Windows:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list"><p class="p"><span class="app">mstsc</span> is the built-in Windows client. Default
+        settings are recommended.</p></li></ul></div></div></div></dd>
+<dt class="terms">From Linux, Windows, or macOS:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list"><p class="p"><span class="app">Thincast</span> is a proprietary client. The Linux version
+        is available as a <span class="link"><a href="https://flathub.org/apps/details/com.thincast.client" title="https://flathub.org/apps/details/com.thincast.client">flatpak</a></span>.
+        Default settings are recommended.</p></li></ul></div></div></div></dd>
+</dl></div></div></div>
+</div></div>
 </div></section><section id="disconnect"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">데스크톱 공유 중지</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">데스크톱을 보고 있는 누군가의 연결을 끊으려면:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p"><span class="gui"><a href="shell-introduction.html.ko#activities" title="현재 활동 개요">현재 활동</a></span> 개요를 열고 <span class="gui">설정</span> 입력을 시작합니다.</p></li>
-<li class="steps"><p class="p"><span class="gui">설정</span>을 누릅니다.</p></li>
-<li class="steps"><p class="p">가장자리 창에서 <span class="gui">공유</span>를 눌러 창을 엽니다.</p></li>
-<li class="steps"><p class="p"><span class="gui">화면 공유</span> 에서 <span class="gui">활성</span>으로 나타나있습니다. 해당 항목을 누릅니다.</p></li>
-<li class="steps"><p class="p">상단의 스위치를 끄는 방향으로 전환합니다.</p></li>
+<li class="steps"><p class="p">Click the system menu on the right side of the top bar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Screen is being shared</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Turn off</span>.</p></li>
 </ol></div></div></div>
 </div></div>
+</div></section><section id="advanced" class="ui-expander"><div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Advanced Topics</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Command line configuration</dt>
+<dd class="terms"><p class="p">The <span class="cmd">grdctl</span> utility allows you to configure your host
+      settings in a console window. For usage details, type
+      <span class="cmd">grdctl --help</span>.</p></dd>
+<dt class="terms">H.264</dt>
+<dd class="terms"><p class="p">H.264 video encoding heavily reduces bandwidth.
+      <span class="app">GNOME Remote Desktop</span> will use H.264 when: the graphics pipeline
+      is used (a requirement of the protocol), the client supports it, and
+      NVENC (NVIDIA's encoder) is available.</p></dd>
+</dl></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

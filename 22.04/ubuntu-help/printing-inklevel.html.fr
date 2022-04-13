@@ -89,8 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="printing.html.fr" title="Impression">Impression</a><span class="desc"> — Set up local and network printers. Learn about different
-    printing options like collation and multi-sided printing.</span>
+<a href="printing.html.fr" title="Impression">Impression</a><span class="desc"> — Configurer les imprimantes locales et réseau. Découvrir les différentes options d’impression telles que l’assemblage et l’impression recto verso.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

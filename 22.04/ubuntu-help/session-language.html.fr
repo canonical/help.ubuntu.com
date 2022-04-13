@@ -82,9 +82,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Pays et langue</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Langue</span>.</p></li>
 <li class="steps"><p class="p">Sélectionnez votre région et votre langue. S’ils ne sont pas dans la liste, cliquez sur <span class="gui"><span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="…"></span></span></span> au bas de la liste pour les trouver parmi toutes les régions et langues disponibles.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Select</span> to save.</p></li>
-<li class="steps"><p class="p">Your session needs to be restarted for changes to take effect. Either click
-      <span class="gui">Restart…</span>, or manually log back in later.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Sélectionner</span> pour enregistrer.</p></li>
+<li class="steps"><p class="p">Vous devez redémarrer la session pour que les changements soient pris en compte. Cliquez sur <span class="gui">Redémarrer</span>, ou reconnectez-vous manuellement plus tard.</p></li>
 </ol></div></div></div>
 <p class="p">Certaines traductions peuvent être incomplètes et certaines applications peuvent ne pas prendre du tout en charge votre langue. Tout texte non traduit apparaît dans la langue où il a été développé, généralement l’anglais américanisé.</p>
 <p class="p">Votre répertoire personnel contient des dossiers prédéfinis où les applications peuvent stocker entre autres de la musique, des images ou des documents. Ces dossiers ont des noms standard en fonction de la langue sélectionnée. Quand vous vous reconnecterez, il vous sera demandé si vous souhaitez renommer ces dossiers avec les noms standard de la langue sélectionnée. Si vous pensez utiliser la nouvelle langue sélectionnée en permanence, il est conseillé de mettre à jour les noms de dossier.</p>
@@ -101,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.fr" title="Pays et langue">Pays et langue</a><span class="desc"> — Set your preferred languages, regions, formats, and keyboard layouts.</span>
+<a href="prefs-language.html.fr" title="Pays et langue">Pays et langue</a><span class="desc"> — Définir vos préférences de langues, régions, formats et agencements de clavier.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

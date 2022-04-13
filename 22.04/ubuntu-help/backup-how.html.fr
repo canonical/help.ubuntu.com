@@ -78,14 +78,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">La manière la plus simple de sauvegarder vos fichiers et paramètres est de confier ce travail à un logiciel de sauvegarde. Il y a plusieurs applications disponibles, dont <span class="app">Déjà Dup</span> par exemple.</p>
 <p class="p">Le manuel de l’application que vous choisissez va vous indiquer comment configurer vos paramètres de sauvegarde et de restauration de vos données.</p>
-<p class="p">An alternative option is to <span class="link"><a href="files-copy.html.fr" title="Copie et déplacement de fichiers et dossiers">copy your files</a></span>
- to a safe location, such as an external hard drive, an online storage service,
- or a USB drive. Your <span class="link"><a href="backup-thinkabout.html.fr" title="Où trouver les fichiers à sauvegarder ?">personal files</a></span>
- and settings are usually in your Home folder, so you can copy them from there.</p>
+<p class="p">Une autre solution consiste à <span class="link"><a href="files-copy.html.fr" title="Copie et déplacement de fichiers et dossiers">copier vos fichiers</a></span> dans un endroit sûr comme un disque dur externe, un service de stockage en ligne ou un périphérique USB. Vos <span class="link"><a href="backup-thinkabout.html.fr" title="Où trouver les fichiers à sauvegarder ?">fichiers personnels</a></span> et réglages sont en général stockés dans votre dossier personnel d’où vous pouvez les copier.</p>
 <p class="p">La quantité de données pouvant être sauvegardées dépend de la taille de votre périphérique de destination. Si vous avez suffisamment de place sur votre périphérique de destination, il est préférable de sauvegarder tout le dossier personnel à l’exception :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">Files that are already backed up somewhere else, such as to a USB drive,
- or other removable media.</p></li>
+<li class="list"><p class="p">Des fichiers qui sont déjà sauvegardés ailleurs comme sur un périphérique USB, ou un autre support amovible.</p></li>
 <li class="list"><p class="p">Des fichiers que vous pouvez facilement recréer. Par exemple, si vous êtes développeur, vous n’avez pas besoin de sauvegarder les fichiers qui ont été générés lors de la compilation de vos programmes. Par contre, assurez-vous de bien sauvegarder les fichiers source originaux.</p></li>
 <li class="list"><p class="p">Des fichiers de votre corbeille. La corbeille correspond au dossier <span class="file">~/.local/share/Trash</span>.</p></li>
 </ul></div></div></div>

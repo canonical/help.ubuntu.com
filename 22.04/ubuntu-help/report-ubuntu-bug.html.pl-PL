@@ -79,8 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Jeśli wystąpił problem z Ubuntu, to można go zgłosić.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
-<p class="p">Type <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type
-<span class="input">ubuntu-bug &lt;package name&gt;</span></p>
+<p class="p">Naciśnij <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> i wpisz <span class="input">ubuntu-bug &lt;nazwa pakietu&gt;</span></p>
 <p class="p">Jeśli to problem sprzętowy lub nie znasz nazwy programu, którego dotyczy problem, to wpisz tylko <span class="input">ubuntu-bug</span>.</p>
 <div class="note" title="Uwaga">
 <svg width="24" height="24" version="1.1">

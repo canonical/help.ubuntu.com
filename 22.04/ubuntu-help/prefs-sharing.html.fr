@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-displayname.html.fr" title="Choix d’un nom public pour votre ordinateur"><span class="title">Choix d’un nom public pour votre ordinateur</span><span class="linkdiv-dash"> — </span><span class="desc">Contrôler la manière dont votre ordinateur se présente aux autres machines et périphériques.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.fr" title="Contrôle du partage par Bluetooth"><span class="title">Contrôle du partage par Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Autoriser le téléversement de fichiers vers votre ordinateur par Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.fr" title="Partage de vos fichiers personnels"><span class="title">Partage de vos fichiers personnels</span><span class="linkdiv-dash"> — </span><span class="desc">Permettez à d’autres personnes d’accéder aux fichiers de votre dossier <span class="file">Public</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.fr" title="Partage de vos fichiers personnels"><span class="title">Partage de vos fichiers personnels</span><span class="linkdiv-dash"> — </span><span class="desc">Permettre à d’autres personnes d’accéder aux fichiers de votre dossier <span class="file">Public</span>.</span></a></div>
 </div>
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.fr" title="Partage de votre bureau"><span class="title">Partage de votre bureau</span><span class="linkdiv-dash"> — </span><span class="desc">Permettre à d’autres personnes de voir et d’interagir avec votre bureau en utilisant VNC.</span></a></div>
@@ -94,8 +94,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — From hardware control to privacy settings, make GNOME
-    work for you.</span>
+<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — Du contrôle du matériel aux paramètres de confidentialité, faire en sorte que GNOME travaille pour vous.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -101,8 +101,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="disk.html.ca" title="Discs i emmagatzematge">Discs i emmagatzematge</a><span class="desc"> — Comproveu l'espai del disc i controleu com s'ha assignat i utilitzat l'espai del disc.</span>
 </li>
 <li class="links ">
-<a href="addremove.html.ca" title="Instal·la i elimina programari">Instal·la i elimina programari</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.ca" title="Instal·la i elimina programari">Instal·la i elimina programari</a><span class="desc"> — Afegiu i elimineu aplicacions i altres programes. Gestioneu dipòsits addicionals de programari.</span>
 </li>
 </ul></div>
 </div></div></div>

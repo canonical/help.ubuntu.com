@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Otevřete přehled <span class="gui"><a href="shell-introduction.html.cs#activities" title="Přehled Činností">Činnosti</a></span> a začněte psát <span class="gui">Displeje</span>.</p></li>
 <li class="steps"><p class="p">Kliknutím na <span class="gui">Displeje</span> otevřete příslušný panel.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Night Light</span> in the header bar to open the settings.</p></li>
+<li class="steps"><p class="p">Kliknutím na <span class="gui">Noční světlo</span> v záhlavní liště otevřete nastavení.</p></li>
 <li class="steps"><p class="p">Ujistěte se, že je vypínač <span class="gui">Noční světlo</span> přepnutý do polohy zapnuto.</p></li>
 <li class="steps"><p class="p">U položky <span class="gui">Plánování</span> vyberte <span class="gui">Od soumraku do úsvitu</span>, aby se barevný tón obrazovky řídil podle východu a západu slunce ve vašem místě. Pokud byste si chtěli nastavit vlastní <span class="gui">Čas</span>, vyberte <span class="gui">Ruční plánování</span>.</p></li>
 <li class="steps"><p class="p">Použijte táhlo k úpravě <span class="gui">Barevné teploty</span>, aby byla více, čí méně teplejší.</p></li>

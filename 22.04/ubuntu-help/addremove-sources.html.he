@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a> » <a class="trail" href="addremove.html.he" title="התקנה והסרה של תכנה">הוספה/הסרה של תכנה</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.he" title="מדריך שולחן העבודה של אובונטו"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="עזרה"></span></span> מדריך שולחן העבודה אובונטו</a>‏ » ‏<a class="trail" href="addremove.html.he" title="התקנה והסרה של תכנה">הוספה/הסרה של תכנה</a>‏ » ‏</div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">הוספת מאגרי תכנה</span></h1></div>
@@ -109,32 +109,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">רוב המאגרים מספקים מפתח חתימה כדי שיהיה אפשר לאמת את החבילות שהתקבלו מהם. לכן, נוסף על הצעדים שלהלן, יכול להיות שתופענה גם הנחיות להורדה ולהתקנה של מפתח חתימה (מפתח GPG) שיהיה עליך לבצע.</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">להפעיל את מאגר השותפים של Canonical</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">
-      The Canonical Partner repository offers some proprietary applications 
-      that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Adobe Flash Plugin</span>. Software in this
-      repository will appear in <span class="app">Ubuntu Software</span> search results
-      but won't be installable until this repository is enabled.
-    </p>
-<p class="p">
-      To enable the repository, follow the steps above to open the <span class="gui">Other 
-      Software</span> tab in <span class="app">Software &amp; Updates</span>. If you see the 
-      <span class="gui">Canonical Partners</span> repository in the list, make sure it is 
-      checked then close the <span class="app">Software &amp; Updates</span> window. If you don't see it, click 
-      <span class="gui">Add</span> and enter:
-    </p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">
-      Click <span class="gui">Add Source</span> then close the <span class="app">Software &amp; Updates</span> window. Wait a 
-      moment for <span class="app">Ubuntu Software</span> to download the repository information.
-    </p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

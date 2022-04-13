@@ -97,12 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </ol></div></div></div>
 <p class="p">À la prochaine occasion de saisie, le clavier visuel s’ouvrira en bas de l’écran.</p>
 <p class="p">Cliquez sur le bouton <span class="gui">?123</span> pour saisir des nombres et des symboles. Des symboles supplémentaires sont disponibles en cliquant sur le bouton <span class="gui">=/&lt;</span>. Pour revenir à la saisie alphabétique, cliquez sur le bouton <span class="gui">ABC</span>.</p>
-<p class="p">You can press the
-  <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="down"></span></span></span>
-  button to hide the keyboard temporarily. The keyboard will show again
-  automatically when you next press on something where you can use it.
-  On a touchscreen, you can also pull up the keyboard by
-  <span class="link"><a href="touchscreen-gestures.html.fr" title="Use gestures on touchpads and touchscreens">dragging up from the bottom edge</a></span>.</p>
+<p class="p">Si le clavier visuel vous gène, cliquez sur le bouton <span class="gui"><span class="media"><span class="media media-image"><img src="figures/go-down-symbolic.svg" height="16" width="16" class="media media-inline" alt="bas"></span></span></span> pour le masquer temporairement. Il s’affiche à nouveau automatiquement chaque fois que vous appuyez sur quelque chose où il peut être utilisé. Sur un écran tactile, vous pouvez tirer le clavier vers le haut en effectuant un <span class="link"><a href="touchscreen-gestures.html.fr" title="Utilisation des mouvements sur les pavé tactiles et les écrans tactiles">glissement vers le haut depuis le bord inférieur</a></span>.</p>
 <p class="p">Cliquez sur le bouton <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emoji-flags-symbolic.svg" height="16" width="16" class="media media-inline" alt="drapeau"></span></span></span> pour modifier vos paramètres de <span class="link"><a href="session-language.html.fr" title="Modification de la langue">Langue</a></span> ou de <span class="link"><a href="keyboard-layouts.html.fr" title="Utilisation d’agencements de clavier alternatifs">Sources de saisie</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -111,8 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Select international keyboard layouts and use keyboard
-    accessibility features.</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
 </li>
 <li class="links "><a href="a11y.html.fr#mobility" title="Mobilité défaillante">Mobilité défaillante</a></li>
 </ul></div>

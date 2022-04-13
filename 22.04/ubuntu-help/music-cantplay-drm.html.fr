@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html.fr" title="Son, images et vidéos">Media</a> › <a class="trail" href="media.html.fr#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="media.html.fr" title="Son, images et vidéos">Média</a> › <a class="trail" href="media.html.fr#music" title="Musique et lecteurs audio portables">Musique et lecteurs</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Impossible de lire les titres achetés dans un magasin de musique en ligne</span></h1></div>
@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Si vous avez téléchargé de la musique à partir d’une boutique en ligne, il est possible que vous ne puissiez pas la lire, spécialement si vous l’avez achetée à partir d’un ordinateur sous Windows ou Mac OS et que vous l’avez ensuite recopiée.</p>
 <p class="p">C’est sans doute parce que le fichier musical est dans un format non reconnu par votre système. Pour pouvoir écouter un titre, il vous faut disposer du support correspondant au format du fichier audio — par exemple, pour lire un fichier MP3, il faut que la prise en charge pour MP3 soit installée sur votre système. Si elle ne l’est pas, un message s’affiche pour vous en informer et vous guider sur la procédure à suivre pour résoudre le problème.</p>
 <p class="p">Si les prises en charge adéquates sont installées, mais que vous ne parvenez toujours pas à écouter le titre, c’est que celui-ci est probablement <span class="em">protégé contre la copie</span> (aussi connu sous l’appellation <span class="em">protection par DRM</span>). Le DRM (gestion des droits numériques) est un moyen de restreindre la lecture à certaines personnes et à certains matériels autorisés. La société qui vous a vendu cette chanson est seule à pouvoir décider de ces autorisations, pas vous. Si votre fichier musical est protégé par DRM, vous ne pourrez probablement pas l’écouter — il faut en principe un logiciel spécial fourni par le vendeur pour cela, mais il n’y en a que très peu compatibles avec Linux.</p>
-<p class="p">You can learn more about DRM from the <span class="link"><a href="https://www.eff.org/issues/drm" title="https://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span>.</p>
+<p class="p">Pour en savoir plus sur les DRM, consultez <span class="link"><a href="http://www.april.org/drm" title="http://www.april.org/drm">le site de l’April</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

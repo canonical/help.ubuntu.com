@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu Desktop Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Abmelden, ausschalten oder Benutzer wechseln</span></h1></div>
@@ -171,7 +171,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="links ">
 <a href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Ihre Arbeitsumgebung</a><span class="desc"> — Arbeiten mit Anwendungen, Fenstern und Arbeitsflächen. Sehen Sie Ihre Termine und andere wichtige Sachen im oberen Panel.</span>
 </li>
-<li class="links "><a href="index.html.de" title="Ubuntu-Leitfaden">Ubuntu-Leitfaden</a></li>
+<li class="links "><a href="index.html.de" title="Ubuntu Desktop Leitfaden">Ubuntu Desktop Leitfaden</a></li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -80,16 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Les espaces de travail peuvent être utilisés pour organiser votre travail. Par exemple, vous pouvez regrouper toutes vos fenêtres de communications, comme les courriels ou les programmes de discussions, dans un même espace de travail et le travail que vous êtes en train de faire sur un autre espace de travail. Votre gestionnaire de musique peut être sur un troisième espace de travail.</p>
 <p class="p">Fonctionnement des espaces de travail :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
-<li class="list"><p class="p">In the
-    <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activities</a></span> overview, you can
-    horizontally navigate between the workspaces.</p></li>
-<li class="list"><p class="p">If more than one workspace is already
-    in use, the <span class="em">workspace selector</span> is shown between the search field and
-    the window list. It will display currently used workspaces plus an empty workspace.</p></li>
-<li class="list"><p class="p">To add a workspace, drag and drop a
-    window from an existing workspace onto the empty workspace in the workspace
-    selector. This workspace now contains the window you have dropped, and a new
-    empty workspace will appear next to it.</p></li>
+<li class="list"><p class="p">Dans la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span>, vous pouvez naviguer horizontalement entre les espaces de travail.</p></li>
+<li class="list"><p class="p">Si plusieurs espaces de travail sont déjà utilisés, le <span class="em">sélecteur d’espace de travail</span> apparaît entre le champ de recherche et la liste des fenêtres. Il affiche les espaces de travail actuellement utilisés ainsi qu’un espace de travail vide.</p></li>
+<li class="list"><p class="p">Pour ajouter un espace de travail, faites glisser et déposez une fenêtre d’un espace de travail existant vers l’espace de travail vide dans le sélecteur d’espace de travail. Cet espace de travail contient maintenant la fenêtre que vous venez de déposer et un nouvel espace de travail vide apparaît à côté de lui.</p></li>
 <li class="list"><p class="p">Pour supprimer un espace de travail, fermez tout simplement toutes ses fenêtres ou déplacez-les vers d’autres espaces de travail.</p></li>
 </ul></div></div></div>
 <p class="p">Il y a toujours au minimum un espace de travail.</p>

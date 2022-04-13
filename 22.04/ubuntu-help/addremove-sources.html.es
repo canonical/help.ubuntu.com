@@ -102,30 +102,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">La mayoría de los repositorios proporcionan una clave de firma para poder comprobar los paquetes descargados. Así que además de los pasos anteriores debería seguir las posibles instrucciones sobre cómo descargar e instalar la clave de firma (clave GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Activar el repositorio de socios de Canonical</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">El repositorio de Socios de Canonical ofrece algunas aplicaciones propietarias que no cuestan dinero pero son de código cerrado. Incluyen software como <span class="app">Adobe Flash Plugin</span>. El software en este repositorio aparecerá en los resultados de búsqueda de <span class="app">Ubuntu Software</span>, pero no se podrá instalar hasta que este repositorio esté activado.</p>
-<p class="p">
-      To enable the repository, follow the steps above to open the <span class="gui">Other 
-      Software</span> tab in <span class="app">Software &amp; Updates</span>. If you see the 
-      <span class="gui">Canonical Partners</span> repository in the list, make sure it is 
-      checked then close the <span class="app">Software &amp; Updates</span> window. If you don't see it, click 
-      <span class="gui">Add</span> and enter:
-    </p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Pulse en <span class="gui">Añadir origen</span> y cierre después la ventana <span class="app">Software y actualizaciones</span>. Espere un momento a que <span class="app">Ubuntu Software</span> para descargue la información del repositorio.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Más información</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.es" title="Instalar y desinstalar programas">Instalar y desinstalar programas</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.es" title="Instalar y desinstalar programas">Instalar y desinstalar programas</a><span class="desc"> — Instale y desinstale aplicaciones y otros programas. Gestione los repositorios de «software» adicionales.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

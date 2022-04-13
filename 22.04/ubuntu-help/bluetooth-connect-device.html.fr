@@ -88,9 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">La saisie doit être effectuée dans les 20 secondes suivantes pour la plupart des périphériques, sinon la connexion n’est pas établie. Si cela arrive, revenez à la liste des périphériques et recommencez.</p>
 </li>
 <li class="steps"><p class="p">L’entrée du périphérique dans la liste des <span class="gui">Périphériques</span> affiche l’état <span class="gui">Connecté</span>.</p></li>
-<li class="steps"><p class="p">To edit the device, click on it in the <span class="gui">Devices</span> list. You
-      will see a panel specific to the device. It may display additional
-      options applicable to the type of device to which you are connecting.</p></li>
+<li class="steps"><p class="p">Pour modifier un périphérique, cliquez dessus dans la liste des <span class="gui">Périphériques</span>. Un panneau spécifique à ce périphérique s’affiche et montre les options supplémentaires applicables au type de périphérique auquel vous vous connectez.</p></li>
 <li class="steps"><p class="p">Fermez le panneau après avoir modifié les paramètres.</p></li>
 </ol></div></div></div>
 <div class="media media-image floatend"><div class="inner"><img src="figures/bluetooth-symbolic.svg" class="media media-block" alt="L’icône Bluetooth dans la barre supérieure de l’écran"></div></div>
@@ -102,8 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a><span class="desc"> — Se connecter à des périphériques en Bluetooth pour transférer des fichiers ou utiliser l’audio sans fil.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

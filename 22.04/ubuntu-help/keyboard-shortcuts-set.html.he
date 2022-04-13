@@ -100,7 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">There are a number of pre-configured shortcuts that can be changed,
   grouped into these categories:</p>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h3><span class="title">Accessibility</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -140,7 +140,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h3><span class="title">Launchers</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -176,7 +176,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h3><span class="title">Navigation</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -290,7 +290,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h3><span class="title">Screenshots</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -326,7 +326,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h3><span class="title">Sound and Media</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -378,7 +378,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h3><span class="title">System</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -426,7 +426,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h3><span class="title">Typing</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
@@ -442,7 +442,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="table ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-table"><h3><span class="title">Windows</span></h3></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">

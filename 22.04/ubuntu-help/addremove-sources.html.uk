@@ -102,24 +102,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Більшість сховищ надають ключ підпису для перевірки завантажених пакункців. Таким чином, крім наведених вище кроків, слід дотримуватися інструкцій щодо завантаження та встановлення ключа підпису (ключ GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Активувати сховище Партнери Canonical</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Сховище Партнери Canonical пропонує деякі пропрієтарні програми, які не вимагають грошей для використання, але є закритими. Вони включають програмне забезпечення на зразок <span class="app">Adobe Flash Plugin</span>. Програмне забезпечення х цбого  сховища з'явиться в результатах пошуку <span class="app">Програмного забезпечення Ubuntu</span>, але не буде встановлено, доки це сховище не буде ввімкнено.</p>
-<p class="p">Щоб увімкнути сховище, виконайте описані вище кроки для відкриття вкладки <span class="gui">Інше програмне забезпечення</span> у вікні <span class="app">Програмне забезпечення та оновлення</span>. Якщо сховище <span class="gui">Партнери Canonical</span> є у переліку, активуйте прапорець поряд з ним та закрийте вікно <span class="app">Програмне забезпечення та оновлення</span>. Якщо його немає, натисніть <span class="gui">Додати</span> і введіть:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Клацніть <span class="gui">Додати джерело</span> та закрийте вікно <span class="app">Програмне забезпечення та оновлення</span>. Почекайте поки  for <span class="app">Програмне забезпечення Ubuntu</span> завантажить дані про сховище.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Докладніше</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.uk" title="Встановлення та видалення програмного забезпечення">Встановлення та видалення програмного забезпечення</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.uk" title="Встановлення та видалення програмного забезпечення">Встановлення та видалення програмного забезпечення</a><span class="desc"> — Додавайте і вилучайте додатки та інше програмне забезпечення. Керуйте репозиторіями з додатковими програмами.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

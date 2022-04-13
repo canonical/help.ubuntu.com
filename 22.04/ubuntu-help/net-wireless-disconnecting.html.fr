@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-problem.html.fr" title="Problèmes réseau">Problèmes réseau</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-problem.html.fr" title="Problèmes réseau">Problèmes réseau</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-wireless.html.fr" title="Réseau sans fil">Réseau sans fil</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-wireless.html.fr" title="Réseau sans fil">Réseau sans fil</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -105,11 +105,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-problem.html.fr" title="Problèmes réseau">Problèmes réseau</a><span class="desc"> — Troubleshoot connectivity issues with wireless and wired networks.</span>
+<a href="net-problem.html.fr" title="Problèmes réseau">Problèmes réseau</a><span class="desc"> — Résoudre les problèmes de connectivité avec les réseaux sans fil et filaires.</span>
 </li>
 <li class="links ">
-<a href="net-wireless.html.fr" title="Réseau sans fil">Réseau sans fil</a><span class="desc"> — Connect to wireless networks, including hidden networks and
-    networks created from phone tethering.</span>
+<a href="net-wireless.html.fr" title="Réseau sans fil">Réseau sans fil</a><span class="desc"> — Se connecter à des réseaux sans fil, y compris des réseaux masqués et des réseaux créés à partir du partage de connexion téléphonique.</span>
 </li>
 </ul></div>
 </div></div>

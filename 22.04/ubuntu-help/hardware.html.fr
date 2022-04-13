@@ -78,35 +78,31 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <div class="links topiclinks"><div class="inner"><div class="region"><ul>
 <li class="links ">
-<a href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a><span class="desc"> — Se connecter à des périphériques en Bluetooth pour transférer des fichiers ou utiliser l’audio sans fil.</span>
 </li>
 <li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Select international keyboard layouts and use keyboard
-    accessibility features.</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
 </li>
 <li class="links ">
-<a href="disk.html.fr" title="Disques durs et périphériques de stockage">Disques durs et périphériques de stockage</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
+<a href="disk.html.fr" title="Disques durs et périphériques de stockage">Disques durs et périphériques de stockage</a><span class="desc"> — Vérifier l’espace disque et contrôler la manière dont il est alloué et utilisé.</span>
 </li>
 <li class="links ">
-<a href="hardware-auth.html.fr" title="Empreintes et cartes à puce">Empreintes et cartes à puce</a><span class="desc"> — Use hardware devices to authenticate instead of passwords.</span>
+<a href="hardware-auth.html.fr" title="Empreintes et cartes à puce">Empreintes et cartes à puce</a><span class="desc"> — Utiliser des périphériques matériels pour s’authentifier au lieu de mots de passe.</span>
 </li>
 <li class="links ">
-<a href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a><span class="desc"> — Calibrate color profiles on monitors, printers, and other devices.</span>
+<a href="color.html.fr" title="Gestion de la couleur">Gestion de la couleur</a><span class="desc"> — Étalonner les profils de couleurs sur les écrans, les imprimantes et autres périphériques.</span>
 </li>
 <li class="links ">
-<a href="printing.html.fr" title="Impression">Impression</a><span class="desc"> — Set up local and network printers. Learn about different
-    printing options like collation and multi-sided printing.</span>
+<a href="printing.html.fr" title="Impression">Impression</a><span class="desc"> — Configurer les imprimantes locales et réseau. Découvrir les différentes options d’impression telles que l’assemblage et l’impression recto verso.</span>
 </li>
 <li class="links ">
-<a href="mouse.html.fr" title="Souris, pavé tactile et écran tactile">Souris, pavé tactile et écran tactile</a><span class="desc"> — Adjust the behavior of pointing devices to meet personal requirements.</span>
+<a href="mouse.html.fr" title="Souris, pavé tactile et écran tactile">Souris, pavé tactile et écran tactile</a><span class="desc"> — Régler le comportement des périphériques de pointage pour répondre à vos besoins personnels.</span>
 </li>
 <li class="links ">
-<a href="wacom.html.fr" title="Tablette graphique Wacom">Tablette graphique Wacom</a><span class="desc"> — Configure your Wacom graphics tablet, including the tracking
-  mode and which monitor it is mapped to.</span>
+<a href="wacom.html.fr" title="Tablette graphique Wacom">Tablette graphique Wacom</a><span class="desc"> — Configurer votre tablette graphique Wacom, y compris le mode de recherche et l’écran auquel elle correspond.</span>
 </li>
 <li class="links ">
-<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — View your battery status and change power saving settings.</span>
+<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — Afficher l’état de votre batterie et modifier les paramètres d’économie d’énergie.</span>
 </li>
 </ul></div></div></div>
 <div class="links topiclinks"><div class="inner">

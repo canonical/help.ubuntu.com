@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu Desktop Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="addremove.html.de" title="Anwendungen installieren &amp; entfernen">Software hinzufügen/entfernen</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Paketquellen hinzufügen</span></h1></div>
@@ -102,17 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Die meisten Paketquellen verfügen über einen Signaturschlüssel, um heruntergeladene Pakete überprüfen zu können. In Ergänzung der obigen Schritte sollten Sie die eventuell vorhandenen Anweisungen zum Herunterladen und Installieren des Signaturschlüssels (GPG-Schlüssel) befolgen.</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Die Paketquelle von Canonical-Partnern aktivieren</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Das Canonical Partner-Repository bietet einige proprietäre Anwendungen, die kein Geld kosten, aber Closed-Source sind. Dazu gehören Software wie <span class="app">Adobe Flash Plugin</span>. Software in diesem Repository wird in den Suchergebnissen der <span class="app">Ubuntu Software</span> angezeigt, kann jedoch erst installiert werden, wenn dieses Repository aktiviert ist.</p>
-<p class="p">Um die Paketquelle einzurichten, befolgen Sie die obigen Schritte um den Reiter <span class="gui">Andere Programme</span> tab in <span class="app">Software &amp; Updates</span> zu öffnen. Wenn Sie  die Paketquelle <span class="gui">Canonical Partner</span> in der Liste sehen, wählen Sie diese aus. Schließen Sie das <span class="app">Software &amp; Updates</span> Fenster. Falls Sie es nicht sehen, klicken Sie auf<span class="gui">Hinzufügen</span> und geben Sie ein:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Klicken Sie  <span class="gui">Paketquelle hinzufügen</span>, schließen Sie dann das <span class="app">Software &amp; Aktualisierungen</span> Fenster. Warten Sie bis <span class="app">Ubuntu Software</span> die Paketquelleninformationen  heruntergeladen hat.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

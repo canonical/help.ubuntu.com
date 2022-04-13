@@ -82,9 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Son</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">À la rubrique <span class="gui">Son d’alerte</span>, sélectionnez un son d’alerte. Vous entendez chaque son quand vous cliquez dessus et ainsi vous vous rendez compte du résultat.</p></li>
 </ol></div></div></div>
-<p class="p">Use the volume slider for <span class="gui">System Sounds</span> in the <span class="gui">Volume
-  Levels</span> section to set the volume of the alert sound. This will not
-  affect the volume of your music, movies, or other sound files.</p>
+<p class="p">Utilisez le curseur de volume pour les <span class="gui">Sons système</span>, à la rubrique <span class="gui">Niveaux de volume</span>, pour régler le volume du son des alertes. Cela n’affecte pas le volume sonore de la musique, des films ou d’autres fichiers son.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -92,8 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — Adjust the volume for different apps, and configure different
-   speakers and microphones.</span>
+<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — Régler le volume pour différentes applications et configurer différents haut-parleurs et microphones.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

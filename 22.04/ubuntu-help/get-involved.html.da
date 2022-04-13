@@ -76,12 +76,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Vær med til at forbedre guiden</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">This help system is created by a volunteer community. You are welcome to participate. If you notice a problem with these help pages (like typos, incorrect instructions or topics 
-that should be covered but aren't), you can file a <span class="em">bug report</span>.</p>
-<p class="p">To file a bug, press <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> and type 
-<span class="input">ubuntu-bug ubuntu-docs</span>. Press <span class="gui">Enter</span> to begin the bug collection process.</p>
-<p class="p">See the <span class="link"><a href="report-ubuntu-bug.html.da" title="Report a problem in Ubuntu">Ubuntu bug reporting 
-instructions</a></span> for more information about how to file your bug.</p>
+<p class="p">Dette hjælpesystem er skabt af et fællesskab af frivillige. Du er velkommen til at deltage. Oplever du et problem med disse hjælpesider (såsom stavefejl, forkerte instruktioner eller emner, der ikke er blevet dækket), så kan du lave en <span class="em">fejlrapport</span>.</p>
+<p class="p">For at rapportere en fejl, så tryk <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> og tast <span class="input">ubuntu-bug ubuntu-docs</span>. Tryk <span class="gui">Enter</span> for at påbegynde fejlindsamlingsprocessen.</p>
+<p class="p">Se <span class="link"><a href="report-ubuntu-bug.html.da" title="Indrapportér et problem i Ubuntu">instrukser til fejlrapportering af Ubuntu</a></span> for mere information om, hvordan du rapporterer din fejl.</p>
 <p class="p">Tak fordi du hjælper med at gøre Ubuntu Hjælp bedre!</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -90,14 +87,13 @@ instructions</a></span> for more information about how to file your bug.</p>
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a><span class="desc"> — Få tips til brugen af denne vejledning og forbind med fællesskabet for at få mere hjælp.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="report-ubuntu-bug.html.da" title="Report a problem in Ubuntu">Report a problem in Ubuntu</a><span class="desc"> — How and where to report problems with Ubuntu.</span>
+<a href="report-ubuntu-bug.html.da" title="Indrapportér et problem i Ubuntu">Indrapportér et problem i Ubuntu</a><span class="desc"> — Hvordan og hvor rapporteres fejl i Ubuntu.</span>
 </li></ul></div>
 </div></div>
 </div>

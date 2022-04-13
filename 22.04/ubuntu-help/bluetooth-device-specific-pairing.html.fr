@@ -82,10 +82,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dd class="terms"><p class="p">Ces appareils utilisent un « appairage filaire ». Branchez les manettes de jeu en USB avec les <span class="gui">Paramètres Bluetooth</span> ouverts, et le Bluetooth allumé. Après avoir appuyé sur le bouton « PS », il vous sera demandé si vous souhaitez configurer ces manettes de jeu. Débranchez-les et pressez de nouveau le bouton « PS » pour les utiliser en Bluetooth.</p></dd>
 <dt class="terms">Manettes de jeu PlayStation 4</dt>
 <dd class="terms">
-<p class="p">Those devices use “cable-pairing” as well. Plug the joypads in via USB with the
-      <span class="gui">Bluetooth Settings</span> opened, and Bluetooth turned on. You will get asked whether
-      to set those joypads up without needing to press the “PS” button. Unplug them and press the
-      “PS” button to use them over Bluetooth.</p>
+<p class="p">Ces appareils utilisent également un « appairage filaire ». Branchez les manettes de jeu en USB avec les <span class="gui">Paramètres Bluetooth</span> ouverts, et le Bluetooth allumé. Il vous sera demandé si vous souhaitez configurer ces manettes de jeu sans avoir à appuyer sur le bouton « PS ». Débranchez-les et appuyez sur le bouton « PS » pour les utiliser en Bluetooth.</p>
 <p class="p">La combinaison de boutons « PS » et « Share » peut également être utilisée pour rendre la manette de jeu visible et l’appairer comme n’importe quel autre appareil Bluetooth, si vous n’avez pas de câble USB à disposition.</p>
 </dd>
 <dt class="terms">Télécommande Disque Blu-Ray PlayStation 3</dt>
@@ -93,10 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <dt class="terms">Manettes Nintendo Wii et Wii U</dt>
 <dd class="terms"><p class="p">Utilisez le bouton rouge « Sync » situé dans le compartiment des piles pour démarrer l’appairage. Toute autre combinaison de boutons ne conserve pas les informations d’appairage, vous devrez alors réitérer l’opération sous peu. Veuillez noter que certains logiciels ont besoin d’un accès direct aux manettes, et, dans ces cas-là, vous ne devriez pas les configurer avec le panneau Bluetooth. Référez-vous au manuel de l’application pour les instructions.</p></dd>
 <dt class="terms">ION iCade</dt>
-<dd class="terms"><p class="p">Hold down the bottom 4 buttons and the top white button to start the pairing
-      process. When the pairing instructions appear, make sure to use only the cardinal
-      directions to input the code, followed by any of the 2 white buttons to the far
-      right of the arcade stick to confirm.</p></dd>
+<dd class="terms"><p class="p">Maintenez enfoncés les 4 boutons du bas et le bouton blanc du haut pour lancer le processus d’appairage. Lorsque les instructions d’appairage apparaissent, assurez-vous d’utiliser uniquement les points cardinaux pour saisir le code, suivi de l’un des 2 boutons blancs à l’extrême droite du stick arcade pour confirmer.</p></dd>
 </dl></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -105,8 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a><span class="desc"> — Connect to devices over Bluetooth to transfer files or use
-    wireless audio.</span>
+<a href="bluetooth.html.fr" title="Bluetooth">Bluetooth</a><span class="desc"> — Se connecter à des périphériques en Bluetooth pour transférer des fichiers ou utiliser l’audio sans fil.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

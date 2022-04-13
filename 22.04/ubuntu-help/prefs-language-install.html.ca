@@ -100,8 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.ca" title="Instal·la i elimina programari">Instal·la i elimina programari</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.ca" title="Instal·la i elimina programari">Instal·la i elimina programari</a><span class="desc"> — Afegiu i elimineu aplicacions i altres programes. Gestioneu dipòsits addicionals de programari.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

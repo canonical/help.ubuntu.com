@@ -81,8 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="backup-where.html.fr" title="Où stocker vos sauvegardes ?"><span class="title">Où stocker vos sauvegardes ?</span><span class="linkdiv-dash"> — </span><span class="desc">Conseils sur l’endroit où stocker vos sauvegardes et sur le type de périphérique de stockage à utiliser.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="backup-how.html.fr" title="Procédure de sauvegarde"><span class="title">Procédure de sauvegarde</span><span class="linkdiv-dash"> — </span><span class="desc">Use Déjà Dup (or another backup application) to make copies of
-    your valuable files and settings to protect against loss.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-how.html.fr" title="Procédure de sauvegarde"><span class="title">Procédure de sauvegarde</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser Déjà Dup (ou un autre logiciel de sauvegarde) pour faire des copies de vos documents et paramètres importants afin d’éviter des pertes.</span></a></div>
 </div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="backup-what.html.fr" title="Que faut-il sauvegarder ?"><span class="title">Que faut-il sauvegarder ?</span><span class="linkdiv-dash"> — </span><span class="desc">Sauvegarder tout ce qu’il n’est pas envisageable de perdre si quelque chose va mal.</span></a></div></div>
 </div></div></div></div>

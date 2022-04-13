@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Installer sprog</title>
+<title>Installér sprog</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -70,39 +70,28 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installer og fjern software">Tilføj / fjern software</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="addremove.html.da" title="Installér og fjern software">Tilføj / fjern software</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Installer sprog</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Installér sprog</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">When you install Ubuntu, the language you select at installation gets
-  installed together with English, but you can add further languages.</p>
+<p class="p">Når du installerer Ubuntu, installeres det sprog, du valgte under installationen, sammen med engelsk. Du kan tilføje flere sprog.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Activities</a></span> overview and
-      start typing <span class="gui">Region &amp; Language</span>.</p></li>
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivititer</a></span>-oversigten og begynd at skrive <span class="gui">Region og sprog</span>.</p></li>
 <li class="steps"><p class="p">Klik på <span class="gui">Region og sprog</span> for at åbne panelet.</p></li>
-<li class="steps"><p class="p">Click the <span class="gui">Manage Installed Languages</span> button to open <span class="gui">Language
-      Support</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Install / Remove Languages...</span>. The
-      <span class="gui">Installed Languages</span> window lists all the available
-      languages, with the currently installed languages checked.</p></li>
-<li class="steps"><p class="p">Check the languages you want to install, and uncheck those
-      currently installed languages you want to remove.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Apply Changes</span>.</p></li>
-<li class="steps"><p class="p"><span class="link"><a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">Administrative privileges</a></span>
-      are required. Enter your password, or the password for the requested
-      administrator account.</p></li>
+<li class="steps"><p class="p">Klik knappen <span class="gui">Håndtér installerede sprog</span> for at åbne <span class="gui">Sprogunderstøttelse</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Installér/fjern sprog ...</span>. Vinduet <span class="gui">Installerede sprog</span> viser alle tilgængelige sprog med de aktuelt installerede sprog afkrydset.</p></li>
+<li class="steps"><p class="p">Afkryds de sprog, du vil installere, og fjern afkrydsningen fra de nuværende sprog, du vil fjerne.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Anvend ændringer</span>.</p></li>
+<li class="steps"><p class="p"><span class="link"><a href="user-admin-explain.html.da" title="Hvordan virker administrative rettigheder?">Administrative rettigheder</a></span> er nødvendige. Indtast din adgangskode eller adgangskoden til den krævede administratorkonto.</p></li>
 </ol></div></div></div>
-<p class="p">In addition to the translations used to display menus and messages,
-  with a new language may follow various language support components such
-  as dictionaries for spell checking, fonts and input methods.</p>
+<p class="p">Ud over oversættelserne af menuer og beskeder kan der med et nyt sprog følge forskellige komponenter med som f.eks. ordbøger til stavekontrol, skrifttyper og indtastningsmetoder.</p>
 <div class="note" title="Note">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
  <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Some translations may be incomplete, and certain applications may
-    not support your language at all.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Nogle oversættelser kan være ufuldstændige, og visse programmer understøtter måske slet ikke dit sprog.</p></div></div></div>
 </div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -111,18 +100,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.da" title="Installer og fjern software">Installer og fjern software</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.da" title="Installér og fjern software">Installér og fjern software</a><span class="desc"> — Tilføj og fjern programmer og anden software. Håndtér yderligere programarkiver.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Se også</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.da" title="Installer yderligere programmer">Installer yderligere programmer</a><span class="desc"> — 
-      Use <span class="app">Ubuntu Software</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.da" title="Installér yderligere programmer">Installér yderligere programmer</a><span class="desc"> — Brug <span class="app">Ubuntu Software</span> for at installere yderligere programmer og gøre Ubuntu mere nyttig.</span>
 </li>
 <li class="links ">
 <a href="prefs-language.html.da" title="Region &amp; sprog">Region &amp; sprog</a><span class="desc"> — Set your preferred languages, regions, formats, and keyboard layouts.</span>

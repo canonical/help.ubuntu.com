@@ -70,23 +70,17 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-security.html.fr" title="Être en sécurité sur Internet">Security</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-security.html.fr" title="Être en sécurité sur Internet">Sécurité</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Autorisation ou blocage de l’accès au pare-feu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME does not come with a firewall, so for support beyond this document
-  check with your distribution’s support team or your organization’s IT department.
-  Your computer should be equipped with a <span class="em">firewall</span> that allows it to
-  block programs from being accessed by other people on the internet or your
-  network. This helps to keep your computer secure.</p>
+<p class="p">GNOME n’est pas fourni avec un pare-feu, donc si vous souhaitez obtenir une assistance externe à ce document, contactez l’équipe d’assistance de votre distribution ou le service informatique de votre organisation. Votre ordinateur devrait être protégé par un <span class="em">pare-feu</span> qui permet d’interdire l’accès à certains programmes par d’autres personnes sur Internet ou sur votre réseau. Ceci contribue à la sécurité de votre ordinateur.</p>
 <p class="p">Beaucoup d’applications peuvent utiliser votre connexion réseau. Par exemple, vous pouvez partager des fichiers, ou permettre à quelqu’un d’avoir accès à votre ordinateur à distance lorsque vous êtes connecté à un réseau. En fonction de la configuration de votre ordinateur, il vous faut régler les paramètres de votre pare-feu pour permettre à ces services de fonctionner comme voulu.</p>
 <p class="p">Chaque programme fournissant des services réseau utilise un <span class="em">port réseau</span>. Pour autoriser les autres ordinateurs du réseau à accéder à un service, il vous faut « ouvrir » le port correspondant dans le pare-feu :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Go to <span class="gui">Activities</span> in the top left corner of the screen and
-      start your firewall application. You may need to install a firewall
-      manager yourself if you can’t find one (for example, GUFW).</p></li>
+<li class="steps"><p class="p">Ouvrez <span class="gui">Activités</span> dans le coin actif en haut à gauche de l’écran et lancez votre application pare-feu. Si vous ne la trouvez pas, il vous faut en installer une (par exemple, GUFW).</p></li>
 <li class="steps"><p class="p">Ouvrez ou désactivez le port de votre service réseau, en fonction des autorisations que vous souhaitez accorder à certaines personnes. Le port que vous devez modifier <span class="link"><a href="net-firewall-ports.html.fr" title="Les ports réseau les plus courants">dépend du service</a></span>.</p></li>
 <li class="steps"><p class="p">Enregistrez ou appliquez les modifications en suivant les instructions de votre application pare-feu.</p></li>
 </ol></div></div></div>
@@ -97,7 +91,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-security.html.fr" title="Être en sécurité sur Internet">Être en sécurité sur Internet</a><span class="desc"> — Understand firewalls, viruses, and other internet security topics.</span>
+<a href="net-security.html.fr" title="Être en sécurité sur Internet">Être en sécurité sur Internet</a><span class="desc"> — Comprendre les pare-feu, les virus et d’autres sujets concernant la sécurité sur Internet.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

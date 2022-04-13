@@ -102,24 +102,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">La majoria dels repositoris proveeixen una clau de signatura per poder verificar els paquets descarregats. Així, a més dels passos de dalt, hauríeu de seguir les instruccions possibles sobre com descarregar i instal·lar la clau de signatura (clau GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Activa el dipòsit Socis de Canonical</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">El repositori Canonical Partner ofereix algunes aplicacions privatives que no costen diners, però que són de codi tancat. Inclouen programari com l'<span class="app">Adobe Flash Plugin</span>. El programari d'aquest repositori que apareixerà als resultats de les cerques a l'<span class="app">Ubuntu Software</span> no es podrà instaŀlar fins que s'habiliti aquest repositori.</p>
-<p class="p">Per habilitar el repositori, seguiu els passos de dalt per obrir la pestanya <span class="gui">Altre programari</span> a <span class="app">Programari i actualitzacions</span>. Si veieu el repositori <span class="gui">Socis de Canonical</span> a la llista, assegureu-vos que està marcat i després tanqueu la finestra <span class="app">Programari i actualitzacions</span>. Si no el veieu, cliqueu <span class="gui">Afegeix</span> i entreu:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Cliqueu <span class="gui">Afegeix font</span> i després tanqueu la finestra <span class="app">Programari i actualitzacions</span>. Espereu un moment que el <span class="app">Programari de l'Ubuntu</span> descarregui la informació del repositori.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Més informació</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="addremove.html.ca" title="Instal·la i elimina programari">Instal·la i elimina programari</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.ca" title="Instal·la i elimina programari">Instal·la i elimina programari</a><span class="desc"> — Afegiu i elimineu aplicacions i altres programes. Gestioneu dipòsits addicionals de programari.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

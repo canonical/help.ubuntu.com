@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu-Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.de" title="Ubuntu Desktop Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="shell-overview.html.de" title="Ihre Arbeitsumgebung">Schreibtisch</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Was ist GNOME Classic?</span></h1></div>
@@ -93,7 +93,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="note note-important" title="Wichtig">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12.5 2a9.5 9.5 0 0 0-9.5 9.5 9.5 9.5 0 0 0 9.5 9.5 9.5 9.5 0 0 0 9.5-9.5 9.5 9.5 0 0 0-9.5-9.5zm0 3a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5v-6a1.5 1.5 0 0 1 1.5-1.5zm0 10.5a1.5 1.5 0 0 1 1.5 1.5 1.5 1.5 0 0 1-1.5 1.5 1.5 1.5 0 0 1-1.5-1.5 1.5 1.5 0 0 1 1.5-1.5z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">GNOME Classic ist nur für Systeme verfügbar, die spezielle GNOME-Shell-Erweiterungen installiert haben. Bei einigen Linux-Distributionen sind diese Erweiterungen nicht verfügbar oder nicht installiert.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents">
+<p class="p">You need to have the
+ <span class="sys">gnome-shell-extensions</span> package installed to make GNOME Classic available.</p>
+<p class="p"><span class="link-button link"><a href="apt:gnome-shell-extensions" title="apt:gnome-shell-extensions">Install <span class="sys">gnome-shell-extensions</span></a></span></p>
+</div></div></div>
 </div>
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h3><span class="title">So wechseln Sie von <span class="em">GNOME</span> zu <span class="em">GNOME Classic</span>:</span></h3></div>

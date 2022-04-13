@@ -77,29 +77,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="prefs-display.html.fr" title="Affichage et écran"><span class="title">Affichage et écran</span><span class="linkdiv-dash"> — </span><span class="desc">Set your background, configure monitors, and manage
-    color temperatures.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-display.html.fr" title="Affichage et écran"><span class="title">Affichage et écran</span><span class="linkdiv-dash"> — </span><span class="desc">Définir votre arrière-plan, configurer les écrans et gérer les températures de couleur.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="startup-applications.html.fr" title="Applications au démarrage"><span class="title">Applications au démarrage</span><span class="linkdiv-dash"> — </span><span class="desc">Choisissez les applications à démarrer lorsque vous vous connectez.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="keyboard.html.fr" title="Clavier"><span class="title">Clavier</span><span class="linkdiv-dash"> — </span><span class="desc">Select international keyboard layouts and use keyboard
-    accessibility features.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="accounts.html.fr" title="Comptes en ligne"><span class="title">Comptes en ligne</span><span class="linkdiv-dash"> — </span><span class="desc">Connect to your accounts with various online services.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="user-accounts.html.fr" title="Comptes utilisateurs"><span class="title">Comptes utilisateurs</span><span class="linkdiv-dash"> — </span><span class="desc">Add and remove user accounts. Change passwords.
-    Set administrative privileges.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="clock.html.fr" title="Date et heure"><span class="title">Date et heure</span><span class="linkdiv-dash"> — </span><span class="desc">Use clocks and timezones, and keep track of appointments.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="color.html.fr" title="Gestion de la couleur"><span class="title">Gestion de la couleur</span><span class="linkdiv-dash"> — </span><span class="desc">Calibrate color profiles on monitors, printers, and other devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard.html.fr" title="Clavier"><span class="title">Clavier</span><span class="linkdiv-dash"> — </span><span class="desc">Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts.html.fr" title="Comptes en ligne"><span class="title">Comptes en ligne</span><span class="linkdiv-dash"> — </span><span class="desc">Se connecter à vos comptes avec divers services en ligne.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-accounts.html.fr" title="Comptes utilisateur"><span class="title">Comptes utilisateur</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter et supprimer des comptes utilisateur. Changer les mots de passe. Définir les privilèges administrateur.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock.html.fr" title="Date et heure"><span class="title">Date et heure</span><span class="linkdiv-dash"> — </span><span class="desc">Utiliser des horloges et des fuseaux horaires, et suivre ses rendez-vous.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color.html.fr" title="Gestion de la couleur"><span class="title">Gestion de la couleur</span><span class="linkdiv-dash"> — </span><span class="desc">Étalonner les profils de couleurs sur les écrans, les imprimantes et autres périphériques.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="privacy.html.fr" title="Paramètres de confidentialité"><span class="title">Paramètres de confidentialité</span><span class="linkdiv-dash"> — </span><span class="desc">Lock your screen, remove temporary files, and control access to
-    devices like cameras and microphones.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-sharing.html.fr" title="Paramétrage du partage"><span class="title">Paramétrage du partage</span><span class="linkdiv-dash"> — </span><span class="desc">Share your screen, or share media and other files over a local
-    network or Bluetooth.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="prefs-language.html.fr" title="Pays et langue"><span class="title">Pays et langue</span><span class="linkdiv-dash"> — </span><span class="desc">Set your preferred languages, regions, formats, and keyboard layouts.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="media.html.fr#sound" title="Notions de base sur le son"><span class="title">Son</span><span class="linkdiv-dash"> — </span><span class="desc">Adjust the volume for different apps, and configure different
-   speakers and microphones.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="mouse.html.fr" title="Souris, pavé tactile et écran tactile"><span class="title">Souris, pavé tactile et écran tactile</span><span class="linkdiv-dash"> — </span><span class="desc">Adjust the behavior of pointing devices to meet personal requirements.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="wacom.html.fr" title="Tablette graphique Wacom"><span class="title">Tablette graphique Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Configure your Wacom graphics tablet, including the tracking
-  mode and which monitor it is mapped to.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="power.html.fr" title="Énergie et batterie"><span class="title">Énergie et batterie</span><span class="linkdiv-dash"> — </span><span class="desc">View your battery status and change power saving settings.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy.html.fr" title="Paramètres de confidentialité"><span class="title">Paramètres de confidentialité</span><span class="linkdiv-dash"> — </span><span class="desc">Verrouiller votre écran, supprimer les fichiers temporaires et contrôler l’accès aux périphériques tels que les caméras et les microphones.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-sharing.html.fr" title="Paramétrage du partage"><span class="title">Paramétrage du partage</span><span class="linkdiv-dash"> — </span><span class="desc">Partager votre écran, ou partager des médias et d’autres fichiers via un réseau local ou le Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language.html.fr" title="Pays et langue"><span class="title">Pays et langue</span><span class="linkdiv-dash"> — </span><span class="desc">Définir vos préférences de langues, régions, formats et agencements de clavier.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="media.html.fr#sound" title="Notions de base sur le son"><span class="title">Son</span><span class="linkdiv-dash"> — </span><span class="desc">Régler le volume pour différentes applications et configurer différents haut-parleurs et microphones.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse.html.fr" title="Souris, pavé tactile et écran tactile"><span class="title">Souris, pavé tactile et écran tactile</span><span class="linkdiv-dash"> — </span><span class="desc">Régler le comportement des périphériques de pointage pour répondre à vos besoins personnels.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom.html.fr" title="Tablette graphique Wacom"><span class="title">Tablette graphique Wacom</span><span class="linkdiv-dash"> — </span><span class="desc">Configurer votre tablette graphique Wacom, y compris le mode de recherche et l’écran auquel elle correspond.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power.html.fr" title="Énergie et batterie"><span class="title">Énergie et batterie</span><span class="linkdiv-dash"> — </span><span class="desc">Afficher l’état de votre batterie et modifier les paramètres d’économie d’énergie.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">

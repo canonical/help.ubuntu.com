@@ -71,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Λογότυπο του Ubuntu"></span></span> Οδηγός Ubuntu επιφάνειας εργασίας</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" class="media media-inline" alt="Λογότυπο του Ubuntu"></span></span> Οδηγός χρήσης Ubuntu</span></h1></div>
 <div class="title" style="margin-bottom: 1.5em; margin-left: 0.8em"><span>Ubuntu 22.04</span></div><div class="region"><div class="contents pagewide">
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="tiles">
 <div class="tile2 "><a class="ex-gnome-top" href="shell-introduction.html.el" title="Visual overview of GNOME"><span class="ex-gnome-top-banner"></span><span class="ex-gnome-top-text"><span class="ex-gnome-top-title">Visual overview of GNOME</span><span class="linkdiv-dash"> — </span><span class="ex-gnome-top-desc">A visual overview of your desktop, the top bar, and the

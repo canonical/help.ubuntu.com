@@ -81,7 +81,7 @@ document.addEventListener('DOMContentLoaded', function() {
   </p>
 <div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="community-support.html.lv" title="Community support"><span class="title">Community support</span><span class="linkdiv-dash"> — </span><span class="desc">Get help from the community</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="community-support.html.lv" title="Kopienas atbalsts"><span class="title">Kopienas atbalsts</span><span class="linkdiv-dash"> — </span><span class="desc">Saņemiet palīdzību no kopienas</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="about-this-guide.html.lv" title="Par šo rokasgrāmatu"><span class="title">Par šo rokasgrāmatu</span><span class="linkdiv-dash"> — </span><span class="desc">Daži padomi, kā izmantot Ubuntu darbvirsmas rokasgrāmatu.</span></a></div>
 </div>
 <div class="links-divs">

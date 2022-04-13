@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fa" title="راهنمای میزکار اوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> راهنمای میزکار اوبونتو</a> » <a class="trail" href="files.html.fa" title="پرونده‌ها، شاخه‌ها و جست‌وجو">پرونده‌ها</a> › <a class="trail" href="files.html.fa#common-file-tasks" title="کارهای معمول">کارهای معمول</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fa" title="راهنمای میزکار اوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> راهنمای میزکار اوبونتو</a>‏ » ‏<a class="trail" href="files.html.fa" title="پرونده‌ها، شاخه‌ها و جست‌وجو">پرونده‌ها</a>‏ › ‏<a class="trail" href="files.html.fa#common-file-tasks" title="کارهای معمول">کارهای معمول</a>‏ » ‏</div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">رونوشت یا جابه‌جایی پرونده‌ها و شاخه‌ها</span></h1></div>
@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">These instructions apply to both files and folders. You copy and move files
  and folders in exactly the same way.</p>
 <div class="steps ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-steps"><h2><span class="title">رونوشت و جای‌گذاری پرونده‌ها</span></h2></div>
 <div class="region"><ol class="steps">
@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="steps ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-steps"><h2><span class="title">برش و جای‌گذاری پرونده‌ها برای جابه‌جاییشان</span></h2></div>
 <div class="region"><ol class="steps">
@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </div>
 <div class="steps ui-expander">
-<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="yelp-data yelp-data-ui-expander" dir="rtl" data-yelp-expanded="false"></div>
 <div class="inner">
 <div class="title title-steps"><h2><span class="title">کشیدن پرونده‌ها برای رونوشت یا جابه‌جایی</span></h2></div>
 <div class="region"><ol class="steps">

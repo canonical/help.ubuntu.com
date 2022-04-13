@@ -104,17 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Patikima saugykla turi pateikti el. parašo (GPG) raktą, kad galėtų patikrinti atsiųstus programų paketus. Todėl pridėdami kitų tiekėjų saugyklas papildomai turėtumėte įdiegti saugyklos viešąjį raktą (GPG key), kaip tai padaryti turėtų būti aprašyta saugyklos tiekėjo interneto puslapyje.</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">„Canonical Partner“ saugyklos įjungimas</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Canonical Partner saugykloje yra keletas nuosavybinių nemokamų, uždaro kodo programų, kaip <span class="app">Adobe Flash Plugin</span>. Partner saugykloje esančią programinę įrangą galėsite įdiegti tik įjungę šią saugyklą.</p>
-<p class="p">Partner saugyklos  įjungimui atverkite <span class="gui">Kitos programų saugyklos</span> kortelę <span class="app">Programų saugyklos, atnaujinimai</span> lange, kaip parašyta aukščiau. Jei čia matote <span class="gui">Canonical Partners</span> eilutę - uždėkite varnelę pradžioje, tuomet užverkite <span class="app">Programų saugyklos, atnaujinimai</span> langą. Jei sąraše nėra <span class="gui">Canonical Partners</span> - paspauskite mygtuką <span class="gui">Pridėti</span> ir įveskite:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Paspauskite mygtuką <span class="gui">Pridėti saugyklą</span> ir užverkite <span class="app">Programos, atnaujinimai, saugyklos</span> langą. Jei paprašys patvirtinti tapatybę - įveskite savo arba administravimo teises turinčio naudotojo slaptažodį ir luktelėkite kol <span class="app">Programų centras</span> patikrins ir atsiųs naujai prieinamų programų sąrašą iš saugyklų.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

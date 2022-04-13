@@ -2,7 +2,7 @@
 <html lang=fr>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>Use gestures on touchpads and touchscreens</title>
+<title>Utilisation des mouvements sur les pavé tactiles et les écrans tactiles</title>
 <link rel="stylesheet" type="text/css" href="fr.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -71,17 +71,16 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="mouse.html.fr" title="Souris, pavé tactile et écran tactile">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="mouse.html.fr" title="Souris, pavé tactile et écran tactile">Souris</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="mouse.html.fr" title="Souris, pavé tactile et écran tactile">Mouse</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="mouse.html.fr" title="Souris, pavé tactile et écran tactile">Souris</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">Use gestures on touchpads and touchscreens</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Utilisation des mouvements sur les pavé tactiles et les écrans tactiles</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Multitouch gestures can be used on touchpads and touchscreens for system navigation,
-  as well as in applications.</p>
+<p class="p">Les mouvements multipoints peuvent être utilisés sur les pavés tactiles et les écrans tactiles pour la navigation du système, ainsi que dans les applications.</p>
 <p class="p">Un certain nombre d’applications utilisent des mouvements. Dans <span class="app">Visionneur de documents</span>, les documents peuvent être zoomés et glissés avec des mouvements, et <span class="app">Visionneur d’images</span> vous permet de zoomer, faire pivoter et faire un panoramique.</p>
 </div>
 <section id="system"><div class="inner">
@@ -90,31 +89,30 @@ document.addEventListener('DOMContentLoaded', function() {
 <tr>
 <td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-overview.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td>
-<p class="p"><span class="em">Open the Activities Overview and Applications View</span></p>
-<p class="p">Place three fingers on the touchpad or touchscreen and gesture upwards to open the Activities Overview.</p>
-<p class="p">To open the Applications View, place three fingers and gesture upwards again.</p>
+<p class="p"><span class="em">Ouvrir la vue d’ensemble des activités et la vue des applications</span></p>
+<p class="p">Placez trois doigts sur le pavé tactile ou l’écran tactile puis faites un mouvement vers le haut pour ouvrir la vue d’ensemble des activités.</p>
+<p class="p">Pour ouvrir la vue des applications, placez trois doigts puis faites à nouveau un mouvement vers le haut.</p>
 </td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-workspaces.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
 <p class="p"><span class="em">Basculer entre les espaces de travail</span></p>
-<p class="p">Place three fingers on the touchpad or touchscreen and gesture left or right.</p>
+<p class="p">Placez trois doigts sur le pavé tactile ou l’écran tactile puis faites un mouvement vers la gauche ou vers la droite.</p>
 </td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-unfullscreen.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
-<p class="p"><span class="em">Exit from fullscreen</span></p>
-<p class="p">On a touchscreen, drag down from the top edge to exit from the fullscreen mode of any window.</p>
+<p class="p"><span class="em">Quitter le mode plein écran</span></p>
+<p class="p">Sur un écran tactile, faites glisser vers le bas depuis le bord supérieur pour quitter le mode plein écran de n’importe quelle fenêtre.</p>
 </td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-osk.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
 <td style="border-top-style: solid;">
 <p class="p"><span class="em">Afficher le clavier visuel</span></p>
-<p class="p">On a touchscreen, drag up from the bottom edge to bring up the
-    <span class="link"><a href="keyboard-osk.html.fr" title="Utilisation d’un clavier visuel">on-screen keyboard</a></span>, if the on-screen keyboard is enabled.</p>
+<p class="p">Sur un écran tactile, faites glisser vers le haut depuis le bord inférieur pour afficher le <span class="link"><a href="keyboard-osk.html.fr" title="Utilisation d’un clavier visuel">clavier visuel</a></span>, si celui-ci est activé.</p>
 </td>
 </tr>
 </table></div></div></div></div></div>
@@ -162,7 +160,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="mouse.html.fr" title="Souris, pavé tactile et écran tactile">Souris, pavé tactile et écran tactile</a><span class="desc"> — Adjust the behavior of pointing devices to meet personal requirements.</span>
+<a href="mouse.html.fr" title="Souris, pavé tactile et écran tactile">Souris, pavé tactile et écran tactile</a><span class="desc"> — Régler le comportement des périphériques de pointage pour répondre à vos besoins personnels.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

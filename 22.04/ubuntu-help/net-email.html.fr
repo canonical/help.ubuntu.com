@@ -70,13 +70,13 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Logiciels de messagerie et courriels</span></h1></div>
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
-<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html.fr" title="Changement du client de messagerie pour écrire vos courriels"><span class="title">Changement du client de messagerie pour écrire vos courriels</span><span class="linkdiv-dash"> — </span><span class="desc">Change the default email client by going to <span class="gui">Default Applications</span> in <span class="gui">Settings</span>.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-default-email.html.fr" title="Changement du client de messagerie pour écrire vos courriels"><span class="title">Changement du client de messagerie pour écrire vos courriels</span><span class="linkdiv-dash"> — </span><span class="desc">Changer de client de messagerie par défaut en se rendant à la rubrique <span class="gui">Applications par défaut</span> des <span class="gui">Paramètres</span>.</span></a></div></div>
 <div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="net-email-virus.html.fr" title="Contrôle antivirus de mes courriels"><span class="title">Contrôle antivirus de mes courriels</span><span class="linkdiv-dash"> — </span><span class="desc">Il est peu probable que des virus puissent infecter votre ordinateur, par contre ils peuvent infecter les machines des personnes à qui vous envoyez des courriels.</span></a></div></div>
 </div></div></div></div></div>
 <section class="links" role="navigation"><div class="inner">
@@ -84,8 +84,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseau, Web, messagerie et courriel</a><span class="desc"> — Connect to wireless and wired networks. Stay safe with a VPN.
-    Create a wireless hotspot.</span>
+<a href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseau, Web, messagerie et courriel</a><span class="desc"> — Se connecter à des réseaux sans fil et filaires. Rester en sécurité grâce à un VPN. Créer un point d’accès sans fil.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -85,14 +85,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="link"><a href="shell-exit.html.fr#suspend" title="Mise en veille">Mettez en veille votre ordinateur</a></span> quand vous ne l’utilisez pas. Cela réduit considérablement sa consommation d’énergie et son réveil peut être très rapide.</p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-exit.html.fr#shutdown" title="Extinction ou redémarrage">Éteignez</a></span> votre ordinateur quand vous ne l’utilisez pas pendant longtemps. Certains se demandent si l’éteindre souvent ne risque pas de l’user prématurément, alors que les machines modernes sont plutôt robustes et que cela n’est donc pas un problème.</p></li>
-<li class="list"><p class="p">Use the <span class="gui">Power</span> panel in <span class="app">Settings</span> to change your
-    power settings. There are a number of options that will help to save power:
-    you can <span class="link"><a href="display-blank.html.fr" title="Réglage du délai avant extinction de l’écran">automatically blank the screen</a></span>
-    after a certain time, enable the <span class="gui">Automatic <span class="link"><a href="power-profile.html.fr" title="Choose a power profile">Power
-    Saver</a></span></span> mode when the battery is low, and have the computer
-    <span class="link"><a href="power-autosuspend.html.fr" title="Configuration de la mise en veille automatique">automatically suspend</a></span> if you have not
-    used it for a certain period of time.</p></li>
-<li class="list"><p class="p">Reduce the <span class="link"><a href="display-brightness.html.fr" title="Réglage de la luminosité de l’écran">screen brightness</a></span>.</p></li>
+<li class="list"><p class="p">Utilisez le panneau <span class="gui">Énergie</span> dans les <span class="app">Paramètres</span> pour modifier vos paramètres de gestion de l’énergie. Certaines options participent à l’économie d’énergie : vous pouvez <span class="link"><a href="display-blank.html.fr" title="Réglage du délai avant extinction de l’écran">éteindre automatiquement l’écran</a></span> au bout d’un certain temps, activer le mode <span class="gui"><span class="link"><a href="power-profile.html.fr" title="Choix d’un profil d’énergie">Économie d’énergie</a></span> automatique</span> lorsque la batterie est faible, et <span class="link"><a href="power-autosuspend.html.fr" title="Configuration de la mise en veille automatique">mettre en veille l’ordinateur</a></span> si vous ne l’utilisez plus depuis un moment.</p></li>
+<li class="list"><p class="p">Réduisez la <span class="link"><a href="display-brightness.html.fr" title="Réglage de la luminosité de l’écran">luminosité de l’écran</a></span>.</p></li>
 <li class="list"><p class="p">Éteignez tous les périphériques externes (comme les imprimantes et les scanners) quand vous ne les utilisez pas.</p></li>
 </ul></div></div></div></div></div>
 </div></section><section id="laptop"><div class="inner">
@@ -103,9 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">La plupart des ordinateurs portables possèdent des boutons sur le clavier (ou un raccourci clavier) pour réduire la luminosité.</p>
 </li>
 <li class="list">
-<p class="p">If you do not need an Internet connection for a little while, <span class="link"><a href="power-wireless.html.fr" title="Désactivation des technologies sans fil inutilisées">turn off
-     the wireless or Bluetooth cards</a></span>. These devices work by broadcasting radio
-     waves, which takes quite a bit of power.</p>
+<p class="p">Si vous ne vous servez pas de la connexion Internet pendant un certain temps, vous pouvez <span class="link"><a href="power-wireless.html.fr" title="Désactivation des technologies sans fil inutilisées">éteindre le commutateur sans fil ou Bluetooth de la carte réseau</a></span>. Ce périphérique fonctionne avec des ondes radio, ce qui consomme pas mal d’énergie.</p>
 <p class="p">Sur certains ordinateurs, il y a un commutateur manuel pour éteindre la carte, alors que sur d’autres, vous avez un raccourci clavier pour faire la même chose. Rallumez-la quand vous en avez besoin.</p>
 </li>
 </ul></div></div></div></div></div>
@@ -121,7 +113,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — View your battery status and change power saving settings.</span>
+<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — Afficher l’état de votre batterie et modifier les paramètres d’économie d’énergie.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

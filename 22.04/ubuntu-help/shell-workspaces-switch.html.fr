@@ -81,28 +81,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span>.</p></li>
 <li class="steps">
-<p class="p">Click on the workspace partially displayed on the right-hand side of
-  the current workspace to view the open windows on the next workspace.
-  If the currently selected workspace is not the leftmost, click the workspace
-  partially displayed on the left-hand side to view the previous workspace.</p>
-<p class="p">If more than one workspace is being used, then you can also click on
-  the <span class="link"><a href="shell-workspaces.html.fr" title="Définition d’un espace de travail">workspace selector</a></span> between the
-  search field and the window list to directly access another workspace.</p>
+<p class="p">Cliquez sur l’espace de travail partiellement affiché à droite de l’espace de travail actuel pour afficher les fenêtres ouvertes sur l’espace de travail suivant.</p>
+<p class="p">Si plusieurs espaces de travail sont utilisés, vous pouvez également cliquer sur le <span class="link"><a href="shell-workspaces.html.fr" title="Définition d’un espace de travail">sélecteur d’espace de travail</a></span> entre le champ de recherche et la liste des fenêtres pour accéder directement à un autre espace de travail.</p>
 </li>
-<li class="steps"><p class="p">Click on the workspace to activate the workspace.</p></li>
+<li class="steps"><p class="p">Cliquez sur l’espace de travail pour activer celui-ci.</p></li>
 </ol></div>
 </div></div>
 <div class="list"><div class="inner">
 <div class="title title-list"><h2><span class="title">Avec le clavier :</span></h2></div>
 <div class="region"><ul class="list">
-<li class="list"><p class="p">Press
-    <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page Up</kbd></span></span>
-    or <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Up</kbd></span></span> to move to
-    the workspace shown left of the current workspace in the workspace selector.
-    </p></li>
-<li class="list"><p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span> or
-    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Down</kbd></span></span> to move to the
-    workspace shown right of the current workspace in the workspace selector.</p></li>
+<li class="list"><p class="p">Appuyez sur <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Page haut</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Flèche haut</kbd></span></span> pour vous déplacer vers l’espace de travail situé à gauche de l’espace de travail actuel dans le sélecteur d’espace de travail.</p></li>
+<li class="list"><p class="p">Appuyez sur <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page bas</kbd></span></span> ou <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Flèche bas</kbd></span></span> pour vous déplacer vers l’espace de travail situé à droite de l’espace de travail actuel dans le sélecteur d’espace de travail.</p></li>
 </ul></div>
 </div></div>
 </div>

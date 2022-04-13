@@ -80,13 +80,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Avec la souris :</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span>.</p></li>
-<li class="steps"><p class="p">Click and drag the window to the workspace partially displayed
-      on the side of the screen.</p></li>
-<li class="steps"><p class="p">If more than one workspace is already in use, you can also drop the window
-      onto one of the non-adjacent workspaces in the <span class="em"><a href="shell-workspaces.html.fr" title="Définition d’un espace de travail">workspace
-      selector</a></span> between the search field and the window list. This workspace
-      now contains the window you have dropped, and a new empty workspace appears
-      at the end of the <span class="em">workspace selector</span>.</p></li>
+<li class="steps"><p class="p">Cliquez et déplacez la fenêtre vers l’espace de travail partiellement affiché sur le côté de l’écran.</p></li>
+<li class="steps"><p class="p">Si plusieurs espaces de travail sont déjà utilisés, vous pouvez également déposer la fenêtre sur l’un des espaces de travail non adjacents dans le <span class="em"><a href="shell-workspaces.html.fr" title="Définition d’un espace de travail">sélecteur d’espace de travail</a></span> entre le champ de recherche et la liste des fenêtres. Cet espace de travail contient maintenant la fenêtre que vous avez déposée et un nouvel espace de travail vide apparaît à la fin du <span class="em">sélecteur d’espace de travail</span>.</p></li>
 </ol></div>
 </div></div>
 <div class="steps"><div class="inner">
@@ -94,12 +89,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Sélectionnez la fenêtre que vous voulez déplacer (par ex. en utilisant le <span class="em"><a href="shell-windows-switching.html.fr" title="Basculement entre fenêtres">sélecteur de fenêtre</a></span> via <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Tab</kbd></span></span>).</p></li>
 <li class="steps">
-<p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page
-      Up</kbd></span></span> to move the window to a workspace left of the
-      current workspace on the <span class="em">workspace selector</span>.</p>
-<p class="p">Press <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Page
-      Down</kbd></span></span> to move the window to a workspace right of the
-      current workspace on the <span class="em">workspace selector</span>.</p>
+<p class="p">Appuyez sur <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Page haut</kbd></span></span> pour déplacer la fenêtre vers un espace de travail situé à gauche de l’espace de travail actuel dans le <span class="em">sélecteur d’espace de travail</span>.</p>
+<p class="p">Appuyez sur <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Page bas</kbd></span></span> pour déplacer la fenêtre vers un espace de travail situé à droite de l’espace de travail actuel dans le <span class="em">sélecteur d’espace de travail</span>.</p>
 </li>
 </ol></div>
 </div></div>

@@ -76,18 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ajout d’un compte</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Adding an account will help link your online accounts with your
-desktop. Thus, your email client, calendar and other related
-  applications will be set up for you.</p>
+<p class="p">L’ajout d’un compte vous aide à mettre en relation vos comptes en ligne avec votre bureau. Par conséquent, votre client de messagerie, d’agenda et les autres applications concernées, seront configurées pour vous.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Comptes en ligne</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur l’icône <span class="gui">Comptes en ligne</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Sélectionnez un compte dans la liste de droite.</p></li>
-<li class="steps"><p class="p">Select the type of account you want to add.</p></li>
-<li class="steps"><p class="p">A small website window or dialog will open where you can enter your
-      online account credentials. For example, if you are setting up a Google
-      account, enter your email address and password. Some providers allow
-      you to create a new account from the login dialog.</p></li>
+<li class="steps"><p class="p">Sélectionnez le type de compte que vous souhaitez ajouter.</p></li>
+<li class="steps"><p class="p">Une petite fenêtre de site Web ou une boîte de dialogue s’ouvrira, où vous pourrez saisir vos identifiants de compte en ligne. Par exemple, si vous configurez un compte Google, saisissez votre adresse courriel et votre mot de passe. Certains fournisseurs de service vous permettent de créer un nouveau compte depuis la fenêtre de connexion.</p></li>
 <li class="steps"><p class="p">Si vous avez saisi correctement vos informations d’identification, il vous sera demandé d’autoriser GNOME à accéder à votre compte en ligne. Autorisez l’accès pour continuer.</p></li>
 <li class="steps"><p class="p">Tous les services offerts par un fournisseur de compte seront activés par défaut. <span class="link"><a href="accounts-disable-service.html.fr" title="Contrôle des services en ligne accessibles par un compte">Désélectionnez</a></span> individuellement les services pour les désactiver.</p></li>
 </ol></div></div></div>
@@ -104,7 +99,7 @@ desktop. Thus, your email client, calendar and other related
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — Connect to your accounts with various online services.</span>
+<a href="accounts.html.fr" title="Comptes en ligne">Comptes en ligne</a><span class="desc"> — Se connecter à vos comptes avec divers services en ligne.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

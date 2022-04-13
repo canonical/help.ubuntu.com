@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -82,10 +82,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">Vous pouvez réduire l’utilisation de la batterie en désactivant le bluetooth, le Wi-Fi ou les connexions mobiles à large bande lorsqu’ils ne sont pas utilisés.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activities</a></span>
-      overview and start typing <span class="gui">Wi-Fi</span> or <span class="gui">Bluetooth</span>, respectively.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Wi-Fi</span> to open the panel, or <span class="gui">Bluetooth</span>, respectively.</p></li>
-<li class="steps"><p class="p">In the header bar, switch the unused services to off. Re-enable when needed by switching to on.</p></li>
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Wi-Fi</span> ou <span class="gui">Bluetooth</span>, respectivement.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Wi-Fi</span> pour ouvrir le panneau, ou sur <span class="gui">Bluetooth</span>, respectivement.</p></li>
+<li class="steps"><p class="p">Dans la barre d’en-tête, désactivez les services inutilisés. Vous pouvez les réactiver si besoin.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -94,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — View your battery status and change power saving settings.</span>
+<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — Afficher l’état de votre batterie et modifier les paramètres d’économie d’énergie.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

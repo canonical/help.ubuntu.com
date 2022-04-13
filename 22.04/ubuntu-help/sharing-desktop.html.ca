@@ -80,22 +80,26 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Compartir l'escriptori</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Podeu deixar que altres usuaris vegin i controlin el vostre escriptori des d'un altre ordinador amb una aplicació de visualització d'escriptori. Configureu la <span class="gui">Compartició de pantalla</span> per a permetre que altres accedeixin al vostre escriptori i configureu les preferències de seguretat.</p>
+<p class="p">You can let other people view and control your desktop from another
+  computer with a desktop viewing application. Configure <span class="gui">Remote
+  Desktop</span> to allow others to access your desktop and set the security
+  preferences.</p>
 <div class="note note-package" title="Paquet">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m3 10v7.429l9 5.571 9-5.571v-7.429l-9 5z"></path>
  <path class="yelp-svg-fill" d="m3 7v2l9 5 9-5v-2l-9-5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
-<p class="p">Heu de tenir el paquet <span class="app">GNOME Remote Desktop</span> instal·lat perquè <span class="gui">Comparteix la pantalla</span> sigui visible.</p>
+<p class="p">You must have the <span class="app">GNOME Remote Desktop</span> package installed for
+     <span class="gui">Remote Desktop</span> to be visible.</p>
 <p class="p"><span class="link-button link"><a href="apt:gnome-remote-desktop" title="apt:gnome-remote-desktop">Instal·la el GNOME Remote Desktop</a></span></p>
 </div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Compartició</span> a la barra lateral per a obrir el quadre.</p></li>
+<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Compartició</span>.</p></li>
+<li class="steps"><p class="p">Feu clic a <span class="gui">Compartició</span> per a obrir el quadre.</p></li>
 <li class="steps">
-<p class="p">Si el commutador <span class="gui">Compartició</span> a la part superior dreta de la finestra està desactivat, activeu-lo.</p>
+<p class="p">If the <span class="gui">Sharing</span> switch in the top-right of the window is set
+      to off, click to switch it on.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -103,53 +107,104 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si el text a continuació del <span class="gui">Nom de l'ordinador</span> us permet editar-lo, podeu <span class="link"><a href="sharing-displayname.html.ca" title="Establir el nom visible de l'ordinador">canviar</a></span> el nom del vostre equip que es mostra a la xarxa.</p></div></div></div>
 </div>
 </li>
-<li class="steps"><p class="p">Seleccioneu <span class="gui">Compartició de pantalla</span>.</p></li>
-<li class="steps"><p class="p">Per a permetre a altres veure el vostre escriptori, canvieu <span class="gui">Compartició de pantalla</span> a <span class="gui">ON</span>. Això vol dir que altres persones podran connectar-se a l'ordinador i veure què hi ha a la vostra pantalla.</p></li>
-<li class="steps"><p class="p">Per a permetre a altres interactuar amb el vostre escriptori, canvieu <span class="gui">Permet a les connexions controlar la pantalla</span> a <span class="gui">ON</span>. Això permetrà a l'altra persona moure el ratolí, executar aplicacions i explorar fitxers al vostre ordinador, tot depenent de la configuració de seguretat que esteu utilitzeu.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Remote Desktop</span>.</p></li>
+<li class="steps"><p class="p">To let others view your desktop, set the <span class="gui">Remote Desktop</span>
+      switch to on. This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen.</p></li>
+<li class="steps"><p class="p">To let others interact with your desktop, set the
+      <span class="gui">Remote Control</span> switch to on. This may allow the other person to
+      move your mouse, run applications, and browse files on your computer,
+      depending on the security settings which you are currently using.</p></li>
 </ol></div></div></div>
 </div>
 <section id="security"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Seguretat</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">És important que tingueu en compte tot el que representa cada opció de seguretat abans de canviar-la.</p>
+<p class="p">The <span class="gui">Authentication</span> section displays the login credentials to be
+  used in the client software on the connecting device.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Les noves connexions han de demanar accés</dt>
+<dt class="terms">User Name</dt>
+<dd class="terms"><p class="p">Use the suggested value or enter your own.</p></dd>
+<dt class="terms">Password</dt>
 <dd class="terms">
-<p class="p">Si voleu poder optar per a permetre que algú accedeixi al vostre escriptori, activeu <span class="gui">Les noves connexions han de demanar accés</span>. Si desactiveu aquesta opció, no se us preguntarà si voleu permetre que algú es connecti a l'ordinador.</p>
+<p class="p">Use the suggested value or enter your own.</p>
 <div class="note note-tip" title="Suggeriment">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Aquesta opció està activa per defecte.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Click the button next to each entry if you want to place it in the
+      clipboard.</p></div></div></div>
 </div>
 </dd>
-<dt class="terms">Es necessita una contrasenya</dt>
-<dd class="terms">
-<p class="p">Per a fer que altres persones utilitzin una contrasenya en connectar-se a l'escriptori, activeu <span class="gui">Es necessita una contrasenya</span>. Si no utilitzeu aquesta opció, qualsevol podrà intentar veure el vostre escriptori.</p>
-<div class="note note-tip" title="Suggeriment">
-<svg width="24" height="24" version="1.1">
- <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
- <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Aquesta opció està desactivada de manera predeterminada, però heu d'activar-la i establir una contrasenya segura.</p></div></div></div>
-</div>
-</dd>
+<dt class="terms">Verify Encryption</dt>
+<dd class="terms"><p class="p">Click the <span class="gui">Verify Encryption</span> button to display the
+      encryption fingerprint. Compare it with the value displayed by the client
+      when connecting: they should be identical.</p></dd>
 </dl></div></div></div>
 </div></div>
-</div></section><section id="networks"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Xarxes</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">La secció <span class="gui">Xarxes</span> llista les xarxes a les quals esteu connectat actualment. Utilitzeu el commutador al costat de cadascuna per a triar en quina es pot compartir l'escriptori.</p></div></div>
+</div></section><section id="connecting"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Connecting</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">The <span class="gui">How to Connect</span> section displays the
+  <span class="gui">Device Name</span> and <span class="gui">Remote Desktop Address</span> that can be used
+  on the connecting computer. Click the button next to each entry if you want to
+  place it in the clipboard. A connection can also be made using your
+  <span class="link"><a href="net-findip.html.ca" title="Trobar la vostra adreça IP">IP address</a></span>.</p>
+<p class="p">When the other computer is successfully connected to your desktop, you
+  will see the <span class="gui">Screen is being shared</span> icon,
+  <span class="media"><span class="media media-image"><img src="figures/topbar-screen-shared.svg" class="media media-inline" alt=""></span></span>
+  in your system status area.</p>
+</div></div>
+</div></section><section id="clients"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Clients</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">To connect to your desktop from another computer, the following clients are
+  known to work.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">From Linux:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="app">Remmina</span>, a GTK client, is available as a package in
+        most distributions, and also as a
+        <span class="link"><a href="https://flathub.org/apps/details/org.remmina.Remmina" title="https://flathub.org/apps/details/org.remmina.Remmina">flatpak</a></span>.
+        Use default settings, particularly <span class="gui">Color depth</span> 'Automatic'
+        in the connection profile settings.</p></li>
+<li class="list"><p class="p"><span class="app">xfreerdp</span> is a command line client available as a
+        package in most distributions. The option <span class="cmd">/network:auto</span>
+        should be passed to the client on the command line.</p></li>
+</ul></div></div></div></dd>
+<dt class="terms">From Microsoft Windows:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list"><p class="p"><span class="app">mstsc</span> is the built-in Windows client. Default
+        settings are recommended.</p></li></ul></div></div></div></dd>
+<dt class="terms">From Linux, Windows, or macOS:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list"><p class="p"><span class="app">Thincast</span> is a proprietary client. The Linux version
+        is available as a <span class="link"><a href="https://flathub.org/apps/details/com.thincast.client" title="https://flathub.org/apps/details/com.thincast.client">flatpak</a></span>.
+        Default settings are recommended.</p></li></ul></div></div></div></dd>
+</dl></div></div></div>
+</div></div>
 </div></section><section id="disconnect"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Deixar de compartir l'escriptori</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Per a desconnectar algú que estigui veient el vostre escriptori:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Obriu la vista general d'<span class="gui"><a href="shell-introduction.html.ca#activities" title="Vista general d'Activitats">Activitats</a></span> i comenceu a teclejar <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Paràmetres</span>.</p></li>
-<li class="steps"><p class="p">Feu clic a <span class="gui">Compartició</span> a la barra lateral per a obrir el quadre.</p></li>
-<li class="steps"><p class="p"><span class="gui">Compartició de pantalla</span> es mostrarà com a <span class="gui">Actiu</span>. Feu clic a sobre.</p></li>
-<li class="steps"><p class="p">Establiu l'interruptor a la part superior a <span class="gui">ON</span>.</p></li>
+<li class="steps"><p class="p">Click the system menu on the right side of the top bar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Screen is being shared</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Turn off</span>.</p></li>
 </ol></div></div></div>
 </div></div>
+</div></section><section id="advanced" class="ui-expander"><div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Advanced Topics</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Command line configuration</dt>
+<dd class="terms"><p class="p">The <span class="cmd">grdctl</span> utility allows you to configure your host
+      settings in a console window. For usage details, type
+      <span class="cmd">grdctl --help</span>.</p></dd>
+<dt class="terms">H.264</dt>
+<dd class="terms"><p class="p">H.264 video encoding heavily reduces bandwidth.
+      <span class="app">GNOME Remote Desktop</span> will use H.264 when: the graphics pipeline
+      is used (a requirement of the protocol), the client supports it, and
+      NVENC (NVIDIA's encoder) is available.</p></dd>
+</dl></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

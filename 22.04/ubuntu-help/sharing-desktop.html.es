@@ -80,23 +80,26 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Compartir su escritorio</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Puede permitir que otras personas vean y controlen su escritorio desde otros equipos con una aplicación de visualización de escritorios. Configure la <span class="app">Compartición de la pantalla</span> para permitir que otros accedan a su escritorio y configure las preferencias de seguridad.</p>
+<p class="p">You can let other people view and control your desktop from another
+  computer with a desktop viewing application. Configure <span class="gui">Remote
+  Desktop</span> to allow others to access your desktop and set the security
+  preferences.</p>
 <div class="note note-package" title="Paquete">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m3 10v7.429l9 5.571 9-5.571v-7.429l-9 5z"></path>
  <path class="yelp-svg-fill" d="m3 7v2l9 5 9-5v-2l-9-5z"></path>
 </svg><div class="inner"><div class="region"><div class="contents">
 <p class="p">You must have the <span class="app">GNOME Remote Desktop</span> package installed for
-     <span class="gui">Screen Sharing</span> to be visible.</p>
+     <span class="gui">Remote Desktop</span> to be visible.</p>
 <p class="p"><span class="link-button link"><a href="apt:gnome-remote-desktop" title="apt:gnome-remote-desktop">Install GNOME Remote Desktop</a></span></p>
 </div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Pulse <span class="gui">Compartir</span> en la barra lateral para abrir el panel.</p></li>
+<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Compartición</span>.</p></li>
+<li class="steps"><p class="p">Pulse en <span class="gui">Compartición</span> para abrir el panel.</p></li>
 <li class="steps">
-<p class="p">Si la opción <span class="gui">Compartir</span> en la parte superior derecha de la ventana está apagada, actívela.</p>
+<p class="p">If the <span class="gui">Sharing</span> switch in the top-right of the window is set
+      to off, click to switch it on.</p>
 <div class="note" title="Nota">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -104,53 +107,104 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si puede editar el texto de debajo de <span class="gui">Nombre del equipo</span> puede <span class="link"><a href="sharing-displayname.html.es" title="Establecer el nombre visible del equipo">cambiar</a></span> el nombre de su equipo en la red.</p></div></div></div>
 </div>
 </li>
-<li class="steps"><p class="p">Seleccione <span class="gui">Compartición de la pantalla</span>.</p></li>
-<li class="steps"><p class="p">Para permitir que otros vean su escritorio, active la <span class="gui">Compartición de pantalla</span>. Esto significa que otras personas podrán intentar conectarse con su equipo y ver lo que hay en su pantalla.</p></li>
-<li class="steps"><p class="p">Para permitir que otros usuarios interactúen con su escritorio, active la opción <span class="gui">Permitir conexiones remotas a la pantalla</span>. Esto permite que otras personas puedan mover su ratón, ejecutar aplicaciones y examinar los archivos en su equipo, dependiendo de la configuración de seguridad que esté usando actualmente.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Remote Desktop</span>.</p></li>
+<li class="steps"><p class="p">To let others view your desktop, set the <span class="gui">Remote Desktop</span>
+      switch to on. This means that other people will be able to attempt to
+      connect to your computer and view what’s on your screen.</p></li>
+<li class="steps"><p class="p">To let others interact with your desktop, set the
+      <span class="gui">Remote Control</span> switch to on. This may allow the other person to
+      move your mouse, run applications, and browse files on your computer,
+      depending on the security settings which you are currently using.</p></li>
 </ol></div></div></div>
 </div>
 <section id="security"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Seguridad</span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">Es importante que considere seriamente el significado de cada opción de seguridad antes de cambiarlas.</p>
+<p class="p">The <span class="gui">Authentication</span> section displays the login credentials to be
+  used in the client software on the connecting device.</p>
 <div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms">Las conexiones nuevas deben solicitar acceso</dt>
+<dt class="terms">User Name</dt>
+<dd class="terms"><p class="p">Use the suggested value or enter your own.</p></dd>
+<dt class="terms">Password</dt>
 <dd class="terms">
-<p class="p">Si quiere poder elegir si permite o no que alguien acceda a su escritorio, seleccione active la opción <span class="gui">Las conexiones nuevas deben solicitar acceso</span>. Si desactiva esta opción, no se le preguntará si quiere permitir que alguien se conecte a su equipo.</p>
+<p class="p">Use the suggested value or enter your own.</p>
 <div class="note note-tip" title="Sugerencia">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
  <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Esta opción está activada de forma predeterminada.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Click the button next to each entry if you want to place it in the
+      clipboard.</p></div></div></div>
 </div>
 </dd>
-<dt class="terms">Solicitar una contraseña</dt>
-<dd class="terms">
-<p class="p">Para solicitar a otras personas que usen una contraseña cuando se conecten a su escritorio, seleccione <span class="gui">Requerir contraseña</span>. Si no usa esta opción, cualquiera puede intentar ver su escritorio.</p>
-<div class="note note-tip" title="Sugerencia">
-<svg width="24" height="24" version="1.1">
- <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
- <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Esta opción está desactivada de forma predeterminada, pero debería activarla y configurar una contraseña segura.</p></div></div></div>
-</div>
-</dd>
+<dt class="terms">Verify Encryption</dt>
+<dd class="terms"><p class="p">Click the <span class="gui">Verify Encryption</span> button to display the
+      encryption fingerprint. Compare it with the value displayed by the client
+      when connecting: they should be identical.</p></dd>
 </dl></div></div></div>
 </div></div>
-</div></section><section id="networks"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Redes</span></h2></div>
-<div class="region"><div class="contents pagewide"><p class="p">La sección <span class="gui">Redes</span> lista las redes a las que está actualmente conectado. Use el interruptor junto a cada una para elegir dónde se puede compartir su escritorio.</p></div></div>
+</div></section><section id="connecting"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Connecting</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">The <span class="gui">How to Connect</span> section displays the
+  <span class="gui">Device Name</span> and <span class="gui">Remote Desktop Address</span> that can be used
+  on the connecting computer. Click the button next to each entry if you want to
+  place it in the clipboard. A connection can also be made using your
+  <span class="link"><a href="net-findip.html.es" title="Buscar su dirección IP">IP address</a></span>.</p>
+<p class="p">When the other computer is successfully connected to your desktop, you
+  will see the <span class="gui">Screen is being shared</span> icon,
+  <span class="media"><span class="media media-image"><img src="figures/topbar-screen-shared.svg" class="media media-inline" alt=""></span></span>
+  in your system status area.</p>
+</div></div>
+</div></section><section id="clients"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Clients</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">To connect to your desktop from another computer, the following clients are
+  known to work.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">From Linux:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p"><span class="app">Remmina</span>, a GTK client, is available as a package in
+        most distributions, and also as a
+        <span class="link"><a href="https://flathub.org/apps/details/org.remmina.Remmina" title="https://flathub.org/apps/details/org.remmina.Remmina">flatpak</a></span>.
+        Use default settings, particularly <span class="gui">Color depth</span> 'Automatic'
+        in the connection profile settings.</p></li>
+<li class="list"><p class="p"><span class="app">xfreerdp</span> is a command line client available as a
+        package in most distributions. The option <span class="cmd">/network:auto</span>
+        should be passed to the client on the command line.</p></li>
+</ul></div></div></div></dd>
+<dt class="terms">From Microsoft Windows:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list"><p class="p"><span class="app">mstsc</span> is the built-in Windows client. Default
+        settings are recommended.</p></li></ul></div></div></div></dd>
+<dt class="terms">From Linux, Windows, or macOS:</dt>
+<dd class="terms"><div class="list"><div class="inner"><div class="region"><ul class="list"><li class="list"><p class="p"><span class="app">Thincast</span> is a proprietary client. The Linux version
+        is available as a <span class="link"><a href="https://flathub.org/apps/details/com.thincast.client" title="https://flathub.org/apps/details/com.thincast.client">flatpak</a></span>.
+        Default settings are recommended.</p></li></ul></div></div></div></dd>
+</dl></div></div></div>
+</div></div>
 </div></section><section id="disconnect"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Dejar de compartir su escritorio</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Para desconectar a alguien que esté viendo su escritorio:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Abra la vista de <span class="gui"><a href="shell-introduction.html.es#activities" title="Vista de Actividades">Actividades</a></span> y empiece a escribir <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Pulse en <span class="gui">Configuración</span>.</p></li>
-<li class="steps"><p class="p">Pulse <span class="gui">Compartir</span> en la barra lateral para abrir el panel.</p></li>
-<li class="steps"><p class="p"><span class="gui">Compartición de pantalla</span> aparecerá <span class="gui">Activado</span>. Pulse sobre él.</p></li>
-<li class="steps"><p class="p">Apague el interruptor de la parte superior.</p></li>
+<li class="steps"><p class="p">Click the system menu on the right side of the top bar.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Screen is being shared</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Turn off</span>.</p></li>
 </ol></div></div></div>
 </div></div>
+</div></section><section id="advanced" class="ui-expander"><div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Advanced Topics</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Command line configuration</dt>
+<dd class="terms"><p class="p">The <span class="cmd">grdctl</span> utility allows you to configure your host
+      settings in a console window. For usage details, type
+      <span class="cmd">grdctl --help</span>.</p></dd>
+<dt class="terms">H.264</dt>
+<dd class="terms"><p class="p">H.264 video encoding heavily reduces bandwidth.
+      <span class="app">GNOME Remote Desktop</span> will use H.264 when: the graphics pipeline
+      is used (a requirement of the protocol), the client supports it, and
+      NVENC (NVIDIA's encoder) is available.</p></dd>
+</dl></div></div></div></div></div>
 </div></section><section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">

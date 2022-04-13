@@ -98,8 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Докладніше</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove.html.uk" title="Встановлення та видалення програмного забезпечення">Встановлення та видалення програмного забезпечення</a><span class="desc"> — Add and remove applications and other software. Handle
-    additional software repositories.</span>
+<a href="addremove.html.uk" title="Встановлення та видалення програмного забезпечення">Встановлення та видалення програмного забезпечення</a><span class="desc"> — Додавайте і вилучайте додатки та інше програмне забезпечення. Керуйте репозиторіями з додатковими програмами.</span>
 </li>
 <li class="links ">
 <a href="disk.html.uk" title="Диски і сховище даних">Диски і сховище даних</a><span class="desc"> — Визначення параметрів диска і керування тим, як місце на диску розподілено і використано.</span>

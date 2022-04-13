@@ -81,11 +81,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Pays et langue</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Pays et langue</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Formats</span>.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">Common Formats</span>, select the region and language that most
-      closely matches the formats you would like to use.</p></li>
+<li class="steps"><p class="p">À la rubrique <span class="gui">Formats courants</span>, sélectionnez la région et la langue qui correspondent le plus aux formats que vous souhaitez utiliser.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Terminer</span> pour enregistrer.</p></li>
-<li class="steps"><p class="p">Your session needs to be restarted for changes to take effect. Either click
-      <span class="gui">Restart…</span>, or manually log back in later.</p></li>
+<li class="steps"><p class="p">Vous devez redémarrer la session pour que les changements soient pris en compte. Cliquez sur <span class="gui">Redémarrer</span>, ou reconnectez-vous manuellement plus tard.</p></li>
 </ol></div></div></div>
 <p class="p">Après avoir sélectionné une région, la zone située à droite de la liste affiche plusieurs exemples de présentation des dates et des autres valeurs. Bien que cela n’apparaisse pas dans les exemples, le premier jour de la semaine dans les agendas est défini en fonction de la région.</p>
 <div class="note note-tip" title="Astuce">
@@ -101,7 +99,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-language.html.fr" title="Pays et langue">Pays et langue</a><span class="desc"> — Set your preferred languages, regions, formats, and keyboard layouts.</span>
+<a href="prefs-language.html.fr" title="Pays et langue">Pays et langue</a><span class="desc"> — Définir vos préférences de langues, régions, formats et agencements de clavier.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

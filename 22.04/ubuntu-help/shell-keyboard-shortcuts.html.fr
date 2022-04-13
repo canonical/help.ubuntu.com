@@ -153,7 +153,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Suppr</kbd></span></span></p></td>
-<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.fr" title="Déconnexion, extinction, ou changement d’utilisateur">Show the Power Off dialog</a></span>.</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.fr" title="Déconnexion, extinction, ou changement d’utilisateur">Afficher la fenêtre Éteindre</a></span>.</p></td>
 </tr>
 <tr>
 <td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
@@ -200,15 +200,15 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-table"><h2><span class="title">Capture d’écran</span></h2></div>
 <div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
 <tr>
-<td><p class="p"><span class="key"><kbd>Print Screen</kbd></span></p></td>
+<td><p class="p"><span class="key"><kbd>Impr. écran</kbd></span></p></td>
 <td><p class="p"><span class="link"><a href="screen-shot-record.html.fr#screenshot" title="Prendre une capture d’écran">Prendre une capture d’écran.</a></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Impr. écran</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.fr#screenshot" title="Prendre une capture d’écran">Prendre une capture d’écran d’une fenêtre.</a></span></p></td>
 </tr>
 <tr>
-<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print Screen</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Impr. écran</kbd></span></span></p></td>
 <td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.fr#screenshot" title="Prendre une capture d’écran">Prendre une capture d’écran d’une zone de la fenêtre.</a></span> Le pointeur se change en croix. Cliquez et sélectionnez une zone.</p></td>
 </tr>
 <tr>
@@ -226,12 +226,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Select international keyboard layouts and use keyboard
-    accessibility features.</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
 </li>
 <li class="links "><a href="shell-overview.html.fr#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a></li>
 <li class="links ">
-<a href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — Get the most out of GNOME with these handy tips.</span>
+<a href="tips.html.fr" title="Trucs et astuces">Trucs et astuces</a><span class="desc"> — Tirez le meilleur parti de GNOME avec ces conseils pratiques.</span>
 </li>
 </ul></div>
 </div></div>

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="contacts.html.fr" title="Contacts">Contacts</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="contacts.html.fr" title="Contacts">Contacts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Lien et suppression de lien entre contacts</span></h1></div>
@@ -91,9 +91,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><div class="contents pagewide">
 <p class="p">Il peut arriver que vous souhaitiez délier des contacts que vous avez liés par accident alors qu’ils n’auraient pas dû l’être.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Select the contact you wish to unlink from your list of contacts.</p></li>
-<li class="steps"><p class="p">Press <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="view more"></span></span> in the top-right corner of
-      <span class="app">Contacts</span>.</p></li>
+<li class="steps"><p class="p">Sélectionnez le contact que vous souhaitez délier dans la liste des contacts.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="afficher davantage"></span></span> dans le coin supérieur droit de <span class="app">Contacts</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Délier</span> pour rompre le lien de ce contact avec les autres.</p></li>
 </ol></div></div></div>
 </div></div>

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Partage</span></h1></div>
@@ -80,7 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="sharing-bluetooth.html.fr" title="Contrôle du partage par Bluetooth"><span class="title">Contrôle du partage par Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Autoriser le téléversement de fichiers vers votre ordinateur par Bluetooth.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="bluetooth-send-file.html.fr" title="Envoi de fichiers vers un périphérique Bluetooth"><span class="title">Envoi de fichiers vers un périphérique Bluetooth</span><span class="linkdiv-dash"> — </span><span class="desc">Partager des fichiers avec un périphérique Bluetooth comme votre téléphone.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="files-share.html.fr" title="Partage de fichiers par courriel"><span class="title">Partage de fichiers par courriel</span><span class="linkdiv-dash"> — </span><span class="desc">Transférer facilement des fichiers à vos contacts de courriel à partir du gestionnaire de fichiers.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.fr" title="Partage de vos fichiers personnels"><span class="title">Partage de vos fichiers personnels</span><span class="linkdiv-dash"> — </span><span class="desc">Permettez à d’autres personnes d’accéder aux fichiers de votre dossier <span class="file">Public</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="sharing-personal.html.fr" title="Partage de vos fichiers personnels"><span class="title">Partage de vos fichiers personnels</span><span class="linkdiv-dash"> — </span><span class="desc">Permettre à d’autres personnes d’accéder aux fichiers de votre dossier <span class="file">Public</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-desktop.html.fr" title="Partage de votre bureau"><span class="title">Partage de votre bureau</span><span class="linkdiv-dash"> — </span><span class="desc">Permettre à d’autres personnes de voir et d’interagir avec votre bureau en utilisant VNC.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="sharing-media.html.fr" title="Partage de votre musique, de vos photos et vidéos"><span class="title">Partage de votre musique, de vos photos et vidéos</span><span class="linkdiv-dash"> — </span><span class="desc">Partager les médias sur votre réseau local en utilisant UPnP.</span></a></div>
 </div></div></div></div></div>
@@ -89,8 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseau, Web, messagerie et courriel</a><span class="desc"> — Connect to wireless and wired networks. Stay safe with a VPN.
-    Create a wireless hotspot.</span>
+<a href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseau, Web, messagerie et courriel</a><span class="desc"> — Se connecter à des réseaux sans fil et filaires. Rester en sécurité grâce à un VPN. Créer un point d’accès sans fil.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

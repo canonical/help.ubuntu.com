@@ -89,9 +89,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </p>
 <p class="p">Lai pievienotu krātuvi:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
-      </p></li>
+<li class="steps"><p class="p">Atveriet <span class="app">Programmatūra un atjauninājumi</span> izmantojot <span class="em">Aktivitāšu</span> meklēšanas joslu.</p></li>
 <li class="steps"><p class="p">Pārslēdzieties uz <span class="gui">Cita programmatūra</span> cilni.</p></li>
 <li class="steps">
 <p class="p">Spiediet <span class="gui">Pievienot</span> un ievadiet krātuves APT rindiņu. Tai vajadzētu būt pieejamai krātuves tīmekļa vietnē, un tai jāizskatās apmēram šādi:</p>
@@ -104,17 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Vairums krātuvju piedāvā parakstīšanas atslēgas, lai varētu pārbaudīt lejupielādētās pakotnes. Tāpēc klāt pie iepriekšējiem soļiem, jums vajadzētu sekot iespējamām norādēm, kā lejupielādēt un instalēt parakstīšanas atslēgu (GPG atslēgu).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Aktivēt Canonical partneru krātuvi</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">Canonical partneru krātuve piedāvā īpašnieka programmatūru, kas neko nemaksā, bet ir slēgtā pirmkoda. Piemēram, <span class="app">Adobe Flash spraudnis</span>. Šīs krātuves programmas parādīsies <span class="app">Ubuntu programmatūras</span> meklēšanas rezultātos, bet nebūs instalējamas, kamēr krātuve nebūs aktivēta.</p>
-<p class="p">Lai aktivētu šo krātuvi, sekojiet pirmīt aprakstītajiem soļiem, lai atvērtu <span class="gui">Cita programmatūra</span> cilni lietotnē <span class="app">Programmatūra un atjauninājumi</span>. Ja redzat <span class="gui">Canonical partneru</span> krātuvi sarakstā, pārliecinieties, ka tā ir atķeksēta un aizveriet <span class="app">Programmatūra un atjauninājumu</span> logu. Ja jūs to neredzat, spiediet <span class="gui">Pievienot</span> un ievadiet:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Spiediet <span class="gui">Pievienot avotus</span> un tad aizveriet <span class="app">Programmatūra un atjauninājumi</span> logu. Uzgaidiet brīdi, līdz <span class="app">Ubuntu programmatūra</span> lejupielādēs informāciju, par krātuvi.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

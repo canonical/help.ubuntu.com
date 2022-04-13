@@ -110,23 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">A maioria dos repositórios fornece uma chave de assinatura para poder verificar pacotes transferidos. Assim, além das etapas acima, você deve seguir possíveis instruções  sobre como transferir e instalar a chave de assinatura (chave GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Ative o repositório de Parceiros da Canonical</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">
-      The Canonical Partner repository offers some proprietary applications 
-      that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Adobe Flash Plugin</span>. Software in this
-      repository will appear in <span class="app">Ubuntu Software</span> search results
-      but won't be installable until this repository is enabled.
-    </p>
-<p class="p">Para ativar o repositório, siga os passos acima para abrir o separador <span class="gui">Outro Software</span> em <span class="app">Software e Atualizações</span>. Se vir o repositório <span class="gui">Parceiros da Canonical</span> na lista, certifique-se que está marcado e depois feche a janela <span class="app">Software e Atualizações</span>. Se não o vir, clique em <span class="gui">Adicionar</span> e insira:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Clique em <span class="gui">Adicionar Fonte</span> e feche a janela <span class="app">Software &amp; Updates</span>. Espere um momento para que <span class="app">Ubuntu Software</span> transfire a informação do repositório.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

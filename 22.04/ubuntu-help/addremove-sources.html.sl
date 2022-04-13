@@ -110,23 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Večina skladišč ponuja ključ za podpisovanje, da lahko preverite prejete pakete. Tako da poleg zgornjih korakov morate slediti tudi korakom kako prejeti in namestiti ključ za podpisovanje (ključ GPG).</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Omogočitev skladišča partnerjev Canonicala</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">
-      The Canonical Partner repository offers some proprietary applications 
-      that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Adobe Flash Plugin</span>. Software in this
-      repository will appear in <span class="app">Ubuntu Software</span> search results
-      but won't be installable until this repository is enabled.
-    </p>
-<p class="p">Za omogočitev skladišča sledite korakom zgoraj za odprtje zavihka <span class="gui">Drugi programi</span> v <span class="app">Programi in posodobitve</span>. V primeru da na seznamu vidite <span class="gui">Partnerje Canonicala</span>, se prepričajte da je označeno, nato zaprite okno <span class="app">Programi in posodobitve</span>. Če pa tega ni na seznamu, kliknite na <span class="gui">Dodaj</span> in vnesite:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Kliknite <span class="gui">Dodaj vir</span> in nato zaprite okno <span class="app">Programi in posodobitve</span>. Počakajte trenutek, da <span class="app">Programi Ubuntu</span> prejme podatke o skladiščih.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

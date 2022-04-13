@@ -76,23 +76,22 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Om denne vejledning</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Denne guide giver dig en rundtur i Ubuntu desktop-funktioner, svarer på dine computer-relaterede spørgsmål, og giver tips om at bruge din computer effektivt.</p>
+<p class="p">Denne vejledning giver dig en rundtur i Ubuntus desktop-funktioner, svarer på dine computerrelaterede spørgsmål, og giver tips om at bruge din computer effektivt.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
 <li class="list"><p class="p">Vejledningen er opdelt i små, ​​opgaveorienterede emner - ikke kapitler. Det betyder, at du ikke behøver at skimme gennem en hel manual for at finde svar på dine spørgsmål.</p></li>
-<li class="list"><p class="p">Relaterede elementer er knyttet sammen. "Se også" links nederst på nogle sider direkte dig til beslægtede emner.</p></li>
-<li class="list"><p class="p">Teksten input boksen øverst på denne vejledning fungerer som en <span class="em"> search bar </span>, og relevante resultater vises under det, så snart du begynder at skrive. Venstre-klik på et resultat for at åbne sin side.</p></li>
-<li class="list"><p class="p">Guiden bliver løbende forbedret. Selvom vi forsøger at give dig en omfattende samling af nyttige oplysninger, vi ved, vi ikke vil besvare alle dine spørgsmål her. Vi vil holde tilføje flere oplysninger for at gøre tingene mere nyttigt, selv om.</p></li>
+<li class="list"><p class="p">Relaterede elementer er knyttet sammen. "Se også"-links nederst på nogle sider leder dig videre til beslægtede emner.</p></li>
+<li class="list"><p class="p">Tekstinputfeltet øverst i denne vejledning fungerer som en <span class="em">søgelinje</span>, og relevante resultater vises under den, så snart du begynder at skrive. Venstreklik på et resultat for at åbne dets side.</p></li>
+<li class="list"><p class="p">Vejledningen forbedres løbende. Selvom vi forsøger at give dig en omfattende samling af nyttige oplysninger, ved vi, at vi ikke vil besvare alle dine spørgsmål her. Vi vil blive ved med at tilføje flere oplysninger for at gøre vejledningen mere nyttig.</p></li>
 </ul></div></div></div>
 <p class="p">Tak fordi du tog dig tid til at læse <span class="em"> Ubuntu-skrivebordsguiden</span>.</p>
-<p class="p">- Ubuntu dokumentationsteam</p>
+<p class="p">— Ubuntus dokumentationshold</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.da" title="Få mere hjælp">Få mere hjælp</a><span class="desc"> — Få tips til brugen af denne vejledning og forbind med fællesskabet for at få mere hjælp.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

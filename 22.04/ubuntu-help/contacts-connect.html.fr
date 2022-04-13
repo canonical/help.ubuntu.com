@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="contacts.html.fr" title="Contacts">Contacts</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="contacts.html.fr" title="Contacts">Contacts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Connexion avec vos contacts</span></h1></div>
@@ -79,10 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Pour envoyer un courriel, discuter avec, ou appeler quelqu’un dans <span class="app">Contacts</span> :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Sélectionnez le contact dans la liste de contacts.</p></li>
-<li class="steps"><p class="p">Press the button corresponding to the <span class="em">detail</span> that you want to use.
-      For example, to email your contact, press the 
-      <span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="mail"></span></span> button next to the contact’s 
-      email address.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton correspondant au <span class="em">détail</span> que vous souhaitez utiliser. Par exemple, pour envoyer un courriel à votre contact, cliquez sur le bouton <span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="courriel"></span></span> situé à côté de son adresse courriel.</p></li>
 <li class="steps"><p class="p">L’application correspondante sera lancée en utilisant les détails du contact.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note">

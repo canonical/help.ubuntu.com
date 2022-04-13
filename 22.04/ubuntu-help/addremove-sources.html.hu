@@ -110,23 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">A legtöbb tároló biztosít egy aláíró kulcsot a letöltött csomagok ellenőrzéséhez. A fenti lépéseken felül így az aláíró kulcs (GPG kulcs) letöltésére és telepítésére vonatkozó utasításokat is követnie kell.</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">A Canonical Partner tároló aktiválása</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">
-      The Canonical Partner repository offers some proprietary applications 
-      that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Adobe Flash Plugin</span>. Software in this
-      repository will appear in <span class="app">Ubuntu Software</span> search results
-      but won't be installable until this repository is enabled.
-    </p>
-<p class="p">A tároló engedélyezéséhez kövesse a fenti lépéseket a <span class="app">Szoftverek és frissítések</span> <span class="gui">Egyéb szoftverek</span> lapjának megnyitásához Ha látja a <span class="gui">Canonical Partnerek</span> tárolót a listában, akkor jelölje be azt, és zárja be a <span class="app">Szoftverek és frissítések</span> ablakot. Ha nem látja, akkor nyomja meg a <span class="app">Hozzáadás</span> gombot, és írja be a következőt:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p">Nyomja meg a <span class="gui">Forrás hozzáadása</span> gombot, majd zárja be a <span class="app">Szoftverek és frissítések</span> ablakot. Várjon egy kicsit, amíg az <span class="app">Ubuntu Szoftverek</span> letölti a tárolóinformációkat.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

@@ -76,9 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Aperçu visuel de GNOME</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">GNOME features a user interface designed to stay out of your way, minimize
-  distractions, and help you get things done. When you first log in, you will
-  see the <span class="gui">Activities</span> overview and the top bar.</p>
+<p class="p">GNOME présente une interface utilisateur conçue pour ne pas interférer avec votre travail, minimiser les distractions et vous aider à faire ce que vous souhaitez. La première fois que vous vous connectez, vous apercevez la vue d’ensemble des <span class="gui">Activités</span> et la barre supérieure.</p>
 <div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="La barre supérieure de Shell de GNOME"></div></div>
 <p class="p">La barre supérieure vous donne accès à vos fenêtres et applications, votre agenda et rendez-vous et aux <span class="link"><a href="status-icons.html.fr" title="Signification des icônes de la barre supérieure">propriétés du système</a></span> comme le son, la mise en réseau et l’alimentation. Dans le menu système de la barre supérieure, vous pouvez modifier le volume ou la luminosité de l’écran, modifier votre connexion <span class="gui">Wi-Fi</span>, vérifier la charge de votre batterie, vous déconnecter ou changer d’utilisateur et éteindre votre ordinateur.</p>
 <div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
@@ -93,28 +91,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <section id="activities"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">La vue d’ensemble des <span class="gui">Activités</span></span></h2></div>
 <div class="region"><div class="contents pagewide">
-<p class="p">When you start GNOME, you automatically
-  enter the <span class="gui">Activities</span> overview. The overview allows you to access
-  your windows and applications. In the overview, you can also just start
-  typing to search your applications, files, folders, and the web.</p>
-<p class="p">To access the overview at any time,
-  click the <span class="gui">Activities</span> button, or just move your mouse pointer to
-  the top-left hot corner. You can also press the
-  <span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span> key on your keyboard.</p>
+<p class="p">Lorsque vous démarrez GNOME, vous accédez automatiquement à la vue d’ensemble des <span class="gui">Activités</span>. La vue d’ensemble vous permet d’accéder à vos fenêtres et applications. Dans la vue d’ensemble, vous pouvez également commencer à saisir du texte pour rechercher vos applications, fichiers, dossiers, et effectuer des recherches sur le Web.</p>
+<p class="p">Pour accéder à la vue d’ensemble à tout moment, cliquez sur le bouton <span class="gui">Activités</span> ou envoyez tout simplement le pointeur de la souris dans le coin actif supérieur gauche. Vous pouvez aussi appuyer sur la touche <span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span> de votre clavier.</p>
 <div class="media media-image floatend"><div class="inner"><img src="figures/shell-activities-dash.png" height="65" class="media media-block" alt="Activities button and Dash"></div></div>
-<p class="p">At the bottom of the overview, you will find the <span class="em">dash</span>. The dash
-  shows you your favorite and running applications. Click any icon in the
-  dash to open that application; if the application is already running, it will
-  have a small dot below its icon. Clicking its icon will bring up the most
-  recently used window. You can also drag the icon onto a workspace.</p>
+<p class="p">En bas de la vue d’ensemble, vous trouvez le <span class="em">lanceur</span>. Le lanceur affiche vos applications préférées et celles en cours d’exécution. Cliquez sur une icône du lanceur pour ouvrir cette application. Si l’application est déjà en cours d’exécution, un petit point s’affiche sous son icône. Un clic sur l’icône fait apparaître la fenêtre la plus récemment utilisée. Vous pouvez aussi faire glisser l’icône sur un espace de travail.</p>
 <p class="p">Un clic droit sur l’icône affiche un menu qui permet de choisir n’importe quelle fenêtre d’une application en cours d’exécution, ou d’ouvrir une nouvelle fenêtre. Vous pouvez aussi cliquer sur l’icône en maintenant appuyée la touche <span class="key"><kbd>Ctrl</kbd></span> pour ouvrir une nouvelle fenêtre.</p>
 <p class="p">Lorsque vous arrivez dans la vue d’ensemble, vous êtes au départ dans la vue d’ensemble des fenêtres. Un aperçu dynamique de toutes les fenêtres de l’espace de travail actuel est affiché.</p>
-<p class="p">Click the grid button (which has nine dots) in the dash to display the
-  applications overview. This shows you all the applications installed on your
-  computer. Click any application to run it, or drag an application to the
-  onto a workspace shown above the installed applications. You can also drag an application onto
-  the dash to make it a favorite. Your favorite applications stay in the dash
-  even when they’re not running, so you can access them quickly.</p>
+<p class="p">Cliquez sur le bouton en forme de grille (qui possède neuf points) dans le lanceur pour afficher la vue d’ensemble des applications. Ici sont réunies toutes les applications installées sur votre ordinateur. Cliquez sur n’importe quelle application pour la lancer ou déplacez une application sur un espace de travail affiché au-dessus des applications installées. Vous pouvez aussi déplacer une application sur le lanceur pour qu’elle devienne une application favorite. Vos applications favorites restent dans le lanceur même si elles ne sont pas en cours d’exécution, vous pouvez ainsi y accéder rapidement.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list compact">
 <li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.fr" title="Lancement d’applications">Approfondissez vos connaissances sur le lancement d’applications.</a></span></p></li>
 <li class="list"><p class="p"><span class="link"><a href="shell-windows.html.fr" title="Fenêtres et espaces de travail">Approfondissez vos connaissances sur les fenêtres et les espaces de travail.</a></span></p></li>
@@ -148,7 +131,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Verrouillage de l’écran</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Lorsque vous verrouillez l’écran, ou qu’il se verrouille automatiquement, l’écran de verrouillage apparaît. En plus de la protection de votre bureau pendant que vous êtes absent, il affiche également des informations concernant la date et l’heure, l’état de la batterie et celui du réseau.</p>
-<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.fr" title="Verrouillage d’écran">En savoir plus sur le verrouillage de l’écran.</a></span></p></li></ul></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.fr" title="Verrouillage d’écran">Approfondissez vos connaissances sur le verrouillage de l’écran.</a></span></p></li></ul></div></div></div>
 </div></div>
 </div></section><section id="window-list"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Liste des fenêtres</span></h2></div>
@@ -163,8 +146,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="index.html.fr" title="Guide du bureau Ubuntu">Guide du bureau Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html.fr" title="Votre bureau">Votre bureau</a><span class="desc"> — Work with apps, windows, and workspaces. See your appointments and
-    things that matter in the top bar.</span>
+<a href="shell-overview.html.fr" title="Votre bureau">Votre bureau</a><span class="desc"> — Travailler avec des applications, des fenêtres et des espaces de travail. Consulter vos rendez-vous et les choses importantes dans la barre supérieure.</span>
 </li>
 </ul></div>
 </div></div></div>

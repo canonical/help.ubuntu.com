@@ -80,9 +80,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Déconnexion ou changement d’utilisateur</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Pour laisser les autres utilisateurs utiliser votre ordinateur, vous pouvez soit vous déconnecter ou rester connecté et juste changer d’utilisateur. Si vous changez d’utilisateur, toutes vos applications continuent de tourner et tout sera là où vous l’avez laissé lorsque vous vous reconnecterez.</p>
-<p class="p">To <span class="gui">Log Out</span> or <span class="gui">Switch User</span>, click the
-  <span class="link"><a href="shell-introduction.html.fr#systemmenu" title="Menu système">system menu</a></span> on the right
-  side of the top bar, expand <span class="gui">Power Off / Log Out</span>, and select the correct option.</p>
+<p class="p">Pour <span class="gui">Fermer la session</span> ou <span class="gui">Changer d’utilisateur</span>, cliquez sur le <span class="link"><a href="shell-introduction.html.fr#systemmenu" title="Menu système">menu système</a></span> à droite dans la barre supérieure, développez <span class="gui">Éteindre / Fermer la session</span> et choisissez l’action appropriée.</p>
 <div class="note" title="Note">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
@@ -104,8 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h3><span class="title">Voir aussi</span></h3></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="session-screenlocks.html.fr" title="L’écran se verrouille trop rapidement">L’écran se verrouille trop rapidement</a><span class="desc"> — Change how long to wait before locking the screen in the
-    <span class="gui">Screen Lock</span> settings.</span>
+<a href="session-screenlocks.html.fr" title="L’écran se verrouille trop rapidement">L’écran se verrouille trop rapidement</a><span class="desc"> — Modifier le temps d’attente avant le verrouillage de l’écran dans les paramètres de <span class="gui">Verrouillage de l’écran</span>.</span>
 </li>
 <li class="links ">
 <a href="privacy-screen-lock.html.fr" title="Verrouillage automatique de l’écran">Verrouillage automatique de l’écran</a><span class="desc"> — Empêcher d’autres personnes d’utiliser votre ordinateur lorsque vous vous éloignez.</span>
@@ -143,9 +140,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Extinction ou redémarrage</span></h2></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">If you want to power off your computer entirely, or do a full restart,
-  click the system menu on the right side of the top bar, expand <span class="gui">Power Off
-  / Log Out</span>, and select either <span class="gui">Restart…</span> or <span class="gui">Power Off…</span>.</p>
+<p class="p">Si vous voulez éteindre votre ordinateur complètement ou le redémarrer entièrement, cliquez sur le menu système à droite dans la barre supérieure, développez <span class="gui">Éteindre / Fermer la session</span> et sélectionnez <span class="gui">Redémarrer</span> ou <span class="gui">Éteindre</span>.</p>
 <p class="p">Si d’autres utilisateurs sont connectés, il se peut que vous ne soyez pas autorisé à éteindre ou redémarrer l’ordinateur car cela met fin à leur session. Si vous êtes un utilisateur administrateur, votre mot de passe peut vous être demandé pour pouvoir éteindre.</p>
 <div class="note note-tip" title="Astuce">
 <svg width="24" height="24" version="1.1">
@@ -172,11 +167,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region"><ul>
 <li class="links "><a href="index.html.fr" title="Guide du bureau Ubuntu">Guide du bureau Ubuntu</a></li>
 <li class="links ">
-<a href="shell-overview.html.fr" title="Votre bureau">Votre bureau</a><span class="desc"> — Work with apps, windows, and workspaces. See your appointments and
-    things that matter in the top bar.</span>
+<a href="shell-overview.html.fr" title="Votre bureau">Votre bureau</a><span class="desc"> — Travailler avec des applications, des fenêtres et des espaces de travail. Consulter vos rendez-vous et les choses importantes dans la barre supérieure.</span>
 </li>
 <li class="links ">
-<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — View your battery status and change power saving settings.</span>
+<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — Afficher l’état de votre batterie et modifier les paramètres d’économie d’énergie.</span>
 </li>
 </ul></div>
 </div></div>

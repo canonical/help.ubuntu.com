@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-email.html.fr" title="Logiciels de messagerie et courriels">Email</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-email.html.fr" title="Logiciels de messagerie et courriels">Courriels</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-security.html.fr" title="Être en sécurité sur Internet">Security</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-security.html.fr" title="Être en sécurité sur Internet">Sécurité</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -91,10 +91,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="net-email.html.fr" title="Logiciels de messagerie et courriels">Logiciels de messagerie et courriels</a><span class="desc"> — Set your default app and stay safe with email.</span>
+<a href="net-email.html.fr" title="Logiciels de messagerie et courriels">Logiciels de messagerie et courriels</a><span class="desc"> — Définir votre application par défaut et assurer la sécurité de vos courriels.</span>
 </li>
 <li class="links ">
-<a href="net-security.html.fr" title="Être en sécurité sur Internet">Être en sécurité sur Internet</a><span class="desc"> — Understand firewalls, viruses, and other internet security topics.</span>
+<a href="net-security.html.fr" title="Être en sécurité sur Internet">Être en sécurité sur Internet</a><span class="desc"> — Comprendre les pare-feu, les virus et d’autres sujets concernant la sécurité sur Internet.</span>
 </li>
 </ul></div>
 </div></div>

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="contacts.html.fr" title="Contacts">Contacts</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="contacts.html.fr" title="Contacts">Contacts</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Ajout ou suppression d’un contact</span></h1></div>
@@ -79,19 +79,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Pour ajouter un contact :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">+</span>.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">New contact</span> dialog, enter the contact name and their
-      information. Press the drop down box next to each field to choose the
-      type of detail.</p></li>
-<li class="steps"><p class="p">To add more details press the <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="View More"></span></span> option.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Add</span> to save the contact.</p></li>
+<li class="steps"><p class="p">Dans la boîte de dialogue <span class="gui">Nouveau contact</span>, saisissez le nom du contact et les informations s’y référant. Appuyez sur la liste déroulante située à côté de chaque champ pour choisir le type de détail.</p></li>
+<li class="steps"><p class="p">Pour ajouter plus de détails, appuyez sur l’option <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Afficher davantage"></span></span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Ajouter</span> pour enregistrer le contact.</p></li>
 </ol></div></div></div>
 <p class="p">Pour supprimer un contact :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Sélectionnez le contact dans la liste de contacts.</p></li>
-<li class="steps"><p class="p">Press the <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="View More"></span></span> button in the header bar on the top-right corner.</p></li>
-<li class="steps"><p class="p">Press <span class="gui">Delete</span> option to remove contact.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="media"><span class="media media-image"><img src="figures/view-more-symbolic.svg" class="media media-inline" alt="Afficher davantage"></span></span> situé dans le coin supérieur droit de la barre d’en-tête.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Supprimer</span> pour supprimer le contact.</p></li>
 </ol></div></div></div>
-<p class="p">To remove one or more contacts, check the boxes next to the contacts you want to delete and press <span class="gui">Remove</span>.</p>
+<p class="p">Pour supprimer un ou plusieurs contacts, cochez les cases situées à côté des contacts que vous souhaitez supprimer et appuyez sur <span class="gui">Retirer</span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>

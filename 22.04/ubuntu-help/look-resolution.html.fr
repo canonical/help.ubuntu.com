@@ -117,8 +117,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Set your background, configure monitors, and manage
-    color temperatures.</span>
+<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Définir votre arrière-plan, configurer les écrans et gérer les températures de couleur.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

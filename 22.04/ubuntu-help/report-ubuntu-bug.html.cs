@@ -118,8 +118,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Další informace</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.cs" title="Získat další nápovědu">Získat další nápovědu</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.cs" title="Získat další nápovědu">Získat další nápovědu</a><span class="desc"> — Získejte tipy k používání tohoto průvodce a spojte se s komunitou, která vám poskytne další pomoc.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

@@ -70,7 +70,7 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Networking</a> » <a class="trail" href="net-general.html.fr" title="Termes et astuces sur le réseau">Astuces</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="net.html.fr" title="Réseau, Web, messagerie et courriel">Réseaux</a> » <a class="trail" href="net-general.html.fr" title="Termes et astuces sur le réseau">Astuces</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Recherche de votre adresse IP</span></h1></div>
@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide">
 <p class="p">La connaissance de votre adresse IP peut vous aider à résoudre des problèmes de connexion Internet. Peut-être serez-vous surpris d’apprendre que vous possédez <span class="em">deux</span> adresses IP : une adresse IP pour votre ordinateur sur un réseau local et une adresse IP pour votre ordinateur sur Internet.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Find your wired connection’s internal (network) IP address</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Recherche de l’adresse IP (réseau) interne de votre connexion filaire</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si plus d’un type de connexion filaire est disponible, vous pouvez voir des noms tels que <span class="gui">Ethernet PCI</span> ou <span class="gui">Ethernet USB</span> au lieu de <span class="gui">Filaire</span>.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Find your wireless connection’s internal (network) IP address</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Recherche de l’adresse IP (réseau) interne de votre connexion sans fil</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
@@ -107,8 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">Recherche de votre adresse IP (Internet) externe</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">Visit
-      <span class="link"><a href="https://whatismyipaddress.com/" title="https://whatismyipaddress.com/">whatismyipaddress.com</a></span>.</p></li>
+<li class="steps"><p class="p">Consultez <span class="link"><a href="https://whatismyipaddress.com/fr/mon-ip" title="https://whatismyipaddress.com/fr/mon-ip">whatismyipaddress.com</a></span>.</p></li>
 <li class="steps"><p class="p">Le site affiche votre adresse IP externe.</p></li>
 </ol></div>
 </div></div>
@@ -120,8 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="net-general.html.fr" title="Termes et astuces sur le réseau">Termes et astuces sur le réseau</a><span class="desc"> — Learn about IP address, internet proxies, and how to stay safe
-    on the internet.</span>
+<a href="net-general.html.fr" title="Termes et astuces sur le réseau">Termes et astuces sur le réseau</a><span class="desc"> — En apprendre davantage sur les adresses IP, les serveurs mandataires et comment utiliser Internet en toute sécurité.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

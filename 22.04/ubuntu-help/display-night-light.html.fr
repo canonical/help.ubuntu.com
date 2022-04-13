@@ -80,11 +80,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Écrans</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Écrans</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Night Light</span> in the header bar to open the settings.</p></li>
-<li class="steps"><p class="p">Ensure the <span class="gui">Night Light</span> switch is set to on.</p></li>
-<li class="steps"><p class="p">Under <span class="gui">Schedule</span>, select <span class="gui">Sunset to Sunrise</span> to
-      make the screen color follow the sunset and sunrise times for your location.
-      Select <span class="gui">Manual Schedule</span> to set the <span class="gui">Times</span> to a custom schedule.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Mode nuit</span> dans la barre d’en-tête pour accéder aux paramètres.</p></li>
+<li class="steps"><p class="p">Vérifiez que l’option <span class="gui">Mode nuit</span> est activée.</p></li>
+<li class="steps"><p class="p">À la rubrique <span class="gui">Horaires</span>, sélectionnez <span class="gui">Coucher au lever du soleil</span> pour que la couleur de l’écran suive les heures de coucher et de lever du soleil pour votre emplacement. Sélectionnez <span class="gui">Horaire manuel</span> pour régler les <span class="gui">Heures</span> sur un horaire personnalisé.</p></li>
 <li class="steps"><p class="p">Faites glisser le curseur pour ajuster la <span class="gui">température de couleur</span> pour qu’elle soit plus ou moins chaude.</p></li>
 </ol></div></div></div>
 <div class="note" title="Note">
@@ -99,8 +97,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Set your background, configure monitors, and manage
-    color temperatures.</span>
+<a href="prefs-display.html.fr" title="Affichage et écran">Affichage et écran</a><span class="desc"> — Définir votre arrière-plan, configurer les écrans et gérer les températures de couleur.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

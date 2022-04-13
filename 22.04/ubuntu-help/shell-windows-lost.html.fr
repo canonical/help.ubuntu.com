@@ -79,9 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Il est facile de trouver une fenêtre sur un espace de travail différent ou masquée derrière une autre fenêtre en utilisant la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p">ouvrez la vue d’ensemble des <span class="gui">Activités</span>. Si la fenêtre égarée est sur l’<span class="link"><a href="shell-windows.html.fr#working-with-workspaces" title="Gestion des espaces de travail">espace de travail</a></span> actuel, elle sera affichée sous la forme d’un aperçu. Cliquez tout simplement sur l’aperçu pour afficher à nouveau la fenêtre,</p></li>
-<li class="list"><p class="p">Click different workspaces in the
-      <span class="link"><a href="shell-workspaces.html.fr" title="Définition d’un espace de travail">workspace selector</a></span>
-      to try to find your window, or</p></li>
+<li class="list"><p class="p">ou bien cliquez sur les différents espaces de travail dans le <span class="link"><a href="shell-workspaces.html.fr" title="Définition d’un espace de travail">sélecteur d’espace de travail</a></span> pour essayer de trouver votre fenêtre,</p></li>
 <li class="list"><p class="p">ou encore cliquez avec le bouton droit sur l’application dans le lanceur et les fenêtres ouvertes correspondantes sont listées. Cliquez sur une fenêtre dans la liste pour basculer vers elle.</p></li>
 </ul></div></div></div>
 <p class="p">Fonctionnement du sélecteur de fenêtre :</p>

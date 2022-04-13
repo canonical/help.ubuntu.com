@@ -102,23 +102,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Çoğu yazılım deposu, indirilen paketleri doğrulamak için bir kayıt anahtarı sağlar. Böylelikle yukarıdaki adımlara ek olarak, kayıt anahtarının (GPG anahtarı) nasıl yükleneceği ve indirileceği için olası yönergeleri izlemelisiniz.</p></li>
 </ol></div></div></div>
 </div>
-<section id="canonical-partner"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Canonical Ortak depolarını etkinleştir</span></h2></div>
-<div class="region"><div class="contents pagewide">
-<p class="p">
-      The Canonical Partner repository offers some proprietary applications 
-      that don't cost any money to use but are closed source. They include 
-      software like <span class="app">Adobe Flash Plugin</span>. Software in this
-      repository will appear in <span class="app">Ubuntu Software</span> search results
-      but won't be installable until this repository is enabled.
-    </p>
-<p class="p">Depoyu etkinleştirmek için, yukarıdaki adımlara uyarak <span class="app">Yazılım ve Güncellemeler</span> uygulamasındaki <span class="gui">Diğer Yazılımlar</span> sekmesini açın. Listede <span class="gui">Canonical Ortakları</span> deposunu görürseniz, işaretlendiğinden emin olun ve ardından <span class="app">Yazılım ve Güncellemeler</span> penceresini kapatın. Göremiyorsanız <span class="gui">Ekle</span> düğmesine tıklayın ve şunu yazın:</p>
-<p class="p">
-      <span class="code">deb http://archive.canonical.com/ubuntu jammy partner</span>
-    </p>
-<p class="p"><span class="gui">Kaynak Ekle</span>ye tıklayın ve ardından <span class="app">Yazılım ve Güncellemeler</span> penceresini kapatın. <span class="app">Ubuntu Software </span>'in depo bilgilerini indirmesine müsaade edin.</p>
-</div></div>
-</div></section><section class="links" role="navigation"><div class="inner">
+<section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
 <div class="contents pagewide">
 <div class="links guidelinks"><div class="inner">

@@ -73,9 +73,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="trail">
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Votre bureau">Bureau</a> › <a class="trail" href="shell-overview.html.fr#apps" title="Les applications et les fenêtres">Les applications et les fenêtres</a> » <a class="trail" href="status-icons.html.fr" title="Signification des icônes de la barre supérieure">Signification des icônes de la barre supérieure</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> » </div>
 </div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
@@ -86,16 +86,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Affichage de l’état de la batterie et des périphériques connectés</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à taper <span class="gui">Énergie</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Power</span> to open the panel. The status of
-      <span class="gui">Batteries</span> and known <span class="gui">Devices</span> is displayed.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Énergie</span> pour ouvrir le panneau. L’état des <span class="gui">Batteries</span> et des <span class="gui">Périphériques</span> connus s’affiche.</p></li>
 </ol></div>
 </div></div>
 <p class="p">Si une batterie interne est détectée, la rubrique <span class="gui">Batteries</span> affiche l’état d’une ou plusieurs batteries d’ordinateur portable. La barre d’indication affiche le pourcentage de charge, ainsi que le temps de charge complète si l’ordinateur est sur secteur, et le temps restant lorsqu’il fonctionne sur batterie.</p>
 <p class="p">La rubrique <span class="gui">Périphériques</span> affiche l’état des périphériques connectés.</p>
-<p class="p">The <span class="link"><a href="status-icons.html.fr#batteryicons" title="Battery icons">status icon</a></span> in the top
-    bar shows the charge level of the main internal battery, and whether it is
-    currently charging or not. It can also display the charge as a
-    <span class="link"><a href="power-percentage.html.fr" title="Show the battery status as a percentage">percentage</a></span>.</p>
+<p class="p">L’<span class="link"><a href="status-icons.html.fr#batteryicons" title="Icônes Batterie">icône d’état</a></span> située dans la barre supérieure affiche le niveau de charge de la batterie interne principale, et indique si elle est en charge ou non. Elle peut étalement afficher la charge sous forme de <span class="link"><a href="power-percentage.html.fr" title="Affichage de l’état de la batterie sous forme de pourcentage">pourcentage</a></span>.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -107,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="status-icons.html.fr" title="Signification des icônes de la barre supérieure">Signification des icônes de la barre supérieure</a><span class="desc"> — Explication de la signification des icônes situées à droite de la barre supérieure.</span>
 </li>
 <li class="links ">
-<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — View your battery status and change power saving settings.</span>
+<a href="power.html.fr" title="Énergie et batterie">Énergie et batterie</a><span class="desc"> — Afficher l’état de votre batterie et modifier les paramètres d’économie d’énergie.</span>
 </li>
 </ul></div>
 </div></div>
@@ -115,7 +111,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="power-percentage.html.fr" title="Show the battery status as a percentage">Show the battery status as a percentage</a><span class="desc"> — Display the battery percentage in the top bar.</span>
+<a href="power-percentage.html.fr" title="Affichage de l’état de la batterie sous forme de pourcentage">Affichage de l’état de la batterie sous forme de pourcentage</a><span class="desc"> — Afficher le pourcentage de la batterie dans la barre supérieure.</span>
 </li>
 <li class="links ">
 <a href="power-batterylife.html.fr" title="Économie d’énergie et accroissement de la longévité de la batterie">Économie d’énergie et accroissement de la longévité de la batterie</a><span class="desc"> — Conseils pour réduire la consommation d’énergie de votre ordinateur.</span>

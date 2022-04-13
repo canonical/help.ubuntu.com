@@ -95,13 +95,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Masquage des notifications</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <p class="p">Si vous travaillez sur quelque chose et ne voulez pas être dérangé, vous pouvez désactiver les notifications.</p>
-<p class="p">You can hide all notifications by opening the notification list and
-  switching <span class="gui">Do Not Disturb</span> to on at the bottom. Alternatively:</p>
+<p class="p">Vous pouvez masquer toutes les notifications en ouvrant la liste des notifications et en activant l’option <span class="gui">Ne pas déranger</span> située en bas. Alternativement :</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Notifications</span> dans la barre latérale pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Switch <span class="gui">Do Not Disturb</span> to off.</p></li>
+<li class="steps"><p class="p">Désactivez l’option <span class="gui">Ne pas déranger</span> en basculant l’interrupteur.</p></li>
 </ol></div></div></div>
 <p class="p">Lorsqu’elles sont désactivées, la plupart des notifications n’apparaissent plus en haut de l’écran. Les notifications restent disponibles dans la liste des notifications lors de l’affichage de celle-ci (en cliquant sur l’horloge, ou en appuyant sur <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span>), et elles recommencent à apparaître lorsque vous basculez l’interrupteur à nouveau.</p>
 <p class="p">Vous pouvez également désactiver ou réactiver les notifications pour des applications individuelles à partir du panneau <span class="gui">Notifications</span>.</p>

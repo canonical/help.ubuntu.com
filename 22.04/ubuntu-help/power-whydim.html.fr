@@ -71,9 +71,9 @@ document.addEventListener('DOMContentLoaded', function() {
 </div></div>
 <div class="trails" role="navigation">
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> › <a class="trail" href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> › <a class="trail" href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a> » </div>
 <div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Power</a> › <a class="trail" href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a> » </div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="power.html.fr" title="Énergie et batterie">Énergie</a> › <a class="trail" href="power.html.fr#saving" title="Paramètres d’économie d’énergie">Paramètres d’économie d’énergie</a> » </div>
 <div class="trail">
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> › <a class="trail" href="hardware.html.fr#problems" title="Problèmes connus">Problèmes</a> » <a class="trail" href="hardware-problems-graphics.html.fr" title="Problèmes d’écran">Problèmes d’écran</a> » </div>
 </div>
@@ -87,8 +87,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à taper <span class="gui">Énergie</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Énergie</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">Switch the <span class="gui">Dim Screen</span> switch to off in the
-      <span class="gui">Power Saving Options</span> section.</p></li>
+<li class="steps"><p class="p">Désactivez l’option <span class="gui">Écran assombri</span> en basculant l’interrupteur à la rubrique <span class="gui">Options d’économie d’énergie</span>.</p></li>
 </ol></div></div></div>
 </div>
 <section class="links" role="navigation"><div class="inner">

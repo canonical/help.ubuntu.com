@@ -86,7 +86,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
-<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Clavier</span> pour ouvrir le panneau.</p></li>
 <li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">+</span> dans la partie <span class="gui">Sources de saisie</span>, sélectionnez la langue associée à l’agencement, puis sélectionnez un agencement et cliquez sur <span class="gui">Ajouter</span>.</p></li>
 </ol></div></div></div>
 <div class="note note-tip" title="Astuce">
@@ -104,15 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Certaines langues offrent des options de configuration supplémentaires. Vous pouvez les identifier grâce à l’icône <span class="gui"><span class="media"><span class="media media-image"><img src="figures/system-run-symbolic.svg" height="16" width="16" class="media media-inline" alt="aperçu"></span></span></span> qui les accompagne. Pour accéder à ces paramètres supplémentaires, sélectionnez la langue dans la liste des <span class="gui">Sources de saisie</span> et appuyez sur le nouveau bouton <span class="gui"><span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" height="16" width="16" class="media media-inline" alt="préférences"></span></span></span>.</p>
 <p class="p">Lorsque vous utilisez plusieurs agencements, vous pouvez choisir d’utiliser le même agencement pour toutes les fenêtres ou de configurer un agencement spécifique pour chaque fenêtre. Utiliser un agencement différent pour chaque fenêtre est utile si vous écrivez un article dans une langue différente dans une fenêtre de traitement de texte par exemple. L’agencement de clavier sélectionné est enregistré et appliqué à chaque fenêtre lorsque vous passez d’une fenêtre à l’autre. Cliquez sur le bouton <span class="gui">Options</span> pour choisir la façon dont vous voulez gérer les agencements multiples.</p>
 <p class="p">La barre du haut affiche un court indicateur de l’agencement actuel, par exemple <span class="gui">fr</span> pour un clavier français standard. Cliquez sur cet indicateur et choisissez l’agencement que vous voulez utiliser dans le menu déroulant. Si la langue choisie possède des paramètres supplémentaires, ils s’affichent sous la liste des agencements disponibles. Cela vous donne une vue générale rapide de vos paramètres. Vous pouvez aussi ouvrir l’image de l’agencement clavier actuel et vous y référer en cas de besoin.</p>
-<p class="p">The fastest way to change to another layout is by using the 
-  <span class="gui">Input Source</span> <span class="gui">Keyboard Shortcuts</span>. These shortcuts open 
-  the <span class="gui">Input Source</span> chooser where you can move forward and backward. 
-  By default, you can switch to the next input source with 
-  <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Space</kbd></span></span>
-  and to the previous one with
-  <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span>. You can
-  change these shortcuts in the <span class="gui">Keyboard</span> settings under
-  <span class="guiseq"><span class="gui">Keyboard Shortcuts</span> ▸ <span class="gui">Customize Shortcuts</span> ▸ <span class="gui">Typing</span></span>.</p>
+<p class="p">La façon la plus rapide de passer à un autre agencement du clavier est d’utiliser les <span class="gui">raccourcis clavier</span> de la <span class="gui">source de saisie</span>. Ces raccourcis ouvrent le sélecteur de <span class="gui">source de saisie</span> où vous pouvez vous déplacer en avant et en arrière. Par défaut, il est possible de passer à la source de saisie suivante avec <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>Barre d’espace</kbd></span></span> et à la précédente par <span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Barre d’espace</kbd></span></span>. Vous pouvez modifier ces raccourcis dans les paramètres du <span class="gui">clavier</span> sous <span class="guiseq"><span class="gui">Raccourcis clavier</span> ▸ <span class="gui">Personnaliser les raccourcis</span> ▸ <span class="gui">Saisie</span></span>.</p>
 <p class="p"><span class="media"><span class="media media-image"><img src="figures/input-methods-switcher.png" class="media media-inline" alt=""></span></span></p>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -122,18 +114,17 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Select international keyboard layouts and use keyboard
-    accessibility features.</span>
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
 </li>
 <li class="links ">
-<a href="prefs-language.html.fr" title="Pays et langue">Pays et langue</a><span class="desc"> — Set your preferred languages, regions, formats, and keyboard layouts.</span>
+<a href="prefs-language.html.fr" title="Pays et langue">Pays et langue</a><span class="desc"> — Définir vos préférences de langues, régions, formats et agencements de clavier.</span>
 </li>
 </ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="tips-specialchars.html.fr" title="Saisie de caractères spéciaux">Saisie de caractères spéciaux</a><span class="desc"> — Type characters not found on your keyboard, including foreign alphabets, mathematical symbols, emoji, and dingbats.</span>
+<a href="tips-specialchars.html.fr" title="Saisie de caractères spéciaux">Saisie de caractères spéciaux</a><span class="desc"> — Saisir des caractères absents de votre clavier, y compris des alphabets étrangers, des symboles mathématiques, des émojis et des caractères Unicode.</span>
 </li></ul></div>
 </div></div>
 </div>

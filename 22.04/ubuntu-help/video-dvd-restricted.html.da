@@ -2,7 +2,7 @@
 <html lang=da>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>How do I enable restricted codecs to play DVDs?</title>
+<title>Hvordan aktiveres begrænsede codecs til afspilning af dvd'er?</title>
 <link rel="stylesheet" type="text/css" href="da.css">
 <script type="text/javascript" src="highlight.pack.js"></script><script>
 document.addEventListener('DOMContentLoaded', function() {
@@ -73,26 +73,24 @@ document.addEventListener('DOMContentLoaded', function() {
 <span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="media.html.da" title="Lyd, video &amp; billeder">Media</a> › <a class="trail" href="media.html.da#videos" title="Videoer og videokamera">Videoer</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
-<div class="hgroup pagewide"><h1 class="title"><span class="title">How do I enable restricted codecs to play DVDs?</span></h1></div>
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Hvordan aktiveres begrænsede codecs til afspilning af dvd'er?</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">DVD support cannot be provided by default in Ubuntu due to legal and technical restrictions. Most commercial DVDs are encrypted and so require the use of decryption software in order to play them. </p></div>
+<div class="contents pagewide"><p class="p">Understøttelse af dvd'er kan ikke tilbydes af Ubuntu som standard pga. legale og tekniske begrænsninger. De fleste kommercielle dvd'er er krypterede og vil ikke kunne afspilles uden dekrypteringssoftware.</p></div>
 <section id="restricted"><div class="inner">
-<div class="hgroup pagewide"><h2 class="title"><span class="title">Use alternative decryption software</span></h2></div>
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Brug alternativ dekrypteringssoftware</span></h2></div>
 <div class="region"><div class="contents pagewide">
 <div class="note note-warning" title="Advarsel">
 <svg width="24" height="24" version="1.1">
  <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
-</svg><div class="inner"><div class="region"><div class="contents"><p class="p">In some countries, the use of the below unlicensed decryption software is not permitted by law. Verify that you are within your rights to use it.</p></div></div></div>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">I nogle lande er brugen af dekrypteringssoftware uden licens (vist nedenfor) ikke lovlig. Sikr dig, at du har lov til at bruge det.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Install <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>,
-<span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span>, and <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
-<li class="steps"><p class="p">Open a terminal window by pressing
-   <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
+<li class="steps"><p class="p">Installér <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread4" title="apt:libdvdread4">libdvdread4</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> og <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
+<li class="steps"><p class="p">Åbn et terminalvindue ved at trykke <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
-<p class="p">Run the command</p>
+<p class="p">Kør kommandoen</p>
 <p class="p"><span class="cmd">sudo dpkg-reconfigure libdvd-pkg</span></p>
-<p class="p">and confirm in order to install <span class="em">libdvdcss2</span>.</p>
+<p class="p">og bekræft for at installere <span class="em">libdvdcss2</span>.</p>
 </li>
 </ol></div></div></div>
 </div></div>

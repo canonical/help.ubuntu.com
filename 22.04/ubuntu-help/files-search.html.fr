@@ -92,11 +92,8 @@ document.addEventListener('DOMContentLoaded', function() {
 </div>
 </li>
 <li class="steps">
-<p class="p">You can narrow your results by date, by file type, and by whether to
-      search a file’s full text, or to only search for file names.</p>
-<p class="p">To apply filters, select the drop-down menu button to the left of the
-      file manager’s <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span>
-      icon, and choose from the available filters:</p>
+<p class="p">Vous pouvez affiner vos résultats par date, par type de fichier, et rechercher le texte intégral d’un fichier ou rechercher uniquement les noms de fichier.</p>
+<p class="p">Pour appliquer des filtres, sélectionnez le bouton du menu déroulant à gauche de l’icône <span class="media"><span class="media media-image"><img src="figures/edit-find-symbolic.svg" class="media media-inline" alt="Search key symbol"></span></span> du gestionnaire de fichiers et choisissez parmi les filtres disponibles :</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list">
 <li class="list"><p class="p"><span class="gui">Quand</span> : recherche à partir d’une date déterminée.</p></li>
 <li class="list"><p class="p"><span class="gui">Quoi</span> : recherche à partir d’un type d’élément.</p></li>

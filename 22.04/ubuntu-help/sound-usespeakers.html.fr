@@ -81,16 +81,14 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Certains ordinateurs acceptent des entrées multiples pour créer du son multi-canaux. Ils utilisent généralement des fiches rondes TRS multiples qui comportent des codes couleurs. Si vous ne savez pas quel fiche va dans quel connecteur, vous pouvez effectuer des essais de sortie son dans les paramètres.</p>
 <p class="p">Si vous possédez des haut-parleurs ou des écouteurs USB, ou encore des écouteurs analogiques branchés sur une carte son USB, branchez-les dans n’importe quel port USB. Les haut-parleurs USB fonctionnent comme des périphériques audio à part et vous devrez définir les haut-parleurs à utiliser par défaut.</p>
 <div class="steps"><div class="inner">
-<div class="title title-steps"><h2><span class="title">Select a default audio output device</span></h2></div>
+<div class="title title-steps"><h2><span class="title">Sélection d’un périphérique de sortie par défaut</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Son</span>.</p></li>
 <li class="steps"><p class="p">Cliquez sur <span class="gui">Son</span> pour ouvrir le panneau.</p></li>
-<li class="steps"><p class="p">In the <span class="gui">Output</span> section, select the device that you want to
-      use.</p></li>
+<li class="steps"><p class="p">À la rubrique <span class="gui">Sortie</span>, sélectionnez le périphérique que vous souhaitez utiliser.</p></li>
 </ol></div>
 </div></div>
-<p class="p">Use the <span class="gui">Test</span> button to check that all
-  speakers are working and are connected to the correct socket.</p>
+<p class="p">Appuyez sur le bouton <span class="gui">Test</span> pour vérifier que tous les haut-parleurs fonctionnent et qu’ils sont correctement branchés.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
 <div class="hgroup pagewide"></div>
@@ -98,8 +96,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — Adjust the volume for different apps, and configure different
-   speakers and microphones.</span>
+<a href="media.html.fr#sound" title="Notions de base sur le son">Notions de base sur le son</a><span class="desc"> — Régler le volume pour différentes applications et configurer différents haut-parleurs et microphones.</span>
 </li></ul></div>
 </div></div>
 <div class="links seealsolinks"><div class="inner">

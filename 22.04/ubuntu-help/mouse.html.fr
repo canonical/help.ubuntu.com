@@ -90,7 +90,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.fr" title="Simulation d’un clic droit de la souris"><span class="title">Simulation d’un clic droit de la souris</span><span class="linkdiv-dash"> — </span><span class="desc">Maintenir appuyé le bouton gauche de la souris pour effectuer un clic droit.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.fr" title="Simulation d’un clic lors du survol par le pointeur"><span class="title">Simulation d’un clic lors du survol par le pointeur</span><span class="linkdiv-dash"> — </span><span class="desc">La fonctionnalité <span class="gui">Clic par survol</span> permet de simuler un clic en gardant la souris immobile.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.fr" title="Utilisation de la souris avec la main gauche"><span class="title">Utilisation de la souris avec la main gauche</span><span class="linkdiv-dash"> — </span><span class="desc">Inverser les boutons gauche et droit de la souris dans les paramètres de la souris.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="touchscreen-gestures.html.fr" title="Use gestures on touchpads and touchscreens"><span class="title">Use gestures on touchpads and touchscreens</span><span class="linkdiv-dash"> — </span><span class="desc">Manipulate your desktop using gestures on your touchpad or touchscreen.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="touchscreen-gestures.html.fr" title="Utilisation des mouvements sur les pavé tactiles et les écrans tactiles"><span class="title">Utilisation des mouvements sur les pavé tactiles et les écrans tactiles</span><span class="linkdiv-dash"> — </span><span class="desc">Manipulez votre bureau en utilisant des mouvements sur votre pavé tactile ou votre écran tactile.</span></a></div>
 </div>
 </div></div></div></div></div>
 <section id="problems"><div class="inner">
@@ -111,12 +111,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configure hardware and diagnose problems, including printers,
-    displays, disks, and more.</span>
+<a href="hardware.html.fr" title="Matériel et pilotes">Matériel et pilotes</a><span class="desc"> — Configurer le matériel et diagnostiquer les problèmes, y compris les imprimantes, les écrans, les disques, etc.</span>
 </li>
 <li class="links ">
-<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — From hardware control to privacy settings, make GNOME
-    work for you.</span>
+<a href="prefs.html.fr" title="Paramètres utilisateur et système">Paramètres utilisateur et système</a><span class="desc"> — Du contrôle du matériel aux paramètres de confidentialité, faire en sorte que GNOME travaille pour vous.</span>
 </li>
 </ul></div>
 </div></div></div>

@@ -70,19 +70,16 @@ document.addEventListener('DOMContentLoaded', function() {
               </script>
 </div></div>
 <div class="trails" role="navigation"><div class="trail">
-<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers et recherches">Fichiers</a> › <a class="trail" href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » <a class="trail" href="nautilus-prefs.html.fr" title="Préférences du gestionnaire de fichiers">Preferences</a> » </div></div>
+<span style="color: #333">Ubuntu 22.04</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="files.html.fr" title="Fichiers, dossiers et recherches">Fichiers</a> › <a class="trail" href="files.html.fr#more-file-tasks" title="Davantage de tâches concernant les fichiers">Davantage de tâches concernant les fichiers</a> » <a class="trail" href="nautilus-prefs.html.fr" title="Préférences du gestionnaire de fichiers">Préférences</a> » </div></div>
 <div id="cwt-content" class="clearfix content-area"><div id="page">
 <div id="content">
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Préférences du gestionnaire de fichiers</span></h1></div>
 <div class="region">
-<div class="contents pagewide"><p class="p">You can control whether you single-click or double-click files, how
-executable text files are handled, and the trash behavior. Click the menu
-button in the top-right corner of the window, select <span class="gui">Preferences</span>,
-then go to the <span class="gui">General</span> section.</p></div>
+<div class="contents pagewide"><p class="p">Il est possible de choisir d’ouvrir les fichiers d’un simple ou d’un double-clic, la manière d’exécuter les fichiers texte et le comportement de la corbeille. Cliquez sur le bouton de menu situé dans le coin supérieur droit de la fenêtre, choisissez <span class="gui">Préférences</span> puis allez à la rubrique <span class="gui">Général</span>.</p></div>
 <section id="behavior"><div class="inner">
 <div class="hgroup pagewide"><h2 class="title"><span class="title">Comportement</span></h2></div>
 <div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
-<dt class="terms"><span class="gui">Action to Open Items</span></dt>
+<dt class="terms"><span class="gui">Action pour ouvrir les éléments</span></dt>
 <dd class="terms"><p class="p">Par défaut, un simple clic sélectionne les fichiers et un double-clic les ouvre. Il est possible de décider d’ouvrir fichiers et dossiers d’un simple clic. Dans ce mode, il est possible de sélectionner un ou plusieurs fichiers en maintenant la touche <span class="key"><kbd>Ctrl</kbd></span> enfoncée.</p></dd>
 </dl></div></div></div></div></div>
 </div></section><section id="executable"><div class="inner">

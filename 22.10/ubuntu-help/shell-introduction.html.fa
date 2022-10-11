@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang=fa>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>نمای کلی تصویری گنوم</title>
+<link rel="stylesheet" type="text/css" href="fa.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.fa" title="راهنمای میزکار اوبونتو"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> راهنمای میزکار اوبونتو</a>‏ » ‏</div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">نمای کلی تصویری گنوم</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">گنوم رابط کاربری‌ای را به ارمغان آورده است که برای کنار رفتن از مسیر کار، حواس‌پرتی کمینه و کمک به انجام کارهایتان طرّاحی شده. هنگام نخستین ورودتان، نمای کلی <span class="gui">فعّالیت‌ها</span> و نوار بالایی را خواهید دید.</p>
+<div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="نوار بالایی پوستهٔ گنوم"></div></div>
+<p class="p">نوار بالایی دسترسی به برنامه‌ها و پنجره‌هایتان، تقویم و قرارهایتان و <span class="link"><a href="status-icons.html.fa" title="معنی نقشک‌های در نوار بالا چیست؟">ویژگی‌های سامانه</a></span> مانند صدا، شبکه و قدرت را فراهم می‌کند. می‌توانید در فهرست سامانه در نوار بالایی، روشنایی صفحه یا حجم صدا را تغییر داده، جزییات اتّصال <span class="gui">وای‌فای</span> را ویراسته، وضعیت باتری را بررسی کرده، کاربران را تعویض کرده یا خارج شوید و رایانه‌تان را خاموش کنید.</p>
+<div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="shell-introduction.html.fa#activities" title="نمای کلی فعّالیت‌ها">نمای کلی <span class="gui">فعّالیت‌ها</span></a></li>
+<li class="links "><a href="shell-introduction.html.fa#appmenu" title="فهرست برنامه">فهرست برنامه</a></li>
+<li class="links "><a href="shell-introduction.html.fa#clock" title="ساعت، تقویم و قرارهای ملاقات">ساعت، تقویم و قرارهای ملاقات</a></li>
+<li class="links "><a href="shell-introduction.html.fa#systemmenu" title="فهرست سامانه">فهرست سامانه</a></li>
+<li class="links "><a href="shell-introduction.html.fa#lockscreen" title="صفحهٔ قفل">صفحهٔ قفل</a></li>
+<li class="links "><a href="shell-introduction.html.fa#window-list" title="فهرست پنجره">فهرست پنجره</a></li>
+</ul></div></div></div>
+</div>
+<section id="activities"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">نمای کلی <span class="gui">فعّالیت‌ها</span></span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">هنگام شروع گنوم، به طور خودکار وارد نمای کلی <span class="gui">فعّالیت‌ها</span> می‌شوید. نمای کلی می‌گذارد به برنامه‌ها و پنجره‌هایتان دسترسی داشته باشید. همچنین در نمای کلی می‌ةوانید برای جست‌وجو به دنبال برنامه‌ها، پرونده‌ها، شاخه‌ها و وب، شروع به نوشتن کنید.</p>
+<p class="p">برای دسترسی به نمای کلهی در هر زمانی، دکمهٔ <span class="gui">فعّالیت‌ها</span> را زده یا فقط نشانگر موشیتان را به گوشهٔ داغ بالا-راست ببرید. همچنین می‌توانید کلید <span class="key"><a href="keyboard-key-super.html.fa" title="کلید سوپر چیست؟"><kbd>سوپر</kbd></a></span> را روی صفحه‌کلیدتان بفشارید.</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/shell-activities-dash.png" height="65" class="media media-block" alt="Activities button and Dash"></div></div>
+<p class="p">در پایین نمای کلی، <span class="em">دش</span> را می‌یابید. دش برنامه‌های محبوب و در حال اجرا را نشانتان می‌دهد. برای گشودن برنامه‌های داخل دش، روی نقشکشان کلیک کنید. اگر برنامه در حال اجرا باشد، نقطهٔ کوچکی زیر نقشکش خواهد داشت. کلیک روی نقشکش، آخرین پنجرهٔ استفاده‌شده‌اش را بالا خواهد آورد. همچنین می‌توانید نقشک را روی فضای‌کاری‌ای بکشید.</p>
+<p class="p">کلیک راست روی نقشک، فهرستی را نشان می‌دهد که می‌گذارد هر پنجره‌ای در یک برنامهٔ در حال اجرا را گزیده یا پنجره‌ای جدید گشود. همچنین می‌توانید برای گشودن پنجره‌ای جدید، هنگام نگه داشتن <span class="key"><kbd>مهار</kbd></span>، روی نقشکش کلیک کنید.</p>
+<p class="p">هنگامی که وارد نمای کلی می‌شوید، نخست در نمای کلی پنجره‌ها خواهید بود. این‌جا بندانگشتی‌های زندهٔ تمام پنجره‌های فضای کاری جاری را نشانتان می‌دهد.</p>
+<p class="p">برای نمایش نمای کلی برنامه‌ها، دکمهٔ شبکه (که نُه نقطهٔ کوچک دارد) را در دش بزنید. این‌جا تمام برنامه‌هایی که روی رایانه‌تان نصب شده‌اند را نشانتان می‌دهد. برای اجرای هر برنامه‌ای، رویش زده یا برنامه را به یک فضای‌کاری‌ که بالا دیده می‌شود بکشید. همچنین می‌توانید برای محبوب کردن برنامه‌ای، آن را به دش بکشید. برنامه‌های محبوبتان حتا وقتی در حال اجرا نیستند، در دش خواهند ماند تا بتوانید به سرعت به آن‌ها دسترسی داشته باشید.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.fa" title="اجرای برنامه‌ها">دربارهٔ اجرای برنامه‌ها، بیش‌تر بیاموزید.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.fa" title="پنجره‌ها و فضاهای کاری">دربارهٔ پنجره‌ها و فضاهای کاری، بیش‌تر بیاموزید.</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="appmenu"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">فهرست برنامه</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appmenu-shell.png" width="250" class="media media-block" alt="فهرست کارهٔ پایانه"></div></div>
+<p class="p">فهرست برنامه، قرار گرفته در کنار دکمهٔ <span class="gui">فعّالیت‌ها</span>، نام برنامهٔ فعّال را در کنار نقشکش نشان داده و دسترسی سریعی به پنجره‌ها و جزییات برنامه به همراه موردی برای خروج را فراهم می‌کند.</p>
+</div></div>
+</div></section><section id="clock"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">ساعت، تقویم و قرارهای ملاقات</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="ساعت، تقویم، قرارهای ملاقات و آگاهی‌ها"></div></div>
+<p class="p">برای دیدن تاریخ کنونی، تقویم ماهانه، فهرستی قرارهای ملاقات پیش رو و آگاهی‌های جدید، روی ساعت در نوار بالایی کلیک کنید. همچنین می‌توانید با فشردن <span class="keyseq"><span class="key"><kbd>سوپر</kbd></span>+<span class="key"><kbd>M</kbd></span></span> تقویم را بگشایید. از فهرست می‌توانید مستقیماً به تنظیمات تاریخ و زمان دسترسی داشته و برنامهٔ تقویم کاملتان را بگشایید.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.fa" title="قرار ملاقات‌های تقویم">دربارهٔ تقویم و قرار ملاقات‌ها، بیش‌تر بیاموزید.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.fa" title="آگاهی‌ها و سیاههٔ آگاهی‌ها">دربارهٔ آگاهی‌ها و سیاههٔ آگاهی‌ها، بیش‌تر بیاموزید..</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="systemmenu"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">فهرست سامانه</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="فهرست کاربر"></div></div>
+<p class="p">برای مدیریت تنظیمات سامانه‌ و رایانه‌تان روی فهرست سامانه در گوشهٔ بالا-راست کلیک کنید.</p>
+<p class="p">هنگام ترک رایانه‌تان می‌توانید صفحه را برای جلوگیری از استفادهٔ دیگران، قفل کنید. همچنین می‌توانید از فهرست برای دادن دسترسی به رایانه‌تان به افراد دیگر، بدون خروج کامل به سرعت میان کاربران جابه‌جا شده یا رایانه را معلّق یا خاموش کنید. اگر صفحه‌ای دارید که از چرخش افقی یا عمودی پشتیبانی می‌کند، می‌توانید از فهرست سامانه به سرعت بچرخانیدش. اگر صفحه‌تان از چرخش پشتیبانی نکند، این دکمه را نخواهید دید.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-exit.html.fa" title="خاموش کردن، خروج یا تعویض کاربران">دربارهٔ تعویض کاربران، خروج و خاموش کردن رایانه‌تان، بیش‌تر بیاموزید.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section id="lockscreen"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">صفحهٔ قفل</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">هنگامی که صفحه‌تان را قفل کرده یا به طور خودکار قفل شود، صفحهٔ قفل نشان داده می‌شود. صفحهٔ قفل، افزون بر حفاظت از میزکارتان هنگام دوریتان از رایانه، تاریخ و زمان را نیز نشان می‌دهد. این صفحه همچنین اطّلاعاتی دربارهٔ وضعیت شبکه و باتریتام نشان خواهد داد.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.fa" title="صفحهٔ قفل">دربارهٔ صفحهٔ قفل، بیش‌تر بیاموزید..</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section id="window-list"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">فهرست پنجره</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">گنوم برای تعویض پنجره‌ها راهبری متفاوت از فهرست همواره نمایانی که در دیگر محیط‌های میزکار پیدا می‌شود، ارائه کرده است. این راهبرد می‌گذارد بدون حواس‌پرتی روی وظیفهٔ در حال انجام تمرکز کنید.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.fa" title="تعویض بین پنجره‌ها">دربارهٔ تعویض پنجره‌ها، بیش‌تر بیاموزید.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">اطّلاعات بیش‌تر</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="index.html.fa" title="راهنمای میزکار اوبونتو">راهنمای میزکار اوبونتو</a></li>
+<li class="links ">
+<a href="shell-overview.html.fa" title="میزکارتان">میزکارتان</a><span class="desc"> — کار با کاره‌ها، پنجره‌ها و فضاهای کاری. قرارهای ملاقات و چیزهای مهم را در نوار بالایی ببینید.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

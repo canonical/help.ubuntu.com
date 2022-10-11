@@ -1,0 +1,275 @@
+<!DOCTYPE html>
+<html lang=id>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Pintasan papan tik yang berguna</title>
+<link rel="stylesheet" type="text/css" href="id.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="keyboard.html.id" title="Papan tik">Papan tik</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="tips.html.id" title="Tip &amp; trik">Tip &amp; trik</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Pintasan papan tik yang berguna</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Halaman ini memberikan gambaran umum pintasan papan tik yang dapat membantu Anda menggunakan desktop dan aplikasi dengan lebih efisien. Jika Anda tidak dapat menggunakan tetikus atau perangkat penunjuk sama sekali, lihat <span class="link"><a href="keyboard-nav.html.id" title="Navigasi papan tik">Navigasi papan tik</a></span> untuk informasi lebih lanjut tentang menavigasi antarmuka pengguna dengan hanya papan tik.</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Berkeliling desktop</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F1</kbd></span></span> atau</p>
+<p class="p">tombol <span class="key"><a href="keyboard-key-super.html.id" title="Apa itu tombol Super?"><kbd>Super</kbd></a></span></p>
+</td>
+<td><p class="p">Beralih antara ringkasan <span class="gui">Aktivitas</span> dan desktop. Dalam ringkasan, mulailah mengetik untuk langsung mencari aplikasi, kontak, dan dokumen Anda.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Jendela perintah pop up (untuk cepat menjalankan perintah).</p>
+<p class="p">Gunakan tombol panah untuk cepat mengakses perintah yang dijalankan sebelumnya.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.id" title="Berpindah antar jendela">Bertukar antar jendela dengan cepat</a></span>. Tahan <span class="key"><kbd>Shift</kbd></span> untuk urutan terbalik.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Beralih antara jendela dari aplikasi yang sama, atau dari aplikasi yang dipilih setelah <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
+<p class="p">Pintasan ini menggunakan <span class="key"><kbd>`</kbd></span> pada papan tik AS, di mana tombol <span class="key"><kbd>`</kbd></span> berada di atas <span class="key"><kbd>Tab</kbd></span>. Pada semua papan tik lain, pintasannya adalah <span class="key"><kbd>Super</kbd></span> tambah tombol di atas <span class="key"><kbd>Tab</kbd></span>.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Bertukar antar jendela dalam ruang kerja saat ini. Tahan <span class="key"><kbd>Shift</kbd></span> untuk urutan terbalik.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Berikan fokus papan tik ke bilah bagian atas. Dalam ringkasan <span class="gui">Aktivitas</span>, alihkan fokus papan tik antara bilah puncak, dasbor, ikhtisar jendela, daftar aplikasi, dan bidang pencarian. Gunakan tombol panah untuk menavigasi.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Menampilkan daftar aplikasi.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">dan</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.id" title="Bertukar antar area kerja">Bertukar antar ruang kerja</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">dan</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.id" title="Memindahkan jendela ke area kerja lain">Memindah jendela kini ke ruang kerja lain</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela saat ini satu monitor ke kiri.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Pindahkan jendela saat ini satu monitor ke kanan.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.id#logout" title="Log keluar atau bertukar pengguna">Memperlihatkan dialog Matikan</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.id#lock-screen" title="Kunci layar">Mengunci layar.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Tampilkan <span class="link"><a href="shell-notifications.html.id#notificationlist" title="Daftar pemberitahuan">daftar pemberitahuan</a></span>. Tekan <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> lagi atau <span class="key"><kbd>Esc</kbd></span> untuk menutup.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Pintasan penyuntingan umum</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td><p class="p">Pilih semua teks atau butir-butir dalam suatu daftar.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Memotong (menghapus) teks atau butir yang dipilih dan menempatkannya pada papan klip.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Salin teks yang dipilih atau butir-butir ke papan klip.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Tempelkan isi papan klip.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Batalkan aksi terakhir.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Menangkap cuplikan layar</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.id#screenshot" title="Ambil cuplikan layar">Launch the screenshot tool.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.id#screenshot" title="Ambil cuplikan layar">Ambil cuplikan layar atas suatu jendela.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.id#screenshot" title="Ambil cuplikan layar">Take a screenshot of the
+    entire screen.</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.id#screencast" title="Membuat rekaman layar">Memulai dan mengakhiri perekaman screencast.</a></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="shell-overview.html.id#apps" title="Aplikasi dan jendela">Aplikasi dan jendela</a></li>
+<li class="links ">
+<a href="keyboard.html.id" title="Papan tik">Papan tik</a><span class="desc"> — Pilih tata letak papan ketik internasional dan gunakan fitur aksesibilitas papan ketik.</span>
+</li>
+<li class="links ">
+<a href="tips.html.id" title="Tip &amp; trik">Tip &amp; trik</a><span class="desc"> — Dapatkan hasil maksimal dari GNOME dengan tips praktis ini.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-key-menu.html.id" title="Apa itu tombol Menu?">Apa itu tombol <span class="key"><kbd>Menu</kbd></span>?</a><span class="desc"> — Tombol <span class="key"><kbd>Menu</kbd></span> meluncurkan menu konteks dengan papan ketik daripada dengan klik kanan.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-super.html.id" title="Apa itu tombol Super?">Apa itu tombol <span class="key"><kbd>Super</kbd></span>?</a><span class="desc"> — Tombol <span class="key"><kbd>Super</kbd></span> membuka ringkasan <span class="gui">Aktivitas</span>. Anda biasanya dapat menemukannya di samping tombol <span class="key"><kbd>Alt</kbd></span> pada papan tik Anda.</span>
+</li>
+<li class="links ">
+<a href="keyboard-shortcuts-set.html.id" title="Menata pintasan papan tik">Menata pintasan papan tik</a><span class="desc"> — Menentukan atau mengubah pintasan papan tik di pengaturan <span class="gui">Papan Tik</span>.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html.id" title="Navigasi papan tik">Navigasi papan tik</a><span class="desc"> — Memakai aplikasi dan desktop tanpa memakai tetikus.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

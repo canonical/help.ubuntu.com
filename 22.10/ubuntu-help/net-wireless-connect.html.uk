@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>З'єднання із бездротовою мережею</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.uk" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Довідка"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="net.html.uk" title="Робота у мережі, інтернет та електронна пошта">Мережі</a> » <a class="trail" href="net-wireless.html.uk" title="Робота у бездротовій мережі">Робота у бездротовій мережі</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">З'єднання із бездротовою мережею</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Якщо ви працюєте із комп'ютером із увімкненим бездротовим зв'язком, ви можете з'єднатися із бездротовою мережею, яка перебуває у діапазоні зв'язку, для отримання доступу до інтернету, перегляду файлів спільного доступу у мережі тощо.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Відкрийте <span class="gui"><a href="shell-introduction.html.uk#systemmenu" title="Меню системи">меню системи</a></span> у правій частині верхньої панелі.</p></li>
+<li class="steps"><p class="p">Виберіть <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-disabled-symbolic.svg" class="media media-inline" alt=""></span></span> Wi-Fi</span>. У відповідь буде розгорнуто розділ Wi-Fi меню.</p></li>
+<li class="steps">
+<p class="p">Клацніть на пункті із назвою потрібної вам мережі.</p>
+<p class="p">Якщо назви мережі не показано у списку, спробуйте погортати список. Якщо пункту немає і далі, можливо, ви перебуваєте поза діапазоном дії мережі або мережу <span class="link"><a href="net-wireless-hidden.html.uk" title="З'єднання із прихованою бездротовою мережею">могло бути приховано</a></span>.</p>
+</li>
+<li class="steps">
+<p class="p">Якщо мережу захищено паролем (<span class="link"><a href="net-wireless-wepwpa.html.uk" title="Що означають абревіатури WEP і WPA?">ключем шифрування</a></span>), введіть пароль, коли вас про це попросять, і натисніть кнопку <span class="gui">З'єднатись</span>.</p>
+<p class="p">Якщо ви не знаєте ключа, його може бути написано на нижньому боці маршрутизатора або базової станції або вказано у підручнику до пристрою. Ви також можете спитати про пароль у того, хто адмініструє бездротову мережу.</p>
+</li>
+<li class="steps"><p class="p">Вигляд піктограми мережі під час спроб встановити з'єднання із мережею змінюватиметься.</p></li>
+<li class="steps"><p class="p">Якщо з'єднання вдасться встановити, піктограму буде замінено на крапку  із декількома викривленими смугами над нею (<span class="media"><span class="media media-image"><img src="figures/topbar-network-wireless-strength-excellent.svg" height="28" width="28" class="media media-inline" alt=""></span></span>). Чим більше смуг, тим потужнішим є сигнал мережі. Мала кількість смуг означає слабкий і не дуже надійний сигнал.</p></li>
+</ol></div></div></div>
+<p class="p">Якщо спроба встановити з'єднання зазнає невдачі, програма може попросити вас ввести пароль ще раз або просто повідомити, що з'єднання розірвано. Причин може бути доволі багато. Можливо, наприклад, вами було введено помилковий пароль, сигнал бездротового зв'язку може бути надто слабким, можлива проблема із карткою бездротового зв'язку. Додаткові відомості можна знайти у розділі <span class="link"><a href="net-wireless-troubleshooting.html.uk" title="Діагностика і усування проблем, пов'язаних із бездротовою мережею">Діагностика і усування проблем, пов'язаних із бездротовою мережею</a></span>.</p>
+<p class="p">Потужніший сигнал бездротової мережі не обов'язково означає, що ви матимете швидше з'єднання з інтернетом або більші швидкості отримання даних. З'єднання бездротової мережі із вашим комп'ютером відбувається з використанням <span class="em">пристрою, який забезпечує роботу інтернет-з'єднання</span> (подібного до маршрутизатора або модема), але ці два з'єднання є, насправді, різними, тому працюють на різних швидкостях.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.uk" title="Робота у бездротовій мережі">Робота у бездротовій мережі</a><span class="desc"> — Встановлення з'єднання із бездротовими мережами, включно із прихованими мережами та мережами, створеними шляхом комутації із телефоном.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Дивіться також</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-wireless-troubleshooting.html.uk" title="Діагностика і усування проблем, пов'язаних із бездротовою мережею">Діагностика і усування проблем, пов'язаних із бездротовою мережею</a><span class="desc"> — Визначення причин і виправлення проблем із бездротовими з'єднаннями.</span>
+</li>
+<li class="links ">
+<a href="net-wrongnetwork.html.uk" title="Комп'ютер з'єднується не з тією мережею">Комп'ютер з'єднується не з тією мережею</a><span class="desc"> — Редагування параметрів з'єднання і вилучення небажаних пунктів з'єднань.</span>
+</li>
+<li class="links ">
+<a href="net-wireless-disconnecting.html.uk" title="Чому у бездротовій мережі постійно розривається з'єднання?">Чому у бездротовій мережі постійно розривається з'єднання?</a><span class="desc"> — Рівень сигналу може бути низьким або мережа може не дозволяти вам належне з'єднання.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

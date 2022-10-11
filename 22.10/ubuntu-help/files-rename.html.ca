@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang=ca>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Canviar el nom d'un fitxer o carpeta</title>
+<link rel="stylesheet" type="text/css" href="ca.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.ca" title="Guia de l'escriptori de l'Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Ajuda"></span></span> Guia d'usuari d'escriptori</a> » <a class="trail" href="files.html.ca" title="Fitxers, carpetes i cerca">Fitxers</a> › <a class="trail" href="files.html.ca#common-file-tasks" title="Tasques comunes">Tasques comunes</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Canviar el nom d'un fitxer o carpeta</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Igual que amb altres gestors de fitxers, podeu utilitzar <span class="app">Fitxers</span> per a canviar el nom d'un fitxer o una carpeta.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Per a canviar el nom d'un fitxer o carpeta:</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Cliqueu amb el botó dret sobre l'element i seleccioneu <span class="gui">Canvia el nom</span>, o seleccioneu el fitxer i premeu <span class="key"><kbd>F2</kbd></span>.</p></li>
+<li class="steps"><p class="p">Escriviu el nou nom i premeu <span class="key"><kbd>Retorn</kbd></span> o cliqueu a <span class="gui">Canvia el nom</span>.</p></li>
+</ol></div>
+</div></div>
+<p class="p">També podeu canviar el nom d'un fitxer des de la finestra <span class="link"><a href="nautilus-file-properties-basic.html.ca" title="Propietats del fitxer">propietats</a></span>.</p>
+<p class="p">Quan canvieu el nom d'un fitxer, només se selecciona la primera part del nom del fitxer, no l'extensió (la part després de l'últim <span class="file">.</span>). L'extensió normalment indica quin tipus de fitxer és (per exemple, <span class="file">fitxer.pdf</span> és un document PDF), i normalment no voldreu canviar-la. Si també heu de canviar l'extensió, seleccioneu el nom complet i canvieu-lo.</p>
+<div class="note note-tip" title="Suggeriment">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
+ <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si us heu equivocat de fitxer en canviar de nom, o heu assignat un nom incorrecte al vostre fitxer, podeu desfer el canvi de nom. Per a desfer l'acció, immediatament cliqueu al botó de menú de la barra d'eines i seleccioneu <span class="gui">Desfés el canvi de nom</span>, o premeu <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, per a restaurar el nom anterior.</p></div></div></div>
+</div>
+</div>
+<section id="valid-chars"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Caràcters vàlids per als noms dels fitxers</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Podeu utilitzar qualsevol caràcter excepte el caràcter <span class="file">/</span> (barra) en els noms dels fitxers. Tanmateix, alguns dispositius utilitzen un <span class="em">sistema de fitxers</span> amb més restriccions a l'hora de posar els noms. Per tant, és una bona pràctica evitar els següents caràcters en els noms dels fitxers: <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span>.</p>
+<div class="note note-warning" title="Atenció">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Si anomeneu un fitxer amb <span class="file">.</span> com a primer caràcter, el fitxer restarà <span class="link"><a href="files-hidden.html.ca" title="Ocultar un fitxer">ocult</a></span> quan intenteu visualitzar-lo al gestor de fitxers.</p></div></div></div>
+</div>
+</div></div>
+</div></section><section id="common-probs"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Problemes comuns</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">El nom del fitxer ja està en ús</dt>
+<dd class="terms">
+<p class="p">No podeu tenir dos fitxers o carpetes amb el mateix nom dins de la mateixa carpeta. Si intenteu canviar el nom d'un fitxer a un nom que ja existeix a la carpeta on esteu treballant, el gestor de fitxers no ho permetrà.</p>
+<p class="p">Els noms dels fitxers i carpetes distingeixen entre majúscules i minúscules, així que el nom del fitxer <span class="file">Fitxer.txt</span> no és el mateix que <span class="file">FITXER.txt</span>. L'ús de diferents noms de fitxers com aquests està permès, encara que no és recomanable.</p>
+</dd>
+<dt class="terms">El nom del fitxer és massa llarg</dt>
+<dd class="terms"><p class="p">En alguns sistemes de fitxers, els noms dels fitxers no poden tenir de més de 255 caràcters. Aquest límit de 255 caràcters inclou tant el nom del fitxer com el camí d'accés al fitxer (per exemple, <span class="file">/home/wanda/Documents/work/business-proposals/…</span>), de manera que haureu d'evitar noms de fitxers i carpetes llargs sempre que sigui possible.</p></dd>
+<dt class="terms">L'opció per a canviar el nom és grisa</dt>
+<dd class="terms"><p class="p">Si <span class="gui">Canvia el nom</span> està en gris, no teniu permís per a canviar el nom del fitxer. Heu de tenir precaució al canviar el nom d'aquests fitxers, ja que reanomenar fitxers protegits pot fer que el vostre sistema quedi inestable. Consultar <span class="link"><a href="nautilus-file-properties-permissions.html.ca" title="Establir els permisos pel fitxer">Establir els permisos pel fitxer</a></span> per a més informació.</p></dd>
+</dl></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Més informació</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.ca#common-file-tasks" title="Tasques comunes">Tasques comunes</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang=ja>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>ファイル、フォルダーおよび検索</title>
+<link rel="stylesheet" type="text/css" href="ja.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.ja" title="Ubuntu デスクトップガイド"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">ファイル、フォルダーおよび検索</span></h1></div>
+<div class="region">
+<div class="contents pagewide"></div>
+<section id="common-file-tasks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">よく行う操作</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.ja" title="ファイル、フォルダーの名前を変更する"><span class="title">ファイル、フォルダーの名前を変更する</span><span class="linkdiv-dash"> — </span><span class="desc">ファイルやフォルダーの名前を変更します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.ja" title="ファイル、フォルダーをコピーまたは移動する"><span class="title">ファイル、フォルダーをコピーまたは移動する</span><span class="linkdiv-dash"> — </span><span class="desc">アイテムを新しいフォルダーにコピーまたは移動します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.ja" title="ファイル、フォルダーをプレビューする"><span class="title">ファイル、フォルダーをプレビューする</span><span class="linkdiv-dash"> — </span><span class="desc">ドキュメントや、画像、ビデオ、その他のプレビューをすばやく表示および非表示します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.ja" title="ファイル、フォルダーを並べ替える"><span class="title">ファイル、フォルダーを並べ替える</span><span class="linkdiv-dash"> — </span><span class="desc">名前順、サイズ順、種類順、更新日時順に、ファイルを配置します。</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.ja" title="ファイル、フォルダーを削除する"><span class="title">ファイル、フォルダーを削除する</span><span class="linkdiv-dash"> — </span><span class="desc">不要なファイルやフォルダーを削除します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.ja" title="ファイル、フォルダーを閲覧する"><span class="title">ファイル、フォルダーを閲覧する</span><span class="linkdiv-dash"> — </span><span class="desc">ファイルマネージャーでファイルの管理や整理をします。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.ja" title="ファイルを検索する"><span class="title">ファイルを検索する</span><span class="linkdiv-dash"> — </span><span class="desc">Locate files based on file name and type.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="more-file-tasks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">More file-related tasks</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.ja" title="CD や DVD にファイルを書き込む"><span class="title">CD や DVD にファイルを書き込む</span><span class="linkdiv-dash"> — </span><span class="desc">CD/DVD クリエーターを使って、ファイルやドキュメントを空の CD や DVD に書き込みます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.ja" title="Turn off or limit file history tracking"><span class="title">Turn off or limit file history tracking</span><span class="linkdiv-dash"> — </span><span class="desc">Stop or limit your computer from tracking your recently-used
+    files.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.ja" title="ゴミ箱からファイルを元に戻す"><span class="title">ゴミ箱からファイルを元に戻す</span><span class="linkdiv-dash"> — </span><span class="desc">削除したファイルは通常ではゴミ箱に移動しますが、それを元に戻すことができます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.ja" title="ゴミ箱の中身や一時ファイルを削除する"><span class="title">ゴミ箱の中身や一時ファイルを削除する</span><span class="linkdiv-dash"> — </span><span class="desc">ゴミ箱の中身や一時ファイルを削除する頻度を設定します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.ja" title="サーバーや共有ディスクのファイルを閲覧する"><span class="title">サーバーや共有ディスクのファイルを閲覧する</span><span class="linkdiv-dash"> — </span><span class="desc">FTP、SSH、Windows 共有、あるいは WebDAV を使って 他のコンピューターのファイルを表示、編集します</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.ja" title="ファイルプロパティ"><span class="title">ファイルプロパティ</span><span class="linkdiv-dash"> — </span><span class="desc">基本的なファイル情報の表示、アクセス権の設定、およびデフォルトのアプリケーションの選択を行います。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.ja" title="ファイルマネージャーの設定"><span class="title">ファイルマネージャーの設定</span><span class="linkdiv-dash"> — </span><span class="desc">View and set preferences for the file browser.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.ja" title="メールを使ってファイルを共有する"><span class="title">メールを使ってファイルを共有する</span><span class="linkdiv-dash"> — </span><span class="desc">ファイルマネージャーから、メールの相手先へファイルを簡単に転送できます。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.ja" title="別のアプリケーションでファイルを開く"><span class="title">別のアプリケーションでファイルを開く</span><span class="linkdiv-dash"> — </span><span class="desc">Open files using an application that isn’t the default one for that
+    type of file. You can change the default too.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.ja" title="見失ったファイルを探し出す"><span class="title">見失ったファイルを探し出す</span><span class="linkdiv-dash"> — </span><span class="desc">Follow these tips if you can’t find a file you created or
+    downloaded.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="removable"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">リムーバブルドライブと外付けディスク</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.ja" title="デバイスやディスクにあわせてアプリケーションを起動する"><span class="title">デバイスやディスクにあわせてアプリケーションを起動する</span><span class="linkdiv-dash"> — </span><span class="desc">CDやDVD、カメラ、オーディオプレイヤー、その他のデバイスおよびメディアにあわせてアプリケーションを自動起動します。</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.ja" title="外付けドライブを安全に取り出す"><span class="title">外付けドライブを安全に取り出す</span><span class="linkdiv-dash"> — </span><span class="desc">USB フラッシュドライブ、CD、DVD、あるいはその他のデバイスの取り出し、アンマウント。</span></a></div></div>
+</div></div></div></div></div></div>
+</div></section><section id="backup"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">バックアップ</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.ja" title="どのファイルをバックアップすればいい?"><span class="title">どのファイルをバックアップすればいい?</span><span class="linkdiv-dash"> — </span><span class="desc">バックアップするとよい文書やファイル、設定が配置されるフォルダーの一覧。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.ja" title="バックアップから復元する"><span class="title">バックアップから復元する</span><span class="linkdiv-dash"> — </span><span class="desc">バックアップからファイルを復元します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.ja" title="バックアップの頻度"><span class="title">バックアップの頻度</span><span class="linkdiv-dash"> — </span><span class="desc">Learn how often you should backup your important files to make sure
+    that they are safe.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.ja" title="バックアップをチェックする"><span class="title">バックアップをチェックする</span><span class="linkdiv-dash"> — </span><span class="desc">バックアップが成功したか確認します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.ja" title="重要なファイルをバックアップする"><span class="title">重要なファイルをバックアップする</span><span class="linkdiv-dash"> — </span><span class="desc">バックアップについてのなぜ、何を、どこに、どうやって。</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="faq"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">ヒントと質問</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.ja" title="~が名前の末尾に付いたファイルは何ですか?"><span class="title"><span class="file">~</span>が名前の末尾に付いたファイルは何ですか?</span><span class="linkdiv-dash"> — </span><span class="desc">それはバックアップファイルです。デフォルトでは非表示になっています。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.ja" title="よく使うドキュメントのテンプレート"><span class="title">よく使うドキュメントのテンプレート</span><span class="linkdiv-dash"> — </span><span class="desc">カスタマイズしたファイルテンプレートから新しいドキュメントをすばやく作成します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.ja" title="パターンでファイルを選択する"><span class="title">パターンでファイルを選択する</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> を押して、似た名前を持つ複数のファイルを選択します。</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.ja" title="ファイルのアクセス権を設定する"><span class="title">ファイルのアクセス権を設定する</span><span class="linkdiv-dash"> — </span><span class="desc">あなたのファイルやフォルダーを誰が参照できて、誰が編集できるかを制御します。</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.ja" title="ファイルを隠す"><span class="title">ファイルを隠す</span><span class="linkdiv-dash"> — </span><span class="desc">Make a file invisible, so you cannot see it in the file
+    manager.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.ja" title="フォルダーブックマークを編集する"><span class="title">フォルダーブックマークを編集する</span><span class="linkdiv-dash"> — </span><span class="desc">ファイルマネージャーのブックマークの追加、削除、名前変更を行います。</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">詳細</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.ja" title="Ubuntu デスクトップガイド">Ubuntu デスクトップガイド</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

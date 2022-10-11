@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>인터넷이 느린 것 같아요</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 22.10</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="net.html.ko" title="네트워크, 웹, 전자메일">네트워크</a> » <a class="trail" href="net-problem.html.ko" title="네트워크 문제">네트워크 문제</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">인터넷이 느린 것 같아요</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">인터넷을 사용하고 있는데 느린 것 같다면, 느리게 하는 요인이 여러가지가 있습니다.</p>
+<p class="p">웹 브라우저를 닫고 다시 열거나, 인터넷 연결을 끊고 다시 연결해봅니다. (인터넷을 느리게 할 만한 여러가지 요인을 초기화해봅니다.)</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p"><span class="em-bold em">혼잡한 시간대</span></p>
+<p class="p">인터넷 서비스 제공 업체는 보통 여러집에 인터넷 연결을 공유하게끔 구성합니다. 전화선 또는 케이블 연결 방식으로 연결을 따로 했다 하더라도 전화 교환망의 인터넷 연결 부분은 실제로 공유 방식을 취합니다. 이 경우 여러 이웃이 여러분과 동시간대에 인터넷을 사용한다면 인터넷 속도가 느려짐을 확인할 수 있습니다. 이웃이 인터넷망을 활용하고 있을 즈음(예를 들어 저녁 시간대에)이면, 대부분 이런 경험을 할 지도 모르겠습니다.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">한번에 많은 파일 다운로드</span></p>
+<p class="p">여러분 또는 누군가가 여러 파일을 한번에 다운로드하려는 목적으로 인터넷 연결을 사용한다면, 인터넷 연결상 요구에 대한 응답이 충분히 빠르지 않을 수도 있습니다. 이 경우, 느리다고 느낍니다.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">신뢰할 수 없는 연결</span></p>
+<p class="p">특히 요청량이 일시적으로 많을 때 인터넷 연결의 안정성이 떨어질 수도 있습니다. 붐비는 커피 상점이나 회랑의 경우 인터넷 연결이 붐비거나 단순히 안정성이 떨어지기도 합니다.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">약한 무선 연결 신호</span></p>
+<p class="p">무선(Wi-Fi) 인터넷 연결을 할 경우 상단 표시줄의 네트워크 아이콘을 확인하여 무선 신호가 양호한지 확인합니다. 양호하지 않으면 충분히 강한 신호 상태가 아니기 때문에 인터넷이 느릴 수 있습니다.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">느린 모바일 인터넷 연결 사용</span></p>
+<p class="p">모바일 인터넷 연결을 한 상태에서 느리다면, 신호 수신이 불량한 지역으로 이동했기 때문일 수도 있습니다. 이 경우, 인터넷 연결을 3G와 같은 고속 “모바일 광대역” 연결에서 더 느리지만 견고한 GPRS 같은 연결로 자동으로 전환합니다.</p>
+</li>
+<li class="list">
+<p class="p"><span class="em-bold em">웹 브라우저에 문제가 있어요</span></p>
+<p class="p">가끔 웹 브라우저가 느리게 동작하게 만드는 문제가 있습니다. 몇가지 이유 때문일 수 있습니다. 웹 사이트를 불러오는 양 자체가 많은 곳이거나, 웹 브라우저에서 사이트를 여는데 시간이 오래걸리는 경우입니다. 모든 브라우저 창을 닫고 다시 열어서 차이가 있는지 확인해봅니다.</p>
+</li>
+</ul></div></div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-problem.html.ko" title="네트워크 문제">네트워크 문제</a><span class="desc"> — 유무선 네트워크 연결 문제를 해결합니다.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

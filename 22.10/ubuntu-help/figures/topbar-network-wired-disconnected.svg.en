@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg919" width="28" height="28" version="1.1" viewBox="0 0 7.4083 7.4083" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata id="metadata852">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-67.733 -59.267)">
+  <g id="topbar-network-wired-disconnected" transform="translate(0 -25.4)">
+   <rect id="rect5464" x="67.733" y="84.667" width="7.4083" height="7.4083" rx="1.0583" ry="1.0583" style="stroke-width:.529"/>
+   <g id="g1908" transform="matrix(.26458 0 0 .26458 69.321 86.254)" color="#bebebe" fill="#bebebe" style="fill:#fff">
+    <path id="path1904" d="m5 1v5h2v2h-4.969v3h-2.031v4.938h5v-4.938h-1.969v-2h8.969v0.984h1v-1.984h-5v-2h2v-5z" opacity=".35" overflow="visible" style="fill:#fff;isolation:auto;mix-blend-mode:normal;solid-color:#000000"/>
+    <path id="path1906" d="m11 11h1.375l1.125 1.094 1.094-1.094h1.406v1.469l-1.094 1.062 1.094 1.063v1.406h-1.438l-1.062-1.063-1.063 1.063h-1.437v-1.406l1.063-1.063-1.063-1.061z" overflow="visible" style="fill:#fff"/>
+   </g>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>为什么我的机子休眠后不能回到原来的状态？</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 23.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html.zh-CN#problems" title="常见问题">问题</a> » <a class="trail" href="hardware-problems-graphics.html.zh-CN" title="屏幕问题">屏幕问题</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 23.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件 &amp; 驱动">硬件</a> › <a class="trail" href="hardware.html.zh-CN#problems" title="常见问题">问题</a> » <a class="trail" href="power.html.zh-CN#problems" title="问题">电源问题</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">为什么我的机子休眠后不能回到原来的状态？</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><p class="p">If you <span class="link"><a href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？">suspend</a></span> your computer, then try to
+resume it, you may find that it does not work as you expected. This could be
+because suspend is not supported properly by your hardware.</p></div>
+<section id="resume"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">我遥计算机挂起后不同唤醒</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">如果您挂起了计算机，那么按下任意键或者点击鼠标后，应该可以唤醒它，然后屏幕显示询问密码。如果计算机没反应，尝试按一下电源键(不要按太久，按一下就可以了)。</p>
+<p class="p">If this still does not help, make sure that your computer’s monitor is
+  switched on and try pressing a key on the keyboard again.</p>
+<p class="p">如果仍不起作用，则最后一种方法是通过按住电源按钮 5 到10 秒钟关闭计算机。您这样操作会丢失未保存的工作。但是，您应该可以再次打开计算机。</p>
+<p class="p">如果这种情况在计算机每次睡眠时都发生，则可能是您的硬件无法支持挂起功能。</p>
+<div class="note note-warning" title="警告">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">如果计算机掉电，而且又没有额外的电源供应(比如电池)，它将会关机。</p></div></div></div>
+</div>
+</div></div>
+</div></section><section id="hardware"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">当我唤醒计算机时，无线连接(或其他硬件)不能工作</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">If you suspend your computer and then resume it again, you
+  may find that your internet connection, mouse, or some other device does not
+  work properly. This could be because the driver for the device does not
+  properly support suspend. This is a <span class="link"><a href="hardware-driver.html.zh-CN" title="什么是驱动？">problem with the driver</a></span> and not the device
+  itself.</p>
+<p class="p">如果设备有电源键，试着关闭它们重新开启，大多数情况，设备将会重新正常工作。如果连接是 USB 类的，拔下来再重新插上，看看是否能工作。</p>
+<p class="p">If you cannot turn off or unplug the device, or if this does not work, you
+  may need to restart your computer for the device to start working again.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="hardware-problems-graphics.html.zh-CN" title="屏幕问题">屏幕问题</a><span class="desc"> — 屏幕和图像故障排除。</span>
+</li>
+<li class="links ">
+<a href="power.html.zh-CN#problems" title="问题">电源问题</a><span class="desc"> — 解决电源和电池问题</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">亦见</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="power-closelid.html.zh-CN" title="为什么我合上笔记本盖时它会关闭？">为什么我合上笔记本盖时它会关闭？</a><span class="desc"> — 在您合上笔记本盖时，将会进入睡眠以省电。</span>
+</li>
+<li class="links ">
+<a href="hardware-driver.html.zh-CN" title="什么是驱动？">什么是驱动？</a><span class="desc"> — 硬件/设备驱动是允许计算机使用该设备的驱动程序。</span>
+</li>
+<li class="links ">
+<a href="power-nowireless.html.zh-CN" title="当我唤醒计算机时，找不到无线网络">当我唤醒计算机时，找不到无线网络</a><span class="desc"> — 一些无线设备在您计算机睡眠时出现问题，不能正确地被唤醒正常工作。</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.zh-CN" title="挂起或休眠计算机时会发生什么？">挂起或休眠计算机时会发生什么？</a><span class="desc"> — 挂起将使您的电脑进入睡眠状态，使用较少的电能。</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

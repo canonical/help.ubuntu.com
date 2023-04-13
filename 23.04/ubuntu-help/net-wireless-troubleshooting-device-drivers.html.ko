@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>무선 네트워크 문제 해결사</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://partners.ubuntu.com">Partners</a></li>
+<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
+<li><a href="https://community.ubuntu.com">Community</a></li>
+<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 23.04</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="net.html.ko" title="네트워크, 웹, 전자메일">네트워크</a> » <a class="trail" href="net-wireless.html.ko" title="무선 네트워크">무선 네트워크</a> » <a class="trail" href="net-wireless-troubleshooting.html.ko" title="무선 네트워크 문제 해결사">무선 네트워크 문제 해결사</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 23.04</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="hardware.html.ko" title="하드웨어 및 드라이버">하드웨어</a> › <a class="trail" href="hardware.html.ko#problems" title="일반 문제">문제</a> » <a class="trail" href="net-wireless-troubleshooting.html.ko" title="무선 네트워크 문제 해결사">무선 네트워크 문제 해결사</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<nav class="prevnext pagewide"><div class="inner">
+<a href="net-wireless-troubleshooting-hardware-check.html.ko" title="무선 연결 문제 해결사">이전</a><span>다음</span>
+</div></nav><div class="hgroup pagewide">
+<h1 class="title"><span class="title">무선 네트워크 문제 해결사</span></h1>
+<h2 class="subtitle"><span class="subtitle">동작하는 장치 드라이버를 설치했는지 확인</span></h2>
+</div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">이 단계에서 동작하는 무선 네트워크 어댑터 장치 드라이버를 획득할 수 있는지 확인할 수 있습니다. <span class="em">장치 드라이버</span>는 하드웨어 장치를 제대로 동작하게 하는 방법을 컴퓨터에 알려주는 프로그램 조각입니다. 무선 네트워크 어댑터를 컴퓨터에서 인식한다 할 지라도 제대로 동작하는 드라이버가 아닐 지도 모릅니다. 무선 네트워크 어댑터가 동작할 수 있게 다른 드라이버를 찾아볼 수도 있습니다. 몇가지 선택지를 활용해봅니다:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p">무선 네트워크 어댑터가 지원 장치 목록에 있는지 확인합니다.</p>
+<p class="p">대부분 리눅스 배포판에서는 무선 네트워크 장치 지원 목록이 있습니다. 때로는 목록을 통해 제대로 동작하는 드라이버를 찾는 방법을 알려줍니다. 배포판의 해당 목록에 가서(예를 들면, <span class="link"><a href="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported" title="https://help.ubuntu.com/community/WifiDocs/WirelessCardsSupported">Ubuntu</a></span>, <span class="link"><a href="https://wiki.archlinux.org/index.php/Wireless_network_configuration" title="https://wiki.archlinux.org/index.php/Wireless_network_configuration">Arch</a></span>, <span class="link"><a href="https://wireless.wiki.kernel.org/en/users/Drivers" title="https://wireless.wiki.kernel.org/en/users/Drivers">Fedora</a></span>, <span class="link"><a href="http://en.opensuse.org/HCL:Network_(Wireless)" title="http://en.opensuse.org/HCL:Network_(Wireless)">openSUSE</a></span>) 무선 네트워크 어댑터 모델이 목록에 있는지 확인합니다. 동작하는 무선 드라이버를 가져올 수 있는 몇가지 정보를 활용할 수도 있습니다.</p>
+</li>
+<li class="list">
+<p class="p">제한(바이너리) 드라이버를 찾아봅니다.</p>
+<p class="p">대부분 리눅스 배포판에서는 <span class="em">자유</span>, <span class="em">오픈 소스</span> 장치 드라이버만 딸려옵니다. 상업용, 폐쇄 소스 드라이버는 배포하지 않기 때문입니다. 제대로 된 무선 네트워크 어댑터 드라이버가 독점, “바이너리 전용” 뿐이라면, 기본으로 설치하지 않았을 수도 있습니다. 이런 경우 무선 네트워크 어댑터 제조사 웹 사이트에서 리눅스 드라이버가 있는지 찾아봅니다.</p>
+<p class="p">일부 리눅스 배포판에서는 제한 드라이버를 다운로드할 수 있는 도구가 있습니다. 그 중 하나가 있다면 해당 도구에서 적절한 무선 드라이버를 찾을 수 있는지 확인하는 목적으로 활용합니다.</p>
+</li>
+<li class="list">
+<p class="p">어댑터 하드웨어의 윈도우 드라이버를 사용합니다.</p>
+<p class="p">보통 어떤 운영체제(윈도우) 전용으로 설계한 장치 드라이버를 다른 운영체제(리눅스)에서 사용할 수 없니다. 장치 동작을 처리하는 방법이 다르기 때문입니다. 무선 네트워크 어댑터의 경우 <span class="em">NDISwrapper</span> 호환 계층을 설치하여 리눅스에서 윈도우 무선 드라이버 일부를 활용할 수 있긴 합니다. 무선 네트워크 어댑터는 윈도우 드라이버의 경우 거의 대부분 있고 리눅스 드라이버는 어쩌다가 없기 때문에 이런 방식이 쓸만합니다. <span class="link"><a href="https://sourceforge.net/p/ndiswrapper/ndiswrapper/Main_Page/" title="https://sourceforge.net/p/ndiswrapper/ndiswrapper/Main_Page/">여기</a></span>에서 NDISwrapper 활용법을 알아볼 수 있습니다. 참고로 모든 무선 드라이버가 NDISwrapper로 활용할 수 있는건 아닙니다.</p>
+</li>
+</ul></div></div></div>
+<p class="p">이들 선택지 중에 동작하는 방식이 없다면, 동작하는 다른 무선 네트워크 어댑터를 찾아보아야 할 수도 있습니다. USB 무선 네트워크 어댑터가 보통 싼 편이며, 어떤 컴퓨터에든 연결합니다. 해당 어댑터를 구매하기 전 리눅스 배포판과의 호환성이 있는지 확인해야합니다.</p>
+</div>
+<nav class="prevnext pagewide"><div class="inner">
+<a href="net-wireless-troubleshooting-hardware-check.html.ko" title="무선 연결 문제 해결사">이전</a><span>다음</span>
+</div></nav><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless-troubleshooting.html.ko" title="무선 네트워크 문제 해결사">무선 네트워크 문제 해결사</a><span class="desc"> — 무선 연결 문제를 식별하고 해결합니다.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

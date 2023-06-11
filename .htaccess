@@ -49,9 +49,6 @@ RedirectMatch permanent ^/18\.04/(serverguide/.+\.html)\..* /$1/$2
 Redirect /bitlocker https://ubuntu.com/tutorials/install-ubuntu-desktop#13-additional-installing-ubuntu-alongside-windows-with-bitlocker
 Redirect /activedirectory https://ubuntu.com/server/docs/service-sssd
 
-# 2023.04.19 test - for a day or two:
-Redirect /zzzztest https://help.ubuntu.com/18.04/ubuntu-help/shell-overview.html
-
 # For 20.04, and likely onwards, the serveguide has moved.
 # Don't try to be too clever, just force the base page and drop the rest.
 #

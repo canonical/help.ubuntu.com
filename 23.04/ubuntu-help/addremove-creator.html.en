@@ -42,17 +42,17 @@ document.addEventListener('DOMContentLoaded', function() {
       </script><div id="container">
 <div id="container-inner">
 <div id="mothership"><ul>
-<li><a href="https://partners.ubuntu.com">Partners</a></li>
-<li><a href="https://www.ubuntu.com/support/community-support">Support</a></li>
-<li><a href="https://community.ubuntu.com">Community</a></li>
-<li><a href="https://www.ubuntu.com">Ubuntu.com</a></li>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
 </ul></div>
 <div id="header">
 <h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
 <ul id="main-menu">
 <li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
 <li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
-<li><a href="https://community.ubuntu.com/t/contribute/26">Contribute</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
 </ul>
 </div>
 <div id="menu-search"><div id="search-box">

@@ -1,0 +1,234 @@
+<!DOCTYPE html>
+<html lang=nl>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Schermafdrukken en schermfilms</title>
+<link rel="stylesheet" type="text/css" href="nl.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.nl" title="Gids voor de Ubuntu-werkomgeving"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hulp"></span></span> Ubuntu-bureaubladhandleiding</a> » <a class="trail" href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Schermafdrukken en schermfilms</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Een deel van of heel uw scherm opslaan als afbeelding</p></li>
+<li class="list"><p class="p">Send it as a file or paste it from the clipboard</p></li>
+<li class="list"><p class="p">Een video van uw schermactiviteit opslaan</p></li>
+</ul></div></div></div>
+<div class="media media-image"><div class="inner"><img src="figures/screenshot-tool.png" width="500" class="media media-block" alt=""></div></div>
+<p class="p">U kunt een afdruk maken van uw scherm (een <span class="em">schermafdruk</span>), of een filmpje opnemen van wat er op het scherm gebeurt (een <span class="em">screencast</span>). Dit is handig als u bijvoorbeeld iemand wilt laten zien hoe je iets doet op de computer. Schermafdrukken en screencasts zijn gewoon afbeeldings- en videobestanden, dus u kunt ze in een e-mail versturen en ze op het internet delen.</p>
+</div>
+<section id="screenshot"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Een schermafdruk maken</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Press the <span class="key"><kbd>Print</kbd></span> key or launch <span class="app">Take a Screenshot</span>
+      from the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
+      overview.</p></li>
+<li class="steps">
+<p class="p">The screenshot overlay presents you with handles to select the area to
+      capture, and
+      <span class="media"><span class="media media-image"><img src="figures/camera-photo-symbolic.svg" class="media media-inline" alt=""></span></span>
+      indicates screenshot (still image) mode.</p>
+<div class="note" title="Opmerking">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Klik op de muisaanwijzerknop om de muisaanwijzer in de schermafdruk op te nemen.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Click and drag the area you want for the screenshot using the handles
+      or the crosshair pointer.</p></li>
+<li class="steps"><p class="p">To capture the selected area, click the big round button.</p></li>
+<li class="steps"><p class="p">To capture the entire screen, click <span class="gui">Screen</span> and then click
+       the big round button.</p></li>
+<li class="steps"><p class="p">To capture a window, click <span class="gui">Window</span>. An overview of all the
+       open windows is displayed with the active window checked. Click to choose
+       a window and then click the big round button.</p></li>
+</ol></div></div></div></div></div>
+</div></section><section id="locations"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Waar gaan ze naartoe?</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">A screenshot image is automatically saved in the
+      <span class="file">Pictures/Screenshots</span> folder in your home folder with a file
+      name that begins with <span class="file">Screenshot</span> and includes the date and
+      time it was taken.</p></li>
+<li class="list"><p class="p">De afbeelding wordt ook op het klembord opgeslagen, zodat u ze onmiddellijk in een afbeeldingsbewerker kunt plakken, of kunt delen op sociale media.</p></li>
+<li class="list"><p class="p">A screencast video is automatically saved in your
+      <span class="file">Videos/Screencasts</span> folder in your home folder, with a file
+      name that starts with <span class="file">Screencast</span> and includes the date and
+      time it was taken.</p></li>
+</ul></div></div></div></div></div>
+</div></section><section id="screencast"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Een scherm opnemen</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">U kunt een video-opname maken van wat er op uw scherm gebeurt:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Press the <span class="key"><kbd>Print</kbd></span> key or launch <span class="app">Take a Screenshot</span>
+      from the <span class="gui"><a href="shell-introduction.html.nl#activities" title="Activiteiten-overzicht">Activities</a></span>
+      overview.</p></li>
+<li class="steps">
+<p class="p">Click
+      <span class="media"><span class="media media-image"><img src="figures/camera-video-symbolic.svg" class="media media-inline" alt=""></span></span>
+      to switch to screencast mode.</p>
+<div class="note" title="Opmerking">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Klik op de muisaanwijzerknop om de muisaanwijzer in de schermopname op te nemen.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Choose <span class="gui">Selection</span> or <span class="gui">Screen</span>. For
+      <span class="gui">Selection</span>, click and drag the area you want for the screencast
+      using the handles or the crosshair pointer.</p></li>
+<li class="steps">
+<p class="p">Click the big round red button to start recording what is on your
+      screen.</p>
+<p class="p">A red indicator is displayed in the top right corner of the screen
+      when the recording is in progress, showing the elapsed seconds.</p>
+</li>
+<li class="steps"><p class="p">Once you have finished, click the red indicator
+      <span class="media"><span class="media media-image"><img src="figures/topbar-media-record.svg" class="media media-inline" alt=""></span></span>
+      in the top bar.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section id="keyboard-shortcuts"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Sneltoetsen</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Within the screenshot feature, you can use these keyboard shortcuts:</p>
+<div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>S</kbd></span></p></td>
+<td><p class="p">Select area</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>C</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Capture screen</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>W</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Capture window</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>P</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Toggle between show and hide pointer</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>V</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Toggle between screenshot and screencast</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Enter</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Capture, also activated by <span class="key"><kbd>Space</kbd></span> or
+    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
+</tr>
+</table></div></div></div>
+<p class="p">These shortcuts can be used to bypass the screenshot feature:</p>
+<div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td><p class="p">Capture the window that currently has focus</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Capture the entire screen</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Start recording a screencast</p></td>
+</tr>
+</table></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Meer informatie</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="tips.html.nl" title="Tips &amp; trucs">Tips &amp; trucs</a><span class="desc"> — Haal meer uit Gnome met deze handige tips.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

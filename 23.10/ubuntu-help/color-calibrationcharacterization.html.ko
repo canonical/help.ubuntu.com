@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>보정과 특성화의 차이는 무엇인가요?</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="prefs.html.ko" title="사용자 및 시스템 설정">설정</a> » <a class="trail" href="color.html.ko" title="색 관리">색</a> › <a class="trail" href="color.html.ko#calibration" title="보정">보정</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="hardware.html.ko" title="하드웨어 및 드라이버">하드웨어</a> » <a class="trail" href="color.html.ko" title="색 관리">색</a> › <a class="trail" href="color.html.ko#calibration" title="보정">보정</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">보정과 특성화의 차이는 무엇인가요?</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">여러 사람이 보정과 특성화의 차이를 애초부터 혼동합니다. 보정은 장치의 색 동작을 수정하는 과정입니다. 보통 두가지 방식으로 처리합니다:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">조종 방식을 바꾸거나 내부 설정을 바꿈</p></li>
+<li class="list"><p class="p">색상 채널에 커브 적용</p></li>
+</ul></div></div></div>
+<p class="p">보정의 개념은 장치의 색 반응에 따라 지정 상태로 두는 개념입니다. 종종 재현 가능한 동작의 일일 정비의 일환으로 활용하기도 합니다. 보통 보정은 장치 또는 시스템에 대해 장치 설정을 기록하거나 채널별 보정 커브로 기록하는 파일 형식으로 저장합니다.</p>
+<p class="p">특성화 (또는 프로파일링)은 장치 색상 재현 및 반응에 대한 <span class="em">기록</span> 방식입니다. 보통 이 결과는 장치 ICC 프로파일로 저장합니다. 어떤 프로파일은 어떤 방식으로든 수정 색상을 저장하지 않습니다. CMM(색상 관리 모듈) 또는 색 관련 프로그램에서 다른 장치 프로파일을 활용하여 시스템에서 색을 수정할 수 있게 합니다. 두 장치간 특성을 아는 유일한 방식을 통해 어떤 장치에서 표현하는 색 정보를 다른 장치로 (올바르게) 전송할 수 있습니다.</p>
+<div class="note" title="알림">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">참고로 특성화(프로파일) 과정은 장치 보정 상태가 특성화 상태와 동일할 경우에만 적절하다고 볼 수 있습니다.</p></div></div></div>
+</div>
+<p class="p">프로파일을 보여주는 경우 몇가지 부가적인 혼동이 있을 수 있는데, 보통 보정 정보를 편의상 프로파일에 저장하기 때문입니다. 관례상 보정 정보는 <span class="em">vcgt</span> 태그에 저장합니다. 프로파일에 저장하긴 하지만, 일반적인 ICC 기반 도구나 프로그램이 알아채지 못하며, 심지어 이 보정 정보로 할 수 있는 일은 아무것도 없습니다. 이와 유사하게, 일반 디스플레이 보정 도구와 프로그램은 ICC 특성화 (프로파일) 정보를 인지하거나 이 정보로 취할 수 있는 동작은 아무것도 없습니다.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links "><a href="color.html.ko#calibration" title="보정">보정</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

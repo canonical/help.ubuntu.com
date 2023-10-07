@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>顶栏的图标有什么作用？</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="shell-overview.html.zh-CN" title="您的桌面">桌面</a> › <a class="trail" href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">顶栏的图标有什么作用？</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">本页将解释位于屏幕右上角的图标的含义。更具体地说，本节将介绍系统提供的图标的不同变化。</p>
+<div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="status-icons.html.zh-CN#universalicons" title="辅助功能图标">辅助功能图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#audioicons" title="音频图标">音频图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#batteryicons" title="电池图标">电池图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#bluetoothicons" title="蓝牙图标">蓝牙图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#networkicons" title="网络图标">网络图标</a></li>
+<li class="links "><a href="status-icons.html.zh-CN#othericons" title="其他图标">其他图标</a></li>
+</ul></div></div></div>
+</div>
+<section id="universalicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">辅助功能图标</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-accessibility.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">允许您快速切换各种辅助功能设置。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-pointer.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">指示使用悬停点击时将发生的点击类型。</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="a11y.html.zh-CN" title="辅助功能">了解更多关于辅助功能的信息。</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="a11y-dwellclick.html.zh-CN" title="通过悬停产生点击">了解更多关于悬停点击的信息。</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="audioicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">音频图标</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-audio-volume.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">指示音箱或耳机的音量。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-audio-volume-muted.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">音箱或耳机处于静音状态。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-microphone-sensitivity.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">指示麦克风的灵敏度。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-microphone-sensitivity-muted.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">麦克风处于静音状态。</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="sound-volume.html.zh-CN" title="更改音量大小">了解更多关于音量的信息。</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section id="batteryicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">电池图标</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-battery-charging.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">指示电池充电时的电量。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-battery-level-100-charged.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">电池正在充电且已充满。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-battery-discharging.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">指示电池未充电时的电量。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-battery-level-100.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">电池满电未在充电。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-system-shutdown.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">在没有电池的系统上显示电源图标。</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="power-status.html.zh-CN" title="检查电池状态">了解更多关于电池状态的信息。</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section id="bluetoothicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">蓝牙图标</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">飞行模式开启。蓝牙在飞机模式开启时会被禁用。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-bluetooth-active.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">蓝牙设备已配对且正在使用。该图标仅在有活动设备时才会显示，而非在蓝牙启用时就会显示。</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.zh-CN" title="关闭无线网络（飞行模式）">了解更多关于飞行模式的信息。</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="bluetooth.html.zh-CN" title="蓝牙">了解更多关于蓝牙的信息。</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="networkicons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">网络图标</span></h2></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="table"><div class="inner">
+<div class="title title-table"><h3><span class="title">无线（Wi-Fi）连接</span></h3></div>
+<div class="region"><table class="table">
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">飞行模式已开启。无线网络在飞行模式开启时会被禁用。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">正在连接无线网络。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wireless-signal.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">指示无线网络连接的强度。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-signal-none.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已连接无线网络，但没有信号。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-connected.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已连接无线网络。只有在无法确定信号强度的情况下才会显示此图标，例如连接到临时网络时。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-wireless-no-route.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已连接无线网络，但无法访问互联网。这可能是由于您的网络配置错误，也可能是由于您的互联网服务提供商出现故障。</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.zh-CN" title="关闭无线网络（飞行模式）">了解更多关于飞行模式的信息。</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-connect.html.zh-CN" title="连接到一个无线网络">了解更多关于无线网络的信息。</a></span></p></li>
+</ul></div></div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h3><span class="title">蜂窝网络（移动宽带）</span></h3></div>
+<div class="region"><table class="table">
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-airplane-mode.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">飞行模式已开启。移动网络在飞行模式开启会被禁用。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">正在连接移动网络。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-cellular-signal.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">指示移动网络连接的强度。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-signal-none.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已连接移动网络，但没有信号。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-network-cellular-connected.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已连接移动网络。只有在无法确定信号强度的情况下，例如通过蓝牙连接时，才会显示该图标。如果可以确定信号强度，则会显示信号强度图标。</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="net-wireless-airplane.html.zh-CN" title="关闭无线网络（飞行模式）">了解更多关于飞行模式的信息。</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="net-mobile.html.zh-CN" title="连接到移动宽带">了解更多关于蜂窝网络的信息。</a></span></p></li>
+</ul></div></div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h3><span class="title">有线连接</span></h3></div>
+<div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">正在连接有线网络。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已连接有线网络。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired-disconnected.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已断开网络连接。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-wired-no-route.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已连接有线网络，但无法访问互联网。这可能是由于您的网络配置错误，也可能是由于您的互联网服务提供商出现故障。</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="net-wired-connect.html.zh-CN" title="连接到有线网络（以太网）">了解更多关于有线网络的信息。</a></span></p></li></ul></div></div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h3><span class="title">VPN（虚拟专用网络）</span></h3></div>
+<div class="region"><table class="table">
+<tr>
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-vpn-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">正在连接虚拟专用网络。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image"><div class="inner"><img src="figures/topbar-network-vpn.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">已连接虚拟专用网络。</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="net-vpn-connect.html.zh-CN" title="连接到 VPN">了解更多关于虚拟专用网络的信息。</a></span></p></li></ul></div></div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">亦见</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.zh-CN" title="无线网络">无线网络</a><span class="desc"> — 连接到无线网络，包括隐藏网络和由手机连接创建的网络。</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section id="othericons"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">其他图标</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="table"><div class="inner"><div class="region"><table class="table">
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-input-method.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">指示当前使用的键盘布局或输入法。点击可选择其他布局。只有当您配置了多种输入法时，才会显示键盘布局菜单。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-find-location.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">当前有应用程序正在访问您的位置。您可以从菜单中禁用位置访问。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-night-light.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">夜灯会改变显示屏的色温，以减轻眼睛疲劳。您可以从菜单中暂时禁用夜灯。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-media-record.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">您正在录制整个屏幕的录像。</p></td>
+</tr>
+<tr>
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-screen-shared.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">当前有应用程序正在共享屏幕或其他窗口。</p></td>
+</tr>
+<tr class="shade">
+<td><div class="media media-image floatend"><div class="inner"><img src="figures/topbar-thunderbolt-acquiring.svg" class="media media-block" alt=""></div></div></td>
+<td><p class="p">连接了雷电设备，如扩展坞。</p></td>
+</tr>
+</table></div></div></div>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="keyboard-layouts.html.zh-CN" title="使用其他键盘布局">了解更多关于键盘布局的信息。</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="privacy-location.html.zh-CN" title="控制定位服务">了解更多关于隐私和定位服务的信息。</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="display-night-light.html.zh-CN" title="调整屏幕色温">了解更多关于夜灯和色温的信息。</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="screen-shot-record.html.zh-CN" title="截图和录制视频">了解更多关于截屏和录屏的信息。</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.zh-CN#apps" title="应用程序和窗口">应用程序和窗口</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

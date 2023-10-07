@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Usuário &amp; configurações do sistema</title>
+<link rel="stylesheet" type="text/css" href="pt-BR.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Usuário &amp; configurações do sistema</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="about.html.pt-BR" title="About"><span class="title">About</span><span class="linkdiv-dash"> — </span><span class="desc">View information about your system.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-sharing.html.pt-BR" title="Configurações de compartilhamento"><span class="title">Configurações de compartilhamento</span><span class="linkdiv-dash"> — </span><span class="desc">Compartilhe sua tela ou compartilhe mídia e outros arquivos em uma rede local ou Bluetooth.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy.html.pt-BR" title="Configurações de privacidade"><span class="title">Configurações de privacidade</span><span class="linkdiv-dash"> — </span><span class="desc">Bloqueie sua tela, remova arquivos temporários e controle o acesso a dispositivos como câmeras e microfones.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-accounts.html.pt-BR" title="Contas de usuários"><span class="title">Contas de usuários</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione e remova contas de usuário. Altere senhas. Defina privilégios administrativos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts.html.pt-BR" title="Contas on-line"><span class="title">Contas on-line</span><span class="linkdiv-dash"> — </span><span class="desc">Conecte suas contas a vários serviços on-line.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock.html.pt-BR" title="Data &amp; hora"><span class="title">Data &amp; hora</span><span class="linkdiv-dash"> — </span><span class="desc">Use relógios e fusos horários, e mantenha controle dos compromissos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power.html.pt-BR" title="Energia &amp; bateria"><span class="title">Energia &amp; bateria</span><span class="linkdiv-dash"> — </span><span class="desc">Visualize o status da bateria e altere as configurações de economia de energia.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color.html.pt-BR" title="Gerenciamento de cores"><span class="title">Gerenciamento de cores</span><span class="linkdiv-dash"> — </span><span class="desc">Calibre perfis de cores em monitores, impressoras e outros dispositivos.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="prefs-display.html.pt-BR" title="Monitor &amp; tela"><span class="title">Monitor &amp; tela</span><span class="linkdiv-dash"> — </span><span class="desc">Defina seu plano de fundo, configure monitores e gerencie as temperaturas de cor.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse.html.pt-BR" title="Mouse, touchpad &amp; touchscreen"><span class="title">Mouse, touchpad &amp; touchscreen</span><span class="linkdiv-dash"> — </span><span class="desc">Ajuste o comportamento dos dispositivos de apontamento para atender aos requisitos pessoais.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language.html.pt-BR" title="Região &amp; idioma"><span class="title">Região &amp; idioma</span><span class="linkdiv-dash"> — </span><span class="desc">Defina seus idiomas, regiões, formatos e disposições de teclado preferidos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="media.html.pt-BR#sound" title="Som básico"><span class="title">Som</span><span class="linkdiv-dash"> — </span><span class="desc">Ajuste o volume para diferentes aplicativos e configure diferentes alto-falantes e microfones.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.pt-BR" title="Startup Applications"><span class="title">Startup Applications</span><span class="linkdiv-dash"> — </span><span class="desc">Choose what applications to start when you log in.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom.html.pt-BR" title="Tablet Wacom Graphics"><span class="title">Tablet Wacom Graphics</span><span class="linkdiv-dash"> — </span><span class="desc">Configure seu tablet gráfico Wacom, incluindo o modo de rastreamento e para qual monitor ele está mapeado.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard.html.pt-BR" title="Teclado"><span class="title">Teclado</span><span class="linkdiv-dash"> — </span><span class="desc">Selecione disposições de teclado internacionais e use os recursos de acessibilidade do teclado.</span></a></div>
+</div>
+</div></div></div></div></div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informações</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.pt-BR" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

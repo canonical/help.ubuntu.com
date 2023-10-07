@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>使用触摸板和触摸屏手势</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件与驱动">硬件</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标，触摸板和触摸屏">鼠标</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="prefs.html.zh-CN" title="用户与系统设置">设置</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标，触摸板和触摸屏">鼠标</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">使用触摸板和触摸屏手势</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">触摸板或触摸屏上的多点触控手势可以在用于系统导航，也可以用于应用程序。</p>
+<p class="p">许多应用程序都支持使用手势。在<span class="app">文档查看器</span>中，可以用手势缩放和滑动文档，<span class="app">图像查看器</span>允许您缩放、旋转和平移图像。</p>
+</div>
+<section id="system"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">系统手势</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="table"><div class="inner"><div class="region"><table class="table" style="border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-overview.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td>
+<p class="p"><span class="em">打开活动概览和应用程序视图</span></p>
+<p class="p">三根手指按住触摸板或触摸屏并向上滑动打开活动概览。</p>
+<p class="p">要打开应用程序视图，请再次用三根手指按住并向上滑动。</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-workspaces.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">切换工作区</span></p>
+<p class="p">三根手指按住触摸板或触摸屏并向左或向右滑动。</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-unfullscreen.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">退出全屏</span></p>
+<p class="p">在触摸屏上，从顶部边缘向下拖动可退出任意窗口的全屏模式。</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-osk.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">调出屏幕键盘</span></p>
+<p class="p">在触摸屏上，如果启用了屏幕键盘，从底部边缘向上拖动将弹出<span class="link"><a href="keyboard-osk.html.zh-CN" title="使用屏幕键盘">屏幕键盘</a></span>。</p>
+</td>
+</tr>
+</table></div></div></div></div></div>
+</div></section><section id="apps"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">应用程序手势</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="table"><div class="inner"><div class="region"><table class="table" style="border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-tap.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td>
+<p class="p"><span class="em">打开项目，启动应用程序，播放歌曲</span></p>
+<p class="p">轻触项目。</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-hold.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">选择项目并列出其可执行的操作</span></p>
+<p class="p">按住一到两秒钟。</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-scroll.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">滚动屏幕上的区域</span></p>
+<p class="p">拖动：一根手指按住屏幕并滑动。</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-pinch-to-zoom.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">更改视图的缩放级别（<span class="app">地图</span>，<span class="app">照片</span>）</span></p>
+<p class="p">两指捏抻：用两根手指触摸屏幕并靠拢或分开。</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-rotate.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">旋转照片</span></p>
+<p class="p">两指旋转：用两根手指触摸屏幕并旋转。</p>
+</td>
+</tr>
+</table></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="mouse.html.zh-CN" title="鼠标，触摸板和触摸屏">鼠标，触摸板和触摸屏</a><span class="desc"> — 调整指向设备的行为以满足个人需求。</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

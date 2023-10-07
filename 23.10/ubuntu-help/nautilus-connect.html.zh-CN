@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>浏览服务器或网络共享中的文件</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="files.html.zh-CN" title="文件、文件夹与搜索">文件</a> › <a class="trail" href="files.html.zh-CN#more-file-tasks" title="更多文件相关的事务">更多文件相关的事务</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="net.html.zh-CN" title="联网、网络和电子邮件">联网</a> » <a class="trail" href="sharing.html.zh-CN" title="共享">共享</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">浏览服务器或网络共享中的文件</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">您可以连接到一个服务器或网络共享文件夹上，浏览和查看里面的文件，就像是查看本地计算机一样。这在互联网中下载和上传文件很方便，或者在局域网中跟其他人共享文件。</p>
+<p class="p">要通过网络浏览文件，请从<span class="gui">活动</span>概览中打开<span class="app">文件</span>应用程序，然后单击侧边栏中的<span class="gui">其他位置</span>。文件管理器将找到您的局域网中任何能提供文件服务的计算机。如果想连接到互联网上的服务器或者没有看到想找找的计算机，您可以通过输入其互联网/网络地址来手动连接。</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">连接到一台文件服务器</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">在文件管理器中，点击侧边栏中的<span class="gui">其他位置</span>。</p></li>
+<li class="steps">
+<p class="p">在<span class="gui">连接到服务器</span>中，以<span class="link"><a href="#urls" title="输入 URL 网址">URL</a></span> 的形式输入服务器的地址。有关支持的 URL 的详细信息，请参阅<span class="link"><a href="#types" title="服务器类型">下面的列表</a></span>。</p>
+<div class="note" title="备注">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">如果您之前连接过那个服务器，还可以点击<span class="gui">最近连接过的服务器</span>列表。</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">点击<span class="gui">连接</span>，将显示出服务器上的文件。您可以像浏览自己电脑上的文件一样浏览这些文件。该服务器也将被添加到侧边栏中，以便您将来可以快速访问。</p></li>
+</ol></div>
+</div></div>
+</div>
+<section id="urls"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">输入 URL 网址</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p"><span class="em">URL</span> 或<span class="em">统一资源定位符</span>，是一个指向网络位置或文件的地址，网址格式如下：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com/folder</span></p></div></div></div></div>
+<p class="p"><span class="em">scheme</span> 指定服务器的协议或类型。地址的 <span class="em">example.com</span> 部分称为<span class="em">域名</span>。如果需要用户名，可在服务器名称之前插入：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://username@servername.example.com/folder</span></p></div></div></div></div>
+<p class="p">一些服务需要指定端口号，插在域名之后：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">scheme://servername.example.com:port/folder</span></p></div></div></div></div>
+<p class="p">下面列出了支持的各种服务类型范例。</p>
+</div></div>
+</div></section><section id="types"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">服务器类型</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">您可以连接到不同类型的服务器。有些服务器是公开的，允许任何人连接。另外一些则需要用户名和密码登录。</p>
+<p class="p">在服务器上您可能没有权限去执行特定的操作，比如在一个公共 FTP 站点上，您不大可能被允许删除文件。</p>
+<p class="p">您输入的网址，取决于服务器使用的文件共享方式。</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">SSH</dt>
+<dd class="terms">
+<p class="p">如果您有服务器的 <span class="em">SSH</span> 帐号，您可以使用它来连接。许多网络主机提供 SSH 帐号，成员可以安全上传文件，SSH 服务器总是需要用户登录。</p>
+<p class="p">典型的 SSH 网址如下所示：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ssh://username@servername.example.com/folder</span></p></div></div></div></div>
+<p class="p">当使用 SSH 时，您发送的所有数据（包括您的密码）都会被加密，这样内容就不会被网络上的其他用户看见了。</p>
+</dd>
+<dt class="terms">FTP（使用登录）</dt>
+<dd class="terms">
+<p class="p">使用 FTP 是一种在互联网上传输文件的流行方法。因为通过 FTP 传输的数据未经加密，所以许多服务器现在都提供 SSH 访问。但是，有些服务器仍可以或要求使用 FTP 上传或下载文件。要求登录使用的 FTP 站点通常允许您删除和上传文件。</p>
+<p class="p">典型的 FTP 网址如下所示：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://username@ftp.example.com/path/</span></p></div></div></div></div>
+</dd>
+<dt class="terms">公开的 FTP</dt>
+<dd class="terms">
+<p class="p">允许您下载文件的网站有时会提供公开或匿名的 FTP 访问。这些服务器不需要用户名和密码，通常也不允许您删除或上传文件。</p>
+<p class="p">典型的匿名 FTP 服务器网址如下所示：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">ftp://ftp.example.com/path/</span></p></div></div></div></div>
+<p class="p">一些匿名 FTP 站点要求您使用公共用户名和密码登录，或使用公共用户名，以您的电子邮件地址作为密码。对于这些服务器，请使用 <span class="gui">FTP（使用登录）</span>模式，并使用该站点指定的凭证。</p>
+</dd>
+<dt class="terms">Windows 共享</dt>
+<dd class="terms">
+<p class="p">Windows 系统使用一个私有协议在局域网上共享文件，Windows 网络中的计算机有用<span class="em">域</span>来分组，用于更好地组织和控制访问。如果您有访问远程计算机的权限，您可以通过文件管理器来连接一个 Windows 共享。</p>
+<p class="p">典型的 Windows 共享网址如下所示：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">smb://servername/Share</span></p></div></div></div></div>
+</dd>
+<dt class="terms">WebDAV 和安全 WebDAV</dt>
+<dd class="terms">
+<p class="p">WebDAV 基于网络上使用的 HTTP 协议，它有时用于本地网络上的文件共享和互联网上的文件存储。如果您连接的服务器支持安全连接，您应该选用此项。安全 WebDAV 使用强大的 SSL 加密，因而其他用户无法看到您的密码。</p>
+<p class="p">WebDAV 的 URL 看起来像这样：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">dav://example.hostname.com/path</span></p></div></div></div></div>
+</dd>
+<dt class="terms">NFS 共享</dt>
+<dd class="terms">
+<p class="p">UNIX 计算机传统上使用网络文件系统协议在本地网络上共享文件。在 NFS 中，其安全性是基于访问共享的用户的 UID，所以在连接时不需要验证凭证。</p>
+<p class="p">典型的 NFS 共享 URL 如下所示：</p>
+<div class="example"><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="sys">nfs://servername/path</span></p></div></div></div></div>
+</dd>
+</dl></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="sharing.html.zh-CN" title="共享">共享</a><span class="desc"> — 共享您的桌面、文件或媒体。</span>
+</li>
+<li class="links "><a href="files.html.zh-CN#more-file-tasks" title="更多文件相关的事务">更多文件相关的事务</a></li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">亦见</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-share.html.zh-CN" title="通过电子邮件分享文件">通过电子邮件分享文件</a><span class="desc"> — 从文件管理器轻松地传文件给您的电子邮件联系人。</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

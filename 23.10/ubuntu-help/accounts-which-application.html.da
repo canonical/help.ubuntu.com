@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang=da>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Onlinetjenester og programmer</title>
+<link rel="stylesheet" type="text/css" href="da.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="accounts.html.da" title="Onlinekonti">Konti</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Onlinetjenester og programmer</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Når du har tilføjet en onlinekonto, så kan programmerne bruge kontoen til de tilgængelige tjenester som du ikke har <span class="link"><a href="accounts-disable-service.html.da" title="Styr hvilke onlinetjenester en konto har adgang til">deaktiveret</a></span>. Forskellige udbydere leverer forskellige tjenester. Siden viser de forskellige tjenester og nogle af de programmer som er kendt for at bruge dem.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">Kalender</dt>
+<dd class="terms"><p class="p">Tjenesten Kalender giver dig mulighed for at vise, tilføje og redigere begivenheder i en onlinekalender. Den bruges af programmer som <span class="app">Kalender</span>, <span class="app">Evolution</span> og <span class="app">California</span>.</p></dd>
+<dt class="terms">Chat</dt>
+<dd class="terms"><p class="p">Tjenesten Chat giver dig mulighed for at chatte med dine kontakter på populære platforme med straksbeskeder. Den bruges af programmet <span class="app">Empathy</span>.</p></dd>
+<dt class="terms">Kontakter</dt>
+<dd class="terms"><p class="p">Tjenesten Kontakter giver dig mulighed for at se de detaljer der er udgivet for dine kontakter på diverse tjenester. Den bruges af programmer som <span class="app">Kontakter</span> og <span class="app">Evolution</span>.</p></dd>
+<dt class="terms">Filer</dt>
+<dd class="terms"><p class="p">Tjenesten Filer tilføjer en fjernfilplacering ligesom hvis du havde tilføjet en med funktionaliteten <span class="link"><a href="nautilus-connect.html.da" title="Gennemse filer på en server eller netværksdeling">Forbind til server</a></span> i filhåndteringen. Du kan få adgang til fjernfiler med filhåndteringen samt gennem dialoger til at åbne og gemme filer i ethvert program.</p></dd>
+<dt class="terms">Post</dt>
+<dd class="terms"><p class="p">Tjenesten Post giver dig mulighed for at sende og modtage e-mail gennem en e-mailudbyder som Google. Den bruges af <span class="app">Evolution</span>.</p></dd>
+<dt class="terms">Billeder</dt>
+<dd class="terms"><p class="p">Tjenesten Billeder giver dig mulighed for at vise dine onlinebilleder såsom dem du indsender på Facebook. Du kan vise dine billeder med programmet <span class="app">Billeder</span>.</p></dd>
+<dt class="terms">Printere</dt>
+<dd class="terms"><p class="p">Tjenesten Printere giver dig mulighed for at sende en PDF-kopi til en udbyder fra udskriftsdialogen i ethvert program. Udbyderen leverer måske udskriftstjenester eller fungerer blot som et lager til PDF'en som du kan downloade og udskrive senere.</p></dd>
+</dl></div></div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="accounts.html.da" title="Onlinekonti">Onlinekonti</a><span class="desc"> — Forbind til dine konti med forskellige onlinetjenester.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Se også</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="accounts-disable-service.html.da" title="Styr hvilke onlinetjenester en konto har adgang til">Styr hvilke onlinetjenester en konto har adgang til</a><span class="desc"> — Nogle onlinekonti kan bruges til at få adgang til flere tjenester (såsom kalender og e-mail). Du kan styre hvilke tjenester der kan bruges af programmer.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

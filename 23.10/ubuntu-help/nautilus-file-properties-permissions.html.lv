@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang=lv>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Iestatīt atļaujas datnēm</title>
+<link rel="stylesheet" type="text/css" href="lv.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.lv" title="Ubuntu darbvirsmas rokasgrāmata"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Palīdzība"></span></span> Ubuntu darbvirsmas rokasgrāmata</a> » <a class="trail" href="files.html.lv" title="Datnes, mapes un meklēšana">Datnes</a> › <a class="trail" href="files.html.lv#faq" title="Padomi un jautājumi">Padomi un jautājumi</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Iestatīt atļaujas datnēm</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Jūs varat iestatīt atļaujas datnēm, lai kontrolētu, kas var skatīt un rediģēt jūsu datnes. Lai apskatītu un iestatītu atļaujas datnēm, nospiediet labo peles pogu un izvēlieties <span class="gui">Īpašības</span>, izvēlieties <span class="gui">Atļaujas</span> cilni.</p>
+<p class="p">Skatiet <span class="link"><a href="#files" title="Datnes">Datnes</a></span> un <span class="link"><a href="#folders" title="Mapes">Mapes</a></span>, lai redzētu atļauju veidus, kurs varat iestatīt.</p>
+</div>
+<section id="files"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Datnes</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Jūs varat iestatīt atļaujas datnes īpašniekam, īpašnieku grupai vai citiem sistēmas lietotājiem. Savām datnēm jūs varat iestatīt tikai lasāmas datnes vai lasāmas un rediģējamas datnes atļauju. Iestatot datnei tikai lasāmas datnes atļauju, jūs nevarēsiet nejauši tajā veikt izmaiņās.</p>
+<p class="p">Katrs jūsu datora lietotājs pieder kādai grupai. Mājas datoros bieži vien katram lietotājam ir sava grupa un grupu atļaujas netiek bieži lietotas.  Korporatīvajā vidē dažreiz grupas tiek izmantotas nodaļās vai projektos. Līdzīgi kā katra datne pieder īpašniekam, tā pieder arī grupai. Jūs varat iestatīt datnēm grupas un kontroles atļaujas visiem grupas lietotājiem. Jūs varat iestatīt datņu grupas tikai grupām, kurām piederat.</p>
+<p class="p">Jūs varat arī iestatīt atļaujas citiem lietotājiem datņu grupā.</p>
+<p class="p">If the file is a program, such as a script, you must select <span class="gui">Allow
+    executing file as program</span> to run it. Even with this option selected,
+    the file manager will still open the file in an application. See
+    <span class="link"><a href="nautilus-behavior.html.lv#executable" title="Izpildāmās teksta datnes">Izpildāmās teksta datnes</a></span> for more information.</p>
+</div></div>
+</div></section><section id="folders"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Mapes</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Mapēm var iestatīt atļaujas īpašniekam, grupai vai citiem lietotājiem. Skatīt informāciju augstāk par datņu atļaujām par īpašniekiem, grupām un citiem lietotājiem.</p>
+<p class="p">Atļaujas, kuras var iestatīt mapei, ir atšķirīgas no tām, kuras var iestatīt datnēm.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Nekas</span></dt>
+<dd class="terms"><p class="p">Lietotāji nevarēs pat redzēt, kādas datnes ir mapē</p></dd>
+<dt class="terms"><span class="gui">Tikai rādīt datņu sarakstu</span></dt>
+<dd class="terms"><p class="p">Lietotājs redzēs datnes, kas ir mapē, bet nevarēs tās atvērt, izveidot vai izdzēst.</p></dd>
+<dt class="terms"><span class="gui">Piekļūt datnēm</span></dt>
+<dd class="terms"><p class="p">Lietotāji varēs atvērt mapē esošās datnes (ar nosacījumu, ka tiem ir atļauja darīt to ar dotajām datnēm), bet nevarēs izveidot vai izdzēst datnes.</p></dd>
+<dt class="terms"><span class="gui">Izveidot un dzēst datnes</span></dt>
+<dd class="terms"><p class="p">Lietotājam būs pilnīga piekļuve mapei, ieskaitot datņu atvēršanu, izveidošanu uz dzēšanu.</p></dd>
+</dl></div></div></div>
+<p class="p">Jūs varat arī ātri iestatīt datņu atļaujas visām datnēm mapē, spiežot <span class="gui">Mainīt atļaujas uz iekļautajām datnēm</span>. Izmantojiet nolaižamo sarakstu, lai mainītu atļaujas iekļautajām datnēm un mapēm, tad spiediet <span class="gui">Mainīt</span>. Atļaujas tiek attiecinātas arī uz datnēm un mapēm, kas atrodas apakšmapēs jebkurā dziļumā.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Vairāk informācijas</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.lv#faq" title="Padomi un jautājumi">Padomi un jautājumi</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Skatīt arī</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="nautilus-file-properties-basic.html.lv" title="Datņu īpašības">Datņu īpašības</a><span class="desc"> — Skatiet datņu pamatinformāciju, iestatiet atļaujas un izvēlēties noklusējuma lietotni.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

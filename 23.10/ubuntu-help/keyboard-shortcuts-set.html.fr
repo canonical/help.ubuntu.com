@@ -1,0 +1,548 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Définition de raccourcis clavier</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="hardware.html.fr" title="Matériel et pilotes">Matériel</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="prefs.html.fr" title="Paramètres utilisateur et système">Paramétrages</a> » <a class="trail" href="keyboard.html.fr" title="Clavier">Clavier</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Définition de raccourcis clavier</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Pour modifier la ou les touches d’un raccourci clavier :</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Clavier</span> pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">In the <span class="gui">Keyboard Shortcuts</span> section, select <span class="gui">View and Customize Shortcuts</span>.</p></li>
+<li class="steps"><p class="p">Sélectionnez la catégorie souhaitée ou saisissez un terme de recherche.</p></li>
+<li class="steps"><p class="p">Cliquez sur la ligne comportant l’action souhaitée. La fenêtre <span class="gui">Définir un raccourci</span> s’ouvre alors.</p></li>
+<li class="steps"><p class="p">Effectuez la combinaison de touches désirée ou appuyez sur <span class="key"><kbd>Retour arrière</kbd></span> pour l’effacer, ou sur <span class="key"><kbd>Échap</kbd></span> pour annuler.</p></li>
+</ol></div></div></div>
+</div>
+<section id="defined"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Raccourcis courants prédéfinis</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Un certain nombre de raccourcis pré-configurés et qui peuvent être modifiés sont regroupés dans ces catégories :</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Accessibilité</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Diminuer la taille du texte</p></td>
+<td><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Activer ou désactiver le contraste élevé</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Augmenter la taille du texte</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Activer ou désactiver le clavier visuel</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Activer ou désactiver le lecteur d’écran</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Activer ou désactiver le zoom</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Zoom avant</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>=</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Zoom arrière</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>-</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Les lanceurs</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Dossier personnel</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> ou <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> ou <span class="key"><kbd>Explorateur</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lancer la calculatrice</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> ou <span class="key"><kbd>Calculatrice</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Démarrer le client de messagerie</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> ou <span class="key"><kbd>Messagerie</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Démarrer le navigateur d’aide</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Démarrer le navigateur web</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> ou <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> ou <span class="key"><kbd>WWW</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Recherche</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> ou <span class="key"><kbd>Recherche</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Paramètres</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Outils</kbd></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Navigation</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Masquer toutes les fenêtres normales</p></td>
+<td><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer vers l’espace de travail de gauche</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page haut</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer vers l’espace de travail de droite</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page bas</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre d’un écran vers le bas</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre d’un écran vers la gauche</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre d’un écran vers la droite</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre d’un écran vers le haut</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre d’un espace de travail vers la gauche</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>page haut</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre d’un espace de travail vers la droite</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>page bas</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre vers le dernier espace de travail</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Fin</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre vers l’espace de travail 1</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Origine</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre vers l’espace de travail 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre vers l’espace de travail 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre vers l’espace de travail 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer entre les applications</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer les contrôles système</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer les contrôles système directement</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Échap</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer vers le dernier espace de travail</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Fin</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer vers l’espace de travail 1</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Origine</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer vers l’espace de travail 2</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer vers l’espace de travail 3</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer vers l’espace de travail 4</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer entre les fenêtres</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer entre les fenêtres directement</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Échap</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer entre les fenêtres d’une application directement</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Basculer entre les fenêtres d’une application</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Captures d’écran</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Enregistrer une capture d’écran d’une fenêtre</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Impr. écran</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Enregistrer une capture de la totalité de l’écran</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Impr. écran</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lancer l’outil de capture d’écran</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Impr. écran</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Enregistrer une courte vidéo d’écran</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Son et média</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Éjecter</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Éjecter)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lancer le lecteur multimédia</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Lecteur multimédia)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Éteindre/allumer le microphone</p></td>
+<td style="border-top-style: solid;"></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Morceau suivant</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio suivant)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Mettre en pause la lecture</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Pause audio)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Lire (ou lecture/pause)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Lecture audio)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Morceau précédent</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio précédent)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Stopper la lecture</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Arrêt audio)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Baisser le volume</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Diminuer le volume sonore)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Couper le volume</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Sourdine)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Augmenter le volume</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Augmenter le volume sonore)</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Système</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Focaliser sur la notification active</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>N</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Verrouiller l’écran</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Afficher la fenêtre Éteindre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Suppr</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Restaurer les raccourcis clavier</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Échap</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Afficher toutes les applications</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Afficher la vue d’ensemble des activités</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Super</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Afficher la liste des notifications</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the system menu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Afficher la fenêtre de saisie de commande</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Saisie</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Passer à la source de saisie suivante</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Barre d’espace</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Passer à la source de saisie précédente</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Maj</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Barre d’espace</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Fenêtres</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Activer le menu de la fenêtre</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Barre d’espace</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Fermer la fenêtre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Masquer la fenêtre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Placer la fenêtre au-dessous des autres</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Maximiser la fenêtre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Maximiser la fenêtre horizontalement</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Maximiser la fenêtre verticalement</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Déplacer la fenêtre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Placer la fenêtre au-dessus des autres</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Placer la fenêtre au-dessus des autres si elle est recouverte, sinon au-dessous</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Redimensionner la fenêtre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Restaurer la fenêtre</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Activer ou désactiver le mode plein écran</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Activer ou désactiver l’état maximisé</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Afficher la fenêtre sur tous les espaces de travail ou sur un seul</p></td>
+<td style="border-top-style: solid;"><p class="p">Désactivé</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Séparer l’affichage sur la gauche</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Séparer l’affichage sur la droite</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div></div>
+</div></section><section id="custom"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Raccourcis personnalisés</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Pour créer vos propres raccourcis clavier dans les paramètres <span class="gui">Clavier</span> :</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Choisissez <span class="gui">Raccourcis personnalisés</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Ajouter un raccourci</span> si aucun raccourci personnalisé n’est encore défini. Sinon, cliquez sur le bouton <span class="gui">+</span>. La fenêtre <span class="gui">Ajouter un raccourci personnalisé</span> s’ouvre alors.</p></li>
+<li class="steps"><p class="p">Saisissez un <span class="gui">Nom</span> pour identifier le raccourci, et une <span class="gui">Commande</span> pour lancer une application. Par exemple, si vous voulez un raccourci pour ouvrir <span class="app">Rhythmbox</span>, vous pouvez le nommer <span class="input">Musique</span> et utiliser la commande <span class="input">rhythmbox</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur le bouton <span class="gui">Ajouter un raccourci</span>. Dans la fenêtre <span class="gui">Ajouter un raccourci personnalisé</span>, effectuez la combinaison de touches désirée.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Ajouter</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Le nom de la commande que vous saisissez doit être une commande système valide. Vous pouvez vérifier que la commande fonctionne en ouvrant un Terminal et en la saisissant dedans. Il est possible que la commande ouvrant une application n’aie pas exactement le même nom que l’application elle-même.</p>
+<p class="p">Si vous voulez modifier la commande qui est associée à un raccourci clavier personnalisé, cliquez sur la ligne du raccourci. La fenêtre <span class="gui">Définir un raccourci personnalisé</span> apparaît et vous pouvez modifier la commande.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard.html.fr" title="Clavier">Clavier</a><span class="desc"> — Sélectionner des agencements de clavier internationaux et utiliser les fonctionnalités d’accessibilité du clavier.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Voir aussi</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-keyboard-shortcuts.html.fr" title="Les raccourcis clavier utiles">Les raccourcis clavier utiles</a><span class="desc"> — Se déplacer dans le bureau à l’aide du clavier.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>마우스, 터치패드, 터치스크린</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="prefs.html.ko" title="사용자 및 시스템 설정">설정</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="hardware.html.ko" title="하드웨어 및 드라이버">하드웨어</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">마우스, 터치패드, 터치스크린</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="mouse-sensitivity.html.ko" title="마우스 및 터치패드 움직임 속도 조절하기"><span class="title">마우스 및 터치패드 움직임 속도 조절하기</span><span class="linkdiv-dash"> — </span><span class="desc">마우스 또는 터치패드를 사용할 때 포인터의 움직이는 속도를 바꿉니다.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-doubleclick.html.ko" title="두 번 누르기 속도 조절"><span class="title">두 번 누르기 속도 조절</span><span class="linkdiv-dash"> — </span><span class="desc">마우스 단추를 얼마나 빨리 눌러서 두 번 누르기 동작으로 취급할 지 제어합니다.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="a11y-right-click.html.ko" title="오른쪽 마우스 단추 누름 흉내"><span class="title">오른쪽 마우스 단추 누름 흉내</span><span class="linkdiv-dash"> — </span><span class="desc">오른쪽 단추 누르기 대신 왼쪽 마우스 단추를 누른 상태로 둡니다.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-lefthanded.html.ko" title="왼손 마우스 사용하기"><span class="title">왼손 마우스 사용하기</span><span class="linkdiv-dash"> — </span><span class="desc">마우스 설정에서 왼손, 오른손용 마우스 단추를 서로 바꿉니다.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="a11y-dwellclick.html.ko" title="커서 올려두어 누르기 흉내"><span class="title">커서 올려두어 누르기 흉내</span><span class="linkdiv-dash"> — </span><span class="desc"><span class="gui">자동 누르기</span>(커서 두고 누르기) 기능은 마우스 커서를 누르는 위치에 그대로 두면 눌러주는 기능입니다.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-mousekeys.html.ko" title="키패드로 마우스 단추를 누르고 마우스 포인터 움직이기"><span class="title">키패드로 마우스 단추를 누르고 마우스 포인터 움직이기</span><span class="linkdiv-dash"> — </span><span class="desc">마우스 키패드 기능을 켜서 숫자 키패드로 마우스를 제어합니다.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse-touchpad-click.html.ko" title="터치패드로 누름, 끌기, 스크롤 동작"><span class="title">터치패드로 누름, 끌기, 스크롤 동작</span><span class="linkdiv-dash"> — </span><span class="desc">터치패드에서, 누르고 끌거나 두드리기 동작으로 스크롤, 손가락 움직임을 취합니다.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="touchscreen-gestures.html.ko" title="터치패드와 터치스크린에서 손가락 움직임 사용"><span class="title">터치패드와 터치스크린에서 손가락 움직임 사용</span><span class="linkdiv-dash"> — </span><span class="desc">터치패드 또는 터치스크린의 손가락 움직임으로 데스크톱을 다룹니다.</span></a></div>
+</div>
+</div></div></div></div></div>
+<section id="problems"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">일반 문제</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="mouse-problem-notmoving.html.ko" title="마우스 포인터가 움직이지 않아요"><span class="title">마우스 포인터가 움직이지 않아요</span><span class="linkdiv-dash"> — </span><span class="desc">마우스가 왜 동작하지 않는지 점검하는 방법입니다.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="mouse-wakeup.html.ko" title="마우스가 동작하기 전에 뜸을 들여 반응해요"><span class="title">마우스가 동작하기 전에 뜸을 들여 반응해요</span><span class="linkdiv-dash"> — </span><span class="desc">마우스 움직임에 반응하기 전에 마우스를 흔들거나 눌러야 합니다.</span></a></div></div>
+</div></div></div></div></div></div>
+</div></section><section id="tips"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">비결</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="mouse-middleclick.html.ko" title="가운데 누르기"><span class="title">가운데 누르기</span><span class="linkdiv-dash"> — </span><span class="desc">프로그램 열기, 탭 열기 등에 가운데 마우스 단추를 활용합니다.</span></a></div></div>
+<div class="links-divs"></div>
+</div></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="prefs.html.ko" title="사용자 및 시스템 설정">사용자 및 시스템 설정</a><span class="desc"> — 하드웨어 설정에서 개인 정보 설정까지 그놈은 여려분을 위해 동작합니다.</span>
+</li>
+<li class="links ">
+<a href="hardware.html.ko" title="하드웨어 및 드라이버">하드웨어 및 드라이버</a><span class="desc"> — 하드웨어를 설정하고, 프린터, 디스플레이, 디스크 등의 문젤르 진단합니다.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

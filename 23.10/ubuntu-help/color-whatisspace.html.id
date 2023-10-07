@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang=id>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Apa itu ruang warna?</title>
+<link rel="stylesheet" type="text/css" href="id.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="prefs.html.id" title="Pengaturan sistem &amp; pengguna">Pengaturan</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Warna</a> › <a class="trail" href="color.html.id#profiles" title="Profil warna">Profil warna</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 23.10</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="hardware.html.id" title="Perangkat keras &amp; penggerak">Perangkat keras</a> » <a class="trail" href="color.html.id" title="Manajemen warna">Warna</a> › <a class="trail" href="color.html.id#profiles" title="Profil warna">Profil warna</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Apa itu ruang warna?</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Ruang warna adalah suatu jangkauan warna yang didefinisikan. Ruang warna yang dikenal baik termasuk sRGB, AdobeRGB, dan ProPhotoRGB.</p>
+<p class="p">Sistem visual orang bukanlan sensor RGB sederhana, tapi kita dapat mendekati bagaimana mata merespon dengan diagram kromatisitas CIE 1931 yang menunjukkan respon visual orang sebagai bentuk tapal kuda. Anda dapat melihat bahwa pada pandangan manusia ada lebih banyak tingkatan hijau yang terdeteksi daripada biru atau merah. Dengan ruang warna trikromatik seperti RGB kita merepresentasikan warna pada komputer memakai tiga nilai, yang membatasi sampai dengan pengkodean <span class="em">segi tiga</span> warna.</p>
+<div class="note" title="Catatan">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Memakai model seperti diagram kromatisitas CIE 1931 adalah penyederhanaan luar bias dari sistem visual orang, dan gamut nyata diekspresikan sebagai lambung 3D, bukan projeksi 2D. Suatu projeksi 2D dari bentuk 3D kadang bisa menyesatkan, sehingga bila ANda ingin melihat lambung 3D, gunakan aplikasi <span class="code">gcm-viewer</span>.</p></div></div></div>
+</div>
+<div class="figure"><div class="inner">
+<a href="#" class="figure-zoom" data-zoom-in-title="Tilik gambar pada ukuran normal" data-zoom-out-title="Perkecil gambar"><svg width="10" height="10" class="figure-zoom-in"><rect x="0.5" y="0.5" width="9" height="9" class="yelp-svg-stroke" stroke-width="1" fill="none"></rect><rect x="0" y="5" width="5" height="5" class="yelp-svg-fill"></rect></svg><svg width="10" height="10" class="figure-zoom-out"><rect x="0.5" y="0.5" width="9" height="9" class="yelp-svg-stroke" stroke-width="1" fill="none"></rect><polygon points="0,0 10,0 10,10 5,10 5,5 10,5 0,5" class="yelp-svg-fill"></polygon></svg></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-space.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">sRGB, AdobeRGB, dan ProPhotoRGB direpresentasikan oleh segi tiga putih</div>
+</div>
+</div></div>
+<p class="p">Pertama, melihat pada sRGB, yang merupakan ruang paling kecil dan dapat mengenkode sejumlah warna paling sedikit. Ini adalah aproksimase dari tampilan CRT berumur 10 tahun, sehingga kebanyakan monitor modern dapat menampilkan lebih banyak warna daripada ini dengan mudah. sRGB adalah standar <span class="em">kelipatan terkecil</span> dan dipakai pada sejumlah besar aplikasi (termasuk Internet).</p>
+<p class="p">AdobeRGB sering dipakai sebagai <span class="em">ruang penyuntingan</span>. Ini dapat mengenkode lebih banyak warna daripada sRGB, yang berarti Anda dapat mengubah warna dalam foto tanpa perlu khawatir bahwa warna paling menyala terpotong atau warna hitam terredam.</p>
+<p class="p">ProPhoto adalah ruang terbesar yang tersedia dan sering dipakai untuk pengarsipan dokumen. Ini dapat mengenkode hampir seluruh jangkauan warna yang terdeteksi oleh mata manusia, dan bahkan mengenkode warna yang tak dapat dideteksi mata!</p>
+<p class="p">Kini, bila ProPhoto jelas lebih baik, mengapa kita tidak memakainya untuk semua hal? Jawabannya tentang <span class="em">kuantisasi</span>. Bila Anda hanya memiliki 8 bit (256 tingkat) untuk mengenkode setiap kanal, maka suatu jangkauan yang lebih lebar akan memiliki jangkah yang lebih besar antar tiap nilai.</p>
+<p class="p">Jangkah lebih lebar berarti kesalahan lebih besar antara warna yang ditangkap dan warna yang disimpan, dan bagi beberapa warna ini adalah masalah besar. Ternyata bahwa warna-warna kunci, seperti warna kulit sangat penting, dan bahkan kesalahan kecil akan membuat pemirsa tak terlatih menyadari bahwa sesuatu dalam foto terlihat salah.</p>
+<p class="p">Tentu saja, memakai gambar 16 bit akan meninggalkan lebih banyak langkah dan kesalahan kuantisasi yang jauh lebih kecil, tapi ini melipatduakan ukuran setiap berkas gambar. Kebanyakan isi yang ada sekarang adalah 8bpp, yaitu 8 bit-per-piksel.</p>
+<p class="p">Manajemen warna adalah suatu proses untuk mengonversi dari satu ruang warna ke lainnya, dimana suatu ruang warna bisa berupa ruang terdefinisi yang dikenal baik seperti sRGB, atau ruang ubahan seperti profil pencetak atau monitor Anda.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
+<div class="region"><ul><li class="links "><a href="color.html.id#profiles" title="Profil warna">Profil warna</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lihat Juga</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="color-whatisprofile.html.id" title="Apa itu profil warna?">Apa itu profil warna?</a><span class="desc"> — Profil warna adalah berkas sederhana yang mengekspresikan respon perangkat atau suatu ruang warna.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

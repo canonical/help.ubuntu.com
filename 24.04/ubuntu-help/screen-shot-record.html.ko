@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>스크린샷과 스크린캐스트</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="tips.html.ko" title="비결과 요령">비결과 요령</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">스크린샷과 스크린캐스트</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">화면 전체 영역을 이미지로 캡쳐합니다</p></li>
+<li class="list"><p class="p">파일로 보내거나 클립보드 내용 붙여넣기</p></li>
+<li class="list"><p class="p">화면 활동을 영상으로 저장</p></li>
+</ul></div></div></div>
+<div class="media media-image"><div class="inner"><img src="figures/screenshot-tool.png" width="500" class="media media-block" alt=""></div></div>
+<p class="p">화면 사진(<span class="em">스크린샷</span>)을 찍거나 화면에서 일어나는 동작을 영상 녹화(<span class="em">스크린캐스트</span>) 할 수 있습니다. 컴퓨터에서 뭘 어떻게 해야 하는지 누군가에게 보여주려할 때 필요할 수 있습니다. 예를 들면, 스크린샷과 스크린캐스트는 일반 사진 및 비디오 파일이기에 전자메일로 보내거나 웹으로 공유할 수 있습니다.</p>
+</div>
+<section id="screenshot"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">스크린샷 찍기</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Press the <span class="key"><kbd>Print</kbd></span> key or press the screenshot button in the
+      <span class="gui"><a href="shell-introduction.html.ko#systemmenu" title="시스템 메뉴">system menu</a></span>.</p></li>
+<li class="steps">
+<p class="p">스크린샷 오버레이 에서는 캡쳐할 영역을 선택할 조절 커서를 나타내고 <span class="media"><span class="media media-image"><img src="figures/camera-photo-symbolic.svg" class="media media-inline" alt=""></span></span>에서는 스크린샷 (정지 영상) 모드를 나타냅니다.</p>
+<div class="note" title="알림">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">화면 그림에 포인터가 들어가게 하려면 포인터 단추를 누릅니다.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">조절 커서 또는 십자선 포인터를 활용하여 스크린샷을 하려는 영역을 누른 후 끌어서 선택합니다.</p></li>
+<li class="steps"><p class="p">선택 영역을 캡처하려면 둥근 큰 단추를 누릅니다.</p></li>
+<li class="steps"><p class="p">화면 전체를 캡쳐하려면 <span class="gui">화면</span>을 누른 후 둥근 큰 단추를 누릅니다.</p></li>
+<li class="steps"><p class="p">창을 캡쳐하려면 <span class="gui">창</span>을 누릅니다. 활성 창에 확인 표시를 달아둔 열어둔 모든 창의 개요 화면이 나타납니다. 창을 선택한 후 둥근 큰 단추를 누릅니다.</p></li>
+</ol></div></div></div></div></div>
+</div></section><section id="locations"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">어디로 갔을까요?</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">스크린샷 그림은 내 폴더의 <span class="file">사진/스크린샷</span> 폴더에 <span class="file">스크린샷</span>으로 시작하는 이름으로 자동으로 저장하며, 파일 이름에 스크린샷 촬영 날짜 및 시각이 들어갑니다.</p></li>
+<li class="list"><p class="p">클립보드에도 그림을 저장했기에, 그림 편집 프로그램에 바로 붙여넣기 하거나 소셜 미디어에 공유할 수 있습니다.</p></li>
+<li class="list"><p class="p">스크린캐스트 영상은 홈 폴더의 <span class="file">비디오/스크린캐스트</span> 폴더에 <span class="file">스크린캐스트</span>로 시작는 이름으로 자동으로 저장하며, 파일 이름에 스크린캐스트 촬영 날짜 및 시간이 들어갑니다.</p></li>
+</ul></div></div></div></div></div>
+</div></section><section id="screencast"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">스크린캐스트 만들기</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">화면에서 무슨 일이 일어나는지 동영상 녹화본을 만들 수 있습니다:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Press the <span class="key"><kbd>Print</kbd></span> key or press the screenshot button in the
+      <span class="gui"><a href="shell-introduction.html.ko#systemmenu" title="시스템 메뉴">system menu</a></span>.</p></li>
+<li class="steps">
+<p class="p"><span class="media"><span class="media media-image"><img src="figures/camera-video-symbolic.svg" class="media media-inline" alt=""></span></span> 아이콘을 눌러 스크린캐스트 모드로 전환합니다.</p>
+<div class="note" title="알림">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">화면 영상에 포인터를 넣으려면 포인터 단추를 누릅니다.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p"><span class="gui">선택</span>, <span class="gui">화면</span> 중 하나를 선택합니다. <span class="gui">선택</span> 하려면, 조절 커서 또는 십자선 포인터를 활용하여 원하는 스크린캐스트 영역을 누른 후 끌어서 선택합니다.</p></li>
+<li class="steps">
+<p class="p">붉은색 둥근 큰 단추를 눌러 화면 녹화를 시작합니다.</p>
+<p class="p">화면 녹화를 진행하고 있을 때 화면 우측 상단에 붉은 원 모양이 나타나며, 경과 시간을 초 단위로 나타냅니다.</p>
+</li>
+<li class="steps"><p class="p">Once you have finished, click the red indicator
+      <span class="media"><span class="media media-image"><img src="figures/topbar-media-record.svg" class="media media-inline" alt=""></span></span>
+      in the top bar.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section id="keyboard-shortcuts"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">키보드 바로 가기</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">스크린샷 기능에서 다음 키보드 바로 가기 키를 활용할 수 있습니다:</p>
+<div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>S</kbd></span></p></td>
+<td><p class="p">영역 선택</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>C</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">화면 찍기</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>W</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">창 찍기</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>P</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">포인터 표시 및 숨기기 상태 전환</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>V</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">스크린샷과 스크린캐스트 전환</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Enter</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Space</kbd></span>키 또는 <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span> 키를 눌러서도 캡쳐 기능을 켤 수 있습니다.</p></td>
+</tr>
+</table></div></div></div>
+<p class="p">이 바로 가기 키로 스크린샷 기능을 바로 활용할 수 있습니다:</p>
+<div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td><p class="p">현재 강조한 창 캡쳐</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">전체 화면 찍기</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Start recording a screencast</p></td>
+</tr>
+</table></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="tips.html.ko" title="비결과 요령">비결과 요령</a><span class="desc"> — 간단한 비결로 그놈의 많은 정보를 얻어냅니다.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

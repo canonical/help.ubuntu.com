@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Навігація за допомогою клавіатури</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.uk" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Довідка"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="hardware.html.uk" title="Обладнання і драйвери">Обладнання</a> » <a class="trail" href="keyboard.html.uk" title="Клавіатура">Клавіатура</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.uk" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Довідка"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="prefs.html.uk" title="Параметри роботи користувача і системи">Параметри</a> » <a class="trail" href="keyboard.html.uk" title="Клавіатура">Клавіатура</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.uk" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Довідка"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="a11y.html.uk" title="Доступність">Доступність</a> › <a class="trail" href="a11y.html.uk#mobility" title="Проблеми із рухливістю">Проблеми із рухливістю</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Навігація за допомогою клавіатури</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">На цій сторінці наведено подробиці щодо навігації за допомогою клавіатури для тих, хто не може користуватися мишею або іншим координатним пристроєм, або тих, хто хоче максимально користуватися клавіатурою. Опис клавіатурних скорочень, які є корисними для усіх користувачів, можна знайти у розділі <span class="link"><a href="shell-keyboard-shortcuts.html.uk" title="Корисні клавіатурні скорочення">Корисні клавіатурні скорочення</a></span>.</p>
+<div class="note note-tip" title="Підказка">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
+ <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Якщо ви не можете користуватися координатним пристроєм, подібним до миші, ви можете керувати вказівником миші за допомогою цифрового блоку на вашій клавіатурі. Див. <span class="link"><a href="mouse-mousekeys.html.uk" title="Клацання і пересування вказівника миші за допомогою клавіатури">Клацання і пересування вказівника миші за допомогою клавіатури</a></span>, щоб дізнатися більше.</p></div></div></div>
+</div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h2><span class="title">Навігація інтерфейсом користувача</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td>
+<p class="p"><span class="key"><kbd>Tab</kbd></span> і</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p>
+</td>
+<td>
+<p class="p">Пересування фокуса клавіатури між різними елементами керування. <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> пересуває між групами елементів керування, зокрема з бічної панелі до основного вмісту. <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> також може виводити з елементів керування, які використовують клавішу <span class="key"><kbd>Tab</kbd></span>, зокрема області редагування тексту.</p>
+<p class="p">Утримуйте натиснутою клавішу <span class="key"><kbd>Shift</kbd></span>, щоб фокус пересувався у зворотному порядку.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Клавіші зі стрілками</p></td>
+<td style="border-top-style: solid;"><p class="p">Пересування позначення між пунктами у окремому елементі керування або між наборами пов'язаних елементів керування. Скористайтеся клавішами зі стрілками для фокусування кнопок на панелі інструментів, вибору пунктів у списку або перегляду таблиці або вибору пункту варіанта з групи.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+клавіші зі стрілками</span></p></td>
+<td style="border-top-style: solid;"><p class="p">У перегляді списком або перегляді ґраткою пересування фокуса клавіатури на інших пункт без зміни позначеного пункту.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+клавіші зі стрілками</span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">У перегляду списком або перегляді ґраткою позначення усіх пунктів від поточного позначено пункту до нового фокусованого пункту.</p>
+<p class="p">На панелі перегляду ієрархії пункти, які містять дочірні, можна розгортати або згортати для показу або приховування дочірніх записів: розгортання натисканням комбінації <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>→</kbd></span></span> а згортання натисканням комбінації <span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>←</kbd></span></span>.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Пробіл</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Активація фокусованого елемента, зокрема кнопки, пункту позначки або пункту у списку.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Пробіл</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">У списку або таблиці із піктограмами вибір або скасування вибору фокусованого елемента без скасовування позначення інших елементів.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Alt</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Утримуйте натиснутою клавішу <span class="key"><kbd>Alt</kbd></span>, щоб побачити <span class="em">прискорювачі</span>: підкреслені літери у пунктах меню, на кнопках та інших елементах керування. Натискання <span class="key"><kbd>Alt</kbd></span> із одночасним натисканням підкресленої літери активує відповідну дію — так, наче ви клацнули лівою кнопкою миші на відповідному елементі керування.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Esc</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Вихід із меню, контекстної панелі, перемикача або діалогового вікна.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>F10</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Відкриття першого меню на панелі меню вікна. Скористайтеся клавішами зі стрілками для навігації меню.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> або</p>
+<p class="p"><span class="key"><a href="keyboard-key-menu.html.uk" title="Де розташовано клавішу Menu?"><kbd>Menu</kbd></a></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p">Відкриття контекстного меню для поточного позначеного об'єкта, так, наче ви клацнули правою кнопкою миші.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">У програмі для керування файлами відкрити контекстне меню для поточної теки так, наче ви клацнули правою кнопкою миші на фоновій частині вікна, а не на якомусь записі.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageUp</kbd></span></span></p>
+<p class="p">і</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>PageDown</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p">В інтерфейсі із вкладками перемкнутися на вкладку ліворуч або праворуч.</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h2><span class="title">Навігація стільницею</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">клавіша <span class="key"><a href="keyboard-key-super.html.uk" title="Де розташовано клавішу Super?"><kbd>Super</kbd></a></span></p></td>
+<td><p class="p">Перемикання між оглядом <span class="gui">Діяльності</span> та стільницею. На панелі огляду почніть вводити критерій пошуку для пошуку програм, записів контактів та документів.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.uk" title="Перемикання між вікнами">Швидке перемикання між вікнами</a></span>. Утримуйте натиснутою клавішу <span class="key"><kbd>Shift</kbd></span> для перемикання в оберненому порядку.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Перемикання між вікнами однієї програми або вибраної програми після <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span>.</p>
+<p class="p">У цьому клавіатурному скорочення використано клавішу <span class="key"><kbd>`</kbd></span> на клавіатурах із англійськими літерами, де клавішу <span class="key"><kbd>`</kbd></span> розташовано над клавішею <span class="key"><kbd>Tab</kbd></span>. На усіх інших клавіатурах скорочення складається з клавіші <span class="key"><kbd>Super</kbd></span> у поєднанні із клавішею, яку розташовано над клавішею <span class="key"><kbd>Tab</kbd></span>.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Передати фокус клавіатури на верхню панель. У режимі огляду <span class="gui">Діяльності</span> перемкнути фокус клавіатури між верхньою панеллю, паленню приладів, оглядом вікон, списком програм та полем пошуку. Скористайтеся клавішами зі стрілочками для здійснення навігації.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">і</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.uk" title="Аплет перемикає виводить між робочими областями">Перемкнутися між робочими областями</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Циклічний перехід вікнами однієї програми. Утримуйте натиснутою клавішу <span class="key"><kbd>Alt</kbd></span> і натискайте клавішу <span class="key"><kbd>F6</kbd></span>, аж доки не буде підсвічено потрібне вам вікно. Відпустіть клавішу <span class="key"><kbd>Alt</kbd></span>. Ця можливість подібна до можливості, яка викликається комбінацією <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>`</kbd></span></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Циклічний перехід списком усіх відкритих вікон робочого простору.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-notifications.html.uk#notificationlist" title="Список сповіщень">Відкрити список сповіщень.</a></span> Натисніть <span class="key"><kbd>Esc</kbd></span>, щоб закрити.</p></td>
+</tr>
+</table></div>
+</div></div>
+<div class="table"><div class="inner">
+<div class="title title-table"><h2><span class="title">Навігація вікнами</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
+<td><p class="p">Закрити поточне вікно.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F5</kbd></span></span> або <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Відновити початковий розмір максимізованого вікна. Скористайтеся комбінацією клавіш <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> для максимізації. <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> одразу максимізує і відновлює вікно.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Пересунути поточне вікно. Натисніть комбінацію клавіш <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span>, потім скористайтеся клавішами зі стрілками для пересування вікна. Натисніть клавішу <span class="key"><kbd>Enter</kbd></span> для завершення пересування вікна або <span class="key"><kbd>Esc</kbd></span> для повернення вікна до початкового місця.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Змінити розмір поточного вікна. Натисніть комбінацію клавіш <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span>, потім скористайтеся клавішами зі стрілками для зміни розмірів вікна. Натисніть клавішу <span class="key"><kbd>Enter</kbd></span> для завершення зміни розмірів вікна або <span class="key"><kbd>Esc</kbd></span> для повернення вікна до початкового розміру.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">і</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.uk" title="Пересування вікна на інший робочий простір">Пересунути поточне вікно на інший робочий простір</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Перемістити поточне вікно на монітор ліворуч.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Перемістити поточне вікно на монітор праворуч.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> або <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-maximize.html.uk" title="Максимізація і скасування максимізації вікна">Максимізувати</a></span> вікно. Натисніть комбінацію клавіш <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span> або <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span>, щоб відновити початковий розмір максимізованого вікна.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Мінімізувати вікно.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Максимізувати вікно вертикально уздовж лівого краю екрана. Натисніть знову, щоб відновити попередній розмір вікна. Натисніть <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span> для перемикання країв.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Максимізувати вікно вертикально уздовж правого краю екрана. Натисніть знову, щоб відновити попередній розмір вікна. Натисніть <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span> для перемикання країв.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Пробіл</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Відкрити меню вікна так, наче ви клацнули правою кнопкою миші на смужці заголовка.</p></td>
+</tr>
+</table></div>
+</div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard.html.uk" title="Клавіатура">Клавіатура</a><span class="desc"> — Вибір розкладок клавіатур інших мов і використання можливостей доступності клавіатури.</span>
+</li>
+<li class="links "><a href="a11y.html.uk#mobility" title="Проблеми із рухливістю">Проблеми із рухливістю</a></li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Дивіться також</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-keyboard-shortcuts.html.uk" title="Корисні клавіатурні скорочення">Корисні клавіатурні скорочення</a><span class="desc"> — Навігація стільницею за допомогою клавіатури.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

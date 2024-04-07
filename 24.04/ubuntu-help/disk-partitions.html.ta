@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>தொகுதிகள் மற்றும் பிரிவாக்கங்களை நிர்வகித்தல்</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="disk.html.ta" title="வட்டுகள் &amp; சேமிப்பிடம்">Disks</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">தொகுதிகள் மற்றும் பிரிவாக்கங்களை நிர்வகித்தல்</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p"><span class="em">தொகுதி</span> எனும் சொல் வன் வட்டு போன்ற சேமிப்பு சாதனத்தைக் குறிப்பிடப் பயன்படுகிறது. ஒரு சாதனத்தின் சேமிப்பிடத்தை சிறு பிரிவுகளாகப் பிரிக்க முடியும் என்பதால், இச்சொல் அந்த சாதனத்தில்  உள்ள சேமிப்பிடத்தின் ஒரு <span class="em">பகுதியையும்</span> குறிக்கலாம். உங்கள் கணினி <span class="em">மவுன்ட்டிங்</span> என்னும் நிகழ்முறையின் மூலம் இந்த சேமிப்பிடத்தை கோப்புமுறைமைகள் வழியாக அணுகக்கூடியதாக்குகிறது. USB இயக்கிகள், DVD-RWகள், SD கார்டுகள் மற்றும் பிற ஊடகங்கள் ஆகிய எவையும் மவுன்ட் செய்யப்பட்ட ஒரு தொகுதியாக இருக்கலாம். ஒரு தொகுதி மவுன்ட் செய்யப்பட்டிருந்தால் அதில் உள்ள கோப்புகளை நீங்கள் வாசிக்க (எழுதவும் சாத்தியமுள்ளது) முடியும்.</p>
+<p class="p">பொதுவாக மவுன்ட் செய்யப்பட்ட ஒரு தொகுதி <span class="em">பிரிவாக்கம்</span> என அழைக்கப்படுகிறது, ஆனாலும் அவை இரண்டுக்கும் பொருள் வேறு. “பிரிவாக்கம்” என்பது ஒரு வட்டு இயக்கியின் சேமிப்பிடத்தின் ஒரு <span class="em">உண்மையான</span> பகுதியைக் குறிக்கிறது. ஒரு பிரிவாக்கத்தை மவுன்ட் செய்த பிறகு அதில் உள்ள கோப்புகளை நீங்கள் வாசிக்க முடிவதால், அதை தொகுதி என்று குறிப்பிடலாம். தொகுதிகள் என்பதை நீங்கள் பிரிவாக்கங்கள் மற்றும் இயக்கிகள் எனும் செயல்படும் கிடங்கின் முன் கடை வாசல்கள் போலக் கருதலாம்.</p>
+</div>
+<section id="manage"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">வட்டு பயன்பாட்டைக் கொண்டு தொகுதிகளையும் பிரிவாக்கங்களையும் காணுதல், நிர்வகித்தல்</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">You can check and modify your computer’s storage volumes with the disk
+ utility.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui">Activities</span> overview and start <span class="app">Disks</span>.</p></li>
+<li class="steps"><p class="p">In the list of storage devices on the left, you will find hard disks,
+    CD/DVD drives, and other physical devices. Click the device you want to
+    inspect.</p></li>
+<li class="steps">
+<p class="p">The right pane provides a visual breakdown of the volumes and
+    partitions present on the selected device. It also contains a variety of
+    tools used to manage these volumes.</p>
+<p class="p">கவனம் தேவை: இந்தப் பயன்பாடுகளைக் கொண்டு உங்கள் வட்டிலுள்ள தரவை முற்றிலுமாக அழித்துவிடவும் முடியும்.</p>
+</li>
+</ol></div></div></div>
+<p class="p">அநேகமாக உங்கள் கணினியில் குறைந்தது ஒரு <span class="em">முதல் நிலை</span> பிரிவாக்கமும் ஒரு <span class="em">ஸ்வேப்</span> பிரிவாக்கமும் கண்டிப்பாக இருக்கும். ஸ்வேப் பிரிவாக்கம் என்பது நினைவக நிர்வாகத்திற்காக இயக்க முறைமையால் பயன்படுத்தப்படும், அது அரிதாகவே மவுன்ட் செய்யப்படும் முதல் நிலை பிரிவாக்கத்தில் தான் உங்கள் இயக்க முறைமை, பயன்பாடுகள், அமைவுகள் மற்றும் தனிப்பட்ட கோப்புகள் ஆகியன உள்ளன. பாதுகாப்பு அல்லது வசதிக்காக இந்தக் கோப்புகள் வெவ்வேறு பிரிவாக்கங்களிலும் தனித்தனியாக வைக்கப்பட்டு இருக்கலாம்.</p>
+<p class="p">One primary partition must contain information that your computer uses to
+  start up, or <span class="em">boot</span>. For this reason it is sometimes called a boot
+  partition, or boot volume. To determine if a volume is bootable, select the
+  partition and click the menu button in the toolbar underneath the partition
+  list. Then, click <span class="gui">Edit Partition…</span> and look at its
+  <span class="gui">Flags</span>. External media such as USB drives and CDs may also contain
+  a bootable volume.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="disk.html.ta" title="வட்டுகள் &amp; சேமிப்பிடம்">வட்டுகள் &amp; சேமிப்பிடம்</a><span class="desc"> — Check on disk space and control how disk space is allocated and used.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang=mr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>वायरलेस नेटवर्कशी जोडा</title>
+<link rel="stylesheet" type="text/css" href="mr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.mr" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="net.html.mr" title="Networking, web &amp; email">Networking</a> » <a class="trail" href="net-wireless.html.mr" title="Wireless networking">Wireless networking</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">वायरलेस नेटवर्कशी जोडा</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">वायरलेस सक्रीय असलेले संगणक असल्यास, तुम्ही इंटरनेटकरिता प्रवेश प्राप्त करण्यासाठी वायरलेस नेटवर्कशी जोडणी करू शकता, नेटवर्कवरील शेअर्ड फाइल्स पाहू शकता, आणि पुढे.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.mr#systemmenu" title="System menu">system menu</a></span> from the right
+    side of the top bar.</p></li>
+<li class="steps"><p class="p">Select
+    <span class="gui"><span class="media"><span class="media media-image"><img src="figures/network-wireless-disabled-symbolic.svg" class="media media-inline" alt=""></span></span>
+    Wi-Fi</span>. The Wi-Fi section of the menu will expand.</p></li>
+<li class="steps">
+<p class="p">Click the name of the network you want.</p>
+<p class="p">If the name of the network is not shown, scroll down the list. If you
+    still do not see the network, you may be out of range, or the network
+    <span class="link"><a href="net-wireless-hidden.html.mr" title="छुप्या वायरलेस नेटवर्कशी जोडा">might be hidden</a></span>.</p>
+</li>
+<li class="steps">
+<p class="p">नेटवर्क पासवर्डसह (<span class="link"><a href="net-wireless-wepwpa.html.mr" title="डबल्युइपी आणि डबल्युपीएचा अर्थ काय आहे?">एंक्रिप्शन कि</a></span>) सुरक्षित असल्यास, विनंती केल्यास पासवर्ड द्या आणि <span class="gui">जोडणी करा</span> क्लिक करा.</p>
+<p class="p">If you do not know the key, it may be written on the underside of the
+    wireless router or base station, or in its instruction manual, or you may
+    have to ask the person who administers the wireless network.</p>
+</li>
+<li class="steps"><p class="p">नेटवर्कशी जोडणी करण्याचा प्रयत्न करताना नेटवर्क चिन्ह अवतार बदलेल.</p></li>
+<li class="steps"><p class="p">If the connection is successful, the icon will change to a dot with
+    several curved bars above it
+    (<span class="media"><span class="media media-image"><img src="figures/topbar-network-wireless-signal-excellent.svg" height="28" width="28" class="media media-inline" alt=""></span></span>). More bars
+    indicate a stronger connection to the network. Fewer bars mean the
+    connection is weaker and might not be very reliable.</p></li>
+</ol></div></div></div>
+<p class="p">If the connection is not successful, you may be asked for your password
+  again or it might just tell you that the connection has been disconnected.
+  There are a number of things that could have caused this to happen. You could
+  have entered the wrong password, the wireless signal could be too weak, or
+  your computer’s wireless card might have a problem, for example. See
+  <span class="link"><a href="net-wireless-troubleshooting.html.mr" title="वायरलेस नेटवर्क समस्या निवारक">वायरलेस नेटवर्क समस्या निवारक</a></span> for more help.</p>
+<p class="p">वायरलेस नेटवर्कची मजबूत जोडणीचा अर्थ तुमच्याकडे वेगवान इंटरनेट जोडणी आहे, किंवा तुमच्याकडे वेगवान डाउनलोड गती आहे असे नाही. वायरेस जोडणी संगणकाला  <span class="em">साधनाशी जोडणी करतो जे इंटरनेट जोडणी पुरवते</span> (जसे कि राउटर किंवा मोडेम), परंतु दोन जोडणी प्रत्यक्षरित्या वेगळे आहेत, म्हणून वेगळ्या गतींवर चालेल.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.mr" title="Wireless networking">Wireless networking</a><span class="desc"> — Connect to wireless networks, including hidden networks and
+    networks created from phone tethering.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">हेही पहा</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-wrongnetwork.html.mr" title="My computer connects to the wrong network">My computer connects to the wrong network</a><span class="desc"> — Edit your connection settings, and remove the unwanted connection
+    option.</span>
+</li>
+<li class="links ">
+<a href="net-wireless-disconnecting.html.mr" title="माझी वायरलेस जोडणी का सतत तुटत आहे?">माझी वायरलेस जोडणी का सतत तुटत आहे?</a><span class="desc"> — तुमचे सिग्नल लो असू शकते, नेटवर्क तुम्हाला योग्यरित्या जोडणी करण्यापासून रोखत असेल.</span>
+</li>
+<li class="links ">
+<a href="net-wireless-troubleshooting.html.mr" title="वायरलेस नेटवर्क समस्या निवारक">वायरलेस नेटवर्क समस्या निवारक</a><span class="desc"> — Identify and fix problems with wireless connections.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

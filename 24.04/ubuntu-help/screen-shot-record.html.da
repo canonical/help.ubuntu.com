@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang=da>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Skærmbilleder og skærmoptagelser</title>
+<link rel="stylesheet" type="text/css" href="da.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Skærmbilleder og skærmoptagelser</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Optag hele eller dele af din skærm som et billede</p></li>
+<li class="list"><p class="p">Send det som en fil eller indsæt det fra udklipsholderen</p></li>
+<li class="list"><p class="p">Gem en video af din skærmaktivitet</p></li>
+</ul></div></div></div>
+<div class="media media-image"><div class="inner"><img src="figures/screenshot-tool.png" width="500" class="media media-block" alt=""></div></div>
+<p class="p">Du kan tage et billede af din skærm (et <span class="em">skærmbillede</span>) eller optage en video af, hvad der sker på skærmen (en <span class="em">skærmoptagelse</span>). Dette er nyttigt, hvis du f.eks. vil vise nogen, hvordan man gør noget på computeren. Skærmbilleder og skærmoptagelser er bare normale billed- og videofiler, så du kan e-maile dem og dele dem på nettet.</p>
+</div>
+<section id="screenshot"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Tag et skærmbillede</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Press the <span class="key"><kbd>Print</kbd></span> key or press the screenshot button in the
+      <span class="gui"><a href="shell-introduction.html.da#systemmenu" title="Systemmenu">system menu</a></span>.</p></li>
+<li class="steps">
+<p class="p">Skærmbilledoverlejringen giver dig håndtag til at vælge det område, der skal optages, og <span class="media"><span class="media media-image"><img src="figures/camera-photo-symbolic.svg" class="media media-inline" alt=""></span></span> angiver skærmbilled-tilstand (stillbillede).</p>
+<div class="note" title="Note">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Klik på markørknappen for at inkludere markøren i skærmbilledet.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Klik og træk det område, du ønsker til skærmbilledet, ved hjælp af håndtagene eller trådkorsmarkøren.</p></li>
+<li class="steps"><p class="p">Klik på den store runde knap for at tage et billede af det valgte område.</p></li>
+<li class="steps"><p class="p">For at tage at billede af hele skærmen skal du klikke på <span class="gui">Skærm</span> og derefter klikke på den store runde knap.</p></li>
+<li class="steps"><p class="p">For at optage et billede af et vindue skal du klikke på <span class="gui">Vindue</span>. En oversigt over alle de åbne vinduer vises med det aktive vindue markeret. Klik for at vælge et vindue, og klik derefter på den store runde knap.</p></li>
+</ol></div></div></div></div></div>
+</div></section><section id="locations"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Hvor bliver de af?</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Et skærmbillede gemmes automatisk i mappen <span class="file">Billeder/Skærmbilleder</span> i din hjemmemappe med et filnavn, der begynder med <span class="file">Skærmbillede</span> og inkluderer datoen og klokkeslættet, det blev taget.</p></li>
+<li class="list"><p class="p">Billedet gemmes også i udklipsholderen, så du med det samme kan indsætte det i et billedredigeringsprogram eller dele det på sociale medier.</p></li>
+<li class="list"><p class="p">En skærmoptagelse gemmes automatisk i din <span class="file">Videoer/Skærmoptagelser</span>-mappe i din hjemmemappe med et filnavn, der starter med <span class="file">Skærmoptagelse</span> og inkluderer datoen og klokkeslættet, det blev taget.</p></li>
+</ul></div></div></div></div></div>
+</div></section><section id="screencast"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Lav en skærmoptagelse</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Du kan lave en videooptagelse af din skærm:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Press the <span class="key"><kbd>Print</kbd></span> key or press the screenshot button in the
+      <span class="gui"><a href="shell-introduction.html.da#systemmenu" title="Systemmenu">system menu</a></span>.</p></li>
+<li class="steps">
+<p class="p">Klik på <span class="media"><span class="media media-image"><img src="figures/camera-video-symbolic.svg" class="media media-inline" alt=""></span></span> for at skifte til skærmoptagelsestilstand.</p>
+<div class="note" title="Note">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Klik på markørknappen for at medtage markøren i optagelsen.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Vælg <span class="gui">Markering</span> eller <span class="gui">Skærm</span>. Med <span class="gui">Markering</span> skal du klikke og trække det område, du vil optage, ved hjælp af håndtagene eller trådkorsmarkøren.</p></li>
+<li class="steps">
+<p class="p">Klik på den store, runde, røde knap for at begynde at optage, hvad der er på din skærm.</p>
+<p class="p">En rød indikator vises i øverste højre hjørne af skærmen, når optagelsen er i gang, og viser de forløbne sekunder.</p>
+</li>
+<li class="steps"><p class="p">Når du er færdig, skal du klikke på den røde indikator <span class="media"><span class="media media-image"><img src="figures/topbar-media-record.svg" class="media media-inline" alt=""></span></span> i toppanelet.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section id="keyboard-shortcuts"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Tastaturgenveje</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">I skærmbilledprogrammet kan du bruge disse tastaturgenveje:</p>
+<div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>S</kbd></span></p></td>
+<td><p class="p">Vælg område</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>C</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Optag skærmen</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>W</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Optag vindue</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>P</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Skift mellem at skjule og vise markøren</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>V</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Skift mellem skærmbillede og skærmoptagelse</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Enter</kbd></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Optag (aktiveres også af <span class="key"><kbd>Mellemrum</kbd></span> eller <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span>)</p></td>
+</tr>
+</table></div></div></div>
+<p class="p">Disse genveje kan bruges til at omgå skærmbilledfunktionen:</p>
+<div class="table"><div class="inner"><div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td><p class="p">Optag det vindue, der i øjeblikket har fokus</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Optag hele skærmen</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Skift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Start en skærmoptagelse</p></td>
+</tr>
+</table></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="tips.html.da" title="Tips &amp; tricks">Tips &amp; tricks</a><span class="desc"> — Få mest muligt ud af GNOME med disse smarte tricks.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

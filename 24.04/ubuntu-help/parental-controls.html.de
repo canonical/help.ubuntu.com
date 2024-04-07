@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang=de>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Kindersicherung hinzufügen</title>
+<link rel="stylesheet" type="text/css" href="de.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.de" title="Ubuntu Desktop Leitfaden"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hilfe"></span></span> Ubuntu Desktop Leitfaden</a> » <a class="trail" href="prefs.html.de" title="Benutzer- und Systemeinstellungen">Einstellungen</a> » <a class="trail" href="user-accounts.html.de" title="Benutzerkonten">Benutzer</a> › <a class="trail" href="user-accounts.html.de#manage" title="Benutzerkonten verwalten">Benutzerkonten</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Kindersicherung hinzufügen</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Eltern können die Anwendung <span class="gui">Kindersicherung</span> verwenden, um ihre Kinder vor schädlichen Inhalten zu schützen.</p>
+<p class="p">Ein Systemverwalter kann diese Anwendung verwenden, um:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">Den Zugriff eines Nutzers auf Webbrowser und Anwendungen zu beschränken.</p></li>
+<li class="list"><p class="p">Einen Nutzer daran hindern, Anwendungen zu installieren.</p></li>
+<li class="list"><p class="p">Einem Nutzer nur Zugriff auf Anwendungen zu erlauben, die dem Alter angemessen sind.</p></li>
+</ul></div></div></div>
+<div class="note" title="Anmerkung">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">Kindersicherung</span> erfordert, dass Anwendungen via Flatpak oder Flathub installiert wurden.</p></div></div></div>
+</div>
+</div>
+<section id="restrictwebbrowsers"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Webbrowser einschränken</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p"><span class="gui">Kindersicherung</span> ermöglicht es einem Systemverwalter, den Zugriff auf Webbrowser für einen Nutzer einzuschränken.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">System</span> ein.</p></li>
+<li class="steps"><p class="p">Wählen Sie <span class="guiseq"><span class="gui">Einstellungen</span> ▸ <span class="gui">System</span></span> in der Ergebnisliste. Daraufhin öffnet sich das Seitenfenster <span class="gui">System</span>.</p></li>
+<li class="steps"><p class="p">Wählen Sie <span class="gui">Benutzer</span>, um das Seitenfenster zu öffnen.</p></li>
+<li class="steps"><p class="p">Wählen Sie unter <span class="gui">Andere Benutzer</span> den Benutzer aus, für den Sie die Kindersicherung einrichten möchten.</p></li>
+<li class="steps">
+<p class="p">Wählen Sie <span class="gui">Kindersicherung</span>.</p>
+<div class="note" title="Anmerkung">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">The option only appears if <span class="gui">Parental Controls</span> is installed and enabled.
+           </p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span>.</p></li>
+<li class="steps"><p class="p">Geben Sie Ihr Passwort ein und authentifizieren Sie sich, um den <span class="gui">Kindersicherung</span>-Dialog zu entsperren.</p></li>
+<li class="steps"><p class="p">Schalten Sie <span class="gui">Internet-Browser einschränken</span> ein.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section id="restrictapplications"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Anwendungen einschränken</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p"><span class="gui">Kindersicherung</span> stellt eine Liste an Anwendungen bereit, die ein Systemverwalter deaktivieren kann.</p>
+<div class="note" title="Anmerkung">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Bestehende Anwendungen (die nicht über Flatpak installiert wurden) erscheinen in dieser Liste nicht.</p></div></div></div>
+</div>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">System</span> ein.</p></li>
+<li class="steps"><p class="p">Wählen Sie <span class="guiseq"><span class="gui">Einstellungen</span> ▸ <span class="gui">System</span></span> in der Ergebnisliste. Daraufhin öffnet sich das Seitenfenster <span class="gui">System</span>.</p></li>
+<li class="steps"><p class="p">Wählen Sie <span class="gui">Benutzer</span>, um das Seitenfenster zu öffnen.</p></li>
+<li class="steps"><p class="p">Wählen Sie unter <span class="gui">Andere Benutzer</span> den Benutzer aus, für den Sie die Kindersicherung einrichten möchten.</p></li>
+<li class="steps">
+<p class="p">Wählen Sie <span class="gui">Kindersicherung</span>.</p>
+<div class="note" title="Anmerkung">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Der Reiter erscheint nur, wenn <span class="gui">Kindersicherung</span> installiert und aktiviert ist.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span>.</p></li>
+<li class="steps"><p class="p">Geben Sie Ihr Passwort ein und authentifizieren Sie sich, um den <span class="gui">Kindersicherung</span>-Dialog zu entsperren.</p></li>
+<li class="steps"><p class="p">Klicken Sie auf <span class="gui">Anwendungen einschränken</span>.</p></li>
+<li class="steps"><p class="p">Aktivieren Sie den Schalter neben der Anwendung, die Sie einschränken möchten.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section id="restrictapplicationinstallation"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Installation von Anwendungen einschränken</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p"><span class="gui">Kindersicherung</span> ermöglicht es einem Systemverwalter, Installationsprivilegien für einen Nutzer einzuschränken.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">System</span> ein.</p></li>
+<li class="steps"><p class="p">Wählen Sie <span class="guiseq"><span class="gui">Einstellungen</span> ▸ <span class="gui">System</span></span> in der Ergebnisliste. Daraufhin öffnet sich das Seitenfenster <span class="gui">System</span>.</p></li>
+<li class="steps"><p class="p">Wählen Sie <span class="gui">Benutzer</span>, um das Seitenfenster zu öffnen.</p></li>
+<li class="steps"><p class="p">Wählen Sie unter <span class="gui">Andere Benutzer</span> den Benutzer aus, für den Sie die Kindersicherung einrichten möchten.</p></li>
+<li class="steps">
+<p class="p">Wählen Sie <span class="gui">Kindersicherung</span>.</p>
+<div class="note" title="Anmerkung">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Der Reiter erscheint nur, wenn <span class="gui">Kindersicherung</span> installiert und aktiviert ist.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span>.</p></li>
+<li class="steps"><p class="p">Geben Sie Ihr Passwort ein und authentifizieren Sie sich, um den <span class="gui">Kindersicherung</span>-Dialog zu entsperren.</p></li>
+<li class="steps"><p class="p">Schalten Sie <span class="gui">Installation von Anwendungen einschränken</span> ein.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section id="applicationsuitability"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Anwendungen nach Altersstufe beschränken</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Schränken Sie anhand der Angemessenheit für eine Altersstufe ein, welche Anwendungen für einen Nutzer sichtbar sind.</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Öffnen Sie die <span class="gui"><a href="shell-introduction.html.de#activities" title="Die Aktivitäten-Übersicht">Aktivitäten</a></span>-Übersicht und tippen Sie <span class="gui">System</span> ein.</p></li>
+<li class="steps"><p class="p">Wählen Sie <span class="guiseq"><span class="gui">Einstellungen</span> ▸ <span class="gui">System</span></span> in der Ergebnisliste. Daraufhin öffnet sich das Seitenfenster <span class="gui">System</span>.</p></li>
+<li class="steps"><p class="p">Wählen Sie <span class="gui">Benutzer</span>, um das Seitenfenster zu öffnen.</p></li>
+<li class="steps"><p class="p">Wählen Sie unter <span class="gui">Andere Benutzer</span> den Benutzer aus, für den Sie die Kindersicherung einrichten möchten.</p></li>
+<li class="steps">
+<p class="p">Wählen Sie <span class="gui">Kindersicherung</span>.</p>
+<div class="note" title="Anmerkung">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Der Reiter erscheint nur, wenn <span class="gui">Kindersicherung</span> installiert und aktiviert ist.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Klicken Sie auf den Knopf <span class="gui">Entsperren</span>.</p></li>
+<li class="steps"><p class="p">Geben Sie Ihr Passwort ein und authentifizieren Sie sich, um den <span class="gui">Kindersicherung</span>-Dialog zu entsperren.</p></li>
+<li class="steps"><p class="p">Wählen Sie die gewünschte Altersstufe aus der Auswahlliste <span class="gui">Angemessenheit von Anwendungen</span> aus.</p></li>
+</ol></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Weitere Informationen</span></h2></div>
+<div class="region"><ul><li class="links "><a href="user-accounts.html.de#manage" title="Benutzerkonten verwalten">Benutzerkonten verwalten</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

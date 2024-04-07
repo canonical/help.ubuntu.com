@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>我无法播放从在线音乐商店购买的歌曲</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="media.html.zh-CN" title="声音和媒体">媒体</a> › <a class="trail" href="media.html.zh-CN#music" title="声音、视频和设备">声音、视频和设备</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">我无法播放从在线音乐商店购买的歌曲</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">如果您从网上商店下载的一些音乐，会发现它们不能在您的计算机上播放，尤其是从 Windows 或 Mac OS 系统上购买，然后复制过来的。</p>
+<p class="p">这可能是因为您的计算机无法识别这种音乐格式。为了能够播放它，您需要安装正确的音频格式支持——例如，如果您想播放 MP3 文件，您需要安装 MP3 支持。如果您没有对特定音频格式的支持，在尝试播放它时会出现一条消息通知您。该消息还应该提供如何安装对该格式的支持的说明，以便您可以播放它。</p>
+<p class="p">如果您确实安装了对该歌曲音频格式的支持，但仍然无法播放，那么这首歌曲可能受到<span class="em">版权保护</span>（也称为<span class="em">DRM 限制</span>）。DRM 是一种限制谁可以播放歌曲以及在什么设备上播放歌曲的方式。这受控于将歌曲卖给您的公司而不是您。如果一个音乐文件有 DRM 限制，您可能无法播放它——您一般需要供应商提供的特殊软件来播放有 DRM 限制的文件，但这种软件通常不受 Linux 支持。</p>
+<p class="p">您可以从 <span class="link"><a href="https://www.eff.org/issues/drm" title="https://www.eff.org/issues/drm">Electronic Frontier Foundation</a></span> 了解更多关于 DRM 的信息。</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html.zh-CN#music" title="声音、视频和设备">声音、视频和设备</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

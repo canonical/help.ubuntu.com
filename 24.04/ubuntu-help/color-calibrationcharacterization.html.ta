@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>What’s the difference between calibration and characterization?</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="color.html.ta" title="நிற மேலாண்மை">Color</a> › <a class="trail" href="color.html.ta#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 24.04</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="color.html.ta" title="நிற மேலாண்மை">Color</a> › <a class="trail" href="color.html.ta#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">What’s the difference between calibration and characterization?</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">அளவைவகுத்தலுக்கும் பண்பமைப்புக்கும் என்ன வேறுபாடு என்பதில் முதலில் பலர் குழப்படைகின்றனர். அளவை வகுத்தல் என்பது ஒரு சாதனத்தின் நிறம் சார்ந்த நடத்தையை மாற்றியமைப்பது. வழக்கமாக இதை இரு முறைகளில் செய்கிறோம்:</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list"><p class="p">கட்டுப்பாடுகளை மாற்றுவது ஒரு முறை, சாதனத்தில் உள்ள அமைவுகளைக் கொண்டு செய்வது மற்றொரு முறை</p></li>
+<li class="list"><p class="p">அதன் நிற சேனல்களுக்கு வளைவுகளைப் பயன்படுத்துதல்</p></li>
+</ul></div></div></div>
+<p class="p">ஒரு சாதனத்தின் நிற பதில்வினை குணத்தைப் பொறுத்த வரையில் அந்த சாதனத்தை ஒரு வரையறைக்குள் இருக்குமாறு செய்வதே அளவை வகுத்தல் என்பதன் கருத்து. சாதனத்தின் உற்பத்தித் திறன் சிறப்பாக உள்ள நடத்தையைத் தக்கவைத்துப் பராமரிப்பதற்காக பெரும்பாலும் தினசரி அடிப்படையில் அளவை வகுத்தல் செய்யப்படுகிறது. வழக்கமாக அளவை வகுத்தலானது சாதனத்தில் சேமிக்கப்படும் அல்லது சாதன அமைவுகள் அல்லது சேனல் ஒன்றுக்கான வளைவுகளைச் பதிவு செய்து வைக்கின்ற கணினிகளுக்கு உரிய கோப்பு வடிவமைப்புகளில் சேமிக்கப்படும்.</p>
+<p class="p">ஒரு சாதனம் நிறத்தை எப்படி மீட்டுருவாக்கம் செய்கிறது அல்லது ஒரு நிறத்திற்கு எப்படி பதில்வினை புரிகிறது என்னும் விதத்தைப் <span class="em">பதிவு செய்தலே</span> பண்பமைப்பு (அல்லது தனியமைப்பு உருவாக்குதல்) எனப்படும். வழக்கமாக இந்த முடிவானது ஒரு சாதன ICC தனியமைப்பில் சேமிக்கப்படுகிறது. தனியமைப்பு நிறத்தை எவ்விதத்திலும் மாற்றியமைக்காது. CMM (நிற மேலாண்மைத் தொகுப்பு) அல்லது ஒரு நிறத்தை உணரக்கூடிய பயன்பாடு மற்றொரு சாதன தனியமைப்புடன் சேர்ந்து செயல்படும் போது நிறத்தை மாற்றியமைக்க அனுமதிக்கிறது. இரண்டு சாதனங்களின் பண்பமைப்பைத் தெரிந்துகொண்டால் மட்டுமே ஒரு சாதனத்திலிருந்து நிற உணர்த்தலை மற்றொரு சாதனத்திற்கு அனுப்புவது சாத்தியம்.</p>
+<div class="note" title="குறிப்பு">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">
+      Note that a characterization (profile) will only be valid for a device
+      if it’s in the same state of calibration as it was when it was
+      characterized.
+    </p></div></div></div>
+</div>
+<p class="p">காட்சிப்படுத்தல் சாதனங்களைப் பொறுத்தவரை, வசதிக்காக அளவை வகுத்தல் தகவலும் தனியமைப்பிலேயே சேமிக்கப்படுவதால் காட்சிப்படுத்தல் சாதனங்களின் தனியமைப்பு குறித்து அதிக குழப்பத்திற்கு வாய்ப்புள்ளது. வழக்கமாக அது <span class="em">vcgt</span> குறிச்சொல் என்னும் குறிச்சொல்லில் சேமிக்கப்படுகிறது. அது தனியமைப்பில் சேமிக்கப்பட்டாலும், ICC அடிப்படையிலான கருவிகள் அல்லது பயன்பாடுகள் எதற்கும் அதைப் பற்றித் தெரியாது, அல்லது அவை அத்தகவலைக் கொண்டு எதுவும் செய்யாது. இதே போல், வழக்கமான அளவை வகுத்தல் கருவிகளுக்கும் பயன்பாடுகளுக்கும் ICC பண்பமைப்பு (தனியமைப்பு) தகவல் பற்றி எதுவும் தெரியாது, அதே போல் அத்தகவலைக் கொண்டு அவை எதுவும் செய்வதுமில்லை.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links "><a href="color.html.ta#calibration" title="அளவைவகுத்தல்">அளவைவகுத்தல்</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

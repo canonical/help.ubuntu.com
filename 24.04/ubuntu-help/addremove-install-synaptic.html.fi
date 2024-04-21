@@ -76,13 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    <span class="app">Synaptic Package Manager</span> is more powerful and can do some 
-    software management tasks which <span class="app">App Center</span> can't. 
-    Synaptic's interface is more complicated and doesn't support newer
-    <span class="app">App Center</span> features like ratings and reviews and therefore
-    isn't recommended for use by those new to Ubuntu.
-  </p>
+<p class="p"><span class="app">Synaptic-pakettienhallinta</span> on edistyneempi ohjelmistojen hallintatyökalu jolla voi tehdä toimintoja joita <span class="app">Sovelluskeskus</span> ei osaa. Synapticin käyttöliittymä on monimutkaisempi eikä tue uusia  <span class="app">Sovelluskeskuksen</span> ominaisuuksia kuten arvosteluja, eikä sitä suositella uusille Ubuntun käyttäjille.</p>
 <p class="p">Synaptic ei ole asennettu oletuksena, mutta voit <span class="link"><a href="apt:synaptic" title="apt:synaptic">asentaa</a></span> sen Ubuntun pakettiarkistosta.</p>
 </div>
 <section id="install-software-with-synaptic"><div class="inner">
@@ -111,10 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Lue myös</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — 
-      Use <span class="app">App Center</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — Käytä <span class="app">Sovelluskeskusta</span> asentaaksesi hyödyllisiä lisäsovelluksia Ubuntuun.</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.fi" title="Poista sovellus">Poista sovellus</a><span class="desc"> — Poista sovelluksia, joita et enää käytä.</span>

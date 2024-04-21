@@ -76,13 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Используйте Synaptic для более продвинутого управления программным обеспечением</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    <span class="app">Synaptic Package Manager</span> is more powerful and can do some 
-    software management tasks which <span class="app">App Center</span> can't. 
-    Synaptic's interface is more complicated and doesn't support newer
-    <span class="app">App Center</span> features like ratings and reviews and therefore
-    isn't recommended for use by those new to Ubuntu.
-  </p>
+<p class="p"><span class="app">Диспетчер пакетов Synaptic</span> - это более мощное средство, которое позволяет выполнять задачи для управления программным обеспечением, которые не может выполнить <span class="app">Центр приложений</span>. Интерфейс Synaptic более сложный и не поддерживает новые возможности <span class="app">Центр приложений</span>, такие как оценки и отзывы, поэтому не ркомендуется для тех, кто впервые пользуется Ubuntu.</p>
 <p class="p">Synaptic не установлен по умолчанию, но вы можете <span class="link"><a href="apt:synaptic" title="apt:synaptic">установить</a></span> его из архива пакетов Ubuntu.</p>
 </div>
 <section id="install-software-with-synaptic"><div class="inner">
@@ -114,10 +108,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="addremove-remove.html.ru" title="Удаление приложения">Удаление приложения</a><span class="desc"> — Удалите приложения, которые больше не нужны.</span>
 </li>
 <li class="links ">
-<a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — 
-      Use <span class="app">App Center</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Центр приложений</span>, чтобы установить дополнительные приложения и сделать Ubuntu еще полезнее.</span>
 </li>
 </ul></div>
 </div></div>

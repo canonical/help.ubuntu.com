@@ -77,9 +77,9 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.cs" title="Instalace dodatečných aplikací"><span class="title">Instalace dodatečných aplikací</span><span class="linkdiv-dash"> — </span><span class="desc">Použijte <span class="app">App Center</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.cs" title="Instalace dodatečných aplikací"><span class="title">Instalace dodatečných aplikací</span><span class="linkdiv-dash"> — </span><span class="desc">Použijte <span class="app">Centrum aplikací</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.cs" title="Odstranění aplikace"><span class="title">Odstranění aplikace</span><span class="linkdiv-dash"> — </span><span class="desc">Odstraňte aplikace, které již nepoužíváte.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru"><span class="title">Použití Synaptic pro pokročilejší správu softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">App Center</span>.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru"><span class="title">Použití Synaptic pro pokročilejší správu softwaru</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Centrum aplikací</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.cs" title="Přidávání zdrojů Personal Package Archive (PPA)"><span class="title">Přidávání zdrojů Personal Package Archive (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Přidejte PPA pro rozšíření zdrojů softwaru, které Ubuntu používá pro instalaci a aktualizaci.</span></a></div>
 </div>
 <div class="links-divs">

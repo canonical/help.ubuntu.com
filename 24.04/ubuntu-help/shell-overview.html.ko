@@ -77,11 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="gnome-on-ubuntu.html.ko" title="About GNOME on Ubuntu"><span class="title">
-    About GNOME on Ubuntu
-  </span><span class="linkdiv-dash"> — </span><span class="desc">
-      A list of notable modifications to the GNOME Desktop in Ubuntu.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="gnome-on-ubuntu.html.ko" title="Ubuntu GNOME의 소개"><span class="title">Ubuntu GNOME의 소개</span><span class="linkdiv-dash"> — </span><span class="desc">Ubuntu에서 GNOME 데스크톱에 대한 주목할만한 수정 사항 목록입니다.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="shell-introduction.html.ko" title="그놈의 모양새 개요"><span class="title">그놈의 모양새 개요</span><span class="linkdiv-dash"> — </span><span class="desc">데스크톱, 상단 표시줄, <span class="gui">현재 활동</span> 개요를 눈으로 살펴봅니다.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="gnome-classic.html.ko" title="그놈 클래식은 뭘까요?"><span class="title">그놈 클래식은 뭘까요?</span><span class="linkdiv-dash"> — </span><span class="desc">고전 데스크톱 구성을 선호하신다면 그놈 클래식으로의 전환을 고려해봅니다.</span></a></div>
 </div>

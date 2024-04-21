@@ -119,10 +119,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Voir aussi</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.fr" title="Installer des applications supplémentaires">Installer des applications supplémentaires</a><span class="desc"> — 
-      Use <span class="app">App Center</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.fr" title="Installer des applications supplémentaires">Installer des applications supplémentaires</a><span class="desc"> — Utilisez <span class="app">App Center</span> pour installer des applications supplémentaires et rendre Ubuntu plus pratique.</span>
 </li>
 <li class="links ">
 <a href="addremove-install-synaptic.html.fr" title="Utiliser Synaptic pour gérer les logiciels de façon plus avancée">Utiliser Synaptic pour gérer les logiciels de façon plus avancée</a><span class="desc"> — 

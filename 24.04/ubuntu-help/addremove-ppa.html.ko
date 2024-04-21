@@ -88,11 +88,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="steps"><div class="inner">
 <div class="title title-steps"><h2><span class="title">PPA 설치</span></h2></div>
 <div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        On the PPA's overview page, look for the heading <span class="gui">Adding this PPA to 
-        your system</span>. Make a note of the PPA's location, which should look 
-        similar to: <span class="code">ppa:mozillateam/firefox-next</span>.
-      </p></li>
+<li class="steps"><p class="p">PPA(개인 패키지 아카이브) 개요 페이지에서 <span class="gui">시스템에 이 PPA 추가하기</span>라는 제목을 찾으세요. 이 PPA의 위치를 기록해두세요. 위치는 다음과 비슷하게 보일 것입니다: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
 <li class="steps"><p class="p">
         Open <span class="app">Software &amp; Updates</span> via the <span class="em">Activities</span> search bar.
       </p></li>

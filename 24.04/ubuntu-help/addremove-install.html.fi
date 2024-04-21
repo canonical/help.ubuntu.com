@@ -76,30 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Asenna lisäsovelluksia</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">App Center</span>.
-   </p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">App Center</span> the snap will be listed first.
-   </p>
+<p class="p">Sovellus on ohjelma jolla graafinen käyttöliittymä. Ubuntun kehitystiimi on valinnut Ubuntuun hyödyllisiä oletussovellukset, jotka sopivat päivittäisiin tarpeisiin. On kuitenkin paljon muitakin hyödyllisiä sovelluksia, jotka voivat sopia juuri sinun käyttöösi. Käytä <span class="app">Sovelluskeskusta</span> sovellusten asentamiseen.</p>
+<p class="p">Sovelluksia on saatavilla kahdessa muodossa: snap-paketteina ja Debian-paketteina. Snap-pakettina saatavila olevia sovelluksia kutsutaan jatkossa <span class="em">snapeiksi</span>. Jotkin sovellukset ovat saatavilla molemmissa muodoissa. Tällöin <span class="app">Sovelluskeskus</span> näyttää snapin ensin.</p>
 <p class="p">Saatat haluta myös asentaa ohjelmistoja, joissa ei ole graafista käyttöliittymää. Voit asentaa niitä esimerkiksi <span class="link"><a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Synapticilla</a></span>. Otathan huomioon, ettei <span class="app">Synaptic</span> listaa snap-paketteja.</p>
 <p class="p">Asenna sovellus:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">App Center</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">App Center</span> launches, search for an application, or select 
-        a category and find an application from the list.
-      </p></li>
+<li class="steps"><p class="p">Napsauta <span class="app">Sovelluskeskus</span>-kuvaketta <span class="gui">Telakassa</span>, tai etsi <span class="input">Ohjelmistoja</span> in the <span class="em">Toiminnot</span> -hakupalkissa.</p></li>
+<li class="steps"><p class="p">Kun <span class="app">Sovelluskeskus</span> käynnistyy, etsi sovellusta tai valitse luokka löytääksesi sovelluksen luettelosta.</p></li>
 <li class="steps"><p class="p">Valitse sovellus, jonka haluat asentaa, ja napsauta <span class="gui">Asenna</span>.</p></li>
 <li class="steps"><p class="p">Sinua pyydetään tunnistautumaan eli antamaan salasanasi. Kun olet tehnyt sen, asennus alkaa. Asennus tapahtuu yleensä nopeasti, mutta siinä saattaa kestää jos verkkoyhteys on hidas.</p></li>
 </ol></div></div></div>
@@ -120,10 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="prefs-language-install.html.fi" title="Asenna kieliä">Asenna kieliä</a><span class="desc"> — Asenna lisää käännöksiä ja niihin liittyviä kielitukipaketteja.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">App Center</span>.
-    </span>
+<a href="addremove-install-synaptic.html.fi" title="Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan">Käytä Synapticia monipuolisempaan ohjelmistojen hallintaan</a><span class="desc"> — Synaptic on tehokas mutta monimutkainen vaihtoehto <span class="app">Sovelluskeskukselle</span> ohjelmistojen hallintaan.</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.fi" title="Poista sovellus">Poista sovellus</a><span class="desc"> — Poista sovelluksia, joita et enää käytä.</span>

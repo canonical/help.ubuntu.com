@@ -107,10 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — 
-      Use <span class="app">App Center</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Центр приложений</span>, чтобы установить дополнительные приложения и сделать Ubuntu еще полезнее.</span>
 </li>
 <li class="links ">
 <a href="prefs-language.html.ru" title="Язык и регион">Язык и регион</a><span class="desc"> — Установка предпочтительных языков, регионов, форматов и раскладки клавиатуры.</span>

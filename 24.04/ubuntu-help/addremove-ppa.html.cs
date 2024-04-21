@@ -93,7 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Přejděte na kartu <span class="gui">Ostatní software</span>.</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat</span> a zadejte umístění PPA (jak je poznamenáno v bodě 1).</p></li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat zdroj</span>. V okně Ověření zadejte své heslo.</p></li>
-<li class="steps"><p class="p">Zavřete okno <span class="app">Software a aktualizace</span>. <span class="app">App Center</span> následně zkontroluje vaše zdroje softwaru na nový software.</p></li>
+<li class="steps"><p class="p">Zavřete okno <span class="app">Software a aktualizace</span>. <span class="app">Centrum aplikací</span> následně zkontroluje vaše zdroje softwaru na nový software.</p></li>
 </ol></div>
 </div></div>
 </div>

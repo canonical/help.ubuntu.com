@@ -77,10 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="region">
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.fr" title="Installer des applications supplémentaires"><span class="title">Installer des applications supplémentaires</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Use <span class="app">App Center</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.fr" title="Installer des applications supplémentaires"><span class="title">Installer des applications supplémentaires</span><span class="linkdiv-dash"> — </span><span class="desc">Utilisez <span class="app">App Center</span> pour installer des applications supplémentaires et rendre Ubuntu plus pratique.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.fr" title="Supprimer une application"><span class="title">Supprimer une application</span><span class="linkdiv-dash"> — </span><span class="desc">Supprimer des applications que vous n'utilisez plus.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.fr" title="Ajouter des dépôts de logiciels"><span class="title">Ajouter des dépôts de logiciels</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter des dépôts pour étendre les ressources de logiciels utilisées par Ubuntu pour l'installation et les mises à jour.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.fr" title="Ajouter un dépôt personnel de logiciels (PPA)"><span class="title">Ajouter un dépôt personnel de logiciels (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Ajouter des PPA pour étendre les ressources logicielles qu'utilise Ubuntu pour l'installation et les mises à jour.</span></a></div>

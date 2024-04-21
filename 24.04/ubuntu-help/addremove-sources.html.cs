@@ -98,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </p>
 </li>
 <li class="steps"><p class="p">Klikněte na <span class="gui">Přidat zdroj</span>. V okně Ověření zadejte své heslo.</p></li>
-<li class="steps"><p class="p">Zavřete okno <span class="app">Software a aktualizace</span>. <span class="app">App Center</span> následně zkontroluje vaše zdroje softwaru na nový software.</p></li>
+<li class="steps"><p class="p">Zavřete okno <span class="app">Software a aktualizace</span>. <span class="app">Centrum aplikací</span> následně zkontroluje vaše zdroje softwaru na nový software.</p></li>
 <li class="steps"><p class="p">Většina repozitářů poskytuje podpisový klíč, aby bylo možno ověřit stažené balíky. Kromě výše zmíněných kroků byste se tedy měli řídit instrukcemi jak stáhnout a nainstalovat podpisový klíč (klíč GPG).</p></li>
 </ol></div></div></div>
 </div>

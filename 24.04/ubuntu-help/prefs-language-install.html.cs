@@ -107,7 +107,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">App Center</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
+<a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">Centrum aplikací</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
 </li>
 <li class="links ">
 <a href="prefs-language.html.cs" title="Region a jazyk">Region a jazyk</a><span class="desc"> — Jak si nastavit upřednostňovaný jazyk, region, formáty a rozložení klávesnice.</span>

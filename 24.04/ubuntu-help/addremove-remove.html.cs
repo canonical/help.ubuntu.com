@@ -76,13 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Odstranění aplikace</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Aplikace je software, který má grafické uživatelské rozhraní (GUI). K odstranění aplikací, které již nepoužíváte můžete použít <span class="app">App Center</span>.</p>
-<p class="p">Aplikace jsou dostupné ve dvou formátech: snap balíky a Debian balíky. Aplikace dostupná jako snap balík bude od teď nazývána jako <span class="em">snap</span>. Některé aplikace jsou dostupné v obou formátech. V takovém případě bude v <span class="app">App Center</span> uveden snap jako první.</p>
+<p class="p">Aplikace je software, který má grafické uživatelské rozhraní (GUI). K odstranění aplikací, které již nepoužíváte můžete použít <span class="app">Centrum aplikací</span>.</p>
+<p class="p">Aplikace jsou dostupné ve dvou formátech: snap balíky a Debian balíky. Aplikace dostupná jako snap balík bude od teď nazývána jako <span class="em">snap</span>. Některé aplikace jsou dostupné v obou formátech. V takovém případě bude v <span class="app">Centrum aplikací</span> uveden snap jako první.</p>
 <p class="p">Možná budete chtít odstranit software, který nemá grafické rozhraní (GUI). K odstranění takového softwaru můžete použít <span class="link"><a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>. Všimněte si, že <span class="app">Synaptic</span> nezobrazuje snapy.</p>
 <p class="p">Pro odstranění aplikace:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na ikonu <span class="app">App Center</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
-<li class="steps"><p class="p">Když se <span class="app">App Center</span> otevře, klikněte na tlačítko <span class="gui">Nainstalované</span> umístěné nahoře.</p></li>
+<li class="steps"><p class="p">Klikněte na ikonu <span class="app">Centrum aplikací</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
+<li class="steps"><p class="p">Když se <span class="app">Centrum aplikací</span> otevře, klikněte na tlačítko <span class="gui">Nainstalováno</span> umístěné nahoře.</p></li>
 <li class="steps"><p class="p">Nalezněte aplikaci, kterou chcete odinstalovat, za použití vyhledávání nebo se podívejte do seznamu nainstalovaných aplikací.</p></li>
 <li class="steps"><p class="p">Vyberte aplikaci a klikněte na <span class="gui">Odstranit</span>.</p></li>
 <li class="steps"><p class="p">Potvrďte, že chcete aplikaci odstranit.</p></li>
@@ -108,10 +108,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">App Center</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
+<a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">Centrum aplikací</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">App Center</span>.</span>
+<a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Centrum aplikací</span>.</span>
 </li>
 </ul></div>
 </div></div>

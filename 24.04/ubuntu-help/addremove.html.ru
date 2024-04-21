@@ -78,18 +78,12 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
 <div class="links-divs">
 <div class="linkdiv "><a class="linkdiv" href="addremove-remove.html.ru" title="Удаление приложения"><span class="title">Удаление приложения</span><span class="linkdiv-dash"> — </span><span class="desc">Удалите приложения, которые больше не нужны.</span></a></div>
-<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.ru" title="Установка дополнительных приложений"><span class="title">Установка дополнительных приложений</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Use <span class="app">App Center</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install.html.ru" title="Установка дополнительных приложений"><span class="title">Установка дополнительных приложений</span><span class="linkdiv-dash"> — </span><span class="desc">Используйте <span class="app">Центр приложений</span>, чтобы установить дополнительные приложения и сделать Ubuntu еще полезнее.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-ppa.html.ru" title="Добавление персонального архива пакетов (PPA)"><span class="title">Добавление персонального архива пакетов (PPA)</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте PPA, чтобы расширить список источников, которые Ubuntu использует для установки и обновления приложений.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-sources.html.ru" title="Добавление репозиториев программного обеспечения"><span class="title">Добавление репозиториев программного обеспечения</span><span class="linkdiv-dash"> — </span><span class="desc">Добавьте репозитории, чтобы расширить список источников, используемых Ubuntu для установки и удаления приложений.</span></a></div>
 </div>
 <div class="links-divs">
-<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением"><span class="title">Используйте Synaptic для более продвинутого управления программным обеспечением</span><span class="linkdiv-dash"> — </span><span class="desc">
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">App Center</span>.
-    </span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением"><span class="title">Используйте Synaptic для более продвинутого управления программным обеспечением</span><span class="linkdiv-dash"> — </span><span class="desc">Synaptic - более мощное, но и более сложное средство управления программным обеспечением, являющееся альтернативой  <span class="app">Центра приложений</span>.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="addremove-creator.html.ru" title="Создание загрузочного диска"><span class="title">Создание загрузочного диска</span><span class="linkdiv-dash"> — </span><span class="desc">Преобразуйте USB-накопитель в том, с которого можно запустить и установить Ubuntu.</span></a></div>
 <div class="linkdiv "><a class="linkdiv" href="prefs-language-install.html.ru" title="Установка языков"><span class="title">Установка языков</span><span class="linkdiv-dash"> — </span><span class="desc">Установите дополнительные переводы и соответствующие языковые пакеты.</span></a></div>
 </div>

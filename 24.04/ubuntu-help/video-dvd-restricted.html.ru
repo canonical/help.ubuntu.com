@@ -85,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 </svg><div class="inner"><div class="region"><div class="contents"><p class="p">В некоторых странах использование нелицензированного декодирующего программного обеспечения не разрешено законом. Проверьте, что вы имеете право использовать такое ПО.</p></div></div></div>
 </div>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Install <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread8" title="apt:libdvdread8">libdvdread8</a></span>,
-<span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span>, and <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
+<li class="steps"><p class="p">Установка <span class="link"><a href="apt:libdvdnav4" title="apt:libdvdnav4">libdvdnav4</a></span>, <span class="link"><a href="apt:libdvdread8" title="apt:libdvdread8">libdvdread8</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-bad" title="apt:gstreamer1.0-plugins-bad">gstreamer1.0-plugins-bad</a></span>, <span class="link"><a href="apt:gstreamer1.0-plugins-ugly" title="apt:gstreamer1.0-plugins-ugly">gstreamer1.0-plugins-ugly</a></span> и <span class="link"><a href="apt:libdvd-pkg" title="apt:libdvd-pkg">libdvd-pkg</a></span>.</p></li>
 <li class="steps"><p class="p">Откройте окно терминала, нажав <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>T</kbd></span></span>.</p></li>
 <li class="steps">
 <p class="p">Выполните команду</p>

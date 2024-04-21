@@ -76,24 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Удаление приложения</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">An application is software that has a graphical user interface (GUI).
-    You can use <span class="app">App Center</span> to remove applications that you 
-    no longer use.</p>
-<p class="p">Applications are available in two formats: snap packages and Debian packages. 
-   An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-   Some applications are available in both formats. In such a case in
-   <span class="app">App Center</span> the snap will be listed first.</p>
-<p class="p">Вам может также понадобиться удалить программы, не имеющих графического интерфейса. Для удаления таких программ можно воспользоваться <span class="link"><a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Synaptic</a></span>. Обратите внимание, что в <span class="app">Synaptic</span> не отображаются snap-пакеты.</p>
+<p class="p">Приложение - это программное обеспечение, которое обладает графическим интерфейсом пользователя (GUI). Вы можете использовать <span class="app">Центр приложений</span>, чтобы удалить приложения, которыми вы больше не пользуетесь.</p>
+<p class="p">Приложения доступны в двух форматах: Snap-пакеты и пакеты Debian. С этого момента приложения доступные в виде Snap-пакетов, будут обозначаться далее как <span class="em">snap</span>. Некоторые приложения доступны в обоих форматах. В таком случае, первым в списке <span class="app">Центра приложений</span> будет отображаться snap.</p>
+<p class="p">Вам может также понадобиться удалить программы, не имеющие графического интерфейса. Для удаления таких программ можно воспользоваться приложением <span class="link"><a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Synaptic</a></span>. Обратите внимание, что в <span class="app">Synaptic</span> не отображаются snap-пакеты.</p>
 <p class="p">Для того, чтобы удалить приложение:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">App Center</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">App Center</span> opens, click the <span class="gui">Installed</span> button at 
-        the top.
-      </p></li>
+<li class="steps"><p class="p">Нажмите значок <span class="app">Центра приложений</span> в <span class="gui">Панели задач</span>, или введите <span class="input">"Приложения"</span> в строке поиска в меню <span class="em">«Обзор»</span>.</p></li>
+<li class="steps"><p class="p">Когда откроется <span class="app">Центр приложений</span>, щёлкните по кнопке <span class="gui">"Установленные"</span>, расположенной в верхней части.</p></li>
 <li class="steps"><p class="p">Найдите приложение, которое нужно удалить, используя строку поиска или просматривая список установленных приложений.</p></li>
 <li class="steps"><p class="p">Выберите приложение и щёлкните <span class="gui">Удалить</span>.</p></li>
 <li class="steps"><p class="p">Подтвердите своё намерение удалить приложение.</p></li>
@@ -119,16 +108,10 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Используйте Synaptic для более продвинутого управления программным обеспечением</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">App Center</span>.
-    </span>
+<a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Используйте Synaptic для более продвинутого управления программным обеспечением</a><span class="desc"> — Synaptic - более мощное, но и более сложное средство управления программным обеспечением, являющееся альтернативой  <span class="app">Центра приложений</span>.</span>
 </li>
 <li class="links ">
-<a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — 
-      Use <span class="app">App Center</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.ru" title="Установка дополнительных приложений">Установка дополнительных приложений</a><span class="desc"> — Используйте <span class="app">Центр приложений</span>, чтобы установить дополнительные приложения и сделать Ubuntu еще полезнее.</span>
 </li>
 </ul></div>
 </div></div>

@@ -76,13 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Instalace dodatečných aplikací</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Aplikace je software, který má grafické uživatelské rozhraní (GUI). Vývojový tým Ubuntu vybral výchozí sadu aplikací, o nichž si myslíme, že dělají Ubuntu velmi užitečné pro většinu každodenních úkolů. Nicméně určitě budete chtít instalovat více aplikací, aby vaše Ubuntu bylo ještě více účelné. Pro instalaci aplikace můžete použít <span class="app">App Center</span>.</p>
-<p class="p">Aplikace jsou dostupné ve dvou formátech: snap balíky a Debian balíky. Aplikace dostupná jako snap balík bude od teď nazývána jako <span class="em">snap</span>. Některé aplikace jsou dostupné v obou formátech. V takovém případě bude v <span class="app">App Center</span> uveden snap jako první.</p>
+<p class="p">Aplikace je software, který má grafické uživatelské rozhraní (GUI). Vývojový tým Ubuntu vybral výchozí sadu aplikací, o nichž si myslíme, že dělají Ubuntu velmi užitečné pro většinu každodenních úkolů. Nicméně určitě budete chtít instalovat více aplikací, aby vaše Ubuntu bylo ještě více účelné. Pro instalaci aplikace můžete použít <span class="app">Centrum aplikací</span>.</p>
+<p class="p">Aplikace jsou dostupné ve dvou formátech: snap balíky a Debian balíky. Aplikace dostupná jako snap balík bude od teď nazývána jako <span class="em">snap</span>. Některé aplikace jsou dostupné v obou formátech. V takovém případě bude v <span class="app">Centrum aplikací</span> uveden snap jako první.</p>
 <p class="p">Možná budete chtít instalovat software, který nemá grafické rozhraní (GUI). K instalaci takového softwaru můžete použít <span class="link"><a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Synaptic</a></span>. Všimněte si, že <span class="app">Synaptic</span> nezobrazuje snapy.</p>
 <p class="p">Pro instalaci aplikace:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">Klikněte na ikonu <span class="app">App Center</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
-<li class="steps"><p class="p">Když se <span class="app">App Center</span> otevře, vyhledejte aplikaci nebo zvolte kategorii a vyberte aplikaci ze seznamu.</p></li>
+<li class="steps"><p class="p">Klikněte na ikonu <span class="app">Centrum aplikací</span> v <span class="gui">Doku</span> nebo vyhledejte <span class="input">Software</span> ve vyhledávací liště <span class="em">Činností</span>.</p></li>
+<li class="steps"><p class="p">Když se <span class="app">Centrum aplikací</span> otevře, vyhledejte aplikaci nebo zvolte kategorii a vyberte aplikaci ze seznamu.</p></li>
 <li class="steps"><p class="p">Vyberte aplikaci, kterou chcete nainstalovat a klikněte na <span class="gui">Instalovat</span>.</p></li>
 <li class="steps"><p class="p">Budete požádáni o ověření zadáním vašeho hesla. Poté bude zahájena instalace. Instalace je obvykle rychlá, ale může trvat déle, pokud máte pomalé Internetové připojení.</p></li>
 </ol></div></div></div>
@@ -106,7 +106,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="addremove-remove.html.cs" title="Odstranění aplikace">Odstranění aplikace</a><span class="desc"> — Odstraňte aplikace, které již nepoužíváte.</span>
 </li>
 <li class="links ">
-<a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">App Center</span>.</span>
+<a href="addremove-install-synaptic.html.cs" title="Použití Synaptic pro pokročilejší správu softwaru">Použití Synaptic pro pokročilejší správu softwaru</a><span class="desc"> — Synaptic je efektivní, ale komplikovanou alternativou k <span class="app">Centrum aplikací</span>.</span>
 </li>
 </ul></div>
 </div></div>

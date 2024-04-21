@@ -110,10 +110,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <a href="prefs-language.html.fi" title="Alue- ja kieliasetukset">Alue- ja kieliasetukset</a><span class="desc"> — Aseta ensisijainen kieli, alueasetukset, muotoilut ja näppäimistöasettelut.</span>
 </li>
 <li class="links ">
-<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — 
-      Use <span class="app">App Center</span> to install additional applications and make Ubuntu more 
-      useful.
-    </span>
+<a href="addremove-install.html.fi" title="Asenna lisäsovelluksia">Asenna lisäsovelluksia</a><span class="desc"> — Käytä <span class="app">Sovelluskeskusta</span> asentaaksesi hyödyllisiä lisäsovelluksia Ubuntuun.</span>
 </li>
 </ul></div>
 </div></div>

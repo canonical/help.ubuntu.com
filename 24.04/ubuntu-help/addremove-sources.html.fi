@@ -98,10 +98,7 @@ document.addEventListener('DOMContentLoaded', function() {
       </p>
 </li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Lisää lähde</span>. Anna salasanasi todennusikkunaan.</p></li>
-<li class="steps"><p class="p">
-        Close the <span class="app">Software &amp; Updates</span> window. <span class="app">App Center</span> will then
-        check your software sources for new software.
-      </p></li>
+<li class="steps"><p class="p">Sulje the <span class="app">Ohjelmistot ja päivitykset</span> -ikkuna. <span class="app">Sovelluskeskus</span> tarkistaa sitten onko uusia ohjemistoja saatavilla.</p></li>
 <li class="steps"><p class="p">Useimmat pakettilähteet julkaisevat allekirjoitusavaimen, jonka avulla ladatut paketit vahvistetaan. Yllä olevien ohjeiden lisäksi on suositeltavaa noudattaa ohjeita, kuinka ladata ja asentaa allekirjoitukseen tarkoitettu GPG-avain.</p></li>
 </ol></div></div></div>
 </div>

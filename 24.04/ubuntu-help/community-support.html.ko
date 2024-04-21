@@ -76,13 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">커뮤니티 지원</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">You can find support from a variety of sources which are mentioned and
-  linked to at <span class="link"><a href="https://www.ubuntu.com/support/community-support" title="https://www.ubuntu.com/support/community-support">
-  Community support</a></span>.</p>
-<p class="p">Every page at <span class="link"><a href="https://help.ubuntu.com" title="https://help.ubuntu.com">help.ubuntu.com</a></span>
-  has a search feature at the top right. It lets you do a custom Google search
-  on Ubuntu documentation and support resources on the web, to easier find out
-  if your question has already been answered.</p>
+<p class="p"><span class="link"><a href="https://www.ubuntu.com/support/community-support" title="https://www.ubuntu.com/support/community-support">Community support</a></span>에 언급되고 링크된 다양한 소스에서 지원을 받을 수 있습니다.</p>
+<p class="p"><span class="link"><a href="https://help.ubuntu.com" title="https://help.ubuntu.com">help.ubuntu.com</a></span>의 모든 페이지에는 우측 상단에 검색 기능이 있습니다. 이를 통해 Ubuntu 문서와 웹상의 지원 자료에 대한 사용자 정의 Google 검색을 수행할 수 있으며, 질문에 대한 답변이 이미 제공되었는지 쉽게 확인할 수 있습니다.</p>
 <p class="p">사용중인 언어로 작성된 도움이 <span class="link"><a href="http://loco.ubuntu.com/teams/" title="http://loco.ubuntu.com/teams/">Local Community Team</a></span> 에 의해 제공될 수 있습니다.</p>
 </div>
 <section class="links" role="navigation"><div class="inner">
@@ -90,8 +85,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="contents pagewide"><div class="links guidelinks"><div class="inner">
 <div class="title"><h2><span class="title">자세한 정보</span></h2></div>
 <div class="region"><ul><li class="links ">
-<a href="more-help.html.ko" title="더 도움받기">더 도움받기</a><span class="desc"> — Get tips on using this guide, and connect with the
-    community for more help.</span>
+<a href="more-help.html.ko" title="더 도움받기">더 도움받기</a><span class="desc"> — 이 가이드를 사용하는 팁을 받아보세요. 그리고 더 많은 도움이 필요하시면 커뮤니티에 참여해보세요.</span>
 </li></ul></div>
 </div></div></div>
 </div></section>

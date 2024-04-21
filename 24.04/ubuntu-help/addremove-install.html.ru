@@ -76,30 +76,13 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Установка дополнительных приложений</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">App Center</span>.
-   </p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">App Center</span> the snap will be listed first.
-   </p>
-<p class="p">Вам может также понадобиться установить программу без графического интерфейса. Для установки таких программ можно воспользоваться <span class="link"><a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Synaptic</a></span>. Обратите внимание, что <span class="app">Synaptic</span> не показывает snap-пакеты.</p>
+<p class="p">Приложение - это программное обеспечение, которое обладает графическим интерфейсом пользователя (GUI). Команда разработчиков Ubuntu заблаговременно выбрала набор приложений, которые по нашему мнению делают Ubuntu более полезной для повседневных задач. Тем не менее, вы определённо захотите установить другие приложения, которые сделают  Ubuntu более полезной именно для вас. Чтобы устанавливать приложения, вы можете использовать <span class="app">Центр приложений</span>.</p>
+<p class="p">Приложения доступны в двух форматах: Snap-пакеты и пакеты Debian. С этого момента приложения доступные в виде Snap-пакетов, будут обозначаться далее как <span class="em">snap</span>. Некоторые приложения доступны в обоих форматах. В таком случае, первым в списке <span class="app">Центра приложений</span> будет отображаться snap.</p>
+<p class="p">Вам может также понадобиться установить программу без графического интерфейса. Для установки таких программ можно воспользоваться приложением <span class="link"><a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Synaptic</a></span>. Обратите внимание, что <span class="app">Synaptic</span> не показывает snap-пакеты.</p>
 <p class="p">Для того, чтобы установить приложение:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
-<li class="steps"><p class="p">
-        Click the <span class="app">App Center</span> icon in the <span class="gui">Dock</span>, or search
-        for <span class="input">Software</span> in the <span class="em">Activities</span> search bar.
-      </p></li>
-<li class="steps"><p class="p">
-        When <span class="app">App Center</span> launches, search for an application, or select 
-        a category and find an application from the list.
-      </p></li>
+<li class="steps"><p class="p">Нажмите значок <span class="app">Центра приложений</span> в <span class="gui">Панели задач</span>, или введите <span class="input">"Приложения"</span> в строке поиска в меню <span class="em">«Обзор»</span>.</p></li>
+<li class="steps"><p class="p">После запуска <span class="app">Центра приложений</span>, найдите приложение или выберите категорию и найдите приложение в списке.</p></li>
 <li class="steps"><p class="p">Выберите нужное приложение и нажмите <span class="gui">Установить</span>.</p></li>
 <li class="steps"><p class="p">Вам будет предложено ввести свой пароль, после этого начнётся установка. Обычно установка происходит быстро, но при медленном соединении с Интернетом может занять некоторое время.</p></li>
 </ol></div></div></div>
@@ -117,10 +100,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Смотрите также</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Используйте Synaptic для более продвинутого управления программным обеспечением</a><span class="desc"> — 
-      Synaptic is a powerful but complicated software management alternative to 
-      <span class="app">App Center</span>.
-    </span>
+<a href="addremove-install-synaptic.html.ru" title="Используйте Synaptic для более продвинутого управления программным обеспечением">Используйте Synaptic для более продвинутого управления программным обеспечением</a><span class="desc"> — Synaptic - более мощное, но и более сложное средство управления программным обеспечением, являющееся альтернативой  <span class="app">Центра приложений</span>.</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.ru" title="Удаление приложения">Удаление приложения</a><span class="desc"> — Удалите приложения, которые больше не нужны.</span>

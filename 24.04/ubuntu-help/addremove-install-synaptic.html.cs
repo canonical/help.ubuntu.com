@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Použití Synaptic pro pokročilejší správu softwaru</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p"><span class="app">Správce balíků Synaptic</span> má více funkcí a poradí si i s úkoly, které <span class="app">App Center</span> nezvládne. Rozhraní aplikace Synaptic je však více komplikované a nepodporuje některé nové funkce <span class="app">App Center</span>, jako jsou například uživatelská hodnocení, a tudíž není její použití doporučeno těm, kteří s Ubuntu začínají.</p>
+<p class="p"><span class="app">Správce balíků Synaptic</span> má více funkcí a poradí si i s úkoly, které <span class="app">Centrum aplikací</span> nezvládne. Rozhraní aplikace Synaptic je však více komplikované a nepodporuje některé nové funkce <span class="app">Centrum aplikací</span>, jako jsou například uživatelská hodnocení, a tudíž není její použití doporučeno těm, kteří s Ubuntu začínají.</p>
 <p class="p">Synaptic není obsažen ve výchozí instalaci, ale může být <span class="link"><a href="apt:synaptic" title="apt:synaptic">nainstalován</a></span> z archivu balíků Ubuntu.</p>
 </div>
 <section id="install-software-with-synaptic"><div class="inner">
@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title"><h2><span class="title">Viz také</span></h2></div>
 <div class="region"><ul>
 <li class="links ">
-<a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">App Center</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
+<a href="addremove-install.html.cs" title="Instalace dodatečných aplikací">Instalace dodatečných aplikací</a><span class="desc"> — Použijte <span class="app">Centrum aplikací</span> k instalaci dodatečných aplikací a vylepšete své Ubuntu.</span>
 </li>
 <li class="links ">
 <a href="addremove-remove.html.cs" title="Odstranění aplikace">Odstranění aplikace</a><span class="desc"> — Odstraňte aplikace, které již nepoužíváte.</span>

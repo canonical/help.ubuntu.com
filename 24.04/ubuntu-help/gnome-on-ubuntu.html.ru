@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <p class="p">Рабочий стол Ubuntu поставляется с немного измененной версией среды рабочего стола GNOME. Как правило, это настольное руководство содержит ссылки на GNOME в том виде, в каком оно опубликовано разработчиками GNOME. Вот список заметных различий между GNOME в Ubuntu и оригинальным GNOME.</p>
 <div class="list"><div class="inner"><div class="region"><ul class="list" style="list-style-type:disc">
 <li class="list"><p class="p">Ubuntu поставляется с Firefox вместо веб-браузера GNOME.</p></li>
-<li class="list"><p class="p">Ubuntu поставляется склиентом удаленного рабочего стола Remmina вместо GNOME Connections.</p></li>
+<li class="list"><p class="p">Ubuntu поставляется с клиентом удалённого рабочего стола Remmina вместо GNOME Connections.</p></li>
 <li class="list"><p class="p">Расширение AppIndicators включено. Это расширение активирует значки в правом верхнем углу некоторых приложений.</p></li>
 <li class="list"><p class="p">Расширение Ubuntu Dock включено. Это расширение предоставляет левую боковую панель для запуска приложений.</p></li>
 <li class="list"><p class="p">Расширение Desktop Icons NG включено. Это расширение позволяет использовать значки на рабочем столе.</p></li>

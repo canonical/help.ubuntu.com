@@ -76,19 +76,8 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">추가 애플리케이션 설치</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    An application is software that has a graphical user interface (GUI).
-    The Ubuntu development team has chosen a default set of applications that we 
-    think makes Ubuntu very useful for most day-to-day tasks. However, you will 
-    certainly want to install more applications to make Ubuntu more useful to you.
-    To install an application, you can use <span class="app">App Center</span>.
-   </p>
-<p class="p">
-    Applications are available in two formats: snap packages and Debian packages.
-    An application available as a snap package is from now on referred to as a <span class="em">snap</span>.
-    Some applications are available in both formats. In such a case in
-    <span class="app">App Center</span> the snap will be listed first.
-   </p>
+<p class="p">애플리케이션은 그래픽 사용자 인터페이스(GUI)가 있는 소프트웨어입니다. 우분투 개발팀은 우분투가 대부분의 일상적인 작업에 매우 유용하다고 생각되는 기본 애플리케이션 세트를 선택했습니다. 하지만 우분투를 더욱 유용하게 사용하기 위해 더 많은 애플리케이션을 설치하고 싶을 것입니다. 애플리케이션을 설치하려면<span class="app">App Center</span>을 사용하면 됩니다.</p>
+<p class="p">애플리케이션은 두 가지 형식으로 제공됩니다: snap 패키지와 데비안 패키지. 이제부터 snap 패키지로 제공되는 애플리케이션을 <span class="em">snap</span>이라고 합니다. 일부 애플리케이션은 두 가지 형식 모두 제공됩니다. 이러한 경우 <span class="app">App Center</span>에서 snap이 먼저 설치됩니다.</p>
 <p class="p">또한 당신은 GUI가 없는 소프트웨어를 설치하기 원할 수 있습니다. 이러한 소프트웨어를 설치하기 위해서는, <span class="link"><a href="addremove-install-synaptic.html.ko" title="더많은 고급 소프트웨어 관리를 위한 시냅틱 사용하기">Synaptic</a></span> 를 사용할 수 있습니다. <span class="app">Synaptic</span>은 스냅을 나열하지 않는다는 점을 유의하십시오.</p>
 <p class="p">응용 프로그램을 설치하려면:</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">

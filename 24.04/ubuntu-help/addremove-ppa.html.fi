@@ -93,10 +93,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <li class="steps"><p class="p">Siirry <span class="gui">Muut ohjelmistot</span> -välilehdelle.</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Lisää</span> ja kirjoita PPA:n sijainti (kuten mainittu kohdassa 1).</p></li>
 <li class="steps"><p class="p">Napsauta <span class="gui">Lisää lähde</span>. Anna salasanasi todennusikkunaan.</p></li>
-<li class="steps"><p class="p">
-        Close the <span class="app">Software &amp; Updates</span> window. <span class="app">App Center</span> will then
-        check your software sources for new software.
-      </p></li>
+<li class="steps"><p class="p">Sulje the <span class="app">Ohjelmistot ja päivitykset</span> -ikkuna. <span class="app">Sovelluskeskus</span> tarkistaa sitten onko uusia ohjemistoja saatavilla.</p></li>
 </ol></div>
 </div></div>
 </div>

@@ -76,13 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Usare uno strumento avanzato per gestire applicazioni</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">
-    <span class="app">Synaptic Package Manager</span> is more powerful and can do some 
-    software management tasks which <span class="app">App Center</span> can't. 
-    Synaptic's interface is more complicated and doesn't support newer
-    <span class="app">App Center</span> features like ratings and reviews and therefore
-    isn't recommended for use by those new to Ubuntu.
-  </p>
+<p class="p"><span class="app">Synaptic Package Manager</span> è più potente e in grado di fare alcune attività di gestione del software che <span class="app">App Center</span> non può fare. L'interfaccia di Synaptic è più complicata e non supporta le più recenti caratteristiche di <span class="app">App Center</span> come valutazioni e recensioni e, pertanto, non ne è raccomandato l'uso ai nuovi utenti di Ubuntu.</p>
 <p class="p">Synaptic non è installato di default, ma è possibile <span class="link"><a href="apt:synaptic" title="apt:synaptic">installarlo</a></span> dall'archivio pacchetti di Ubuntu.</p>
 </div>
 <section id="install-software-with-synaptic"><div class="inner">

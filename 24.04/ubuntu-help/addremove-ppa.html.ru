@@ -89,14 +89,11 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="title title-steps"><h2><span class="title">Установка PPA</span></h2></div>
 <div class="region"><ol class="steps">
 <li class="steps"><p class="p">На обзорной странице PPA поищите заголовок <span class="gui">Adding this PPA to your system</span>. Запишите адрес PPA, который должен быть похож на: <span class="code">ppa:mozillateam/firefox-next</span>.</p></li>
-<li class="steps"><p class="p">Откройте <span class="app">Приложения &amp; Обновления</span> через панель поиска <span class="em">Действия</span>.</p></li>
+<li class="steps"><p class="p">Откройте <span class="app">Приложения &amp; Обновления</span> через панель поиска в меню <span class="em">"Обзор"</span>.</p></li>
 <li class="steps"><p class="p">Перейдите на вкладку <span class="gui">Другое ПО</span>.</p></li>
 <li class="steps"><p class="p">Нажмите <span class="gui">Добавить</span> и введите адрес PPA (как указано в шаге 1).</p></li>
 <li class="steps"><p class="p">Щёлкните <span class="gui">Добавить источник</span>. Введите свой пароль в окне аутентификации.</p></li>
-<li class="steps"><p class="p">
-        Close the <span class="app">Software &amp; Updates</span> window. <span class="app">App Center</span> will then
-        check your software sources for new software.
-      </p></li>
+<li class="steps"><p class="p">Закройте окно <span class="app">Обновления; приложений</span>. Так <span class="app">Центр приложений</span> произведёт проверку наличия обновлений в источниках.</p></li>
 </ol></div>
 </div></div>
 </div>

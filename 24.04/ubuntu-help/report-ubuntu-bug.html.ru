@@ -76,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
 <div class="hgroup pagewide"><h1 class="title"><span class="title">Сообщите о неисправности в Ubuntu</span></h1></div>
 <div class="region">
 <div class="contents pagewide">
-<p class="p">Если обнаружить неисправность в Ubuntu, то можно создать <span class="em">отчёт об ошибке</span>.</p>
+<p class="p">Если Вы обнаружили неисправность в Ubuntu, можно создать <span class="em">отчёт об ошибке</span>.</p>
 <div class="steps"><div class="inner"><div class="region"><ol class="steps">
 <li class="steps">
 <p class="p">Нажмите <span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span> и введите <span class="input">ubuntu-bug &lt;имя пакета&gt;</span></p>

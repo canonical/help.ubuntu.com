@@ -1,0 +1,566 @@
+<!DOCTYPE html>
+<html lang=ta>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>விசைப்பலகை குறுக்குவழிகளை அமைத்தல்</title>
+<link rel="stylesheet" type="text/css" href="ta.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.ta" title="பயனர் &amp; கணினி அமைவுகள்">அமைவுகள்</a> » <a class="trail" href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.ta" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.ta" title="வன்பொருள் &amp; இயக்கிகள்">வன்பொருள்</a> » <a class="trail" href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">விசைப்பலகை குறுக்குவழிகளை அமைத்தல்</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">ஒரு விசைப்பலகை குறுக்குவழிக்கு அழுத்த வேண்டிய விசை அல்லது விசைகளை மாற்ற:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Open the <span class="gui"><a href="shell-introduction.html.ta#activities" title="செயல்பாடுகள் மேலோட்டம்">Activities</a></span> 
+      overview and start typing <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click on <span class="gui">Settings</span>.</p></li>
+<li class="steps"><p class="p">Click <span class="gui">Keyboard</span> in the sidebar to open the panel.</p></li>
+<li class="steps"><p class="p">In the <span class="gui">Keyboard Shortcuts</span> section, select <span class="gui">View and Customize Shortcuts</span>.</p></li>
+<li class="steps"><p class="p">Select the desired category, or enter a search term.</p></li>
+<li class="steps"><p class="p">Click the row for the desired action. The <span class="gui">Set shortcut</span>
+      window will be shown.</p></li>
+<li class="steps"><p class="p">Hold down the desired key combination, or press <span class="key"><kbd>Backspace</kbd></span> to
+      reset, or press <span class="key"><kbd>Esc</kbd></span> to cancel.</p></li>
+</ol></div></div></div>
+</div>
+<section id="defined"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">முன் வரையறுக்கப்பட்ட குறுக்குவழிகள்</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">மாற்றக்கூடிய முன் அமைவாக்கம் செய்யப்பட்ட குறுக்குவழிகள் பல உள்ளன, அவை பின்வரும் வகைகளாக பிரிக்கப்பட்டுள்ளன:</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">Accessibility</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">உரை அளவை குறைவாக்குதல்</p></td>
+<td><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">உயர் நிற மாறுபாட்டை இயக்குதல் அல்லது அணைத்தல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">உரை அளவை அதிகமாக்குதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">திரை விசைப்பலகையை இயக்குதல் அல்லது அணைத்தல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">திரை வாசிப்புக் கருவியை இயக்குதல் அல்லது அணைத்தல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">பெரிதாக்கலை இயக்குதல் அல்லது அணைத்தல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">பெரிதாக்க</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>=</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சிறிதாக்க</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>-</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">துவக்கிகள்</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">முகப்புக் கோப்புறை</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-folder.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-computer.svg" class="media media-inline" alt="Explorer key symbol"></span></span> or <span class="key"><kbd>Explorer</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">கால்குலேட்டரைத் துவக்கு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-calculator.svg" class="media media-inline" alt="Calculator key symbol"></span></span> or <span class="key"><kbd>Calculator</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">மின்னஞ்சல் கிளையன்ட்டைத் துவக்கு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mail.svg" class="media media-inline" alt="Mail key symbol"></span></span> or <span class="key"><kbd>Mail</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">உதவி உலாவியைத் துவக்கு</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">வலை உலாவியைத் துவக்கு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-world.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="media"><span class="media media-image"><img src="figures/keyboard-key-home.svg" class="media media-inline" alt="WWW key symbol"></span></span> or <span class="key"><kbd>WWW</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">தேடு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-search.svg" class="media media-inline" alt="Search key symbol"></span></span> or <span class="key"><kbd>Search</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">அமைவுகள்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Tools</kbd></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">வழிசெலுத்தல்</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">சாதாரண சாளரங்கள் அனைத்தும் மறைத்தல்</p></td>
+<td><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move to workspace on the left</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move to workspace on the right</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor down</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><a href="keyboard-key-super.html.ta" title="Super என்பது என்ன?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor to the left</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor to the right</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window one monitor up</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை ஒரு பணியிடம் இடப்புறமாக நகர்த்து</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை ஒரு பணியிடம் வலப்புறமாக நகர்த்து</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Move window to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை பணியிடம் 1 க்கு நகர்த்து</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span>
+  </p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை பணியிடம் 2 க்கு நகர்த்து</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை பணியிடம் 3 க்கு நகர்த்து</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை பணியிடம் 4 க்கு நகர்த்து</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">பயன்பாடுகளிடையே மாறுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">கணினி கட்டுப்பாடுகளை மாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">கணினி கட்டுப்பாடுகளை நேரடியாக மாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Switch to last workspace</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>End</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">பணியிடம் 1 க்கு மாறுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Home</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">பணியிடம் 2 க்கு மாறுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">பணியிடம் 3 க்கு மாறுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">பணியிடம் 4 க்கு மாறுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரங்களை மாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">நேரடியாக சாளரங்களை மாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">ஒரு பயன்பாட்டின் சாளரங்களை நேரடியாக மாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F6</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">ஒரு பயன்பாட்டின் சாளரங்களை மாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">திரைப்பிடிப்புகள்</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">Save a screenshot of a window</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Save a screenshot of the entire screen</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Launch the screenshot tool</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Record a short screencast</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">ஒலி மற்றும் மீடியா</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">வெளியேற்று</p></td>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-eject.svg" class="media media-inline" alt="Eject key symbol"></span></span> (Eject)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">மீடியா இயக்கியை துவக்குதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-media.svg" class="media media-inline" alt="Media key symbol"></span></span> (Audio media)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Microphone mute/unmute</p></td>
+<td style="border-top-style: solid;"></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">அடுத்த டிராக்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-next.svg" class="media media-inline" alt="Next key symbol"></span></span> (Audio next)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">இயக்கத்தை இடைநிறுத்து</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-pause.svg" class="media media-inline" alt="Pause key symbol"></span></span> (Audio pause)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">இயக்கு (அல்லது இயக்கு/இடைநிறுத்து)</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-play.svg" class="media media-inline" alt="Play key symbol"></span></span> (Audio play)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">முந்தைய டிராக்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-previous.svg" class="media media-inline" alt="Previous key symbol"></span></span> (Audio previous)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">இயக்கத்தை நிறுத்து</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-stop.svg" class="media media-inline" alt="Stop key symbol"></span></span> (Audio stop)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">ஒலி அளவை குறைத்தல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-voldown.svg" class="media media-inline" alt="Volume Down key symbol"></span></span> (Audio lower volume)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">ஒலியை நிறுத்து</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-mute.svg" class="media media-inline" alt="Mute key symbol"></span></span> (Audio mute)</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">ஒலி அளவை உயர்த்துதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/keyboard-key-volup.svg" class="media media-inline" alt="Volume Up key symbol"></span></span> (Audio raise volume)</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">கணினி</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">செயலில் உள்ள அறிவிப்புக்குச் செல்</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>N</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">திரையை பூட்டு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the Power Off dialog</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Restore the keyboard shortcuts</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">அனைத்து பயன்பாடுகளையும் காட்டு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">செயல்பாடுகள் மேலோட்டத்தைக் காட்டு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="key"><kbd>Super</kbd></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the notification list</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">Show the system menu</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>S</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">இயக்கு கட்டளை ப்ராம்ப்ட்டைக் காட்டு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">தட்டச்சு</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">அடுத்த உள்ளீட்டு மூலத்திற்கு மாறுதல்</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">முந்தைய உள்ளீட்டு மூலத்திற்கு மாறுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h3><span class="title">சாளரங்கள்</span></h3></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p">சாளர மெனுவைச் செயல்படுத்தல்</p></td>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Space</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை மூடுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F4</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை மறைத்தல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>H</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை மற்ற சாளரங்களுக்கு கீழனுப்புதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தைப் பெரிதாக்குதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↑</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை கிடைமட்டமாக பெரிதாக்குதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை செங்குத்தாக பெரிதாக்குதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை நகர்த்தல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F7</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை மற்ற சாளரங்களுக்கு மேலெழுப்புதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரம் மூடப்பட்டிருந்தால், அதை மேலெழுப்புதல் அல்லது கீழனுப்புதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை அளவுமாற்றல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F8</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை மீட்டமைத்தல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>↓</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">முழுத்திரை நிலைமாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">பெரிதாக்கல் நிலையை நிலைமாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F10</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">சாளரத்தை அனைத்து பணியிடங்களுக்கு அல்லது ஒன்றிற்கு மாற்றுதல்</p></td>
+<td style="border-top-style: solid;"><p class="p">முடக்கப்பட்டது</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">இடது பக்கம் காட்சி பிளவு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p">வலது பக்கம் காட்சி பிளவு</p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div></div>
+</div></section><section id="custom"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">தனிப்பயன் குறுக்குவழிகள்</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">To create your own application keyboard shortcut in the
+  <span class="gui">Keyboard</span> settings:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Select <span class="gui">Custom Shortcuts</span>.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add Shortcut</span> button if no custom
+      shortcut is set yet. Otherwise click the <span class="gui">+</span>
+      button. The <span class="gui">Add Custom Shortcut</span> window will appear.</p></li>
+<li class="steps"><p class="p">Type a <span class="gui">Name</span> to identify the shortcut, and a
+      <span class="gui">Command</span> to run an application.
+      For example, if you wanted the shortcut to open <span class="app">Rhythmbox</span>, you
+      could name it <span class="input">Music</span> and use the <span class="input">rhythmbox</span>
+      command.</p></li>
+<li class="steps"><p class="p">Click the <span class="gui">Add Shortcut…</span> button. In the
+      <span class="gui">Add Custom Shortcut</span> window, hold down the desired
+      shortcut key combination.</p></li>
+<li class="steps"><p class="p"><span class="gui">சேர்</span> ஐ சொடுக்கவும்.</p></li>
+</ol></div></div></div>
+<p class="p">நீங்கள் தட்டச்சு செய்யும் கட்டளை பெயர் ஒரு செல்லுபடியான கணினி கட்டளையாக இருக்க வேண்டும். நீங்கள் ஒரு முனையத்தைத் திறந்து அங்கு அந்த கட்டளையை தட்டச்சு செய்து அது செயல்படுகிறதா எனப் பார்க்க முடியும். ஒரு பயன்பாட்டை திறக்கும் கட்டளை பயன்பாட்டின் பெயரையே கொண்டிருக்க முடியாது.</p>
+<p class="p">If you want to change the command that is associated with a custom
+  keyboard shortcut, click the row of the shortcut. The
+  <span class="gui">Set Custom Shortcut</span> window will appear, and you can edit the
+  command.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">மேலும் தகவல்கள்</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="keyboard.html.ta" title="விசைப்பலகை">விசைப்பலகை</a><span class="desc"> — Select international keyboard layouts and use keyboard
+    accessibility features.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">இதனையும் பார்</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="shell-keyboard-shortcuts.html.ta" title="பயனுள்ள விசைப்பலகை குறுக்குவழிகள்">பயனுள்ள விசைப்பலகை குறுக்குவழிகள்</a><span class="desc"> — விசைப்பலகையைப் பயன்படுத்தி பணிமேசையில் வலம் வருதல்.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang=da>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Manuel opsætning af netværksindstillinger</title>
+<link rel="stylesheet" type="text/css" href="da.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk</a> » <a class="trail" href="net-wired.html.da" title="Kablet netværk">Kablet netværk</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="net.html.da" title="Netværk, web &amp; e-mail">Netværk</a> » <a class="trail" href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Manuel opsætning af netværksindstillinger</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Hvis dit netværk ikke automatisk tildeler netværksindstillinger til din computer, skal du muligvis selv indtaste indstillingerne manuelt. Dette emne forudsætter, at du allerede kender de korrekte indstillinger, der skal bruges. Hvis ikke, skal du muligvis spørge din netværksadministrator eller se på indstillingerne for din router eller netværksswitch.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">Manuel opsætning af dine netværksindstillinger:</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Åbn <span class="gui"><a href="shell-introduction.html.da#activities" title="Aktivitetsoversigten">Aktivitetsoversigten</a></span> og begynd at skrive <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Indstillinger</span>.</p></li>
+<li class="steps">
+<p class="p">Hvis du er forbundet til netværket med et kabel, skal du klikke på <span class="gui">Netværk</span>. Ellers skal du klikke på <span class="gui">Wi-fi</span>.</p>
+<p class="p">Sørg for, at dit trådløse kort er tændt, eller at et netværkskabel er sat i.</p>
+</li>
+<li class="steps">
+<p class="p">Klik på knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="indstillinger"></span></span>.</p>
+<div class="note" title="Note">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">For en <span class="gui">Wi-fi</span>-forbindelse vil knappen <span class="media"><span class="media media-image"><img src="figures/emblem-system-symbolic.svg" class="media media-inline" alt="indstillinger"></span></span> være placeret ved siden af det aktive netværk.</p></div></div></div>
+</div>
+</li>
+<li class="steps"><p class="p">Vælg fanebladet <span class="gui">IPv4</span> eller <span class="gui">IPv6</span> og skift <span class="gui">Metode</span> til <span class="gui">Manuel</span>.</p></li>
+<li class="steps"><p class="p">Indtast <span class="gui"><a href="net-what-is-ip-address.html.da" title="Hvad er en IP-adresse?">IP-adressen</a></span> og <span class="gui">Gateway'en</span> samt den relevante <span class="gui">Netmaske</span>.</p></li>
+<li class="steps"><p class="p">I sektionen <span class="gui">DNS</span> skal du slå <span class="gui">Automatisk</span>-kontakten fra. Indtast IP-adressen på den DNS-server, du vil bruge. Indtast yderligere DNS-serveradresser ved hjælp af <span class="gui">+</span>-knappen.</p></li>
+<li class="steps"><p class="p">I sektionen <span class="gui">Ruter</span> skal du slå kontakten <span class="gui">Automatisk</span> fra. Indtast <span class="gui">Adresse</span>, <span class="gui">Netmaske</span>, <span class="gui">Gateway</span> og <span class="gui">Metrik</span> for en rute, du vil bruge. Indtast yderligere ruter ved hjælp af <span class="gui">+</span>-knappen.</p></li>
+<li class="steps"><p class="p">Klik på <span class="gui">Anvend</span>. Hvis du ikke er forbundet til netværket, skal du åbne <span class="gui"><a href="shell-introduction.html.da#systemmenu" title="Systemmenu">systemmenuen</a></span> fra højre side af toppanelet og oprette forbindelse. Test netværksindstillingerne ved at prøve for eksempel at besøge et websted eller se på delte filer på netværket.</p></li>
+</ol></div>
+</div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="net-wired.html.da" title="Kablet netværk">Kablet netværk</a><span class="desc"> — Brug en kablet internetforbindelse og indstil en fast IP-adresse.</span>
+</li>
+<li class="links ">
+<a href="net-wireless.html.da" title="Trådløst netværk">Trådløst netværk</a><span class="desc"> — Opret forbindelse til trådløse netværk inklusive skjulte netværk og netværk oprettet via telefonen.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

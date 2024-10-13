@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>파일 및 폴더 찾아보기</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="files.html.ko" title="파일, 폴더 및 검색">파일</a> › <a class="trail" href="files.html.ko#common-file-tasks" title="일반 작업">일반 작업</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">파일 및 폴더 찾아보기</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p"><span class="app">파일</span> 관리자를 사용하여 컴퓨터의 파일을 살펴보고 정리합니다. 스토릿지 장치(외장 하드 드라이브), <span class="link"><a href="nautilus-connect.html.ko" title="서버 또는 네트워크 공유 파일 탐색하기">파일 서버</a></span>, 네트워크 공유 폴더의 파일을 관리할 때 활용할 수도 있습니다.</p>
+<p class="p">파일 관리자를 시작하려면 <span class="gui"><a href="shell-introduction.html.ko#activities" title="현재 활동 개요">현재 활동</a></span> 개요에서 <span class="app">파일</span>을 엽니다. <span class="link"><a href="shell-apps-open.html.ko" title="프로그램 시작">프로그램 검색</a></span>을 진행하여 동일한 방법으로 개요를 통해 파일 및 폴더를 검색할 수 있습니다.</p>
+</div>
+<section id="files-view-folder-contents"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">폴더 내용 둘러보기</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">파일 관리자에서 폴더 내용을 보려면 두번 누르고, 해당 파일의 기본 프로그램을 열려면 두번 두르거나 <span class="link"><a href="mouse-middleclick.html.ko" title="가운데 누르기">가운데 단추를 누릅니다</a></span>. 폴더에 가운데 단추 누르기를 하면, 새 탭을 열어줍니다. 새 탭 또는 새 창을 열 대 폴더에 오른쪽 단추를 누를 수도 있습니다.</p>
+<p class="p">폴더에서 파일의 내용을 찾아볼 때, 파일을 열기 전, 복사하기 전, 삭제하기 전 올바른 파일인 지 여부 확인을 목적으로 스페이스 바를 눌러 <span class="link"><a href="files-preview.html.ko" title="파일 및 폴더 미리 보기">각 파일 미리 보기</a></span>를 간단하게 할 수 있습니다.</p>
+<p class="p">파일, 폴더 목록 위의<span class="em">경로 표시줄</span>에서는 현재 보고 있는 폴더, 현재 폴더의 상위 폴더를 알려줍니다. 경로 표시줄에서 상위 폴더를 누르면 해당 폴더로 이동합니다. 경로 표시줄의 임의의 폴더에 오른쪽 단추를 누르면 새 탭 또는 창을 열거나 속성을 볼 수 있습니다.</p>
+<p class="p">보고 있는 폴더 안 또는 그 아래로 <span class="link"><a href="files-search.html.ko" title="파일 검색">파일 검색</a></span>을 빨리 하고 싶다면, 이름 입력을 시작합니다. <span class="em">검색 표시줄</span>이 창 상단에 나타나고 일치하는 항목이 나타납니다. 검색을 취소하려면 <span class="key"><kbd>ESC</kbd></span>키를 누릅니다.</p>
+<p class="p">You can quickly access common places from the <span class="em">sidebar</span>. If you do
+not see the sidebar, press the <span class="gui">Show Sidebar</span> button in the top-left
+corner of the window. You can <span class="link"><a href="nautilus-bookmarks-edit.html.ko" title="책갈피 폴더 편집">add bookmarks
+to folders that you use often</a></span> and they will appear in the sidebar.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.ko#common-file-tasks" title="일반 작업">일반 작업</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">참고</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-copy.html.ko" title="파일 및 폴더 복사 또는 이동">파일 및 폴더 복사 또는 이동</a><span class="desc"> — 항목을 새 폴더로 복사하거나 이동합니다.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

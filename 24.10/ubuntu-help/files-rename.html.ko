@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>파일 또는 폴더 이름 바꾸기</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="files.html.ko" title="파일, 폴더 및 검색">파일</a> › <a class="trail" href="files.html.ko#common-file-tasks" title="일반 작업">일반 작업</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">파일 또는 폴더 이름 바꾸기</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">다른 파일 관리자에서와 같이, <span class="app">파일</span> 에서도 파일 이름 또는 폴더 이름을 바꿀 수 있습니다.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h2><span class="title">파일 또는 폴더 이름을 바꾸려면:</span></h2></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">항목에 포인터를 올려두고 오른쪽 단추를 누른 후 <span class="gui">이름 바꾸기</span>를 선택하거나, 파일을 선택한 후 <span class="key"><kbd>F2</kbd></span>키를 누릅니다.</p></li>
+<li class="steps"><p class="p">새 이름을 입력하고 <span class="key"><kbd>Enter</kbd></span>키를 누르거나 <span class="gui">이름 바꾸기</span>를 누릅니다.</p></li>
+</ol></div>
+</div></div>
+<p class="p">파일 이름을 바꿀 때, 파일 확장자 부분(마지막 <span class="file">.</span> 다음 부분)이 아닌 파일 앞 부분만 선택한 상태입니다. 확장자는 보통 파일 형식이 무엇인지 (예: <span class="file">file.pdf</span> 파일은 PDF 문서임) 나타내며 보통 여러분께서 바꾸고 싶어하지 않는 부분입니다. 확장자도 마찬가지로 바꾸려면 파일 이름 전부를 선택하고 바꿉니다.</p>
+<div class="note note-tip" title="힌트">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
+ <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">If you renamed the wrong file, or named your file improperly, you can
+    undo the rename. To revert the action, immediately click the menu button in
+    the sidebar and select <span class="gui">Undo Rename</span>, or press
+    <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span>, to restore the former
+    name.</p></div></div></div>
+</div>
+</div>
+<section id="valid-chars"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">올바른 파일 이름 문자</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">파일 이름에는 <span class="file">/</span>(슬래시) 문자를 제외하고 어떤 문자든 사용할 수 있습니다. 그러나 어떤 장치에서는 파일 이름에 더 많은 제한을 가하는 <span class="em">파일 시스템</span>을 사용하기도 합니다. 따라서 파일 이름에 <span class="file">|</span>, <span class="file">\</span>, <span class="file">?</span>, <span class="file">*</span>, <span class="file">&lt;</span>, <span class="file">"</span>, <span class="file">:</span>, <span class="file">&gt;</span>, <span class="file">/</span> 문자는 가장 피하는게 좋은 습관이 되겠습니다.</p>
+<div class="note note-warning" title="경고">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m11.92 3.3047a1.3872 1.3872 0 0 0-1.129 0.6933l-8.6055 14.922a1.3872 1.3872 0 0 0 1.2012 2.08l17.226-8e-3a1.3872 1.3872 0 0 0 1.201-2.08l-8.619-14.916a1.3872 1.3872 0 0 0-1.136-0.6913 1.3872 1.3872 0 0 0-0.139 0zm0.08 4.6953a1 1 0 0 1 1 1v6a1 1 0 0 1-1 1 1 1 0 0 1-1-1v-6a1 1 0 0 1 1-1zm0 9a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">파일 이름에 <span class="file">.</span>이 처음 문자로 온다면 파일 관리자에서 해당 파일을 보려고 하면 <span class="link"><a href="files-hidden.html.ko" title="파일 숨기기">숨김</a></span> 상태가 됩니다.</p></div></div></div>
+</div>
+</div></div>
+</div></section><section id="common-probs"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">일반 문제</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">파일 이름을 이미 사용하고 있습니다</dt>
+<dd class="terms">
+<p class="p">동일한 이름을 지닌 파일 또는 폴더를 같은 위치에 돌 수 없습니다. 만약 폴더에 있는 작업중인 파일과 동일한 이름으로 파일 이름을 바꾼다하면, 파일 관리자에서 허용하지 않습니다.</p>
+<p class="p">파일 또는 폴더 이름은 대소문자를 구분합니다. 따라서 <span class="file">File.txt</span>는 <span class="file">FILE.txt</span>와는 다릅니다. 이런식의 다른 파일 이름은 추천하지는 않지만 허용합니다.</p>
+</dd>
+<dt class="terms">파일 이름이 너무 깁니다</dt>
+<dd class="terms"><p class="p">어떤 파일 시스템에서는 파일 이름의 길이가 255 글자를 넘을 수 없습니다. 255 글자 제한은 파일 이름과 파일 경로 모두(이를테면, <span class="file">/home/cheolsoo/Documents/work/business-proposals/…</span> )에 해당하기에 가능하다면 긴 파일 이름 및 긴 폴더 이름을 피해야 합니다.</p></dd>
+<dt class="terms">파일 이름 바꾸기 옵션을 사용할 수 없게 바뀌었습니다</dt>
+<dd class="terms"><p class="p"><span class="gui">이름 바꾸기</span> 항목이 흐릿하다면 파일 이름을 바꿀 권한이 없다는 의미가 되겠습니다. 이 파일의 이름을 바꿀 때 위험성을 동반하며, 보호 파일의 이름을 바꿨을 때 시스템이 불안정해질 수 있습니다. 자세한 내용은 <span class="link"><a href="nautilus-file-properties-permissions.html.ko" title="파일 권한 설정">파일 권한 설정</a></span>을 봅니다.</p></dd>
+</dl></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.ko#common-file-tasks" title="일반 작업">일반 작업</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">참고</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="files-rename-multiple.html.ko" title="Rename multiple files">Rename multiple files</a><span class="desc"> — Rename more than one file at once.</span>
+</li>
+<li class="links ">
+<a href="files-rename-music-metadata.html.ko" title="Rename music files using metadata">Rename music files using metadata</a><span class="desc"> — Rename music files using metadata they contain.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang=mr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>रंग जागा काय असते?</title>
+<link rel="stylesheet" type="text/css" href="mr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.mr" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.mr" title="वापरकर्ता &amp; सिस्टीम सेटिंग">सेटिंग</a> » <a class="trail" href="color.html.mr" title="रंग व्यवस्थापन">Color</a> › <a class="trail" href="color.html.mr#profiles" title="रंग प्रोफाइल्स">रंग प्रोफाइल्स</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.mr" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.mr" title="हार्डवेअर &amp; ड्राइवर्स">हार्डवेअर</a> » <a class="trail" href="color.html.mr" title="रंग व्यवस्थापन">Color</a> › <a class="trail" href="color.html.mr#profiles" title="रंग प्रोफाइल्स">रंग प्रोफाइल्स</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">रंग जागा काय असते?</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">रंग क्षेत्र ठरवलेल्या रंगांची व्याप्ति आहे. परिचीत रंग क्षेत्रांमध्ये sRGB, AdobeRGB आणि ProPhotoRGB समाविष्टीत आहे.</p>
+<p class="p">मानवीय दृश्य प्रणाली सोपे RGB सेंसर नाही, परंतु CIE 1931 क्रोमॅटिसिटि आकृतीसह डाळा कसे प्रतिसाद पुरवतो हे जाणून घेणे शक्य आहे जे मानवी दृश्य प्रतिसादला हॉर्स-शू आकार म्हणून दाखवते. मानवीय व्हिजनमध्ये निळ्या किंवा लाल ऐवजी हिरव्या रंगाची जास्त छटा असते. RGB सारख्या ट्रायक्रोमॅटिक रंग क्षेत्रसह संगणकावरील रंगांना तीन मूल्यांसह प्रस्तुत केले जाते जे रंगाचे <span class="em">ट्रायअँगल</span> स्वरूपातील एंकोडिंग पर्यंत मर्यादीत असते.</p>
+<div class="note" title="टीप">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">मॉडल जसे कि CIE 1931 क्रोमॅटिसिटि आकृतीचा वापर मानवी दृश्य प्रणालीची सुलभीकरण आहे, आणि रिअल गॅमुट्सला 3D हल्स म्हणून प्रस्तुत केले जाते, 2D प्रोजेक्शन्स ऐवजी. 3D आकाराचे 2D प्रोजेक्शन गोंधळास्पद असू शकते, जेणेकरून तुम्हाला 3D हल पहायचे असल्यास, <span class="code">gcm-viewer</span> ॲप्लिकेशनचा वापर करा.</p></div></div></div>
+</div>
+<div class="figure"><div class="inner">
+<a href="#" class="figure-zoom" data-zoom-in-title="View images at normal size" data-zoom-out-title="Scale images down"><svg width="10" height="10" class="figure-zoom-in"><rect x="0.5" y="0.5" width="9" height="9" class="yelp-svg-stroke" stroke-width="1" fill="none"></rect><rect x="0" y="5" width="5" height="5" class="yelp-svg-fill"></rect></svg><svg width="10" height="10" class="figure-zoom-out"><rect x="0.5" y="0.5" width="9" height="9" class="yelp-svg-stroke" stroke-width="1" fill="none"></rect><polygon points="0,0 10,0 10,10 5,10 5,5 10,5 0,5" class="yelp-svg-fill"></polygon></svg></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-space.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">sRGB, AdobeRGB आणि ProPhotoRGB पांढऱ्या त्रिकोणांनी दर्शविले आहेत</div>
+</div>
+</div></div>
+<p class="p">पहिले, sRGB कडे लक्ष देताना, ज्याची छोटी व्याप्ति आहे आणि किमान रंग एंकोड करते. ते १० वर्ष जुणे CRT डिस्पलेचे अप्रॉक्सीमेशन आहे, आणि आधुनिक मॉनिटर्स यापेक्षा जास्त रंग दाखवू शकतात. sRGB <span class="em">लिस्ट-कॉमन-डिनॉमिनेटर</span> मानक आहे आणि मोठ्या प्रमाणात ॲप्लिकेशन्सतर्फे वापरले जाते (इंटरनेट समाविष्टीत).</p>
+<p class="p">AdobeRGB याचा वापर <span class="em">एडिटिंग स्पेस</span> म्हणून केला जातो. sRGB पेक्षा जास्त रंग एंकोड करणे शक्य आहे, याचा अर्थ बुहतांश रंग क्लिप्ड किंवा ब्लॅक्स क्रश केले जातात, यांची काळजी न करता फोटोग्राफमधील रंग बदलणे शक्य आहे.</p>
+<p class="p">ProPhoto सर्वात मोठे स्पेस उपलब्ध आहे आणि दस्तऐवज साठवण्याकरिता त्याचा वारंवार वापर केला जातो. मानवीय डोळ्यातर्फे आढळलेली रंगांची व्याप्ति एंकोड करणे शक्य आहे, डोळ्यांतर्फे न आढळणारी रंग देखील एंकोड केली जातात!</p>
+<p class="p">
+    Now, if ProPhoto is clearly better, why don’t we use it for everything?
+    The answer is to do with <span class="em">quantization</span>.
+    If you only have 8 bits (256 levels) to encode each channel, then a
+    larger range is going to have bigger steps between each value.
+  </p>
+<p class="p"> बिगर स्टेप्स म्हणजे कॅपचर्ड रंग आणि साठवलेल्या रंग अंतर्गत मोठ्या त्रुटी, आणि काही रंगांकरिता ही खूप मोठी अडचण आहे. की रंग, जसे कि स्किन कलर खूप महत्वाचे आहेत, आणि फोटोग्राफमधील छोटी त्रुटी देखील विनाप्रशिक्षीत श्रोत्यांना पटकन आढळून येते.</p>
+<p class="p">होय, १६ बिट प्रतिमेला खूप जास्त टप्पे आणि छोटे काँटायजेशन त्रुटी आवश्यक असेल, परंतु यामुळे प्रत्येक प्रतिमा फाइलचे आकार दुहेरी होते. आज अस्तित्वात असलेली बहुतांश अंतर्भुत माहिती ८bpp आहे, म्हणजेच ८ बिट्स-पर-पिक्सेल.</p>
+<p class="p">रंग व्यवस्थापन म्हणजे एक रंग क्षेत्रातून दुसऱ्यामध्ये रूपांतरीत करणे, जेथे रंग क्षेत्र परिचीत क्षेत्र जसे कि sRGB, किंवा पसंतीचे क्षेत्र जसे कि मॉनिटर किंवा प्रिंटर प्रोफाइल असू शकते.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">More Information</span></h2></div>
+<div class="region"><ul><li class="links "><a href="color.html.mr#profiles" title="रंग प्रोफाइल्स">रंग प्रोफाइल्स</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">हेही पहा</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="color-whatisprofile.html.mr" title="रंग प्रोफाइल काय असते?">रंग प्रोफाइल काय असते?</a><span class="desc"> — रंग प्रोफाइल सोपे फाइल आहे जे रंग स्पेस किंवा साधन प्रतिसाद अभिव्यक्त करतात.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

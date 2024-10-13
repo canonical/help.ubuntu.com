@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang=fr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Notifications et liste des notifications</title>
+<link rel="stylesheet" type="text/css" href="fr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.fr" title="Guide du bureau Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Aide"></span></span> Guide Ubuntu Desktop</a> » <a class="trail" href="shell-overview.html.fr" title="Votre bureau">Bureau</a> › <a class="trail" href="shell-overview.html.fr#desktop" title="Personnalisation de votre bureau">Personnalisation de votre bureau</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Notifications et liste des notifications</span></h1></div>
+<div class="region">
+<div class="contents pagewide"></div>
+<section id="what"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Définition d’une notification</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Si une application ou un composant du système veut attirer votre attention, une notification s’affiche en haut de l’écran, ou sur votre écran de verrouillage.</p>
+<p class="p">Par exemple, si vous recevez un nouveau message de discussion ou un nouveau courriel, une notification vous en informe. Néanmoins, les notifications de discussion reçoivent un traitement particulier et sont représentées par les contacts individuels qui vous ont envoyé les messages.</p>
+<p class="p">Les autres notifications ont des boutons d’options sélectionnables. Pour fermer l’une de ces notifications sans sélectionner une de ses options, cliquez sur le bouton fermer.</p>
+<p class="p">En cliquant sur fermer, certaines notifications disparaissent, tandis que d’autres (comme celles de Rhythmbox ou d’applications de discussion) restent masquées dans la liste des notifications.</p>
+</div></div>
+</div></section><section id="notificationlist"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">La liste des notifications</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">La liste des notifications vous permet de récupérer vos notifications quand bon vous semble. Elle apparaît lorsque vous cliquez sur l’horloge, ou lorsque vous appuyez sur <span class="keyseq"><span class="key"><a href="keyboard-key-super.html.fr" title="Qu’est-ce que la touche Super ?"><kbd>Super</kbd></a></span>+<span class="key"><kbd>V</kbd></span></span>. Elle contient toutes les notifications sur lesquelles vous n’avez pas encore agi ou qui y résident en permanence.</p>
+<p class="p">Vous pouvez afficher une notification en cliquant sur celle-ci dans la liste. Pour fermer la liste des notifications, appuyez de nouveau sur <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> ou sur <span class="key"><kbd>Échap</kbd></span>.</p>
+<p class="p">Cliquez sur le bouton <span class="gui">Effacer</span> pour vider la liste des notifications.</p>
+</div></div>
+</div></section><section id="hidenotifications"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Masquage des notifications</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Si vous travaillez sur quelque chose et ne voulez pas être dérangé, vous pouvez désactiver les notifications.</p>
+<p class="p">Vous pouvez masquer toutes les notifications en ouvrant la liste des notifications et en activant l’option <span class="gui">Ne pas déranger</span> située en bas. Alternativement :</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Notifications</span> dans la barre latérale pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">Switch <span class="gui">Do Not Disturb</span> to on.</p></li>
+</ol></div></div></div>
+<p class="p">When <span class="gui">Do Not Disturb</span> is switched on, only very important
+  notifications, such as when your battery is critically low, will pop up at
+  the top of the screen. All notifications will still be available
+  in the notification list when you display it (by clicking on the clock, or by
+  pressing <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span>), and they will start
+  popping up again when you switch <span class="gui">Do Not Disturb</span> back to off.</p>
+<p class="p">Vous pouvez également désactiver ou réactiver les notifications pour des applications individuelles à partir du panneau <span class="gui">Notifications</span>.</p>
+</div></div>
+</div></section><section id="lock-screen-notifications"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Masquage des notifications de l’écran de verrouillage</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Lorsque votre écran est verrouillé, les notifications apparaissent sur l’écran de verrouillage. Vous pouvez configurer l’écran de verrouillage afin de masquer ces notifications pour des raisons de confidentialité.</p>
+<div class="steps"><div class="inner">
+<div class="title title-steps"><h3><span class="title">Pour désactiver les notifications lorsque votre écran est verrouillé :</span></h3></div>
+<div class="region"><ol class="steps">
+<li class="steps"><p class="p">Ouvrez la vue d’ensemble des <span class="gui"><a href="shell-introduction.html.fr#activities" title="La vue d’ensemble des Activités">Activités</a></span> et commencez à saisir <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Paramètres</span>.</p></li>
+<li class="steps"><p class="p">Cliquez sur <span class="gui">Notifications</span> dans la barre latérale pour ouvrir le panneau.</p></li>
+<li class="steps"><p class="p">Désactivez l’option <span class="gui">Notifications sur l’écran de verrouillage</span> en basculant l’interrupteur.</p></li>
+</ol></div>
+</div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Plus d’informations</span></h2></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.fr#desktop" title="Personnalisation de votre bureau">Personnalisation de votre bureau</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

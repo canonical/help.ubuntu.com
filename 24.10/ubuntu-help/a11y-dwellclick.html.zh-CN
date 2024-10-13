@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>通过悬停产生点击</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="hardware.html.zh-CN" title="硬件与驱动">硬件</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标，触摸板和触摸屏">鼠标</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="a11y.html.zh-CN" title="辅助功能">辅助功能</a> › <a class="trail" href="a11y.html.zh-CN#mobility" title="行动障碍">行动障碍</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 24.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="prefs.html.zh-CN" title="用户与系统设置">设置</a> » <a class="trail" href="mouse.html.zh-CN" title="鼠标，触摸板和触摸屏">鼠标</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">通过悬停产生点击</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">您只需将鼠标指针悬停在屏幕上的控件或对象上即可轻松点击或拖动。如果您无法在移动鼠标的同时点击鼠标键，这将会带来很大的方便。此特性称为<span class="gui">悬停点击</span>或停留点击。</p>
+<p class="p">当<span class="gui">悬停点击</span>开启时，您可以将鼠标指针移动到控件上，松开鼠标，静待片刻后系统将自动为您完成点击鼠标的动作。</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">打开<span class="gui"><a href="shell-introduction.html.zh-CN#activities" title="活动概览">活动</a></span>概览后输入<span class="gui">辅助功能</span>。</p></li>
+<li class="steps"><p class="p">点击<span class="gui">辅助功能</span>打开面板。</p></li>
+<li class="steps"><p class="p">选择 <span class="gui">指向和点击</span> 部分将其打开。</p></li>
+<li class="steps"><p class="p">在<span class="gui">点击助手</span>窗口中，切换<span class="gui">模拟副键点击</span>开关为开启状态。</p></li>
+</ol></div></div></div>
+<p class="p">将会打开<span class="gui">悬停点击</span>窗口，并且显示在其他窗口之上。您可以用它选择悬停时点击的类型。例如，当您选择了<span class="gui">副键点击</span>，当您把鼠标停下一会时会产生一个右键点击动作。在您双击、右击或拖动后，将自动返回点击状态。</p>
+<p class="p">当您将鼠标指针移到一个按钮上，停留一会儿，指针就会慢慢变色，当它完全变色后，就会产生点击动作。</p>
+<p class="p">拖动<span class="gui">延迟</span>滑块，设置需要按键多久才能产生点击。</p>
+<p class="p">悬停点击时，无需保持鼠标完全静止。指针可以小幅移动，片刻后仍可完成点击。但如果移动的幅度过大，则不会产生点击。</p>
+<p class="p">调整<span class="gui">延迟</span>设置控制您必须按住键多久才能完成点击。</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="a11y.html.zh-CN#mobility" title="行动障碍">行动障碍</a></li>
+<li class="links ">
+<a href="mouse.html.zh-CN" title="鼠标，触摸板和触摸屏">鼠标，触摸板和触摸屏</a><span class="desc"> — 调整指向设备的行为以满足个人需求。</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

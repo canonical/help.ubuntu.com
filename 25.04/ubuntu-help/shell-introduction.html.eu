@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang=eu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>GNOMEren ikuspegi bisuala</title>
+<link rel="stylesheet" type="text/css" href="eu.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.eu" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">GNOMEren ikuspegi bisuala</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">GNOMEren erabiltzaile-interfazea ahalik eta traba gutxien egiteko pentsatuta dago, zure zereginak ondoen egin ditzazun. Saioa hasi ondoren <span class="gui">Jarduerak</span> ikuspegia eta goiko barra ikusiko dituzu.</p>
+<div class="media media-image if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-top-bar.png" width="600" class="media media-block" alt="GNOME Shell-en goiko barra"></div></div>
+<p class="p">Goiko barran leihoak eta aplikazioak atzitzeko aukerak, egutegia eta hitzorduak eta <span class="link"><a href="status-icons.html.eu" title="Zer dira goiko barrako ikonoak?">sistemaren propietateak</a></span> -adibidez soinua, sareak eta energia- izango dituzu. Goiko barrako sistema-menuan, bolumena edo distira aldatu ditzakezu, zure <span class="gui">wifi</span> konexioaren xehetasunak moldatu ditzakezu, bateriaren egoera egiaztatu dezakezu, erabiltzailez aldatu dezakezu eta ordenagailua itzali dezakezu.</p>
+<div role="navigation" class="links sectionlinks"><div class="inner"><div class="region"><ul>
+<li class="links "><a href="shell-introduction.html.eu#activities" title="Jarduerak ikuspegia"><span class="gui">Jarduerak</span> ikuspegia</a></li>
+<li class="links "><a href="shell-introduction.html.eu#clock" title="Ordularia, egutegia eta hitzorduak">Ordularia, egutegia eta hitzorduak</a></li>
+<li class="links "><a href="shell-introduction.html.eu#systemmenu" title="Sistema-menua">Sistema-menua</a></li>
+<li class="links "><a href="shell-introduction.html.eu#lockscreen" title="Blokeatu pantaila">Blokeatu pantaila</a></li>
+<li class="links "><a href="shell-introduction.html.eu#window-list" title="Leiho-zerrenda">Leiho-zerrenda</a></li>
+</ul></div></div></div>
+</div>
+<section id="activities"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title"><span class="gui">Jarduerak</span> ikuspegia</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">GNOME abiaraztean, automatikoki sartuko zara <span class="gui">Jarduerak</span> ikuspegi orokorrean. Hortik, zure leiho eta aplikazioetara sartu ahal izango zara. Ikuspegi orokorrean, hasi idazten zuzenean zure aplikazioak, fitxategiak, karpetak eta interneteko edukiak bilatzeko.</p>
+<p class="p">Ikuspegi orokor horretara edozein unetan joateko, egin klik goiko ezkerreko izkinan dagoen 'Jarduerak' botoian edo eraman saguaren erakuslea izkina horretarako. Ikuspegi orokorrera sartzeko beste modu bat teklatuako <span class="key"><a href="keyboard-key-super.html.eu" title="Zer da Super tekla?"><kbd>Super</kbd></a></span> tekla sakatzea da.</p>
+<div class="media media-image floatend"><div class="inner"><img src="figures/shell-activities-dash.png" height="65" class="media media-block" alt="Activities button and Dash"></div></div>
+<p class="p">Ikuspegiaren beheko aldean <span class="em">panel bat</span> ikusiko duzu. Panel horrek zure gogoko aplikazioak eta abian daudenak erakusten ditu. Egin klik paneleko edozein ikonotan aplikazio bat irekitzeko;aplikazioa dagoeneko irekita badago, puntu txiki bat izango du ikonoaren azpian. Ikonoa sakatzean, erabilitako azken leihoa erakutsiko du. Ikonoa laneko area batera arrastatu daiteke.</p>
+<p class="p">Ikonoan eskuineko klik egitean, aplikazio horrek abian duen leihoetako edozein aukeratu ahal izango duzu, edo leiho berria ireki ahal izango duzu. <span class="key"><kbd>Ctrl</kbd></span> tekla sakatuta mantentzen baduzu ikonoan klik egitean, leiho berria irekiko duzu.</p>
+<p class="p">Ikuspegi orokorrean sartzen zarenean, hasieran leihoak ikusiko dituzu. uneko laneko arean dauden leihoen koadro txikiak agertuko dira.</p>
+<p class="p">Egin klik panelean bederatzi puntuz adierazita datorren ikonoan, aplikazioen ikuspegi orokorra bistaratzeko. Ordenagailuan instalatutako aplikazio guztiak ikusiko dituzu. Egin klik edozein aplikaziotan hura exekutatzeko, edo arrastatu aplikazio bat goiko aldean erakusten diren laneko areatako batera. Aplikazioak panelera arrastatu ditzakezu haiek gogoko bihurtzeko. Gogoko aplikazioak panelean egongo dira abian ez daudenean ere, horrela azkarrago ireki ditzazun.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="shell-apps-open.html.eu" title="Abiarazi aplikazioak">Ikusi aplikazioak abiarazteko modu gehiago.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-windows.html.eu" title="Leihoak eta laneko areak">Ikasi gehiago leihoei eta laneko areei buruz.</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="clock"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Ordularia, egutegia eta hitzorduak</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-appts.png" width="250" class="media media-block" alt="Ordularia, egutegia, hitzorduak eta jakinarazpenak"></div></div>
+<p class="p">Egin klik goiko barrako ordularian uneko data, hilabetez hilabeteko egutegi bat, indarrean dituzun hitzorduak eta jakinarazpen berriak ikusteko. Egutegia irekitzeko beste modu bat <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> tekla-konbinazioa erabiltzea da. Dataren eta orduaren ezarpenetara sartzeko eta egutegiaren aplikazioa irekitzeko, zuzenean menutik egin dezakezu.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="clock-calendar.html.eu" title="Egutegiko hitzorduak">Ikasi gehiago egutegiari eta hitzorduei buruz.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="shell-notifications.html.eu" title="Jakinarazpenak eta jakinarazpen-zerrenda">Ikasi gehiago jakinarazpenei eta jakinarapenen zerrendei buruz..</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="systemmenu"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Sistema-menua</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit.png" width="250" class="media media-block" alt="Erabiltzaile-menua"></div></div>
+<p class="p">Egin klik goiko eskuineko izkinan dagoen sistema-menuan zure sistemaren ezarpenak eta zure ordenagailua kudeatzeko. Menuaren goiko zatiak bateria-egoeraren adierazlea, ezarpenak abiarazteko botoi bat eta pantaila-argazkiak egiteko beste bat ditu. <span class="media"><span class="media media-image"><img src="figures/system-shutdown-symbolic.svg" class="media media-inline" alt="power"></span></span> botoiaren bidez, ordenagailua eseki edo itzali daiteke, edo beste norbaiti ordenagailura sartzeko baimena eman diezaiokezu zure saioa amaitu gabe. Graduatzaileen bidez soinu-bolumena eta pantailaren distira kontrolatzen dira.</p>
+<p class="p">Menuaren gainerako zatian ezarpen azkarretarako botoiak daude, wifia, Bluetootha, energia-ezarpenak, atzeko planoko aplikazioak eta beste zerbitzu eta gailu batzuk modu azkarrean kontrolatzeko.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact">
+<li class="list"><p class="p"><span class="link"><a href="shell-exit.html.eu" title="Amaitu saioa, itzali ordenagailua edo aldatu erabiltzailez">Ikasi nola aldatu erabiltzailez, saioa amaitu eta ordenagailua itzali.</a></span></p></li>
+<li class="list"><p class="p"><span class="link"><a href="quick-settings.html.eu" title="Ezarpen azkarrak">Ikasi gehiago ezarpen azkarrei buruz.</a></span></p></li>
+</ul></div></div></div>
+</div></div>
+</div></section><section id="lockscreen"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Blokeatu pantaila</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Pantaila blokeatzen baduzu edo automatikoki blokeatzen bada, blokeo-pantaila bistaratuko da. Kanpoan zauden bitartean mahaigaina babesteaz gain, blokeo-pantailak data eta ordua erakusten ditu. Bateriari eta sareko egoerari buruzko informazioa ere erakusten du.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-lockscreen.html.eu" title="Blokeo-pantaila">Ikasi gehiago blokeo-pantailari buruz.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section id="window-list"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Leiho-zerrenda</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">GNOMEk beste modu bat erabiltzen du leihoz leiho mugitzeko, ez beti ikusgai dagoen leiho-zerrenda bat beste mahaigain batzuetan bezala. Horrela, lanean zentratu zaitezke distrakziorik gabe.</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list compact"><li class="list"><p class="p"><span class="link"><a href="shell-windows-switching.html.eu" title="Joan leiho batetik bestera">Ikasi leihoz aldatzen.</a></span></p></li></ul></div></div></div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Informazio gehiago</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="index.html.eu" title="Ubuntu Desktop Guide">Ubuntu Desktop Guide</a></li>
+<li class="links ">
+<a href="shell-overview.html.eu" title="Zure mahaigaina">Zure mahaigaina</a><span class="desc"> — Egin lan aplikazioekin, leihoekin eta laneko areekin. Ikusi zure hitzorduak eta gauza garrantzitsuak goiko barran.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

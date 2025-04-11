@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang=id>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Pengingat waktu layar dan istirahat</title>
+<link rel="stylesheet" type="text/css" href="id.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.id" title="Panduan Desktop Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Bantuan"></span></span> Panduan Desktop Ubuntu</a> » <a class="trail" href="shell-overview.html.id" title="Desktop Anda">Desktop</a> › <a class="trail" href="shell-overview.html.id#desktop" title="Menyesuaikan desktop Anda">Menyesuaikan desktop Anda</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Pengingat waktu layar dan istirahat</span></h1></div>
+<div class="region">
+<div class="contents pagewide"></div>
+<section id="screen-time"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Waktu layar</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Jika Anda ingin melacak berapa banyak waktu yang Anda habiskan di depan komputer, Anda dapat mengaktifkan perekaman waktu layar dan, secara opsional, batas untuk membantu Anda tidak menghabiskan waktu terlalu lama di depan komputer. Lakukan ini dengan:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Kesejahteraan</span> dalam bilah sisi untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Menekan tombol <span class="gui">Fungsikan</span> di bawah <span class="gui">Waktu Layar</span> untuk memfungsikan perekaman waktu layar. Jika grafik terlihat pada halaman, maka perekaman waktu layar sudah diaktifkan.</p></li>
+</ol></div></div></div>
+<p class="p">Apabila perekaman waktu layar diaktifkan, banyaknya waktu yang Anda habiskan untuk masuk ke komputer setiap hari akan disimpan selama beberapa minggu sebelumnya. Waktu ditampilkan dalam bagan, bersama dengan rata-rata untuk hari dan minggu, sehingga Anda dapat menjelajahi bagaimana waktu layar Anda bervariasi dari waktu ke waktu. Gunakan tombol panah di bawah grafik untuk menggulir minggu-minggu sebelumnya, dan klik pada bilah setiap hari untuk melihat datanya.</p>
+<p class="p">Data waktu layar tidak dibagikan di luar komputer ini, atau dengan pengguna lain di komputer ini, dan data akan dihapus setelah beberapa minggu atau jika Anda menonaktifkan perekaman waktu layar.</p>
+<p class="p">Jika Anda ingin menetapkan sendiri batas jumlah waktu yang Anda habiskan di depan komputer setiap hari, nyalakan <span class="gui">Batas Waktu Layar</span> dan pilih suatu batas sebagai <span class="gui">Batas Harian</span>. Ketika batas ini tercapai, Anda akan menerima pemberitahuan ketika Anda telah menggunakan komputer selama waktu tersebut setiap hari, dan layar akan memudar ke skala abu-abu.</p>
+<p class="p">Batas harian Anda direpresentasikan sebagai garis putus-putus pada bagan penggunaan waktu layar.</p>
+<p class="p">Disarankan untuk tidak menghabiskan lebih dari 8 jam di depan komputer setiap hari, dan meluangkan waktu untuk melakukan aktivitas fisik di sekitar dan selama jam-jam tersebut. Salah satu cara untuk membantu mengingatkan diri Anda sendiri untuk beristirahat dari aktivitas fisik adalah dengan mengaktifkan <span class="link"><a href="shell-wellbeing.html.id#break-reminders" title="Pengingat istirahat">pengingat istirahat</a></span>.</p>
+<p class="p">Jika Anda ingin menonaktifkan perekaman waktu layar, tekan tombol <span class="gui">⋮</span> di atas bagan waktu layar, lalu tekan <span class="gui">Nonaktifkan Waktu Layar</span>. Ini juga akan menonaktifkan batas waktu layar.</p>
+</div></div>
+</div></section><section id="break-reminders"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Pengingat istirahat</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Jika Anda ingin diingatkan secara berkala untuk beristirahat sejenak dari menggunakan komputer, Anda dapat mengaktifkan pengingat istirahat. Lakukan ini dengan:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Buka ringkasan <span class="gui"><a href="shell-introduction.html.id#activities" title="Ringkasan aktivitas">Aktivitas</a></span> dan mulai mengetik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik <span class="gui">Pengaturan</span>.</p></li>
+<li class="steps"><p class="p">Klik pada <span class="gui">Kesejahteraan</span> dalam bilah sisi untuk membuka panel.</p></li>
+<li class="steps"><p class="p">Nyalakan <span class="gui">Pengingat Penglihatan</span> atau <span class="gui">Pengingat Pergerakan</span>.</p></li>
+</ol></div></div></div>
+<p class="p">Apabila <span class="gui">Pengingat Penglihatan</span> atau <span class="gui">Pengingat Pergerakan</span> diaktifkan, Anda akan menerima notifikasi pada interval yang dipilih untuk mengingatkan Anda agar beristirahat sejenak dari menggunakan komputer.</p>
+<p class="p">Disarankan untuk memilih interval istirahat sehingga Anda beristirahat sebelum lelah, bukan untuk memulihkan diri. Sering beristirahat membantu mencegah kelelahan, ketegangan mata, masalah anggota tubuh bagian atas, dan sakit punggung. Anda dapat memilih interval yang berbeda untuk istirahat penglihatan yang singkat dan untuk istirahat gerakan yang lebih lama.</p>
+<p class="p">Istirahat penglihatan dimaksudkan untuk memberikan pengingat kepada Anda untuk mengalihkan pandangan dari layar dan memfokuskan pandangan pada hal lain. Berkedip, meregangkan tubuh, dan mengubah posisi. Istirahat gerakan dimaksudkan untuk memberi Anda kesempatan untuk lebih banyak bergerak, misalnya dengan berjalan menjauh dari komputer untuk meregangkan kaki.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Informasi Lanjut</span></h2></div>
+<div class="region"><ul><li class="links "><a href="shell-overview.html.id#desktop" title="Menyesuaikan desktop Anda">Menyesuaikan desktop Anda</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang=eu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Lasterbide erabilgarriak</title>
+<link rel="stylesheet" type="text/css" href="eu.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.eu" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="shell-overview.html.eu" title="Zure mahaigaina">Mahaigaina</a> › <a class="trail" href="shell-overview.html.eu#apps" title="Aplikazioak eta leihoak">Aplikazioak eta leihoak</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.eu" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.eu" title="Erabiltzailearen eta sistemaren ezarpenak">Ezarpenak</a> » <a class="trail" href="keyboard.html.eu" title="Teklatua">Teklatua</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.eu" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.eu" title="Hardwarea eta kontrolatzaileak">Hardwarea</a> » <a class="trail" href="keyboard.html.eu" title="Teklatua">Teklatua</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.eu" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="tips.html.eu" title="Iradokizunak eta trikimailuak">Iradokizunak eta trikimailuak</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Lasterbide erabilgarriak</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">This page provides an overview of keyboard shortcuts that can help you
+use your desktop and applications more efficiently. If you cannot use a
+mouse or pointing device at all, see <span class="link"><a href="keyboard-nav.html.eu" title="Teklatu bidezko nabigazioa">Teklatu bidezko nabigazioa</a></span> for more
+information on navigating user interfaces with only the keyboard.</p>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="true"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Mahaigainean mugitzea</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><a href="keyboard-key-super.html.eu" title="Zer da Super tekla?"><kbd>Super</kbd></a></span> tekla</p></td>
+<td><p class="p">Mugitu <span class="gui">Jarduerak</span> ikuspegiaren eta mahaigainaren artean. Ikuspegian, hasi idazten eta, berehala, aplikazioak, kontaktuak eta dokumentuak bilatuko dira.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>F2</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Komandoen laster-leihoa (komandoak modu azkarrean exekutatzeko).</p>
+<p class="p">Erabili gezi-teklak aurretik exekutatutako komandoetara erraz joateko.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-windows-switching.html.eu" title="Joan leiho batetik bestera">Aldatu leihoz modu azkarrean</a></span>. Eutsi sakatuta <span class="key"><kbd>Shift</kbd></span> tekla alderantzizko ordena erabiltzeko.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>`</kbd></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p">Joan aplikazio bereko leiho batetik bestera edo hautatutako aplikaziotik <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span> ondoren.</p>
+<p class="p">Lasterbide honek <span class="key"><kbd>`</kbd></span> erabiltzen du AEBetako teklatuetan, non <span class="key"><kbd>`</kbd></span> tekla <span class="key"><kbd>Tab</kbd></span> teklaren gainean dagoen. Beste teklatuetan, lasterbidea <span class="key"><kbd>Super</kbd></span> gehi <span class="key"><kbd>Tab</kbd></span> gaineko tekla dira.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Esc</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Joan laneko area bereko leiho batetik bestera. Eutsi <span class="key"><kbd>Shift</kbd></span> sakatuta alderantzizko ordenan mugitzeko.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Tab</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Eman teklatuaren fokua goiko barrari. <span class="gui">Jarduerak</span> ikuspegian, aldatu teklatuaren fokua goiko barraren, panelaren, leihoen ikuspegiaren, aplikazioen zerrendaren eta bilaketa-barraren artean. Erabili gezi-teklak nabigatzeko.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Erakutsi aplikazioen zerrenda.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">eta</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-switch.html.eu" title="Aldatu laneko area batetik bestera">Mugitu laneko areen artean</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;">
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Up</kbd></span></span></p>
+<p class="p">eta</p>
+<p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>Page Down</kbd></span></span></p>
+</td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-workspaces-movewindow.html.eu" title="Eraman leihoa beste laneko area batera">Eraman uneko leihoa beste laneko area batera</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>←</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Eraman uneko leihoa pantaila bat ezkerera.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>→</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Eraman uneko leihoa pantaila bat eskuinera.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Delete</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.eu" title="Amaitu saioa, itzali ordenagailua edo aldatu erabiltzailez">Erakutsi itzaltzeko elkarrizketa-koadroa</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>L</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="shell-exit.html.eu#lock-screen" title="Blokeatu pantaila">Blokeatu pantaila.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Erakutsi <span class="link"><a href="shell-notifications.html.eu#notificationlist" title="Jakinarazpenen zerrenda">jakinarazpenen zerrenda</a></span>. Sakatu <span class="keyseq"><span class="key"><kbd>Super</kbd></span>+<span class="key"><kbd>V</kbd></span></span> berriro edo <span class="key"><kbd>Esc</kbd></span> ixteko.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Edizio-lasterbide erabilienak</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>A</kbd></span></span></p></td>
+<td><p class="p">Hautatu zerrenda bateko testu edo elementu guztiak.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>X</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Ebaki (kendu) hautatutako testua edo elementuak eta kokatu arbeleran.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Kopiatu hautatutako testua edo elementuak arbelean.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Itsatsi arbeleko edukiak.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Z</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Desegin azken ekintza.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>C</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Kopiatu narbarmendutako testua edo komandoak arbelera terminalean.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>V</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p">Itsatsi arbeleko edukiak terminalean.</p></td>
+</tr>
+</table></div>
+</div>
+</div>
+<div class="table ui-expander">
+<div class="yelp-data yelp-data-ui-expander" dir="ltr" data-yelp-expanded="false"></div>
+<div class="inner">
+<div class="title title-table"><h2><span class="title">Pantailaren kaptura bat egitea</span></h2></div>
+<div class="region"><table class="table" style="border-top-style: solid;border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="key"><kbd>Print</kbd></span></p></td>
+<td><p class="p"><span class="link"><a href="screen-shot-record.html.eu#screenshot" title="Pantaila-argazkia egitea">Abiarazi pantaila-argazkien tresna.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.eu#screenshot" title="Pantaila-argazkia egitea">Egin leiho baten pantaila-argazkia.</a></span></p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Print</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.eu#screenshot" title="Pantaila-argazkia egitea">Egin pantaila osoaren pantaila-argazkia.</a></span>.</p></td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="keyseq"><span class="key"><kbd>Shift</kbd></span>+<span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>Alt</kbd></span>+<span class="key"><kbd>R</kbd></span></span></p></td>
+<td style="border-top-style: solid;"><p class="p"><span class="link"><a href="screen-shot-record.html.eu#screencast" title="Pantaila-bideoa egitea">Abiarazi eta gelditu pantailaren grabazioa.</a></span></p></td>
+</tr>
+</table></div>
+</div>
+</div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Informazio gehiago</span></h2></div>
+<div class="region"><ul>
+<li class="links "><a href="shell-overview.html.eu#apps" title="Aplikazioak eta leihoak">Aplikazioak eta leihoak</a></li>
+<li class="links ">
+<a href="tips.html.eu" title="Iradokizunak eta trikimailuak">Iradokizunak eta trikimailuak</a><span class="desc"> — Zukutu GNOME trikimailu hauek erabiliz.</span>
+</li>
+<li class="links ">
+<a href="keyboard.html.eu" title="Teklatua">Teklatua</a><span class="desc"> — Hautatu nazioarteko teklatu-diseinuak eta erabili teklatuaren erabilerraztasun-eginbideak.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Ikus halaber</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="keyboard-shortcuts-set.html.eu" title="Ezarri teklatuko lasterbideak">Ezarri teklatuko lasterbideak</a><span class="desc"> — Definitu edo aldatu laster-teklak <span class="gui">Teklatua</span> ezarpenetan.</span>
+</li>
+<li class="links ">
+<a href="keyboard-nav.html.eu" title="Teklatu bidezko nabigazioa">Teklatu bidezko nabigazioa</a><span class="desc"> — Erabili aplikazioak eta mahaigaina sagurik gabe.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-menu.html.eu" title="Zer da Menua tekla?">Zer da <span class="key"><kbd>Menua</kbd></span> tekla?</a><span class="desc"> — <span class="key"><kbd>Menua</kbd></span> teklak laster-menu bat abiarazten du teklatuaren bidez, saguaren eskuineko klika erabili ordez.</span>
+</li>
+<li class="links ">
+<a href="keyboard-key-super.html.eu" title="Zer da Super tekla?">Zer da <span class="key"><kbd>Super</kbd></span> tekla?</a><span class="desc"> — <span class="key"><kbd>Super</kbd></span> teklak <span class="gui">Jarduerak</span> ikuspegia irekitzen du. Normalean teklatuaren <span class="key"><kbd>Alt</kbd></span> teklaren alboan dago.</span>
+</li>
+</ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

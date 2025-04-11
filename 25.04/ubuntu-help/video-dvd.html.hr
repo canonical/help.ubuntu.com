@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang=hr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Zašto se DVD diskovi ne reproduciraju?</title>
+<link rel="stylesheet" type="text/css" href="hr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.hr" title="Ubuntu priručnik radnog okruženja"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Priručnik"></span></span> Ubuntu priručnik radnog okruženja</a> » <a class="trail" href="media.html.hr" title="Zvuk i medij">Medij</a> › <a class="trail" href="media.html.hr#music" title="Zvuk, video i uređaji">Zvuk, video i uređaji</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Zašto se DVD diskovi ne reproduciraju?</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><p class="p">Ako umetnete DVD u svoje računalo, a on se ne reproducira, možda nemate instalirane prikladne DVD <span class="em">kôdeke</span> ili je DVD možda iz druge <span class="em">regije</span>.</p></div>
+<section id="codecs"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Instalacija prikladnih kôdeka za DVD reprodukciju</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Kako bi mogli reproducirati DVD diskove morate imati instalirane prikladne <span class="em">kôdeke</span>. Kôdek je dio softvera koji aplikacijama omogućuje čitanje video ili zvučnog formata. Ako vaš softver za reprodukciju filmova ne pronađe prikladne kôdeke, može ponuditi da ih instalira umjesto vas. U suprotnome, morat ćete kôdeke instalirati ručno - zatražite pomoć o ručnoj instalaciji, primjerice na forumima za podršku vaše Linux distribucije.</p>
+<p class="p">DVD diskovi mogu biti <span class="em">zaštićeni od kopiranja</span> pomoću sustava zvanog CSS. To sprječava kopiranje DVD diskova, ali i da ih reproducirate osim ako nemate dodatni softver za rukovanje s zaštitom od kopiranja. Ovaj softver dostupan je u brojnim Linux distribucijama, ali se ne može legalno koristiti u svim zemljama. Za više informacija provjerite pri svojoj Linux distribuciji.</p>
+</div></div>
+</div></section><section id="region"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Provjera DVD regije</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">DVD diskovi sadrže <span class="em">kôd regije</span>, koji određuje u kojoj se regiji svijeta smiju reproducirati. Ako se regija vašeg računalnog DVD uređaja ne podudara s regijom DVD diska koji pokušavate reproducirati, nećete moći reproducirati DVD. Primjerice, ako imate DVD uređaj regije 1, moći ćete reproducirati samo DVD diskove iz Sjeverne Amerike.</p>
+<p class="p">Često je moguće promijeniti regiju koju koristi vaš DVD uređaj, ali to se može učiniti samo nekoliko puta prije nego što se trajno zaključa na jednu regiju. Za promjenu DVD regije vašeg računalnog DVD uređaja, koristite <span class="link"><a href="http://linvdr.org/projects/regionset/" title="http://linvdr.org/projects/regionset/">regionset</a></span>.</p>
+<p class="p">Možete pronaći <span class="link"><a href="https://en.wikipedia.org/wiki/DVD_region_code" title="https://en.wikipedia.org/wiki/DVD_region_code">više informacija o DVD kôdovima regija na Wikipediji</a></span>.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Više informacija</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html.hr#music" title="Zvuk, video i uređaji">Zvuk, video i uređaji</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Pogledajte i</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="video-dvd-restricted.html.hr" title="Kako omogućiti ograničene kôdeke da reproduciraju DVD-ove?">Kako omogućiti ograničene kôdeke da reproduciraju DVD-ove?</a><span class="desc"> — Većina komercijalnih DVD-ova su kôdirani i neće se reproducirati bez softvera za dekôdiranje.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

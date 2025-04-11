@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Definindo permissões de arquivo</title>
+<link rel="stylesheet" type="text/css" href="pt-BR.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="files.html.pt-BR" title="Arquivos, pastas &amp; pesquisa">Arquivos</a> › <a class="trail" href="files.html.pt-BR#faq" title="Dicas e perguntas">Dicas e perguntas</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Definindo permissões de arquivo</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Você pode usar permissões de arquivo para controlar quem pode visualizar e editar arquivos de sua propriedade. Para visualizar e definir as permissões para um arquivo, clique com o botão direito e selecione <span class="gui">Propriedades</span>, então selecione <span class="gui">Permissões</span>.</p>
+<p class="p">Veja <span class="link"><a href="#files" title="Arquivos">Arquivos</a></span> e <span class="link"><a href="#folders" title="Pastas">Pastas</a></span> abaixo para detalhes sobre os tipos de permissões que você pode definir.</p>
+</div>
+<section id="files"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Arquivos</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Você pode definir as permissões do proprietário do arquivo, do proprietário do grupo e de todos os outros usuários do sistema. Para os seus arquivos, você é o proprietário e você mesmo pode se dar permissão de acesso de somente leitura ou leitura e escrita. Defina um arquivo como somente leitura, se você não deseja acidentalmente alterá-lo.</p>
+<p class="p">Cada usuário em seu computador pertence a um grupo. Em computadores residenciais, é comum que cada usuário tenha seu próprio grupo e as permissões de grupo geralmente não são usadas. Em ambientes corporativos, grupos são algumas vezes usados para departamentos ou projetos. Da mesma forma que ter um dono, cada arquivo pertence a um grupo. Você pode definir o grupo do arquivo e controlar as permissões para todos os usuários naquele grupo. Você apenas pode definir o grupo do arquivo para um grupo ao qual você pertença.</p>
+<p class="p">Você também pode definir as permissões de usuários além do dono e aqueles no grupo do arquivo.</p>
+<p class="p">Se o arquivo for um programa, como um script, você deverá ativar a opção <span class="gui">Executável como programa</span> para executá-lo. Mesmo com esta opção selecionada, o gerenciador de arquivos ainda abrirá o arquivo em um aplicativo. Consulte <span class="link"><a href="nautilus-behavior.html.pt-BR#executable" title="Arquivos de texto executáveis">Arquivos de texto executáveis</a></span> para obter mais informações.</p>
+</div></div>
+</div></section><section id="folders"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Pastas</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Você pode definir permissões das pastas para o proprietário, grupo e outros usuários. Veja os detalhes das permissões de arquivos acima para uma explicação de proprietários, grupos e outros usuários.</p>
+<p class="p">As permissões que você pode definir para uma pasta são diferentes daquelas que você definir para um arquivo.</p>
+<div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms"><span class="gui">Nenhuma</span></dt>
+<dd class="terms"><p class="p">O usuário não vai nem saber ver que arquivos estão dentro da pasta.</p></dd>
+<dt class="terms"><span class="gui">Apenas listar arquivos</span></dt>
+<dd class="terms"><p class="p">O usuário vai ser capaz de ver que arquivos estão na pasta, mas não será capaz de abrir, criar ou excluir arquivos.</p></dd>
+<dt class="terms"><span class="gui">Acessar arquivos</span></dt>
+<dd class="terms"><p class="p">O usuário será capaz de abrir arquivos na pasta (desde que ele tenha permissão para fazer isso no arquivo em particular), mas não será capaz de criar novos arquivos ou excluir arquivos.</p></dd>
+<dt class="terms"><span class="gui">Criar e excluir arquivos</span></dt>
+<dd class="terms"><p class="p">O usuário terá acesso total à pasta, incluindo abrir, criar e excluir arquivos.</p></dd>
+</dl></div></div></div>
+<p class="p">Você também pode definir rapidamente as permissões de todos os arquivos da pasta clicando em <span class="gui">Alterar permissões dos arquivos contidos na pasta…</span>. Use as listas suspensas para ajustar as permissões dos arquivos ou pastas contidos e clique em <span class="gui">Alterar</span>. As permissões também são aplicadas a arquivos e pastas em subpastas, em qualquer profundidade.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informações</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.pt-BR#faq" title="Dicas e perguntas">Dicas e perguntas</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Veja também</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="nautilus-file-properties-basic.html.pt-BR" title="Propriedades do arquivo">Propriedades do arquivo</a><span class="desc"> — Veja informações básicas de arquivo, defina permissões e escolha os aplicativos padrão.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang=da>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Hvad er et farverum?</title>
+<link rel="stylesheet" type="text/css" href="da.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="hardware.html.da" title="Hardware &amp; drivere">Hardware</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farve</a> › <a class="trail" href="color.html.da#profiles" title="Farveprofiler">Farveprofiler</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.da" title="Ubuntu-skrivebordsguide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Hjælp"></span></span> Ubuntu-skrivebordsguide</a> » <a class="trail" href="prefs.html.da" title="Bruger- &amp; systemindstillinger">Indstillinger</a> » <a class="trail" href="color.html.da" title="Farvestyring">Farve</a> › <a class="trail" href="color.html.da#profiles" title="Farveprofiler">Farveprofiler</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Hvad er et farverum?</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Et farverum er et defineret farveområde. Velkendte farverum omfatter sRGB, AdobeRGB og ProPhotoRGB.</p>
+<p class="p">Det menneskelige visuelle system er ikke en simpel RGB-sensor, men vi kan tilnærme, hvordan øjet reagerer, med et CIE 1931-kromaticitetsdiagram, der viser den menneskelige visuelle respons som en hestesko-form. Du kan se, at i menneskets syn er der mange flere nuancer af grøn detekteret end blå eller rød. Med et trikromatisk farverum som RGB repræsenterer vi farverne på computeren ved hjælp af tre værdier, hvilket begrænser til kodning af en <span class="em">trekant</span> af farver.</p>
+<div class="note" title="Note">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Brug af modeller såsom et CIE 1931-kromaticitetsdiagram er en enorm forenkling af det menneskelige visuelle system, og virkelige gamuts er tredimensionale snarere end todimensionale projektioner. En todimensional projektion af en tredimensional form kan nogle gange være vildledende, så hvis du vil se den tredimensionale form, skal du bruge programmet <span class="code">gcm-viewer</span>.</p></div></div></div>
+</div>
+<div class="figure"><div class="inner">
+<a href="#" class="figure-zoom" data-zoom-in-title="Vis billeder i normal størrelse" data-zoom-out-title="Nedskalér billeder"><svg width="10" height="10" class="figure-zoom-in"><rect x="0.5" y="0.5" width="9" height="9" class="yelp-svg-stroke" stroke-width="1" fill="none"></rect><rect x="0" y="5" width="5" height="5" class="yelp-svg-fill"></rect></svg><svg width="10" height="10" class="figure-zoom-out"><rect x="0.5" y="0.5" width="9" height="9" class="yelp-svg-stroke" stroke-width="1" fill="none"></rect><polygon points="0,0 10,0 10,10 5,10 5,5 10,5 0,5" class="yelp-svg-fill"></polygon></svg></a><div class="region">
+<div class="contents"><div class="media media-image"><div class="inner"><img src="figures/color-space.png" class="media media-block" alt=""></div></div></div>
+<div class="desc">sRGB, AdobeRGB og ProPhotoRGB vist som hvide trekanter</div>
+</div>
+</div></div>
+<p class="p">sRGB er det mindste farverum og kan kode for det laveste antal farver. Det er en tilnærmelse af en 10 år gammel billedrørsskærm, og derfor kan de fleste moderne skærme sagtens vise flere farver end dette. sRGB er en <span class="em">mindste fællesnævner</span>-standard og bruges i et stort antal programmer (inklusive på internettet).</p>
+<p class="p">AdobeRGB bruges ofte som <span class="em">farverum ved redigering</span>. Det kan kode flere farver end sRGB, hvilket betyder, at du kan ændre farverne i et fotografi uden at bekymre dig for meget om, at de mest levende farver bliver beskåret, eller at de sorte farver bliver knust.</p>
+<p class="p">ProPhoto er det største tilgængelige farverum og bruges ofte ved arkivering af dokumenter. Det kan kode næsten hele det farvespektrum, det menneskelige øje kan registrere, og endda kode for farver, som øjet ikke kan registrere!</p>
+<p class="p">Hvis ProPhoto er klart bedre, hvorfor bruger vi det så ikke til alt? Svaret har at gøre med <span class="em">kvantisering</span>. Hvis du kun har 8 bit (256 niveauer) til at kode hver kanal, så vil et større område have større trin mellem hver værdi.</p>
+<p class="p">Større trin betyder en større fejl mellem den optagede farve og den lagrede farve, og for nogle farver er det et stort problem. Det viser sig, at nøglefarver, som f.eks. hudfarver, er meget vigtige, og selv små fejl vil få uøvede beskuere til at bemærke, at noget på et fotografi ser forkert ud.</p>
+<p class="p">Hvis du bruger et 16-bit billede, er der naturligvis mange flere trin og en meget mindre kvantiseringsfejl, men det fordobler størrelsen af hver billedfil. Det meste indhold, der findes i dag, er 8bpp, dvs. 8 bit pr. pixel.</p>
+<p class="p">Farvestyring er en proces til konvertering fra et farverum til et andet, hvor et farverum kan være et velkendt defineret rum som f.eks. sRGB eller et brugerdefineret rum som f.eks. din skærm- eller printerprofil.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Flere oplysninger</span></h2></div>
+<div class="region"><ul><li class="links "><a href="color.html.da#profiles" title="Farveprofiler">Farveprofiler</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Se også</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="color-whatisprofile.html.da" title="Hvad er en farveprofil?">Hvad er en farveprofil?</a><span class="desc"> — En farveprofil er en simpel fil, der udtrykker et farverum eller enhedsrespons.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

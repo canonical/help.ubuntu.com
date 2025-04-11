@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>로그아웃, 전원 끄기, 사용자 전환</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">로그아웃, 전원 끄기, 사용자 전환</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><p class="p">컴퓨터 사용이 끝나면 전원 끄기, 대기 모드(절전), 켠채로 두고 로그아웃을 할 수 있습니다.</p></div>
+<section id="logout"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">로그아웃 또는 사용자 전환</span></h2></div>
+<div class="region">
+<div class="contents pagewide">
+<div class="media media-image floatend if-if if__not-target-mobile"><div class="inner"><img src="figures/shell-exit-expanded.png" width="250" class="media media-block" alt="사용자 메뉴"></div></div>
+<p class="p">다른 사용자가 컴퓨터를 사용할 수 있게 하려면, 로그아웃하거나 로그인 한 상태에서 사용자 전환을 할 수 있습니다. 사용자 전환을 하면 모든 프로그램은 계속 실행중에 있으며, 자리비움 이후에도 로그인했을 때 그 상태 그대로 남습니다.</p>
+<p class="p"><span class="gui">로그아웃</span> 또는 <span class="gui">사용자 바꾸기</span>를 진행하려면, 상단 표시줄 우측의 <span class="link"><a href="shell-introduction.html.ko#systemmenu" title="시스템 메뉴">시스템 메뉴</a></span>를 누흔 후, <span class="media"><span class="media media-image"><img src="figures/system-shutdown-symbolic.svg" class="media media-inline" alt="Shutdown"></span></span> 단추를 누른 후, 올바른 옵션을 선택합니다.</p>
+<div class="note" title="알림">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p"><span class="gui">로그아웃</span> 및 <span class="gui">사용자 바꾸기</span> 항목은 시스템에 사용자 계정이 하나 이상일 경우에만 메뉴에 나타납니다.</p></div></div></div>
+</div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">참고</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="user-add.html.ko" title="새 사용자 계정 추가">새 사용자 계정 추가</a><span class="desc"> — 새 사용자를 추가하여 다른 사용자도 컴퓨터에 로그인할 수 있게 합니다.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section id="lock-screen"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">화면 잠금</span></h2></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">컴퓨터로부터 잠깐 자리를 비울 때 다른 사람이 파일 또는 실행 프로그램을 건드리는 일을 막으려면 화면을 잠궈야 합니다. 다시 돌아오면 <span class="link"><a href="shell-lockscreen.html.ko" title="잠금 화면">잠금 화면</a></span> 을 보게 됩니다. 돌아오려면 암호를 입력합니다. 화면을 잠그지 않으면 일정 시간이 지난 후에 자동으로 잠급니다.</p>
+<p class="p">화면을 잠그려면, 상단 표시줄 우측의 시스템 메뉴를 누른 후 메뉴에서 <span class="media"><span class="media media-image"><img src="figures/system-lock-screen-symbolic.svg" class="media media-inline" alt="Lock"></span></span> 단추를 선택합니다.</p>
+<p class="p">화면이 잠기면 다른 사용자는 로그인 화면의 우측 하단에서 <span class="gui">다른 사용자로 로그인</span>을 눌러 자신의 계정을 활용할 수 있습니다. 다른 사용자의 활용이 끝나면 데스크톱에 돌아올 수 있습니다.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">참고</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="privacy-screen-lock.html.ko" title="화면 자동 잠금">화면 자동 잠금</a><span class="desc"> — 컴퓨터 앞에서 자리를 비웠을 때 타인의 데스크톱 사용을 막습니다.</span>
+</li>
+<li class="links ">
+<a href="session-screenlocks.html.ko" title="화면이 너무 빨리 잠깁니다">화면이 너무 빨리 잠깁니다</a><span class="desc"> — <span class="gui">화면 잠금</span> 설정에서 화면을 잠그기 전 대기 시간을 바꿉니다.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section id="suspend"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">절전</span></h2></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">사용하지 않을 때 절전을 목적으로 컴퓨터를 절전 상태로 둡니다. 랩톱을 사용한다면 시스템에서는 기본적으로 덮개를 덮었을 때 자동으로 절전 모드에 들어갑니다. 이렇게 하면 컴퓨터의 메모리에 시스템 상태를 저장하며, 컴퓨터 동작의 대부분에 있어서는 전원을 끕니다. 절전 상태로 두는 동안에는 매우 적은 전력을 활용합니다.</p>
+<p class="p">컴퓨터를 직접 절전 모드로 두려면, 상단 표시줄의 우측 시스템 메뉴를 눌러 <span class="media"><span class="media media-image"><img src="figures/system-shutdown-symbolic.svg" class="media media-inline" alt="Shutdown"></span></span> 단추를 누른 후 <span class="gui">절전</span>을 선택합니다.</p>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">참고</span></h3></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="power-autosuspend.html.ko" title="자동 대기 모드 설정">자동 대기 모드 설정</a><span class="desc"> — 컴퓨터를 자동으로 대기 모드에 들어가도록 설정합니다.</span>
+</li>
+<li class="links ">
+<a href="power-batterylife.html.ko" title="적은 전력을 사용하여 배터리 사용 시간 늘이기">적은 전력을 사용하여 배터리 사용 시간 늘이기</a><span class="desc"> — 컴퓨터 전력 소모를 줄이는 요령입니다.</span>
+</li>
+<li class="links ">
+<a href="power-suspend.html.ko" title="제 컴퓨터를 대기 모드로 설정하면 무슨 일이 일어나나요?">제 컴퓨터를 대기 모드로 설정하면 무슨 일이 일어나나요?</a><span class="desc"> — 대기 모드는 컴퓨터에게 적은 전력을 소모하도록 잠자기 상태로 둡니다.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section id="shutdown"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">컴퓨터 끄기 또는 다시 시작</span></h2></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">컴퓨터의 전원을 완전히 끄거나 완전히 다시 시작하려면, 상단 우측의 시스템 메뉴를 누른 후 <span class="media"><span class="media media-image"><img src="figures/system-shutdown-symbolic.svg" class="media media-inline" alt="Shutdown"></span></span> 단추를 누른 다음, <span class="gui">다시 시작…</span> 또는 <span class="gui">컴퓨터 끄기…</span> 둘 중 하나를 선택합니다.</p>
+<p class="p">로그인 한 다른 사용자가 있다면 해당 사용자의 세션을 끝내야 하기 때문에 컴퓨터를 끄거나 다시 시작하지 못할 수도 있습니다. 관리자라면 컴퓨터를 끌 때 암호를 물어봅니다.</p>
+<div class="note note-tip" title="힌트">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m12 2c-3.8541 0-7 3.1459-7 7 0 1.823 0.4945 3.139 1.1641 4.133 0.6695 0.994 1.4328 1.671 2.039 2.471 0.0882 0.116 0.1749 0.656 0.2071 1.32 0.016 0.332 0.0133 0.68 0.1894 1.119 0.0881 0.22 0.2439 0.478 0.5059 0.672 0.2619 0.194 0.6028 0.285 0.8945 0.285h4c0.583 0 1.204-0.478 1.402-0.908 0.199-0.43 0.217-0.793 0.244-1.137 0.056-0.688 0.138-1.319 0.211-1.441 0.549-0.916 1.304-2.009 1.94-3.114 0.636-1.104 1.203-2.199 1.203-3.4 0-3.8541-3.146-7-7-7zm0 2c2.773 0 5 2.2267 5 5 0 0.456-0.359 1.401-0.936 2.402-0.111 0.195-0.246 0.399-0.369 0.598h-7.8825c-0.4871-0.728-0.8125-1.519-0.8125-3 0-2.7733 2.2267-5 5-5z" style="block-progression:tb;color-rendering:auto;color:#000000;image-rendering:auto;isolation:auto;mix-blend-mode:normal;shape-rendering:auto;solid-color:#000000;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-transform:none;white-space:normal"></path>
+ <path class="yelp-svg-fill" d="m9 20a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6zm0 2a0.5 0.5 0 0 0-0.5 0.5 0.5 0.5 0 0 0 0.5 0.5h6a0.5 0.5 0 0 0 0.5-0.5 0.5 0.5 0 0 0-0.5-0.5h-6z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">컴퓨터를 옮겨야 하거나 배터리가 없든지, 배터리 용량이 부족하거나 충분히 충전해둘 수가 없어 컴퓨터를 꺼야 할 경우가 있습니다. 전원을 끈 컴퓨터 역시 절전 상태의 컴퓨터보다 <span class="link"><a href="power-batterylife.html.ko" title="적은 전력을 사용하여 배터리 사용 시간 늘이기">적은 전력</a></span>을 소모합니다.</p></div></div></div>
+</div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links seealsolinks"><div class="inner">
+<div class="title"><h3><span class="title">참고</span></h3></div>
+<div class="region"><ul><li class="links ">
+<a href="power-batterylife.html.ko" title="적은 전력을 사용하여 배터리 사용 시간 늘이기">적은 전력을 사용하여 배터리 사용 시간 늘이기</a><span class="desc"> — 컴퓨터 전력 소모를 줄이는 요령입니다.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="shell-overview.html.ko" title="여러분의 데스크톱">여러분의 데스크톱</a><span class="desc"> — 앱, 창, 작업 공간을 다룹니다. 일정 같은 내용을 상단 표시줄에서 살펴봅니다.</span>
+</li>
+<li class="links "><a href="index.html.ko" title="Ubuntu 데스크톱 가이드">우분투 데스크톱 가이드</a></li>
+<li class="links ">
+<a href="power.html.ko" title="전원 및 배터리">전원 및 배터리</a><span class="desc"> — 배터리 설정과 절전 설정을 봅니다.</span>
+</li>
+</ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">참고</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="user-autologin.html.ko" title="자동으로 로그인">자동으로 로그인</a><span class="desc"> — 컴퓨터를 켰을 떄 자동으로 로그인하도록 설정합니다.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

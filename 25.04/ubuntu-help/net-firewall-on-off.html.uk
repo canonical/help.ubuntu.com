@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Вмикання доступу крізь брандмауер та заборона доступу</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.uk" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Довідка"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="net.html.uk" title="Робота у мережі, інтернет та електронна пошта">Мережі</a> » <a class="trail" href="net-security.html.uk" title="Безпека в інтернеті">Безпека</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Вмикання доступу крізь брандмауер та заборона доступу</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">До складу GNOME не включено програми-брандмауера. Додаткову підтримку, поза цим документом, можна отримати від команди супроводу дистрибутива або IT-відділу вашої установи або компанії. У вашій системі має бути <span class="em">брандмауер</span> або мережевий екран, який надаватиме системі змогу блокувати програми від доступу сторонніх користувачів з інтернету або локальної мережі. Брандмауери допомагають захистити комп'ютер.</p>
+<p class="p">Інтернет-з'єднанням можуть користуватися багато програм. Наприклад, ви можете оприлюднювати файли або надавати комусь змогу переглядати зображення з вашого дисплея віддалено, якщо комп'ютер з'єднано з мережею. Залежно від налаштувань вашого комп'ютера, у вас може виникнути потреба у коригуванні роботи брандмауера так, щоб відповідні можливості працювали належним чином.</p>
+<p class="p">Кожна програма, яка послуговується мережею, використовує певний <span class="em">мережевий порт</span>. Щоб інші комп'ютери у мережі могли отримувати доступ до певної служби, вам, можливо, доведеться «відкрити» пов'язаний зі службою порт у брандмауері:</p>
+<div class="steps"><div class="inner"><div class="region"><ol class="steps">
+<li class="steps"><p class="p">Перейдіть до панелі <span class="gui">Діяльності</span>, кнопку якої розташовано у верхньому лівому куті екрана і запустіть вашу програму-брандмауер. Можливо, вам доведеться встановити програму для керування брандмауером (наприклад, GUFW) власноруч, якщо її ще не встановлено.</p></li>
+<li class="steps"><p class="p">Відкрийте або вимкніть порт для вашої мережевої служби, залежно від того, хочете ви надати користувачам мережі доступ до відповідного порту, чи ні. Номер порту, до параметрів якого вам слід внести зміни, <span class="link"><a href="net-firewall-ports.html.uk" title="Широко використовувані порти мережі">залежить від служби</a></span>.</p></li>
+<li class="steps"><p class="p">Збережіть або застосуйте внесені зміни, виконуючи додаткові настанови, які показуватиме програма налаштовування брандмауера.</p></li>
+</ol></div></div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-security.html.uk" title="Безпека в інтернеті">Безпека в інтернеті</a><span class="desc"> — Пояснення щодо брандмауерів, вірусів та інших тем інтернет-безпеки.</span>
+</li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Дивіться також</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-firewall-ports.html.uk" title="Широко використовувані порти мережі">Широко використовувані порти мережі</a><span class="desc"> — Вам слід вказати правильні номери портів для уможливлення або заборони доступу до мережі для програми у вашому брандмауері.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

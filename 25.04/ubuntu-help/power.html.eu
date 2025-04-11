@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html lang=eu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Energia eta bateria</title>
+<link rel="stylesheet" type="text/css" href="eu.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.eu" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.eu" title="Erabiltzailearen eta sistemaren ezarpenak">Ezarpenak</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.eu" title="Ubuntu Desktop Guide"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.eu" title="Hardwarea eta kontrolatzaileak">Hardwarea</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Energia eta bateria</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-status.html.eu" title="Begiratu bateriaren egoera"><span class="title">Begiratu bateriaren egoera</span><span class="linkdiv-dash"> — </span><span class="desc">Bistaratu bateriaren eta konektatutako gailuen egoera.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="shell-exit.html.eu" title="Amaitu saioa, itzali ordenagailua edo aldatu erabiltzailez"><span class="title">Amaitu saioa, itzali ordenagailua edo aldatu erabiltzailez</span><span class="linkdiv-dash"> — </span><span class="desc">Ikasi nola utzi zure erabiltzaile-kontua saioa amaituz, erabiltzailez aldatuz eta abar.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-wireless.html.eu" title="Desaktibatu erabiltzen ez diren haririk gabeko teknologiak"><span class="title">Desaktibatu erabiltzen ez diren haririk gabeko teknologiak</span><span class="linkdiv-dash"> — </span><span class="desc">Bluetooth, wi-fi and mobile broadband can be switched off to reduce battery use.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batterylife.html.eu" title="Erabili energia gutxiago eta hobetu bateriaren bizitza"><span class="title">Erabili energia gutxiago eta hobetu bateriaren bizitza</span><span class="linkdiv-dash"> — </span><span class="desc">Ordenagailuaren energia-kontsumoa murrizteko iradokizunak.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-percentage.html.eu" title="Erakutsi bateriaren egoera ehuneko gisa"><span class="title">Erakutsi bateriaren egoera ehuneko gisa</span><span class="linkdiv-dash"> — </span><span class="desc">Bistaratu bateriaren ehunekoa goiko barran.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryoptimal.html.eu" title="Lortu zure eramangarriaren bateriak asko iraun dezan"><span class="title">Lortu zure eramangarriaren bateriak asko iraun dezan</span><span class="linkdiv-dash"> — </span><span class="desc">Tips such as “Do not let the battery charge get too low”.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspend.html.eu" title="Zer gertatzen da ordenagailua esekitzen dudanean?"><span class="title">Zer gertatzen da ordenagailua esekitzen dudanean?</span><span class="linkdiv-dash"> — </span><span class="desc">Esekitzean, ordenagailua lotara doa eta energia gutxiago erabiltzen du.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-closelid.html.eu" title="Zergatik desaktibatzen da ordenagailua estalkia ixten dudanean?"><span class="title">Zergatik desaktibatzen da ordenagailua estalkia ixten dudanean?</span><span class="linkdiv-dash"> — </span><span class="desc">Eramangarriak lotara doaz estalkia ixten duzunean, energia aurrezteko.</span></a></div>
+</div>
+</div></div></div></div></div>
+<section id="saving"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Energia aurrezteko ezarpenak</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-profile.html.eu" title="Aukeratu energia-profil bat"><span class="title">Aukeratu energia-profil bat</span><span class="linkdiv-dash"> — </span><span class="desc">Orekatu errendimendua eta bateriaren erabilera.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="display-blank.html.eu" title="Ezarri pantaila itzaltzeko denbora"><span class="title">Ezarri pantaila itzaltzeko denbora</span><span class="linkdiv-dash"> — </span><span class="desc">Aldatu pantaila itzaltzeko denbora energia aurrezteko</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-autobrightness.html.eu" title="Gaitu distira automatikoa"><span class="title">Gaitu distira automatikoa</span><span class="linkdiv-dash"> — </span><span class="desc">Automatikoki kontrolatu pantailaren distira bateriaren erabilera murrizteko.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-autosuspend.html.eu" title="Konfiguratu esekitze automatikoa"><span class="title">Konfiguratu esekitze automatikoa</span><span class="linkdiv-dash"> — </span><span class="desc">Konfiguratu zure ordenagailua automatikoki eseki dadin.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-whydim.html.eu" title="Zergatik iluntzen da nire pantaila denbora bat igaro ondoren?"><span class="title">Zergatik iluntzen da nire pantaila denbora bat igaro ondoren?</span><span class="linkdiv-dash"> — </span><span class="desc">Pantaila ilundu egingo da ordenagailua inaktibo dagoenean, energia aurrezteko.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="faq"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Galderak</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-batteryestimate.html.eu" title="Bateria-maila gaizki kalkulatu da"><span class="title">Bateria-maila gaizki kalkulatu da</span><span class="linkdiv-dash"> — </span><span class="desc">The battery life displayed when you click on the <span class="gui">battery icon</span> is an estimate.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-lowpower.html.eu" title="Why did my computer turn off when the battery got to 10%?"><span class="title">Why did my computer turn off when the battery got to 10%?</span><span class="linkdiv-dash"> — </span><span class="desc">Bateria erabat deskargatu dadin txarra da bateriarako.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-batterywindows.html.eu" title="Why do I have less battery life than I did on Windows/Mac OS?"><span class="title">Why do I have less battery life than I did on Windows/Mac OS?</span><span class="linkdiv-dash"> — </span><span class="desc">Tweaks from the manufacturer and differing battery life estimates may
+    be the cause of this problem.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-batteryslow.html.eu" title="Zergatik moteltzen da eramangarria bateriarekin funtzionatzen duenean?"><span class="title">Zergatik moteltzen da eramangarria bateriarekin funtzionatzen duenean?</span><span class="linkdiv-dash"> — </span><span class="desc">Zenbait eramangarri nahita moteltzen dira bateria agortzen ari zaienean.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="problems"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Arazoak</span></h2></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-constantfan.html.eu" title="Eramangarriaren haizagailua abian dago beti"><span class="title">Eramangarriaren haizagailua abian dago beti</span><span class="linkdiv-dash"> — </span><span class="desc">Some fan-control software could be missing, or your laptop may be
+    running hot.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-nowireless.html.eu" title="Ez daukat haririk gabeko sarerik ordenagailua esnatzen dudanean"><span class="title">Ez daukat haririk gabeko sarerik ordenagailua esnatzen dudanean</span><span class="linkdiv-dash"> — </span><span class="desc">Some wireless devices have problems handling when your computer is
+    suspended and does not resume properly.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-hotcomputer.html.eu" title="Nire ordenagailua asko berotzen da"><span class="title">Nire ordenagailua asko berotzen da</span><span class="linkdiv-dash"> — </span><span class="desc">Ordenagailuak askotan berotu egiten dira, baina gehiegi berotzen badira kalteak jasan ditzakete.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="power-willnotturnon.html.eu" title="Nire ordenagailua ez da aktibatzen"><span class="title">Nire ordenagailua ez da aktibatzen</span><span class="linkdiv-dash"> — </span><span class="desc">Loose cables and hardware problems are possible reasons.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-othercountry.html.eu" title="Will my computer work with a power supply in another country?"><span class="title">Will my computer work with a power supply in another country?</span><span class="linkdiv-dash"> — </span><span class="desc">Your computer will work, but you might need a different power cable or
+    a travel adapter.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power-suspendfail.html.eu" title="Zergatik nire ordenagailua ez da berriro pizten hura eseki ondoren?"><span class="title">Zergatik nire ordenagailua ez da berriro pizten hura eseki ondoren?</span><span class="linkdiv-dash"> — </span><span class="desc">Zenbait hardwarek arazoak sortzen dituzte esekitzean.</span></a></div>
+</div>
+</div></div></div></div></div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h3><span class="title">Informazio gehiago</span></h3></div>
+<div class="region"><ul><li class="links "><a href="hardware.html.eu#problems" title="Arazo arruntak">Hardwarea-arazoak</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Informazio gehiago</span></h2></div>
+<div class="region"><ul>
+<li class="links ">
+<a href="prefs.html.eu" title="Erabiltzailearen eta sistemaren ezarpenak">Erabiltzailearen eta sistemaren ezarpenak</a><span class="desc"> — Kontrolatu hardwarea, ezarri pribatutasun-arauak... konfiguratu GNOME zuretzat funtzionatu dezan.</span>
+</li>
+<li class="links ">
+<a href="hardware.html.eu" title="Hardwarea eta kontrolatzaileak">Hardwarea eta kontrolatzaileak</a><span class="desc"> — Konfiguratu hardwarea eta diagnostikatu arazoak inprimagailu, pantaila, disko eta beste gailu batzuetarako.</span>
+</li>
+</ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang=ko>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>왜 DVD를 재생하지 못하죠?</title>
+<link rel="stylesheet" type="text/css" href="ko.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.04</span> » <a class="trail" href="index.html.ko" title="Ubuntu 데스크톱 가이드"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="도움"></span></span> Ubuntu 데스크톱 가이드</a> » <a class="trail" href="media.html.ko" title="소리 및 미디어">미디어</a> › <a class="trail" href="media.html.ko#music" title="음악, 비디오, 장치">음악, 비디오, 장치</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">왜 DVD를 재생하지 못하죠?</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><p class="p">DVD를 컴퓨터에 넣은 후 재생하지 못한다면 올바른 <span class="em">DVD</span>코덱을 설치하지 않았거나, 다른 <span class="em">지역</span>에서 온 DVD이기 때문일 수도 있습니다.</p></div>
+<section id="codecs"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">DVD 재생에 필요한 적절한 코덱 설치</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">DVD를 재생하려면 적절한 <span class="em">코덱</span>을 설치해야 합니다. 코덱은 재생 프로그램에서 영상 또는 음성 형식을 읽을 수 있게 하는 프로그램 일부입니다. 영상 재생 프로그램이 올바른 코덱을 찾지 못하면, 해당 코덱을 설치 할 수 있게 해줄 수도 있습니다. 그렇지 않으면 직접 코덱을 설치해야합니다. 예를 들면, 리눅스 배포판 지원 포럼에서 어떻게 해야 하는지 도움을 요청합니다.</p>
+<p class="p">DVD는 또한 CSS 시스템을 활용하여 <span class="em">복사 방지</span> 처리를 해두었을 수 있습니다. 이 기술로 DVD 복사를 막지만 복사 방지를 처리하는 추가 프로그램을 활용하기 전에는 재생할 수 없게 막아주기도 합니다. 이 프로그램은 여러 리눅스 배포판에 있지만, 모든 나라에서 합법적으로 사용할 수 있는건 아닙니다. 자세한 내용은 리눅스 배포판 지원 포럼에 문의합니다.</p>
+</div></div>
+</div></section><section id="region"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">DVD 지역 검사</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">DVD에는 재생할 수 있는 전세계 지역을 알려주는 <span class="em">지역</span> 코드가 있습니다. 컴퓨터 DVD 플레이어의 지역 코드가 재생하려는 DVD와 지역이 일치하지 않으면 DVD를 재생할 수 없습니다. 1 지역 DVD 재생 장치를 가지고 있다면 북아메리카 DVD만 재생할 수 있습니다.</p>
+<p class="p">보통 DVD 재생 장치에서 사용하는 지역을 바꿀 수 있습니다만, 지역 한군데로 완전히 고정되기 전 몇 회에 한정합니다. 컴퓨터 DVD 재생 장치의 DVD 지역을 바꾸려면, <span class="link"><a href="http://linvdr.org/projects/regionset/" title="http://linvdr.org/projects/regionset/">regionset</a></span>을 활용합니다.</p>
+<p class="p"><span class="link"><a href="https://en.wikipedia.org/wiki/DVD_region_code" title="https://en.wikipedia.org/wiki/DVD_region_code">위키피디아의 DVD 지역 코드 정보</a></span>를 찾아볼 수 있습니다.</p>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">자세한 정보</span></h2></div>
+<div class="region"><ul><li class="links "><a href="media.html.ko#music" title="음악, 비디오, 장치">음악, 비디오, 장치</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">참고</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="video-dvd-restricted.html.ko" title="제한된 코덱을 활성화하여 DVD를 재생하는 방법">제한된 코덱을 활성화하여 DVD를 재생하는 방법</a><span class="desc"> — 상업적인 DVD의 대부분은 암호화 되어있고 복호화 소프트웨어 없이는 재생할수 없습니다.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

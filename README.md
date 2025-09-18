@@ -111,9 +111,8 @@ See also:
 
 8. Put the files to the local main Git branch of help.ubuntu.com.
 
-    > [!NOTE]
-    > Do it on the VM being used. It'll take a long time to download the branch.
-    > See the commands list at the end.
+    Do it on the VM being used. It'll take a long time to download the branch.
+    See the commands list at the end.
 
 9. Modify the `index.html` file, if required. Do any desired directory compares before deleting any previous version of the relevant `ubuntu-docs` directory:
 

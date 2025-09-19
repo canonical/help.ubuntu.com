@@ -93,7 +93,7 @@ See also:
 6. Compile:
 
     ```bash
-	cd ~/ubutnu-docs/html
+    cd ~/ubuntu-docs/html
     ```
 
     1. If past the release date, and this is an update to the previous release, the Git branch might need to be set:

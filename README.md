@@ -11,9 +11,9 @@ Credit Gunnar Hjalmarsson and Doug Smythies for this procedure.
 See also:
 
 * <https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/BuildingDocumentation> (Not current)
-* <https://code.launchpad.net/~ubuntu-core-doc/ubuntu-docs/trunk> (Git is now used.)
+* <https://code.launchpad.net/ubuntu/+source/ubuntu-docs>
 * <https://help.ubuntu.com/stable/ubuntu-help/index.html>
-* <https://code.launchpad.net/~ubuntu-core-doc/help.ubuntu.com/help.ubuntu.com>
+* <https://code.launchpad.net/~ubuntu-core-doc/help.ubuntu.com/+git/help.ubuntu.com>
 * The list of commands at the end of this page.
 
 > [!NOTE]
@@ -32,7 +32,7 @@ See also:
 
     1. Released: Just make sure all is up to date.
 
-    2. PPA method: where typically only ubuntu-docs has been updated, and this is NOT the first run through this procedure:
+    2. PPA method: where typically only `ubuntu-docs` has been updated, and this is NOT the first run through this procedure:
 
         ```bash
         sudo add-apt-repository ppa:ubuntu-core-doc/ppa
@@ -52,7 +52,7 @@ See also:
     sudo apt upgrade
     ```
 
-5. When appropriate, delete the PPA (if one was used):
+5. When appropriate, delete the PPA if one was used:
 
     ```bash
     sudo add-apt-repository --remove ppa:ubuntu-core-doc/ppa
@@ -127,17 +127,16 @@ See also:
 11. Add and delete files from the Git branch as required:
 
     ```bash
-    bzr status
-    bzr add 22.04
-    bzr status
-    bzr revno
+    git status
+    git add 22.04
+    git status
     ```
 
 12. When all is good, commit and push the branch to help.ubuntu.com:
 
     ```bash
-    bzr commit -m 'Add 22.04 Desktop help - preliminary'
-    bzr push lp:help.ubuntu.com
+    git commit -m 'Add 22.04 Desktop help - preliminary'
+    git push git+ssh://USER@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com
     ```
 
 13. Update the copy on your server, as this basically becomes a backup of the local Git branch, including the Git packing information.
@@ -169,17 +168,25 @@ sudo apt upgrade
 dpkg -l | grep doc
 dpkg -l | grep ubuntu-docs
 dpkg -l | grep gnome-user-docs
-sudo apt install bzr xsltproc libxml2-utils yelp-tools yelp-xsl make
+sudo apt install git xsltproc libxml2-utils yelp-tools yelp-xsl make
 sudo apt install gnome-user-docs*
 ssh-keygen -t rsa
 cd .ssh
 ls -l
 cat id_rsa.pub
-bzr whoami "My Name <my-email>"
-bzr launchpad-login username
+git config --global user.name "My Name"
+git config --global user.email "my-email"
 cd ..
-sudo apt install git
-git clone git://git.launchpad.net/~ubuntu-core-doc/ubuntu/+source/ubuntu-docs
+```
+
+At this point, the SSH key needs to be in Launchpad. See [Upload your SSH key to Launchpad](https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/Repository#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Upload_your_SSH_key_to_Launchpad).
+
+Or simply log into Launchpad, then edit SSH keys, and `cat ~/.ssh/id_rsa.pub` and copy the output into the new key window.
+
+Once that has been done, continue.
+
+```bash
+git clone git+ssh://USER@git.launchpad.net/ubuntu/+source/ubuntu-docs
 cd ubuntu-docs
 ls -l
 cd html
@@ -191,18 +198,7 @@ cd ../..
 ls -l
 mkdir ubuntu-help
 cd ubuntu-help
-```
-
-> [!NOTE]
-> At this point the SSH key needs to be in Launchpad. See:
-<https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/Repository#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Upload_your_SSH_key_to_Launchpad>
->
-> Or simply log into Launchpad, then edit SSH keys, and `cat ~/.ssh/id_rsa.pub` and copy the output into the new key window.
->
-> Once that has been done, continue.
-
-```bash
-bzr branch lp:help.ubuntu.com z
+git clone git+ssh://marek-suchanek@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com z
 ls -l
 cd z
 ls -l

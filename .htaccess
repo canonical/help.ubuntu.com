@@ -42,7 +42,8 @@ AddCharset UTF-8 .txt
 RedirectMatch permanent ^/(stable|lts|\d+\.\d+)/?(index\.html)?$ https://help.ubuntu.com
 
 # Redirects for installer pages
-Redirect /bitlocker https://ubuntu.com/tutorials/install-ubuntu-desktop#13-additional-installing-ubuntu-alongside-windows-with-bitlocker
+Redirect /rst https://canonical-ubuntu-desktop-documentation.readthedocs-hosted.com/en/latest/reference/intel-rst-during-ubuntu-installation/#intel-rst-during-ubuntu-installation
+Redirect /bitlocker https://canonical-ubuntu-desktop-documentation.readthedocs-hosted.com/en/latest/reference/bitlocker-during-ubuntu-installation/
 Redirect /activedirectory https://ubuntu.com/server/docs/service-sssd
 
 # For 20.04, and likely onwards, the serveguide has moved.

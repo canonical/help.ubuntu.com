@@ -45,8 +45,8 @@ RedirectMatch permanent ^/(stable|lts|\d+\.\d+)/?(index\.html)?$ https://help.ub
 Redirect /zzzztest https://help.ubuntu.com/22.04/ubuntu-help/shell-overview.html
 
 # Redirects for installer pages
-Redirect /rst https://canonical-ubuntu-desktop-documentation.readthedocs-hosted.com/en/latest/reference/intel-rst-during-ubuntu-installation/#intel-rst-during-ubuntu-installation
-Redirect /bitlocker https://canonical-ubuntu-desktop-documentation.readthedocs-hosted.com/en/latest/reference/bitlocker-during-ubuntu-installation/
+Redirect /rst https://documentation.ubuntu.com/desktop/en/latest/reference/intel-rst-during-ubuntu-installation/
+Redirect /bitlocker https://documentation.ubuntu.com/desktop/en/latest/reference/bitlocker-during-ubuntu-installation/
 Redirect /activedirectory https://documentation.ubuntu.com/server/explanation/intro-to/sssd/index.html
 
 # For 20.04, and likely onwards, the serveguide has moved a couple of times.

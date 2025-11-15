@@ -1,0 +1,185 @@
+<!DOCTYPE html>
+<html lang=sr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Користите покрете на додирним таблама и екранима на додир</title>
+<link rel="stylesheet" type="text/css" href="sr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation">
+<div class="trail">
+<span style="color: #333">Ubuntu 25.10</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="prefs.html.sr" title="Подешавања корисника и система">Подешавања</a> » <a class="trail" href="mouse.html.sr" title="Миш, Додирна табла и Екран на додир">Миш</a> » </div>
+<div class="trail">
+<span style="color: #333">Ubuntu 25.10</span> » <a class="trail" href="index.html.sr" title="Убунтуов водич за радну површ"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » <a class="trail" href="hardware.html.sr" title="Хардвер и управљачки програми">Хардвер</a> » <a class="trail" href="mouse.html.sr" title="Миш, Додирна табла и Екран на додир">Миш</a> » </div>
+</div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Користите покрете на додирним таблама и екранима на додир</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Покрети више додира се могу користити на додирним таблама и екранима на додир за кретање по систему, као и у програмима.</p>
+<p class="p">Бројни програми могу да користе покрете. У <span class="app">Прегледачу докумената</span>, документи се могу увеличати и листати покретима, а <span class="app">Прегледач слика</span> вам омогућава да зумирате, заокренете и раширите.</p>
+</div>
+<section id="system"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Свеопште системски покрети</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="table"><div class="inner"><div class="region"><table class="table" style="border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-overview.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td>
+<p class="p"><span class="em">Отворите преглед активности и преглед програма</span></p>
+<p class="p">Ставите три прста на додирну таблу или додирни екран и померите их напред да отворите претпреглед активности.</p>
+<p class="p">Да отворите преглед програма, ставите три прста и поново их померите напред.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-workspaces.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">Промените радни простор</span></p>
+<p class="p">Ставите три прста на додирну таблу или додирни екран и померите их лево или десно.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-unfullscreen.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">Изађите из целог екрана</span></p>
+<p class="p">На екранима на додир, превуците на доле са горње ивице да изађете из режима целог екрана било ког прозора.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-osk.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">Призовите тастатуру на екрану</span></p>
+<p class="p">На екрану на додир, превуците на горе са доње ивице да добијете <span class="link"><a href="keyboard-osk.html.sr" title="Користите тастатуру на екрану">тастатуру на екрану</a></span>, ако је укључена.</p>
+</td>
+</tr>
+</table></div></div></div></div></div>
+</div></section><section id="apps"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Покрети програма</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="table"><div class="inner"><div class="region"><table class="table" style="border-bottom-style: solid;">
+<tr>
+<td><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-tap.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td>
+<p class="p"><span class="em">Отворите ставку, покрените програм, пустите песму</span></p>
+<p class="p">Лупните на ставку.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-hold.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">Изаберите ставку и прикажите списак радњи које се могу обавити</span></p>
+<p class="p">Притисните и држите око једне или две секунде.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-scroll.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">Премакните област на екрану</span></p>
+<p class="p">Превлачење: клизните прстом додирујући површину.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-pinch-to-zoom.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">Промените ниво увеличања прегледа (<span class="app">Карте</span>, <span class="app">Фотографије</span>)</span></p>
+<p class="p">Скупљање или ширење два прста: Додирните површину са два прста док их приближавате или удаљавате.</p>
+</td>
+</tr>
+<tr>
+<td style="border-top-style: solid;"><p class="p"><span class="media"><span class="media media-image"><img src="figures/touch-rotate.svg" width="128" class="media media-inline" alt=""></span></span></p></td>
+<td style="border-top-style: solid;">
+<p class="p"><span class="em">Заокрените фотографију</span></p>
+<p class="p">Заокрет два прста: Додирните површину са два прста и заокрените.</p>
+</td>
+</tr>
+</table></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Још података</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="mouse.html.sr" title="Миш, Додирна табла и Екран на додир">Миш, Додирна табла и Екран на додир</a><span class="desc"> — Дотерајте понашање уређаја показивања да задовољите личне потребе.</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

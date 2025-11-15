@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang=hr>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Korisnik i postavke sustava</title>
+<link rel="stylesheet" type="text/css" href="hr.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.10</span> » <a class="trail" href="index.html.hr" title="Ubuntu priručnik radnog okruženja"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Priručnik"></span></span> Ubuntu priručnik radnog okruženja</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Korisnik i postavke sustava</span></h1></div>
+<div class="region">
+<div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="about.html.hr" title="About"><span class="title">About</span><span class="linkdiv-dash"> — </span><span class="desc">View information about your system.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="clock.html.hr" title="Datum i vrijeme"><span class="title">Datum i vrijeme</span><span class="linkdiv-dash"> — </span><span class="desc">Korištenje satova, vremenskih zona i praćenje kalendarskih događaja.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="power.html.hr" title="Energija i baterija"><span class="title">Energija i baterija</span><span class="linkdiv-dash"> — </span><span class="desc">Prikaz stanja baterije i promjena postavki štednje energije.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-language.html.hr" title="Jezik i regija"><span class="title">Jezik i regija</span><span class="linkdiv-dash"> — </span><span class="desc">Postavljanje željenog jezika, regije, formata i rasporeda tipkovnice.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="user-accounts.html.hr" title="Korisnički računi"><span class="title">Korisnički računi</span><span class="linkdiv-dash"> — </span><span class="desc">Dodavanje i uklanjanje korisničkih računa. Promjena lozinka. Postavljanje administratorskih ovlasti.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="mouse.html.hr" title="Miš, touchpad i zaslon na dodir"><span class="title">Miš, touchpad i zaslon na dodir</span><span class="linkdiv-dash"> — </span><span class="desc">Prilagodba ponašanja pokazivačkih uređaja u skladu s osobnim zahtjevima.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="accounts.html.hr" title="Mrežni računi"><span class="title">Mrežni računi</span><span class="linkdiv-dash"> — </span><span class="desc">Povezivanje s računima pomoću raznih mrežnih usluga.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="startup-applications.html.hr" title="Pokretanje aplikacija"><span class="title">Pokretanje aplikacija</span><span class="linkdiv-dash"> — </span><span class="desc">Odaberite koje će se aplikacije pokrenuti kada se prijavite ili pokrenete računalo.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="prefs-sharing.html.hr" title="Postavke dijeljenja"><span class="title">Postavke dijeljenja</span><span class="linkdiv-dash"> — </span><span class="desc">Dijeljenje zaslona, medija i ostalih datoteka putem lokalne mreže ili Bluetootha.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy.html.hr" title="Postavke privatnost"><span class="title">Postavke privatnost</span><span class="linkdiv-dash"> — </span><span class="desc">Zaključavanje zaslona, uklanjanje privremenih datoteka i upravljanje pristupom uređajima poput kamera i mikrofona.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="prefs-display.html.hr" title="Prikaz i zaslon"><span class="title">Prikaz i zaslon</span><span class="linkdiv-dash"> — </span><span class="desc">Postavljanje pozadine, podešavanje monitora i upravljanje temperaturom boje.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="quick-settings.html.hr" title="Quick Settings"><span class="title">Quick Settings</span><span class="linkdiv-dash"> — </span><span class="desc">Quickly toggle different settings and choose devices.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="keyboard.html.hr" title="Tipkovnica"><span class="title">Tipkovnica</span><span class="linkdiv-dash"> — </span><span class="desc">Odabir međunarodnih rasporeda tipkovnice i korištenje značajke pristupačnosti tipkovnice.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="color.html.hr" title="Upravljanje bojama"><span class="title">Upravljanje bojama</span><span class="linkdiv-dash"> — </span><span class="desc">Kalibriranje profila boja na monitorima, pisačima i drugim uređajima.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="wacom.html.hr" title="Wacom grafički tablet"><span class="title">Wacom grafički tablet</span><span class="linkdiv-dash"> — </span><span class="desc">Podešavanje Wacom grafičkog tableta, uključujući način praćenja i na koji monitor je mapiran.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="media.html.hr#sound" title="Osnovni zvuk"><span class="title">Zvuk</span><span class="linkdiv-dash"> — </span><span class="desc">Prilagodite glasnoću zvuka u različitim aplikacijama i prilagodite razne zvučnike i mikrofone.</span></a></div>
+</div>
+</div></div></div></div></div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Više informacija</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.hr" title="Ubuntu priručnik radnog okruženja">Ubuntu priručnik radnog okruženja</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

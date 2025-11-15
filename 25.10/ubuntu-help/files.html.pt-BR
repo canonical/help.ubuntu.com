@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang=pt-BR>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Arquivos, pastas &amp; pesquisa</title>
+<link rel="stylesheet" type="text/css" href="pt-BR.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.10</span> » <a class="trail" href="index.html.pt-BR" title="Guia do Ubuntu Desktop"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Help"></span></span> Ubuntu Desktop Guide</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Arquivos, pastas &amp; pesquisa</span></h1></div>
+<div class="region">
+<div class="contents pagewide"></div>
+<section id="common-file-tasks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Tarefas comuns</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-copy.html.pt-BR" title="Copiando ou movendo arquivos e pastas"><span class="title">Copiando ou movendo arquivos e pastas</span><span class="linkdiv-dash"> — </span><span class="desc">Copie ou mova itens para uma nova pasta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-delete.html.pt-BR" title="Excluindo arquivos e pastas"><span class="title">Excluindo arquivos e pastas</span><span class="linkdiv-dash"> — </span><span class="desc">Remova arquivos e pastas que não precise mais.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-browse.html.pt-BR" title="Navegando por arquivos e pastas"><span class="title">Navegando por arquivos e pastas</span><span class="linkdiv-dash"> — </span><span class="desc">Gerencie e organize arquivos com o gerenciador de arquivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-sort.html.pt-BR" title="Organizando arquivos e pastas"><span class="title">Organizando arquivos e pastas</span><span class="linkdiv-dash"> — </span><span class="desc">Organiza arquivos por nome, tamanho, tipo ou quando eles foram modificados.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-search.html.pt-BR" title="Pesquisando por arquivos"><span class="title">Pesquisando por arquivos</span><span class="linkdiv-dash"> — </span><span class="desc">Localize os arquivos com base no nome e tipo.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-rename.html.pt-BR" title="Renomeando um arquivo ou uma pasta"><span class="title">Renomeando um arquivo ou uma pasta</span><span class="linkdiv-dash"> — </span><span class="desc">Altere o nome do arquivo ou da pasta.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename-music-metadata.html.pt-BR" title="Renomear arquivos de música usando os metadados"><span class="title">Renomear arquivos de música usando os metadados</span><span class="linkdiv-dash"> — </span><span class="desc">Renomear arquivos de música usando os metadados contidos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-rename-multiple.html.pt-BR" title="Renomeie múltiplos arquivos"><span class="title">Renomeie múltiplos arquivos</span><span class="linkdiv-dash"> — </span><span class="desc">Renomeie mais de um arquivo de cada vez.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-preview.html.pt-BR" title="Visualizando arquivos e pastas"><span class="title">Visualizando arquivos e pastas</span><span class="linkdiv-dash"> — </span><span class="desc">Mostra e esconde rapidamente as visualizações de documentos, imagens, vídeos e mais.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="more-file-tasks"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Mais tarefas relacionadas a arquivos</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-open.html.pt-BR" title="Abrindo arquivos com outros aplicativos"><span class="title">Abrindo arquivos com outros aplicativos</span><span class="linkdiv-dash"> — </span><span class="desc">Abra arquivos usando um aplicativo que não é o padrão para aquele tipo. Você pode alterar o padrão também.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-share.html.pt-BR" title="Compartilhando arquivos por e-mail"><span class="title">Compartilhando arquivos por e-mail</span><span class="linkdiv-dash"> — </span><span class="desc">Transfira arquivos facilmente para os seus contatos de e-mail a partir do gerenciador de arquivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-history-recent-off.html.pt-BR" title="Desligando ou limitando rastreamento de histórico de arquivos"><span class="title">Desligando ou limitando rastreamento de histórico de arquivos</span><span class="linkdiv-dash"> — </span><span class="desc">Pare ou limite seu computador quanto ao rastreamento de seus arquivos recentemente usados.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="privacy-purge.html.pt-BR" title="Excluindo permanentemente arquivos da lixeira e temporários"><span class="title">Excluindo permanentemente arquivos da lixeira e temporários</span><span class="linkdiv-dash"> — </span><span class="desc">Defina o quão frequente seus arquivos da lixeira e temporários serão excluídos de seu computador.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-disc-write.html.pt-BR" title="Gravando arquivos em um CD ou DVD"><span class="title">Gravando arquivos em um CD ou DVD</span><span class="linkdiv-dash"> — </span><span class="desc">Coloque arquivos e documentos em um CD ou DVD vazio usando um gravador de CD/DVD.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-lost.html.pt-BR" title="Localizando um arquivo perdido"><span class="title">Localizando um arquivo perdido</span><span class="linkdiv-dash"> — </span><span class="desc">Siga essas dicas se você não consegue localizar um arquivo que você criou ou baixou.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-connect.html.pt-BR" title="Navegando nos arquivos em um servidor ou compartilhamento de rede"><span class="title">Navegando nos arquivos em um servidor ou compartilhamento de rede</span><span class="linkdiv-dash"> — </span><span class="desc">Veja e edite arquivos em outro computador via FTP, SSH, compartilhamentos Windows ou WebDAV.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-prefs.html.pt-BR" title="Preferências do gerenciador de arquivos"><span class="title">Preferências do gerenciador de arquivos</span><span class="linkdiv-dash"> — </span><span class="desc">Veja ou defina preferências do navegador de arquivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-basic.html.pt-BR" title="Propriedades do arquivo"><span class="title">Propriedades do arquivo</span><span class="linkdiv-dash"> — </span><span class="desc">Veja informações básicas de arquivo, defina permissões e escolha os aplicativos padrão.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-recover.html.pt-BR" title="Restaurando um arquivo da lixeira"><span class="title">Restaurando um arquivo da lixeira</span><span class="linkdiv-dash"> — </span><span class="desc">Arquivos excluídos são normalmente enviados para a lixeira, mas podem ser restaurados.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="removable"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Unidades removíveis e discos externos</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-autorun.html.pt-BR" title="Abrindo aplicativos para dispositivos e discos"><span class="title">Abrindo aplicativos para dispositivos e discos</span><span class="linkdiv-dash"> — </span><span class="desc">Execute automaticamente aplicativos para CDs e DVDs, câmeras, reprodutores de áudio e outros dispositivos e mídias.</span></a></div></div>
+<div class="links-divs"><div class="linkdiv "><a class="linkdiv" href="files-removedrive.html.pt-BR" title="Removendo uma unidade externa com segurança"><span class="title">Removendo uma unidade externa com segurança</span><span class="linkdiv-dash"> — </span><span class="desc">Ejete ou desmonte uma unidade removível USB, CD, DVD ou outro dispositivo.</span></a></div></div>
+</div></div></div></div></div></div>
+</div></section><section id="backup"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Fazendo backup</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="backup-why.html.pt-BR" title="Fazendo backups dos seus arquivos importantes"><span class="title">Fazendo backups dos seus arquivos importantes</span><span class="linkdiv-dash"> — </span><span class="desc">Por que, do que, onde e como fazer backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-frequency.html.pt-BR" title="Frequência dos bakups"><span class="title">Frequência dos bakups</span><span class="linkdiv-dash"> — </span><span class="desc">Aprenda o quão frequente deve-se fazer backups dos seus arquivos importantes para que estejam seguros.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-thinkabout.html.pt-BR" title="Onde posso achar os arquivos que quero fazer backup?"><span class="title">Onde posso achar os arquivos que quero fazer backup?</span><span class="linkdiv-dash"> — </span><span class="desc">Uma lista de pastas onde você pode achar documentos, arquivos e configurações que talvez queira fazer backup.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="backup-restore.html.pt-BR" title="Restaurando um backup"><span class="title">Restaurando um backup</span><span class="linkdiv-dash"> — </span><span class="desc">Recupere seus arquivo de uma backup.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="backup-check.html.pt-BR" title="Verificando seu backup"><span class="title">Verificando seu backup</span><span class="linkdiv-dash"> — </span><span class="desc">Verifique se seu backup foi bem sucedido.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section id="faq"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Dicas e perguntas</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="links topiclinks"><div class="inner"><div class="region"><div class="links-twocolumn">
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="nautilus-file-properties-permissions.html.pt-BR" title="Definindo permissões de arquivo"><span class="title">Definindo permissões de arquivo</span><span class="linkdiv-dash"> — </span><span class="desc">Controle quem pode ver e editar seus arquivos e suas pastas.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="nautilus-bookmarks-edit.html.pt-BR" title="Editando marcadores de pastas"><span class="title">Editando marcadores de pastas</span><span class="linkdiv-dash"> — </span><span class="desc">Adicione, exclua ou renomeie marcadores no gerenciador de arquivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-templates.html.pt-BR" title="Modelos para tipos de documentos comumente usados"><span class="title">Modelos para tipos de documentos comumente usados</span><span class="linkdiv-dash"> — </span><span class="desc">Crie rapidamente novos documentos de modelos de arquivos personalizados.</span></a></div>
+</div>
+<div class="links-divs">
+<div class="linkdiv "><a class="linkdiv" href="files-tilde.html.pt-BR" title="O que é um arquivo com um ~ no final do seu nome?"><span class="title">O que é um arquivo com um <span class="file">~</span> no final do seu nome?</span><span class="linkdiv-dash"> — </span><span class="desc">Esses são arquivos backup. Eles estão ocultos por padrão.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-hidden.html.pt-BR" title="Ocultando um arquivo"><span class="title">Ocultando um arquivo</span><span class="linkdiv-dash"> — </span><span class="desc">Torne um arquivo invisível, para que você não o veja no gerenciador de arquivos.</span></a></div>
+<div class="linkdiv "><a class="linkdiv" href="files-select.html.pt-BR" title="Selecionando arquivos por um padrão"><span class="title">Selecionando arquivos por um padrão</span><span class="linkdiv-dash"> — </span><span class="desc">Pressione <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>S</kbd></span></span> para selecionar múltiplos arquivos que tenham nomes similares.</span></a></div>
+</div>
+</div></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Mais informações</span></h2></div>
+<div class="region"><ul><li class="links "><a href="index.html.pt-BR" title="Guia do Ubuntu Desktop">Guia do Ubuntu Desktop</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang=hu>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Fájl elrejtése</title>
+<link rel="stylesheet" type="text/css" href="hu.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.10</span> » <a class="trail" href="index.html.hu" title="Ubuntu felhasználói kézikönyv"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Súgó"></span></span> Ubuntu felhasználói kézikönyv</a> » <a class="trail" href="files.html.hu" title="Fájlok, mappák és keresés">Fájlok</a> › <a class="trail" href="files.html.hu#faq" title="Tippek és kérdések">Tippek és kérdések</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Fájl elrejtése</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">A <span class="app">Fájlok</span> fájlkezelő lehetővé teszi fájljai igény szerinti elrejtését és megjelenítését. A rejtett fájlok alapesetben nem láthatók: a fájlkezelőben nem jelennek meg, de a mappa továbbra is tartalmazza azokat.</p>
+<p class="p">Fájl elrejtéséhez <span class="link"><a href="files-rename.html.hu" title="Fájl vagy mappa átnevezése">nevezze át</a></span> azt úgy, hogy a név első karaktere egy <span class="file">.</span> legyen. A <span class="file">példa.txt</span> fájl elrejtéséhez például a <span class="file">.példa.txt</span> nevet használja.</p>
+<div class="note" title="Megjegyzés">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Mappákat ugyanúgy rejthet el, mint fájlokat. Nevezze át a mappát egy <span class="file">.</span> beszúrásával a nevének elejére.</p></div></div></div>
+</div>
+</div>
+<section id="show-hidden"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Minden rejtett fájl megjelenítése</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Ha az összes rejtett fájlt látni szeretné egy mappában, akkor lépjen be a mappába, és nyomja meg az ablak oldalsávján lévő menü gombot, majd válassza a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot, vagy nyomja meg a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> billentyűkombinációt. Ekkor minden rejtett fájl megjelenik a nem rejtettekkel együtt.</p>
+<p class="p">Ezen fájlok ismételt elrejtéséhez nyomja meg az ablak oldalsávján lévő menü gombot, és kapcsolja ki a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot, vagy nyomja meg újra a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> billentyűkombinációt.</p>
+</div></div>
+</div></section><section id="unhide"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Fájl rejtésének megszüntetése</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Egy fájl elrejtésének megszüntetéséhez nyissa meg a rejtett fájlt tartalmazó mappát. Nyomja meg az ablak oldalsávján lévő menü gombot, és válassza a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot, vagy nyomja meg a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> billentyűkombinációt. Ezután keresse meg a rejtett fájlt, és nevezze át, hogy ne legyen <span class="file">.</span> a neve előtt. Például egy <span class="file">.példa.txt</span> nevű fájl elrejtésének megszüntetéséhez nevezze azt át <span class="file">példa.txt</span>-re.</p>
+<p class="p">Miután átnevezte a fájlt, nyomja meg az ablak oldalsávján lévő menü gombot, és kapcsolja ki a <span class="gui">Rejtett fájlok megjelenítése</span> menüpontot, vagy nyomja meg a <span class="keyseq"><span class="key"><kbd>Ctrl</kbd></span>+<span class="key"><kbd>H</kbd></span></span> billentyűkombinációt a többi rejtett fájl ismételt elrejtéséhez.</p>
+<div class="note" title="Megjegyzés">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">Alapesetben a rejtett fájlok csak addig jelennek meg, amíg be nem zárja a fájlkezelőt. Ezen beállítás módosításával kapcsolatban nézze meg a <span class="link"><a href="nautilus-views.html.hu" title="Nézetbeállítások a Fájlokban">Nézetbeállítások a <span class="app">Fájlokban</span></a></span> részt.</p></div></div></div>
+</div>
+<div class="note" title="Megjegyzés">
+<svg width="24" height="24" version="1.1">
+ <path class="yelp-svg-fill" d="m4 3h16c0.554 0 1 0.446 1 1v11h-6v6h-11c-0.554 0-1-0.446-1-1v-16c0-0.554 0.446-1 1-1z"></path>
+ <path class="yelp-svg-fill" d="m17 16h4l-5 5v-4c0-0.554 0.446-1 1-1z"></path>
+</svg><div class="inner"><div class="region"><div class="contents"><p class="p">A legtöbb rejtett fájl neve <span class="file">.</span> karakterrel kezdődik, míg más fájlok utolsó karaktere esetleg egy <span class="file">~</span>. Ezek a fájlok a biztonsági másolatok, további információkért lásd a <span class="link"><a href="files-tilde.html.hu" title="Mik azok a ~ végződésű fájlok?">Mik azok a <span class="file">~</span> végződésű fájlok?</a></span> részt.</p></div></div></div>
+</div>
+</div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide">
+<div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">További információk</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.hu#faq" title="Tippek és kérdések">Tippek és kérdések</a></li></ul></div>
+</div></div>
+<div class="links seealsolinks"><div class="inner">
+<div class="title"><h2><span class="title">Lásd még</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="files-tilde.html.hu" title="Mik azok a ~ végződésű fájlok?">Mik azok a <span class="file">~</span> végződésű fájlok?</a><span class="desc"> — Ezek mentési fájlok, alapesetben rejtettek.</span>
+</li></ul></div>
+</div></div>
+</div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang=zh-CN>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>我已经输入了正确的密码，但还是无法连接</title>
+<link rel="stylesheet" type="text/css" href="zh-CN.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.10</span> » <a class="trail" href="index.html.zh-CN" title="Ubuntu 桌面指南"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="帮助"></span></span> Ubuntu 桌面指南</a> » <a class="trail" href="net.html.zh-CN" title="联网、网络和电子邮件">联网</a> » <a class="trail" href="net-wireless.html.zh-CN" title="无线网络">无线网络</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">我已经输入了正确的密码，但还是无法连接</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">如果您确定输入了正确的<span class="link"><a href="net-wireless-wepwpa.html.zh-CN" title="WEP 和 WPA 是什么意思？">无线密码</a></span>，但仍然无法成功连接到无线网络，请尝试下列方法：</p>
+<div class="list"><div class="inner"><div class="region"><ul class="list">
+<li class="list">
+<p class="p">再次检查您的密码是否正确</p>
+<p class="p">密码是区分大小写的（字母大写和小写不算用一密码），所以请检查您有没有弄错其中某个字母的大小写。</p>
+</li>
+<li class="list">
+<p class="p">试试十六进制或 ASCII 密钥</p>
+<p class="p">您输入的密码也可以用另一种方式表示——用十六进制的字符串（数字0-9和字母a-f）表示，称为通行密钥。每个密码都有对应的通行密钥。如果您有密码和口令，请尝试输入口令。当要求您输入密码时，请确保选择正确的<span class="gui">无线安全</span>选项（例如，如果您要为 WEP 加密连接输入40个字符的通行密钥时，请选择 <span class="gui">WEP 40/128 位密钥</span>）。</p>
+</li>
+<li class="list">
+<p class="p">尝试关闭您的无线网卡，然后再开启它</p>
+<p class="p">有时无线网卡会卡住或遇到一些小问题，这意味着它将无法连接。请尝试关闭后重启无线网卡——请参阅<span class="link"><a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a></span>了解更多信息。</p>
+</li>
+<li class="list">
+<p class="p">检查您是否使用了正确的无线安全类型</p>
+<p class="p">当提示您输入无线安全密码时，您可以选择使用何种无线安全类型。请确保选择路由器或无线基站使用的类型。这应该是默认选项，但有时会因为某些原因没选中。如果您不知道选哪一种，就用试错的方法选出正确的选项。</p>
+</li>
+<li class="list">
+<p class="p">检查您的无线网卡被正确地支持</p>
+<p class="p">有些无线网卡的支持不是很好。它们显示为已连接，但实际上没有，这是因为其驱动缺乏程序。试试其他无线驱动，或者您需要进行额外的设置（如安装不同的<span class="em">固件</span>）。请参阅<span class="link"><a href="net-wireless-troubleshooting.html.zh-CN" title="无线网络故障排除">无线网络故障排除</a></span>了解更多信息。</p>
+</li>
+</ul></div></div></div>
+</div>
+<section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">更多信息</span></h2></div>
+<div class="region"><ul><li class="links ">
+<a href="net-wireless.html.zh-CN" title="无线网络">无线网络</a><span class="desc"> — 连接到无线网络，包括隐藏网络和由手机连接创建的网络。</span>
+</li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

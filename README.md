@@ -16,92 +16,82 @@ See also:
 
 * <https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/BuildingDocumentation> (Not current)
 * <https://code.launchpad.net/ubuntu/+source/ubuntu-docs>
+* <https://code.launchpad.net/~ubuntu-core-doc/ubuntu/+source/ubuntu-docs>
+* <https://launchpad.net/ubuntu/+source/gnome-user-docs>
 * <https://help.ubuntu.com/stable/ubuntu-help/index.html>
 * <https://code.launchpad.net/~ubuntu-core-doc/help.ubuntu.com/+git/help.ubuntu.com>
 * The list of commands at the end of this page.
 
 > [!NOTE]
-> Currently, the compilation must be done on a desktop computer, preferably the same version OS as the docs compile.
+> Currently, the compilation must be done on a desktop computer running the same version of Ubuntu as the docs compile.
 
-1. Make sure the computer is up to date:
-
-    ```bash
-    sudo apt update
-    sudo apt upgrade
-    ```
-
-2. Either check that the existing local branch is up to date or make a new branch.
-
-3. The method to get the packages depends on released versus only on PPA:
-
-    1. Released: Just make sure all is up to date.
-
-    2. PPA method: where typically only `ubuntu-docs` has been updated, and this is NOT the first run through this procedure:
-
-        ```bash
-        sudo add-apt-repository ppa:ubuntu-core-doc/ppa
-        ```
-
-4. Fetch proper versions of the needed docs:
-
-    ```bash
-    sudo apt update
-    sudo apt install ubuntu-docs gnome-user-docs*
-    ```
-
-	For the PPA version:
+1. Make sure the computer is up to date (and re-boot after, if required):
 
     ```bash
     sudo apt update
     sudo apt upgrade
     ```
 
-5. When appropriate, delete the PPA if one was used:
+2. Install the packages needed:
 
     ```bash
-    sudo add-apt-repository --remove ppa:ubuntu-core-doc/ppa
+    sudo apt install git xsltproc libxml2-utils yelp-tools yelp-xsl make
+    sudo apt install gnome-user-docs*
     ```
 
-    Or just delete the file:
+3. Configure Git:
+
+    ```bash
+    git config --global user.email "my-email"
+    git config --global user.name "My Name"
+    ```
+
+4. Create a SSH key and add this computer to your Launchpad account. See [Upload your SSH key to Launchpad](https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/Repository#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Upload_your_SSH_key_to_Launchpad).
+ 
+    ```bash
+    ssh-keygen -t rsa
+    cd .ssh
+    ls -l
+    cat id_rsa.pub
+    # Log into Launchpad, then edit SSH keys, and copy the id_rsa.pub output into the new key window.
+    # Once that has been done, continue.
+    cd ..
+    ```
+
+5. Clone the needed Git repositories and compile the code (change the launchpad username to yours):
+
+    ```bash
+    git clone git://git.launchpad.net/~ubuntu-core-doc/ubuntu/+source/ubuntu-docs
+    git clone -b main git+ssh://USER@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com
+    ```
+
+6. Manually validate the proper/expected package versions (Example, your versions may differ):
 
     ```text
-	$ ls -l /etc/apt/sources.list.d
-	total 4
-	-rw-r--r-- 1 root root 142 Dec  8 13:04 ubuntu-core-doc-ubuntu-ppa-jammy.list
+    dpkg -l | grep ubuntu-docs
+    ii  ubuntu-docs 25.10.0.1 all Ubuntu Desktop Guide
     ```
 
-    The key might also be deleted. Example:
-
-    ```bash
-    sudo apt-key del EDB402B8
+    ```text
+    dpkg -l | grep gnome-user-docs
+    ii  gnome-user-docs    49.1-1ubuntu0.1 all GNOME Help
+    ii  gnome-user-docs-as 49.1-1ubuntu0.1 all GNOME Help (Assamese)
+    ii  gnome-user-docs-ca 49.1-1ubuntu0.1 all GNOME Help (Catalan)
+    ...
     ```
 
-    1. Manually validate the proper/expected package versions:
-
-        ```text
-        dpkg -l | grep ubuntu-docs
-        ii  ubuntu-docs   22.04.1   all   Ubuntu Desktop Guide
-        ```
-
-        ```text
-        dpkg -l | grep gnome-user-docs
-        ii  gnome-user-docs    41.1-1ubuntu1+test all GNOME Help
-        ii  gnome-user-docs-as 41.1-1ubuntu1+test all GNOME Help (Assamese)
-        ...
-        ```
-
-6. Compile:
+7. Compile:
 
     ```bash
     cd ~/ubuntu-docs/html
     ```
 
-    1. If past the release date, and this is an update to the previous release, the Git branch might need to be set:
+    1. If past the release date, and this is an update to the previous release, the Git branch might need to be set (Check this, there is no such branch?)
 
         See <https://code.launchpad.net/~ubuntu-core-doc/ubuntu/+source/ubuntu-docs/+git/ubuntu-docs> for branch names.
 
         ```bash
-        git checkout jammy
+        git checkout questing
         ```
 
     2. Carry on with the compilation:
@@ -111,41 +101,51 @@ See also:
         make install
         ```
 
-7. If you have a testing server, do a test publication and check it. If this is the first publication of a new release version, the `index.html` link to these pages might not exist yet.
-
-8. Put the files to the local main Git branch of help.ubuntu.com.
-
-    Do it on the VM being used. It'll take a long time to download the branch.
-    See the commands list at the end.
-
-9. Modify the `index.html` file, if required. Do any desired directory compares before deleting any previous version of the relevant `ubuntu-docs` directory:
+8. Copy the files to the local main Git branch of help.ubuntu.com, creating new directories if required:
 
     ```bash
-    diff ubuntu-help ubuntu-docs
+    cd ~/help.ubuntu.com
+    mkdir 25.10
+    cd 25.10
+    rsync --dry-run --delete --archive --verbose --checksum ~/ubuntu-docs/html/ubuntu-docs ./
+    rsync --delete --archive --verbose --checksum ~/ubuntu-docs/html/ubuntu-docs ./
+    ```
+
+    1. If this is an update, then check that the differences make sense:
+
+        ```bash
+        diff ubuntu-docs ubuntu-help | more
+        ```
+
+9. Edit the `index.html` file, if required. Do any desired directory compares before deleting any previous version of the relevant `ubuntu-help` directory:
+
+    ```bash
+    nano index.html
+    diff ubuntu-help ubuntu-docs | more
     rm -r ubuntu-help
     mv ubuntu-docs ubuntu-help
     ```
 
-10. Again do a test publication on your server if you have one. Check it.
+10. If you have a testing web server, do a test publication and check it.
 
 11. Add and delete files from the Git branch as required:
 
     ```bash
     git status
-    git add 22.04
+    git add 25.10
     git status
     ```
 
 12. When all is good, commit and push the branch to help.ubuntu.com:
 
     ```bash
-    git commit -m 'Add 22.04 Desktop help - preliminary'
+    git commit -a -m 'Add 25.10 Desktop help - preliminary'
     git push git+ssh://USER@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com
     ```
 
-13. Update the copy on your server, as this basically becomes a backup of the local Git branch, including the Git packing information.
+13. If you have a testing web server then update the copy on your server, as this basically becomes a backup of the local Git branch, including the Git packing information.
 
-14. Release day edits: The `lts` and `stable` links examples:
+14. Release day edits: The `lts` and `stable` links. The `index.html` file also needs edits. examples:
 
     ```bash
     cd lts
@@ -156,67 +156,55 @@ See also:
     cd stable
     ls -l
     rm ubuntu-help
-    ln -s ../24.04/ubuntu-help ubuntu-help
+    ln -s ../25.10/ubuntu-help ubuntu-help
+    nano index.html
+    git commit -a -m '25.10 Releases Day Edits'
+    git push git+ssh://USER@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com
     ```
 
 ### Commands reference
 
-Commands used on a new 22.04 VM desktop computer to install stuff and compile and publish:
+Commands used on a new 25.10 VM desktop computer to install stuff and compile and publish:
 
 ```bash
-sudo apt update
-sudo apt upgrade
-dpkg -l | grep doc
-sudo apt update
-sudo apt upgrade
-dpkg -l | grep doc
-dpkg -l | grep ubuntu-docs
-dpkg -l | grep gnome-user-docs
 sudo apt install git xsltproc libxml2-utils yelp-tools yelp-xsl make
+git clone git://git.launchpad.net/~ubuntu-core-doc/ubuntu/+source/ubuntu-docs
+cd ubuntu-docs
+git branch
+git log --oneline
+git show f953f96
 sudo apt install gnome-user-docs*
+dpkg -l | grep ubuntu-docs
+cd ~
 ssh-keygen -t rsa
 cd .ssh
-ls -l
 cat id_rsa.pub
-git config --global user.name "My Name"
-git config --global user.email "my-email"
 cd ..
-```
-
-At this point, the SSH key needs to be in Launchpad. See [Upload your SSH key to Launchpad](https://wiki.ubuntu.com/DocumentationTeam/SystemDocumentation/Repository#DocumentationTeam.2FSystemDocumentation.2FBzrCommon.Upload_your_SSH_key_to_Launchpad).
-
-Or simply log into Launchpad, then edit SSH keys, and `cat ~/.ssh/id_rsa.pub` and copy the output into the new key window.
-
-Once that has been done, continue.
-
-```bash
-git clone git+ssh://USER@git.launchpad.net/ubuntu/+source/ubuntu-docs
-cd ubuntu-docs
+git clone -b main git+ssh://dsmythies@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com
 ls -l
+cd help.ubuntu.com
+ls -l
+git branch
+git log --oneline
+cd ~/ubuntu-docs
 cd html
 make
 make install
-ls -l
 ls -l ubuntu-docs | more
-cd ../..
-ls -l
-mkdir ubuntu-help
-cd ubuntu-help
-git clone git+ssh://marek-suchanek@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com z
-ls -l
-cd z
-ls -l
-mkdir 22.04
-cd 22.04
-ls -l ../21.10
+cd ~/help.ubuntu.com
+mkdir 25.10
+cd 25.10
 ls -l ~/ubuntu-docs/html/ubuntu-docs
 rsync --dry-run --delete --archive --verbose --checksum ~/ubuntu-docs/html/ubuntu-docs ./
 rsync --delete --archive --verbose --checksum ~/ubuntu-docs/html/ubuntu-docs ./
-ls -l
 cd ..
 nano index.html
-cd 22.04
+cd 25.10
 ls -l
 mv ubuntu-docs ubuntu-help
+cd ..
+nano index.html
+rsync --delete --archive --verbose --checksum --dry-run ./ doug@my-test-website.com:/home/doug/public_html/linux/ubuntu-docs/help.ubuntu.com/dev
+rsync --delete --archive --verbose --checksum ./ doug@my-test-website.com:/home/doug/public_html/linux/ubuntu-docs/help.ubuntu.com/dev
+... further commands pending ...
 ```
-

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang=uk>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Упорядкування файлів та тек</title>
+<link rel="stylesheet" type="text/css" href="uk.css">
+<script type="text/javascript" src="highlight.pack.js"></script><script>
+document.addEventListener('DOMContentLoaded', function() {
+  var matches = document.querySelectorAll('code.syntax')
+  for (var i = 0; i < matches.length; i++) {
+    hljs.highlightBlock(matches[i]);
+  }
+}, false);</script><script type="text/javascript" src="yelp.js"></script>
+</head>
+<body id="home">
+<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript"></script><script type="text/javascript">
+        _uacct = "UA-1018242-8";
+        urchinTracker();
+      </script><script>
+      function englishPageVersion() {
+
+        var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = "index.html.en";
+	} else {
+		window.location = href.replace(/\.html.*/, ".html.en");
+	}
+	 return false;
+      }
+
+      function browserPreferredLanguage() {
+	var href = window.location.href;
+	if (href.slice(-1) == "/") {
+		window.location = href;
+	} else {
+		window.location = href.replace(/\.html.*/, ".html");
+	}
+	return false;
+      }
+      </script><div id="container">
+<div id="container-inner">
+<div id="mothership"><ul>
+<li><a href="https://canonical.com/partners">Partners</a></li>
+<li><a href="https://ubuntu.com/community/support">Support</a></li>
+<li><a href="https://ubuntu.com/community">Community</a></li>
+<li><a href="https://ubuntu.com">Ubuntu.com</a></li>
+</ul></div>
+<div id="header">
+<h1 id="ubuntu-header"><a href="https://help.ubuntu.com/">Ubuntu Documentation</a></h1>
+<ul id="main-menu">
+<li><a class="main-menu-item current" href="../../">Official Documentation</a></li>
+<li><a href="https://help.ubuntu.com/community/CommunityHelpWiki">Community Help Wiki</a></li>
+<li><a href="https://ubuntu.com/community/contribute">Contribute</a></li>
+</ul>
+</div>
+<div id="menu-search"><div id="search-box">
+<noscript><form action="https://www.google.com/cse" id="cse-search-box"><div>
+<input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq"><input type="hidden" name="ie" value="UTF-8"><input type="text" name="q" size="21"><input type="submit" name="sa" value="Search">
+</div></form></noscript>
+<script>
+                document.write('<form action="../../search.html" id="cse-search-box">');
+                document.write('  <div>');
+                document.write('    <input type="hidden" name="cof" value="FORID:9">');
+                document.write('    <input type="hidden" name="cx" value="003883529982892832976:e2vwumte3fq">');
+                document.write('    <input type="hidden" name="ie" value="UTF-8">');
+                document.write('    <input type="text" name="q" size="21">');
+                document.write('    <input type="submit" name="sa" value="Search">');
+                document.write('  </div>');
+                document.write('</form>');
+              </script>
+</div></div>
+<div class="trails" role="navigation"><div class="trail">
+<span style="color: #333">Ubuntu 25.10</span> » <a class="trail" href="index.html.uk" title="Керівництво користувача Ubuntu"><span class="media"><span class="media media-image"><img src="figures/ubuntu-logo.png" height="16" width="16" class="media media-inline" alt="Довідка"></span></span> Керівництво користувача Ubuntu</a> » <a class="trail" href="files.html.uk" title="Файли, теки і пошук">Файли</a> › <a class="trail" href="files.html.uk#common-file-tasks" title="Типові завдання">Типові завдання</a> » </div></div>
+<div id="cwt-content" class="clearfix content-area"><div id="page">
+<div id="content">
+<div class="hgroup pagewide"><h1 class="title"><span class="title">Упорядкування файлів та тек</span></h1></div>
+<div class="region">
+<div class="contents pagewide">
+<p class="p">Ви можете упорядковувати файли у теці у різні способи, наприклад за датою або розміром. Див. список типових режимів упорядковування файлів у розділі <span class="link"><a href="#ways" title="Способи упорядковування файлів">Способи упорядковування файлів</a></span>. Відомості щодо зміни типового способу упорядковування наведено у розділі <span class="link"><a href="nautilus-views.html.uk" title="Налаштування перегляду у Файлах">Налаштування перегляду у <span class="app">Файлах</span></a></span>.</p>
+<p class="p">Можливі способи упорядковування файлів залежать від <span class="em">режиму перегляду теки</span>, яким ви користуєтеся. Ви можете змінити поточний режим перегляду за допомогою кнопки списку/таблиці на панелі інструментів.</p>
+</div>
+<section id="icon-view"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Перегляд ґраткою</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Щоб упорядкувати файли по-іншому, натисніть кнопку режимів перегляду на панелі інструментів і виберіть режим: <span class="gui">А-Я</span>, <span class="gui">Я-А</span>, <span class="gui">Остання змінена</span>, <span class="gui">Перша змінена</span>, <span class="gui">Розмір</span> або <span class="gui">Тип</span>.</p>
+<p class="p">Наприклад, якщо ви виберете режим <span class="gui">A-Z</span>, файли буде упорядковано за їхніми назвами за порядком літер в абетці. Докладніший опис інших варіантів наведено у розділі <span class="link"><a href="#ways" title="Способи упорядковування файлів">Способи упорядковування файлів</a></span>.</p>
+</div></div>
+</div></section><section id="list-view"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Перегляд списком</span></h2></div>
+<div class="region"><div class="contents pagewide">
+<p class="p">Щоб змінити режим упорядковування файлів, клацніть на одному із заголовків стовпчиків списку у програмі для керування файлами. Наприклад, клацніть на заголовку <span class="gui">Тип</span>, щоб список було упорядковано за типом файла. Клацніть на заголовку стовпчика ще раз, щоб змінити упорядкування на обернене.</p>
+<p class="p">Щоб отримати доступ до інших варіантів упорядковування, натисніть кнопку варіантів показу на панелі інструментів.</p>
+<p class="p">У режимі перегляду списком ви можете наказати програмі показувати більше стовпчиків із додатковими атрибутами і упорядковувати список за цими стовпчиками. Натисніть кнопку параметрів перегляду на панелі інструментів, виберіть пункт <span class="gui">Видимі стовпчики…</span> і виберіть стовпчики, які має бути показано. Після цього ви зможете упорядкувати список за показаними стовпчиками. Описи доступних стовпчиків наведено у розділі <span class="link"><a href="nautilus-list.html.uk" title="Налаштування стовпчиків списку файлів">Налаштування стовпчиків списку файлів</a></span>.</p>
+</div></div>
+</div></section><section id="ways"><div class="inner">
+<div class="hgroup pagewide"><h2 class="title"><span class="title">Способи упорядковування файлів</span></h2></div>
+<div class="region"><div class="contents pagewide"><div class="terms"><div class="inner"><div class="region"><dl class="terms">
+<dt class="terms">А-Я</dt>
+<dd class="terms"><p class="p">Упорядковує за абеткою за назвами файлів.</p></dd>
+<dt class="terms">Я-А</dt>
+<dd class="terms"><p class="p">Упорядковує за абеткою за назвами файлів у зворотному порядку.</p></dd>
+<dt class="terms">Востаннє змінено</dt>
+<dd class="terms"><p class="p">Упорядковує за датою і часом моменту, у який до файла було внесено зміни. Типово упорядковує від найновіших до найстаріших.</p></dd>
+<dt class="terms">Перша змінена</dt>
+<dd class="terms"><p class="p">Упорядковує за датою і часом моменту, у який до файла було внесено зміни. Упорядковує від найстаріших до найновіших.</p></dd>
+<dt class="terms">Розмір</dt>
+<dd class="terms"><p class="p">Упорядковує за розміром файлів (місцем, яке файл займає на диску). Типово упорядковує файли від найменшого до найбільшого.</p></dd>
+<dt class="terms">Тип</dt>
+<dd class="terms"><p class="p">Упорядковує файли за абеткою за типом файла. Файли одного типу буде згруповано, а потім упорядковано за назвою.</p></dd>
+</dl></div></div></div></div></div>
+</div></section><section class="links" role="navigation"><div class="inner">
+<div class="hgroup pagewide"></div>
+<div class="contents pagewide"><div class="links guidelinks"><div class="inner">
+<div class="title"><h2><span class="title">Докладніше</span></h2></div>
+<div class="region"><ul><li class="links "><a href="files.html.uk#common-file-tasks" title="Типові завдання">Типові завдання</a></li></ul></div>
+</div></div></div>
+</div></section>
+</div>
+<div class="clear"></div>
+</div>
+<div id="pagebottom"></div>
+</div></div>
+</div>
+<div id="footer">
+<p style="padding-bottom: 0.4em">You can choose the <b>displayed language</b> by adding a language suffix to the web address so it ends with e.g. <tt>.html.en</tt> or <tt>.html.de</tt>.<br>
+          If the web address has no language suffix, the preferred language specified in your web browser's settings is used. For your convenience:<br>
+
+          [ <a title="English page version" href="#" onClick="englishPageVersion();">Change to English Language</a> | 
+          <a title="Language selected by browser" href="#" onClick="browserPreferredLanguage()">Change to Browser's Preferred Language</a> ]</p>
+<p>The material in this document is available under a free license, see <a href="../../legal.html">Legal</a> for details.<br>
+          For information on contributing see the <a href="https://wiki.ubuntu.com/DocumentationTeam">Ubuntu Documentation Team wiki page</a>.
+          To report errors in this documentation, <a href="https://bugs.launchpad.net/ubuntu/+source/ubuntu-docs">file a bug</a>.</p>
+</div>
+</div>
+</body>
+</html>

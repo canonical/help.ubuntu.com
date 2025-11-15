@@ -168,6 +168,8 @@ Commands used on a new 25.10 VM desktop computer to install stuff and compile an
 
 ```bash
 sudo apt install git xsltproc libxml2-utils yelp-tools yelp-xsl make
+git config --global user.email "dsmythies@my-email-domain"
+git config --global user.name "Doug Smythies"
 git clone git://git.launchpad.net/~ubuntu-core-doc/ubuntu/+source/ubuntu-docs
 cd ubuntu-docs
 git branch
@@ -206,5 +208,25 @@ cd ..
 nano index.html
 rsync --delete --archive --verbose --checksum --dry-run ./ doug@my-test-website.com:/home/doug/public_html/linux/ubuntu-docs/help.ubuntu.com/dev
 rsync --delete --archive --verbose --checksum ./ doug@my-test-website.com:/home/doug/public_html/linux/ubuntu-docs/help.ubuntu.com/dev
-... further commands pending ...
+git commit -a -m 'Add 25.10 Desktop help - preliminary. Edit instructions.'
+git push git+ssh://dsmythies@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com main
+ls -l
+cd lts
+ls -l
+rm ubuntu-help
+ln -s ../24.04/ubuntu-help ubuntu-help
+ls -l
+cd ..
+cd stable
+ls -l
+rm ubuntu-help
+ln -s ../25.10/ubuntu-help ubuntu-help
+ls -l
+cd ..
+nano index.html
+git diff
+rsync --delete --archive --verbose --checksum --dry-run ./ doug@my-test-website.com:/home/doug/public_html/linux/ubuntu-docs/help.ubuntu.com/dev
+rsync --delete --archive --verbose --checksum ./ doug@my-test-website.com:/home/doug/public_html/linux/ubuntu-docs/help.ubuntu.com/dev
+git commit -a -m '25.10 Releases Day Edits. Very late.'
+git push git+ssh://dsmythies@git.launchpad.net/~ubuntu-core-doc/help.ubuntu.com main
 ```

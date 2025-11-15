@@ -42,7 +42,7 @@ AddCharset UTF-8 .txt
 RedirectMatch permanent ^/(stable|lts|\d+\.\d+)/?(index\.html)?$ https://help.ubuntu.com
 
 # TEMPORARY test redirect, for testing and only in the GIT version:
-Redirect /zzzztest https://help.ubuntu.com/22.04/ubuntu-help/shell-overview.html
+# Redirect /zzzztest https://help.ubuntu.com/22.04/ubuntu-help/shell-overview.html
 
 # Redirects for installer pages
 Redirect /rst https://documentation.ubuntu.com/desktop/en/latest/reference/intel-rst-during-ubuntu-installation/

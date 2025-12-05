@@ -56,4 +56,4 @@ RedirectMatch permanent ^/(stable|lts|22\.04|24\.04|26\.04)/(serverguide/.+\.htm
 RedirectMatch permanent ^/(stable|lts|22\.04|24\.04|26\.04)/(serverguide/.+\.pdf) https://documentation.ubuntu.com/_/downloads/server/en/latest/pdf/
 
 # Creating a bootable USB stick is now covered in Desktop docs
-RedirectMatch permanent ^/(stable|lts|22\.04|24\.04|26\.04)/ubuntu-help/addremove-creator.html.en https://documentation.ubuntu.com/server/
+RedirectMatch permanent ^/(stable|lts|22\.04|24\.04|26\.04)/ubuntu-help/addremove-creator.html.en https://documentation.ubuntu.com/desktop/en/latest/how-to/create-a-bootable-usb-stick/
